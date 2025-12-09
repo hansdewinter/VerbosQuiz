@@ -2940,34 +2940,6 @@
         "dutch": "huren"
     },
     {
-        "verbo": "tomar",
-        "presente": [
-            "tomo",
-            "tomas",
-            "toma",
-            "tomamos",
-            "tomáis",
-            "toman"
-        ],
-        "preterito-perfecto": [
-            "he tomado",
-            "has tomado",
-            "ha tomado",
-            "hemos tomado",
-            "habéis tomado",
-            "han tomado"
-        ],
-        "preterito-indefinido": [
-            "tomé",
-            "tomaste",
-            "tomó",
-            "tomamos",
-            "tomasteis",
-            "tomaron"
-        ],
-        "dutch": "nemen/drinken/innemen"
-    },
-    {
         "verbo": "conducir",
         "presente": [
             "conduzco",
@@ -5065,7 +5037,7 @@
             "tomasteis",
             "tomaron"
         ],
-        "dutch": "nemen/drinken"
+        "dutch": "nemen/drinken/innemen"
     },
     {
         "verbo": "dudar",
@@ -8430,12 +8402,12 @@
     {
         "verbo": "reñirse",
         "presente": [
-            "me reño",
-            "te reñes",
-            "se reñe",
+            "me riño",
+            "te riñes",
+            "se riñe",
             "nos reñimos",
             "os reñís",
-            "se reñen"
+            "se riñen"
         ],
         "preterito-perfecto": [
             "me he reñido",
@@ -8448,10 +8420,10 @@
         "preterito-indefinido": [
             "me reñí",
             "te reñiste",
-            "se reñó",
+            "se riñó",
             "nos reñimos",
             "os reñisteis",
-            "se reñeron"
+            "se riñeron"
         ],
         "dutch": "ruzie maken"
     },
