@@ -1,5 +1,117 @@
 [
     {
+        "verbo": "confiar",
+        "presente": [
+            "confío",
+            "confías",
+            "confía",
+            "confiamos",
+            "confiáis",
+            "confían"
+        ],
+        "preterito-perfecto": [
+            "he confiado",
+            "has confiado",
+            "ha confiado",
+            "hemos confiado",
+            "habéis confiado",
+            "han confiado"
+        ],
+        "preterito-indefinido": [
+            "confié",
+            "confiaste",
+            "confió",
+            "confiamos",
+            "confiasteis",
+            "confiaron"
+        ],
+        "dutch": "vertrouwen"
+    },
+    {
+        "verbo": "firmar",
+        "presente": [
+            "firmo",
+            "firmas",
+            "firma",
+            "firmamos",
+            "firmáis",
+            "firman"
+        ],
+        "preterito-perfecto": [
+            "he firmado",
+            "has firmado",
+            "ha firmado",
+            "hemos firmado",
+            "habéis firmado",
+            "han firmado"
+        ],
+        "preterito-indefinido": [
+            "firmé",
+            "firmaste",
+            "firmó",
+            "firmamos",
+            "firmasteis",
+            "firmaron"
+        ],
+        "dutch": "ondertekenen/tekenen"
+    },
+    {
+        "verbo": "protagonizar",
+        "presente": [
+            "protagonizo",
+            "protagonizas",
+            "protagoniza",
+            "protagonizamos",
+            "protagonizáis",
+            "protagonizan"
+        ],
+        "preterito-perfecto": [
+            "he protagonizado",
+            "has protagonizado",
+            "ha protagonizado",
+            "hemos protagonizado",
+            "habéis protagonizado",
+            "han protagonizado"
+        ],
+        "preterito-indefinido": [
+            "protagonicé",
+            "protagonizaste",
+            "protagonizó",
+            "protagonizamos",
+            "protagonizasteis",
+            "protagonizaron"
+        ],
+        "dutch": "de hoofdrol spelen/vervullen"
+    },
+    {
+        "verbo": "chocar",
+        "presente": [
+            "choco",
+            "chocas",
+            "choca",
+            "chocaamos",
+            "chocáis",
+            "chocan"
+        ],
+        "preterito-perfecto": [
+            "he chocado",
+            "has chocado",
+            "ha chocado",
+            "hemos chocado",
+            "habéis chocado",
+            "han chocado"
+        ],
+        "preterito-indefinido": [
+            "choqué",
+            "chocaste",
+            "chocó",
+            "chocamos",
+            "chocasteis",
+            "chocaon"
+        ],
+        "dutch": "botsen/choqueren/verbazen"
+    },
+    {
         "verbo": "contactar",
         "presente": [
             "contacto",
@@ -670,34 +782,6 @@
             "saludaron"
         ],
         "dutch": "groeten"
-    },
-    {
-        "verbo": "despedirse",
-        "presente": [
-            "me despido",
-            "te despides",
-            "se despide",
-            "nos despedimos",
-            "os despedís",
-            "se despiden"
-        ],
-        "preterito-perfecto": [
-            "me he despedido",
-            "te has despedido",
-            "se ha despedido",
-            "nos hemos despedido",
-            "os habéis despedido",
-            "se han despedido"
-        ],
-        "preterito-indefinido": [
-            "me despedí",
-            "te despediste",
-            "se despidió",
-            "nos despedimos",
-            "os despedisteis",
-            "se despidieron"
-        ],
-        "dutch": "afscheid nemen"
     },
     {
         "verbo": "trabajar",
@@ -1846,34 +1930,6 @@
             "entendieron"
         ],
         "dutch": "begrijpen/verstaan (alledaags, practisch begrijpen)"
-    },
-    {
-        "verbo": "participar",
-        "presente": [
-            "participo",
-            "participas",
-            "participa",
-            "participamos",
-            "participáis",
-            "participan"
-        ],
-        "preterito-perfecto": [
-            "he participado",
-            "has participado",
-            "ha participado",
-            "hemos participado",
-            "habéis participado",
-            "han participado"
-        ],
-        "preterito-indefinido": [
-            "participé",
-            "participaste",
-            "participó",
-            "participamos",
-            "participasteis",
-            "participaron"
-        ],
-        "dutch": "deelnemen"
     },
     {
         "verbo": "chatear",
@@ -5066,34 +5122,6 @@
             "dudaron"
         ],
         "dutch": "twijfelen"
-    },
-    {
-        "verbo": "contar",
-        "presente": [
-            "cuento",
-            "cuentas",
-            "cuenta",
-            "contamos",
-            "contáis",
-            "cuentan"
-        ],
-        "preterito-perfecto": [
-            "he contado",
-            "has contado",
-            "ha contado",
-            "hemos contado",
-            "habéis contado",
-            "han contado"
-        ],
-        "preterito-indefinido": [
-            "conté",
-            "contaste",
-            "contó",
-            "contamos",
-            "contasteis",
-            "contaron"
-        ],
-        "dutch": "tellen/vertellen"
     },
     {
         "verbo": "anotar",
@@ -9517,7 +9545,7 @@
             "recogisteis",
             "recogieron"
         ],
-        "dutch": "oprapen/ophalen/inzamelen"
+        "dutch": "oprapen/ophalen/inzamelen/net maken"
     },
     {
         "verbo": "barrer",
