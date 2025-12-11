@@ -1,5 +1,117 @@
 [
     {
+        "verbo": "gastar",
+        "presente": [
+            "gasto",
+            "gastas",
+            "gasta",
+            "gastamos",
+            "gastáis",
+            "gastan"
+        ],
+        "preterito-perfecto": [
+            "he gastado",
+            "has gastado",
+            "ha gastado",
+            "hemos gastado",
+            "habéis gastado",
+            "han gastado"
+        ],
+        "preterito-indefinido": [
+            "gasté",
+            "gastaste",
+            "gastó",
+            "gastamos",
+            "gastasteis",
+            "gastaron"
+        ],
+        "dutch": "uitgeven/besteden/verbruiken/verslijten"
+    },
+    {
+        "verbo": "sufrir",
+        "presente": [
+            "sufro",
+            "sufres",
+            "sufre",
+            "sufrimos",
+            "sufrís",
+            "sufren"
+        ],
+        "preterito-perfecto": [
+            "he sufrido",
+            "has sufrido",
+            "ha sufrido",
+            "hemos sufrido",
+            "habéis sufrido",
+            "han sufrido"
+        ],
+        "preterito-indefinido": [
+            "sufrí",
+            "sufriste",
+            "sufrió",
+            "sufrimos",
+            "sufristeis",
+            "sufrieron"
+        ],
+        "dutch": "lijden/afzien"
+    },
+    {
+        "verbo": "ahorrar",
+        "presente": [
+            "ahorro",
+            "ahorras",
+            "ahorra",
+            "ahorramos",
+            "ahorráis",
+            "ahorran"
+        ],
+        "preterito-perfecto": [
+            "he ahorrado",
+            "has ahorrado",
+            "ha ahorrado",
+            "hemos ahorrado",
+            "habéis ahorrado",
+            "han ahorrado"
+        ],
+        "preterito-indefinido": [
+            "ahorré",
+            "ahorraste",
+            "ahorró",
+            "ahorramos",
+            "ahorrasteis",
+            "ahorraron"
+        ],
+        "dutch": "sparen/besparen"
+    },
+    {
+        "verbo": "entrar",
+        "presente": [
+            "entro",
+            "entras",
+            "entra",
+            "entramos",
+            "entráis",
+            "entran"
+        ],
+        "preterito-perfecto": [
+            "he entrado",
+            "has entrado",
+            "ha entrado",
+            "hemos entrado",
+            "habéis entrado",
+            "han entrado"
+        ],
+        "preterito-indefinido": [
+            "entré",
+            "entraste",
+            "entró",
+            "entramos",
+            "entrasteis",
+            "entraron"
+        ],
+        "dutch": "ga naar"
+    },
+    {
         "verbo": "confiar",
         "presente": [
             "confío",
@@ -952,7 +1064,7 @@
         "dutch": "studeren"
     },
     {
-        "verbo": "subir",
+        "verbo": "subir \"a\"",
         "presente": [
             "subo",
             "subes",
@@ -4673,7 +4785,7 @@
             "terminasteis",
             "terminaron"
         ],
-        "dutch": "eindigen/beëindigen/afmaken"
+        "dutch": "beëindigen/afsluiten/voltooien (bewust afsluiten)"
     },
     {
         "verbo": "aceptar",
@@ -6185,7 +6297,7 @@
             "acabasteis",
             "acabaron"
         ],
-        "dutch": "beëindigen/afmaken/eindigen"
+        "dutch": "eindigen/afronden/op zijn/ophouden (op natuurlijke wijze)"
     },
     {
         "verbo": "pagar",
