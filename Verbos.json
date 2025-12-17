@@ -1,5 +1,33 @@
 [
     {
+        "verbo": "fluir",
+        "presente": [
+            "fluyo",
+            "fluyes",
+            "fluye",
+            "fluimos",
+            "fluis",
+            "fluyen"
+        ],
+        "preterito-perfecto": [
+            "he fluido",
+            "has fluido",
+            "ha fluido",
+            "hemos fluido",
+            "habéis fluido",
+            "han fluido"
+        ],
+        "preterito-indefinido": [
+            "flui",
+            "fluiste",
+            "fluyó",
+            "fluimos",
+            "fluisteis",
+            "fluyeron"
+        ],
+        "dutch": "vloeien/stromen"
+    },
+    {
         "verbo": "gastar",
         "presente": [
             "gasto",
