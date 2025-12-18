@@ -1,5 +1,33 @@
 [
     {
+        "verbo": "ocupar",
+        "presente": [
+            "ocupo",
+            "ocupas",
+            "ocupa",
+            "ocupamos",
+            "ocupáis",
+            "ocupan"
+        ],
+        "preterito-perfecto": [
+            "he ocupado",
+            "has ocupado",
+            "ha ocupado",
+            "hemos ocupado",
+            "habéis ocupado",
+            "han ocupado"
+        ],
+        "preterito-indefinido": [
+            "ocupé",
+            "ocupaste",
+            "ocupó",
+            "ocupamos",
+            "ocupasteis",
+            "ocuparon"
+        ],
+        "dutch": "innemen/bezetten"
+    },
+    {
         "verbo": "fluir",
         "presente": [
             "fluyo",
