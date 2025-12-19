@@ -1,5 +1,621 @@
 [
     {
+        "verbo": "declararse \"a alguien\"",
+        "presente": [
+            "me declaro",
+            "te declaras",
+            "se declara",
+            "nos declaramos",
+            "os declaráis",
+            "se declaran"
+        ],
+        "preterito-perfecto": [
+            "me he declarado",
+            "te has declarado",
+            "se ha declarado",
+            "nos hemos declarado",
+            "os habéis declarado",
+            "se han declarado"
+        ],
+        "preterito-indefinido": [
+            "me declaré",
+            "te declaraste",
+            "se declaró",
+            "nos declaramos",
+            "os declarasteis",
+            "se declararon"
+        ],
+        "dutch": "zijn/haar liefde verklaren"
+    },
+    {
+        "verbo": "confesar",
+        "presente": [
+            "confieso",
+            "confiesas",
+            "confiesa",
+            "confesamos",
+            "confesáis",
+            "confiesan"
+        ],
+        "preterito-perfecto": [
+            "he confesado",
+            "has confesado",
+            "ha confesado",
+            "hemos confesado",
+            "habéis confesado",
+            "han confesado"
+        ],
+        "preterito-indefinido": [
+            "confesé",
+            "confesaste",
+            "confesó",
+            "confesamos",
+            "confesasteis",
+            "confesaron"
+        ],
+        "dutch": "bekennen, opbiechten"
+    },
+    {
+        "verbo": "atreverse \"a\"",
+        "presente": [
+            "me atrevo",
+            "te atreves",
+            "se atreve",
+            "nos atrevemos",
+            "os atrevéis",
+            "se atreven"
+        ],
+        "preterito-perfecto": [
+            "me he atrevido",
+            "te has atrevido",
+            "se ha atrevido",
+            "nos hemos atrevido",
+            "os habéis atrevido",
+            "se han atrevido"
+        ],
+        "preterito-indefinido": [
+            "me atreví",
+            "te atreviste",
+            "se atrevió",
+            "nos atrevimos",
+            "os atrevisteis",
+            "se atrevieron"
+        ],
+        "dutch": "durven, het aandurven"
+    },
+    {
+        "verbo": "inspirar",
+        "presente": [
+            "inspiro",
+            "inspiras",
+            "inspira",
+            "inspiramos",
+            "inspiráis",
+            "inspiran"
+        ],
+        "preterito-perfecto": [
+            "he inspirado",
+            "has inspirado",
+            "ha inspirado",
+            "hemos inspirado",
+            "habéis inspirado",
+            "han inspirado"
+        ],
+        "preterito-indefinido": [
+            "inspiré",
+            "inspiraste",
+            "inspiró",
+            "inspiramos",
+            "inspirasteis",
+            "inspiraron"
+        ],
+        "dutch": "inspireren, inademen (medisch)"
+    },
+    {
+        "verbo": "callarse",
+        "presente": [
+            "me callo",
+            "te callas",
+            "se calla",
+            "nos callamos",
+            "os calláis",
+            "se callan"
+        ],
+        "preterito-perfecto": [
+            "me he callado",
+            "te has callado",
+            "se ha callado",
+            "nos hemos callado",
+            "os habéis callado",
+            "se han callado"
+        ],
+        "preterito-indefinido": [
+            "me callé",
+            "te callaste",
+            "se calló",
+            "nos callamos",
+            "os callasteis",
+            "se callaron"
+        ],
+        "dutch": "zijn mond houden"
+    },
+    {
+        "verbo": "golpear",
+        "presente": [
+            "golpeo",
+            "golpeas",
+            "golpea",
+            "golpeamos",
+            "golpeáis",
+            "golpean"
+        ],
+        "preterito-perfecto": [
+            "he golpeado",
+            "has golpeado",
+            "ha golpeado",
+            "hemos golpeado",
+            "habéis golpeado",
+            "han golpeado"
+        ],
+        "preterito-indefinido": [
+            "golpeé",
+            "golpeaste",
+            "golpeó",
+            "golpeamos",
+            "golpeasteis",
+            "golpearon"
+        ],
+        "dutch": "slaan, raken/treffen, hard kloppen"
+    },
+    {
+        "verbo": "sujetar",
+        "presente": [
+            "sujeto",
+            "sujetas",
+            "sujeta",
+            "sujetamos",
+            "sujetáis",
+            "sujetan"
+        ],
+        "preterito-perfecto": [
+            "he sujetado",
+            "has sujetado",
+            "ha sujetado",
+            "hemos sujetado",
+            "habéis sujetado",
+            "han sujetado"
+        ],
+        "preterito-indefinido": [
+            "sujeté",
+            "sujetaste",
+            "sujetó",
+            "sujetamos",
+            "sujetasteis",
+            "sujetaron"
+        ],
+        "dutch": "vasthouden, bevestigen/vastmaken, in bedwang houden"
+    },
+    {
+        "verbo": "decorar",
+        "presente": [
+            "decoro",
+            "decoras",
+            "decora",
+            "decoramos",
+            "decoráis",
+            "decoran"
+        ],
+        "preterito-perfecto": [
+            "he decorado",
+            "has decorado",
+            "ha decorado",
+            "hemos decorado",
+            "habéis decorado",
+            "han decorado"
+        ],
+        "preterito-indefinido": [
+            "decoré",
+            "decoraste",
+            "decoró",
+            "decoramos",
+            "decorasteis",
+            "decoraron"
+        ],
+        "dutch": "inrichten, versieren"
+    },
+    {
+        "verbo": "interesarse \"pos\"",
+        "presente": [
+            "me intereso",
+            "te interesas",
+            "se interesa",
+            "nos interesamos",
+            "os interesáis",
+            "se interesan"
+        ],
+        "preterito-perfecto": [
+            "me he interesado",
+            "te has interesado",
+            "se ha interesado",
+            "nos hemos interesado",
+            "os habéis interesado",
+            "se han interesado"
+        ],
+        "preterito-indefinido": [
+            "me interesé",
+            "te interesaste",
+            "se interesó",
+            "nos interesamos",
+            "os interesasteis",
+            "se interesaron"
+        ],
+        "dutch": "zich interesseren voor, belangstelling tonen voor"
+    },
+    {
+        "verbo": "acercar",
+        "presente": [
+            "acerco",
+            "acercas",
+            "acerca",
+            "acercamos",
+            "acercáis",
+            "acercan"
+        ],
+        "preterito-perfecto": [
+            "he acercado",
+            "has acercado",
+            "ha acercado",
+            "hemos acercado",
+            "habéis acercado",
+            "han acercado"
+        ],
+        "preterito-indefinido": [
+            "acerqué",
+            "acercaste",
+            "acercó",
+            "acercamos",
+            "acercasteis",
+            "acercaron"
+        ],
+        "dutch": "iets of iemand dichterbij bengen"
+    },
+    {
+        "verbo": "dormirse",
+        "presente": [
+            "me duermo",
+            "te duermes",
+            "se duerme",
+            "nos dormimos",
+            "os dormís",
+            "se duermen"
+        ],
+        "preterito-perfecto": [
+            "me he dormido",
+            "te has dormido",
+            "se ha dormido",
+            "nos hemos dormido",
+            "os habéis dormido",
+            "se han dormido"
+        ],
+        "preterito-indefinido": [
+            "me dormí",
+            "te dormiste",
+            "se durmió",
+            "nos dormimos",
+            "os dormisteis",
+            "se durmieron"
+        ],
+        "dutch": "zich verslapen"
+    },
+    {
+        "verbo": "prestar",
+        "presente": [
+            "presto",
+            "prestas",
+            "presta",
+            "prestamos",
+            "prestáis",
+            "prestan"
+        ],
+        "preterito-perfecto": [
+            "he prestado",
+            "has prestado",
+            "ha prestado",
+            "hemos prestado",
+            "habéis prestado",
+            "han prestado"
+        ],
+        "preterito-indefinido": [
+            "presté",
+            "prestaste",
+            "prestó",
+            "prestamos",
+            "prestasteis",
+            "prestaron"
+        ],
+        "dutch": "uitlenen"
+    },
+    {
+        "verbo": "tratar \"a alguien\"",
+        "presente": [
+            "trato",
+            "tratas",
+            "trata",
+            "tratamos",
+            "tratáis",
+            "tratan"
+        ],
+        "preterito-perfecto": [
+            "he tratado",
+            "has tratado",
+            "ha tratado",
+            "hemos tratado",
+            "habéis tratado",
+            "han tratado"
+        ],
+        "preterito-indefinido": [
+            "traté",
+            "trataste",
+            "trató",
+            "tratamos",
+            "tratasteis",
+            "trataron"
+        ],
+        "dutch": "iemand behandelen"
+    },
+    {
+        "verbo": "empujar",
+        "presente": [
+            "empujo",
+            "empujas",
+            "empuja",
+            "empujamos",
+            "empujáis",
+            "empujan"
+        ],
+        "preterito-perfecto": [
+            "he empujado",
+            "has empujado",
+            "ha empujado",
+            "hemos empujado",
+            "habéis empujado",
+            "han empujado"
+        ],
+        "preterito-indefinido": [
+            "empujé",
+            "empujaste",
+            "empujó",
+            "empujamos",
+            "empujasteis",
+            "empujaron"
+        ],
+        "dutch": "duwen"
+    },
+    {
+        "verbo": "adalantar",
+        "presente": [
+            "adalanto",
+            "adalantas",
+            "adalanta",
+            "adalantamos",
+            "adalantáis",
+            "adalantan"
+        ],
+        "preterito-perfecto": [
+            "he adalantado",
+            "has adalantado",
+            "ha adalantado",
+            "hemos adalantado",
+            "habéis adalantado",
+            "han adalantado"
+        ],
+        "preterito-indefinido": [
+            "adalanté",
+            "adalantaste",
+            "adalantó",
+            "adalantamos",
+            "adalantasteis",
+            "adalantaron"
+        ],
+        "dutch": "inhalen, vervroegen"
+    },
+    {
+        "verbo": "pararse",
+        "presente": [
+            "me paro",
+            "te paras",
+            "se para",
+            "nos paramos",
+            "os paráis",
+            "se paran"
+        ],
+        "preterito-perfecto": [
+            "me he parado",
+            "te has parado",
+            "se ha parado",
+            "nos hemos parado",
+            "os habéis parado",
+            "se han parado"
+        ],
+        "preterito-indefinido": [
+            "me paré",
+            "te paraste",
+            "se paró",
+            "nos paramos",
+            "os parasteis",
+            "se pararon"
+        ],
+        "dutch": "blijven staan"
+    },
+    {
+        "verbo": "interactuar",
+        "presente": [
+            "interactúo",
+            "interactúas",
+            "interactúa",
+            "interactuamos",
+            "interactuáis",
+            "interactúan"
+        ],
+        "preterito-perfecto": [
+            "he interactuado",
+            "has interactuado",
+            "ha interactuado",
+            "hemos interactuado",
+            "habéis interactuado",
+            "han interactuado"
+        ],
+        "preterito-indefinido": [
+            "interactué",
+            "interactuaste",
+            "interactuó",
+            "interactuamos",
+            "interactuasteis",
+            "interactuaron"
+        ],
+        "dutch": "interageren, wisselwerking hebben"
+    },
+    {
+        "verbo": "relacionarse \"con\"",
+        "presente": [
+            "me relaciono",
+            "te relacionas",
+            "se relaciona",
+            "nos relacionamos",
+            "os relacionáis",
+            "se relacionan"
+        ],
+        "preterito-perfecto": [
+            "me he relacionado",
+            "te has relacionado",
+            "se ha relacionado",
+            "nos hemos relacionado",
+            "os habéis relacionado",
+            "se han relacionado"
+        ],
+        "preterito-indefinido": [
+            "me relacioné",
+            "te relacionaste",
+            "se relacionó",
+            "nos relacionamos",
+            "os relacionasteis",
+            "se relacionaron"
+        ],
+        "dutch": "contacten leggen met, omgaan met"
+    },
+    {
+        "verbo": "darse \"besos\"",
+        "presente": [
+            "me doy",
+            "te das",
+            "se da",
+            "nos damos",
+            "os dais",
+            "se dan"
+        ],
+        "preterito-perfecto": [
+            "me he dado",
+            "te has dado",
+            "se ha dado",
+            "nos hemos dado",
+            "os habéis dado",
+            "se han dado"
+        ],
+        "preterito-indefinido": [
+            "me di",
+            "te diste",
+            "se dio",
+            "nos dimos",
+            "os disteis",
+            "se dieron"
+        ],
+        "dutch": "iemand kussen"
+    },
+    {
+        "verbo": "encontrarse \"con alguien\"",
+        "presente": [
+            "me encuentro",
+            "te encuentras",
+            "se encuentra",
+            "nos encontramos",
+            "os encontráis",
+            "se encuentran"
+        ],
+        "preterito-perfecto": [
+            "me he encontrado",
+            "te has encontrado",
+            "se ha encontrado",
+            "nos hemos encontrado",
+            "os habéis encontrado",
+            "se han encontrado"
+        ],
+        "preterito-indefinido": [
+            "me encontré",
+            "te encontraste",
+            "se encontró",
+            "nos encontramos",
+            "os encontrasteis",
+            "se encontraron"
+        ],
+        "dutch": "iemand tegenkomen"
+    },
+    {
+        "verbo": "tutear",
+        "presente": [
+            "tuteo",
+            "tuteas",
+            "tutea",
+            "tuteamos",
+            "tuteáis",
+            "tutean"
+        ],
+        "preterito-perfecto": [
+            "he tuteado",
+            "has tuteado",
+            "ha tuteado",
+            "hemos tuteado",
+            "habéis tuteado",
+            "han tuteado"
+        ],
+        "preterito-indefinido": [
+            "tuteé",
+            "tuteaste",
+            "tuteó",
+            "tuteamos",
+            "tuteasteis",
+            "tutearon"
+        ],
+        "dutch": "tutoyeren"
+    },
+    {
+        "verbo": "disculparse",
+        "presente": [
+            "me disculpo",
+            "te disculpas",
+            "se disculpa",
+            "nos disculpamos",
+            "os disculpáis",
+            "se disculpan"
+        ],
+        "preterito-perfecto": [
+            "me he disculpado",
+            "te has disculpado",
+            "se ha disculpado",
+            "nos hemos disculpado",
+            "os habéis disculpado",
+            "se han disculpado"
+        ],
+        "preterito-indefinido": [
+            "me disculpé",
+            "te disculpaste",
+            "se disculpó",
+            "nos disculpamos",
+            "os disculpasteis",
+            "se disculparon"
+        ],
+        "dutch": "zich verontschuldigen, de excuses aanbieden"
+    },
+    {
         "verbo": "ocupar",
         "presente": [
             "ocupo",
@@ -25,7 +641,7 @@
             "ocupasteis",
             "ocuparon"
         ],
-        "dutch": "innemen/bezetten"
+        "dutch": "innemen, bezetten"
     },
     {
         "verbo": "fluir",
@@ -53,7 +669,7 @@
             "fluisteis",
             "fluyeron"
         ],
-        "dutch": "vloeien/stromen"
+        "dutch": "vloeien, stromen"
     },
     {
         "verbo": "gastar",
@@ -81,7 +697,7 @@
             "gastasteis",
             "gastaron"
         ],
-        "dutch": "uitgeven/besteden/verbruiken/verslijten"
+        "dutch": "uitgeven, besteden, verbruiken, verslijten"
     },
     {
         "verbo": "sufrir",
@@ -109,7 +725,7 @@
             "sufristeis",
             "sufrieron"
         ],
-        "dutch": "lijden/afzien"
+        "dutch": "lijden, afzien"
     },
     {
         "verbo": "ahorrar",
@@ -137,7 +753,7 @@
             "ahorrasteis",
             "ahorraron"
         ],
-        "dutch": "sparen/besparen"
+        "dutch": "sparen, besparen"
     },
     {
         "verbo": "entrar",
@@ -221,7 +837,7 @@
             "firmasteis",
             "firmaron"
         ],
-        "dutch": "ondertekenen/tekenen"
+        "dutch": "ondertekenen, tekenen"
     },
     {
         "verbo": "protagonizar",
@@ -277,7 +893,7 @@
             "chocasteis",
             "chocaon"
         ],
-        "dutch": "botsen/choqueren/verbazen"
+        "dutch": "botsen, choqueren, verbazen"
     },
     {
         "verbo": "contactar",
@@ -305,7 +921,7 @@
             "contactasteis",
             "contactaron"
         ],
-        "dutch": "contacteren/contact opnemen"
+        "dutch": "contacteren, contact opnemen"
     },
     {
         "verbo": "criticar",
@@ -361,7 +977,7 @@
             "presentasteis",
             "presentaron"
         ],
-        "dutch": "presenteren/voorstellen/indienen"
+        "dutch": "presenteren, voorstellen, indienen"
     },
     {
         "verbo": "soportar",
@@ -389,7 +1005,7 @@
             "soportasteis",
             "soportaron"
         ],
-        "dutch": "verdragen/uitstaan/dulden"
+        "dutch": "verdragen, uitstaan, dulden"
     },
     {
         "verbo": "pesar",
@@ -445,7 +1061,7 @@
             "anduvisteis",
             "anduvieron"
         ],
-        "dutch": "lopen/te voet gaan/rondlopen/ergens zijn"
+        "dutch": "lopen, te voet gaan, rondlopen, ergens zijn"
     },
     {
         "verbo": "estrenar",
@@ -473,7 +1089,7 @@
             "estrenasteis",
             "estrenaron"
         ],
-        "dutch": "voor het eerst gebruiken/dragen/in première gaan"
+        "dutch": "voor het eerst gebruiken/dragen, in première gaan"
     },
     {
         "verbo": "introducir",
@@ -501,7 +1117,7 @@
             "introdujisteis",
             "introdujeron"
         ],
-        "dutch": "invoeren/insteken/introduceren"
+        "dutch": "invoeren, insteken, introduceren"
     },
     {
         "verbo": "ser",
@@ -753,7 +1369,7 @@
             "respondisteis",
             "respondieron"
         ],
-        "dutch": "antwoorden/reageren"
+        "dutch": "antwoorden, reageren"
     },
     {
         "verbo": "comprender",
@@ -977,7 +1593,7 @@
             "trabajasteis",
             "trabajaron"
         ],
-        "dutch": "werken/acteren (in film)"
+        "dutch": "werken, acteren (in film)"
     },
     {
         "verbo": "llamarse",
@@ -1061,7 +1677,7 @@
             "os dedicasteis",
             "se dedicaron"
         ],
-        "dutch": "zich bezighouden met/zich toeleggen op"
+        "dutch": "zich bezighouden met, zich toeleggen op"
     },
     {
         "verbo": "enseñar",
@@ -1089,7 +1705,7 @@
             "enseñasteis",
             "enseñaron"
         ],
-        "dutch": "lesgeven/onderwijzen"
+        "dutch": "lesgeven, onderwijzen"
     },
     {
         "verbo": "estudiar",
@@ -1145,7 +1761,7 @@
             "subisteis",
             "subieron"
         ],
-        "dutch": "omhooggaan/naar boven gaan/stijgen/uploaden"
+        "dutch": "omhooggaan, naar boven gaan, stijgen, uploaden"
     },
     {
         "verbo": "aprender",
@@ -1201,7 +1817,7 @@
             "corristeis",
             "corrieron"
         ],
-        "dutch": "rennen/hardlopen"
+        "dutch": "rennen, hardlopen"
     },
     {
         "verbo": "entrenar",
@@ -1257,7 +1873,7 @@
             "cogisteis",
             "cogieron"
         ],
-        "dutch": "pakken/nemen "
+        "dutch": "pakken, nemen "
     },
     {
         "verbo": "cambiar",
@@ -1285,7 +1901,7 @@
             "cambiasteis",
             "cambiaron"
         ],
-        "dutch": "veranderen/wisselen/ruilen - zonder van identiteit te veranderen"
+        "dutch": "veranderen, wisselen, ruilen - zonder van identiteit te veranderen"
     },
     {
         "verbo": "poder",
@@ -1313,7 +1929,7 @@
             "pudisteis",
             "pudieron"
         ],
-        "dutch": "kunnen/mogen"
+        "dutch": "kunnen, mogen"
     },
     {
         "verbo": "saber",
@@ -1341,7 +1957,7 @@
             "supisteis",
             "supieron"
         ],
-        "dutch": "weten/kunnen"
+        "dutch": "weten, kunnen"
     },
     {
         "verbo": "cantar",
@@ -1453,7 +2069,7 @@
             "hicisteis",
             "hicieron"
         ],
-        "dutch": "doen/maken"
+        "dutch": "doen, maken"
     },
     {
         "verbo": "salir",
@@ -1481,7 +2097,7 @@
             "salisteis",
             "salieron"
         ],
-        "dutch": "weggaan/uitgaan/vertrekken"
+        "dutch": "weggaan, uitgaan, vertrekken"
     },
     {
         "verbo": "ver",
@@ -1537,7 +2153,7 @@
             "practicasteis",
             "practicaron"
         ],
-        "dutch": "oefenen/beoefenen"
+        "dutch": "oefenen, beoefenen"
     },
     {
         "verbo": "visitar",
@@ -1621,7 +2237,7 @@
             "conocisteis",
             "conocieron"
         ],
-        "dutch": "kennen/leren kennen"
+        "dutch": "kennen, leren kennen"
     },
     {
         "verbo": "desayunar",
@@ -1929,7 +2545,7 @@
             "dijisteis",
             "dijeron"
         ],
-        "dutch": "zeggen/vertellen"
+        "dutch": "zeggen, vertellen"
     },
     {
         "verbo": "pasear",
@@ -1985,7 +2601,7 @@
             "creísteis",
             "creyeron"
         ],
-        "dutch": "geloven/denken/menen"
+        "dutch": "geloven, denken, menen"
     },
     {
         "verbo": "caminar",
@@ -2013,7 +2629,7 @@
             "caminasteis",
             "caminaron"
         ],
-        "dutch": "lopen/wandelen"
+        "dutch": "lopen, wandelen"
     },
     {
         "verbo": "callar",
@@ -2041,7 +2657,7 @@
             "callasteis",
             "callaron"
         ],
-        "dutch": "zwijgen/stil zijn"
+        "dutch": "zwijgen, stil zijn"
     },
     {
         "verbo": "amar",
@@ -2069,7 +2685,7 @@
             "amasteis",
             "amaron"
         ],
-        "dutch": "houden van/liefhebben"
+        "dutch": "houden van, liefhebben"
     },
     {
         "verbo": "entender",
@@ -2097,7 +2713,7 @@
             "entendisteis",
             "entendieron"
         ],
-        "dutch": "begrijpen/verstaan (alledaags, practisch begrijpen)"
+        "dutch": "begrijpen, verstaan (alledaags, practisch begrijpen)"
     },
     {
         "verbo": "chatear",
@@ -2153,7 +2769,7 @@
             "pasasteis",
             "pasaron"
         ],
-        "dutch": "voorbijgaan/passeren/gebeuren/langskomen"
+        "dutch": "voorbijgaan, passeren, gebeuren, langskomen"
     },
     {
         "verbo": "existir",
@@ -2209,7 +2825,7 @@
             "admitisteis",
             "admitieron"
         ],
-        "dutch": "toegeven/erkennen/toelaten"
+        "dutch": "toegeven, erkennen, toelaten"
     },
     {
         "verbo": "describir",
@@ -2265,7 +2881,7 @@
             "pusisteis",
             "pusieron"
         ],
-        "dutch": "zetten/leggen/plaatsen/aandoen/opdienen"
+        "dutch": "zetten, leggen, plaatsen, aandoen, opdienen"
     },
     {
         "verbo": "venir",
@@ -2377,7 +2993,7 @@
             "mejorasteis",
             "mejoraron"
         ],
-        "dutch": "verbeteren/beter worden"
+        "dutch": "verbeteren, beter worden"
     },
     {
         "verbo": "volver",
@@ -2405,7 +3021,7 @@
             "volvisteis",
             "volvieron"
         ],
-        "dutch": "terugkeren/terugkomen/weer gaan doen"
+        "dutch": "terugkeren, terugkomen, weer gaan doen"
     },
     {
         "verbo": "llegar",
@@ -2433,7 +3049,7 @@
             "llegasteis",
             "llegaron"
         ],
-        "dutch": "aankomen/arriveren"
+        "dutch": "aankomen, arriveren"
     },
     {
         "verbo": "nadar",
@@ -2517,7 +3133,7 @@
             "debisteis",
             "debieron"
         ],
-        "dutch": "moeten/verschuldigd zijn/moeten betalen"
+        "dutch": "moeten, verschuldigd zijn, moeten betalen"
     },
     {
         "verbo": "elegir",
@@ -2601,7 +3217,7 @@
             "permitisteis",
             "permitieron"
         ],
-        "dutch": "toestaan/toelaten"
+        "dutch": "toestaan, toelaten"
     },
     {
         "verbo": "contestar",
@@ -2629,7 +3245,7 @@
             "contestasteis",
             "contestaron"
         ],
-        "dutch": "antwoorden/beantwoorden"
+        "dutch": "antwoorden, beantwoorden"
     },
     {
         "verbo": "ganar",
@@ -2657,7 +3273,7 @@
             "ganasteis",
             "ganaron"
         ],
-        "dutch": "winnen/verdienen"
+        "dutch": "winnen, verdienen"
     },
     {
         "verbo": "aparecer",
@@ -2685,7 +3301,7 @@
             "aparecisteis",
             "aparecieron"
         ],
-        "dutch": "verschijnen/tevoorschijn komen"
+        "dutch": "verschijnen, tevoorschijn komen"
     },
     {
         "verbo": "reposar",
@@ -2713,7 +3329,7 @@
             "reposasteis",
             "reposaron"
         ],
-        "dutch": "rusten/laten rusten"
+        "dutch": "rusten, laten rusten"
     },
     {
         "verbo": "relajarse",
@@ -2741,7 +3357,7 @@
             "os relajasteis",
             "se relajaron"
         ],
-        "dutch": "ontspannen/zich ontspannen"
+        "dutch": "ontspannen, zich ontspannen"
     },
     {
         "verbo": "limpiar",
@@ -2769,7 +3385,7 @@
             "limpiasteis",
             "limpiaron"
         ],
-        "dutch": "schoonmaken/reinigen"
+        "dutch": "schoonmaken, reinigen"
     },
     {
         "verbo": "marcar",
@@ -2797,7 +3413,7 @@
             "marcasteis",
             "marcaron"
         ],
-        "dutch": "markeren/aanduiden/scoren"
+        "dutch": "markeren, aanduiden, scoren"
     },
     {
         "verbo": "sobrevivir",
@@ -2853,7 +3469,7 @@
             "llevasteis",
             "llevaron"
         ],
-        "dutch": "dragen/meenemen/meebrengen/bevatten"
+        "dutch": "dragen, meenemen, meebrengen, bevatten"
     },
     {
         "verbo": "disfrutar",
@@ -2909,7 +3525,7 @@
             "empezasteis",
             "empezaron"
         ],
-        "dutch": "beginnen/starten (minder formeel)"
+        "dutch": "beginnen, starten (minder formeel)"
     },
     {
         "verbo": "comenzar",
@@ -2937,7 +3553,7 @@
             "comenzasteis",
             "comenzaron"
         ],
-        "dutch": "beginnen/starten (formeler)"
+        "dutch": "beginnen, starten (formeler)"
     },
     {
         "verbo": "cerrar",
@@ -3077,7 +3693,7 @@
             "negasteis",
             "negaron"
         ],
-        "dutch": "ontkennen/weigeren"
+        "dutch": "ontkennen, weigeren"
     },
     {
         "verbo": "preferir",
@@ -3105,7 +3721,7 @@
             "preferisteis",
             "prefirieron"
         ],
-        "dutch": "verkiezen/liever hebben/prefereren"
+        "dutch": "verkiezen, liever hebben, prefereren"
     },
     {
         "verbo": "ayudar",
@@ -3189,7 +3805,7 @@
             "condujisteis",
             "condujeron"
         ],
-        "dutch": "rijden/besturen"
+        "dutch": "rijden, besturen"
     },
     {
         "verbo": "desear",
@@ -3245,7 +3861,7 @@
             "mirasteis",
             "miraron"
         ],
-        "dutch": "kijken/bekijken"
+        "dutch": "kijken, bekijken"
     },
     {
         "verbo": "llevarse",
@@ -3357,7 +3973,7 @@
             "rompisteis",
             "rompieron"
         ],
-        "dutch": "stukmaken/breken"
+        "dutch": "stukmaken, breken"
     },
     {
         "verbo": "sentarse",
@@ -3385,7 +4001,7 @@
             "os sentasteis",
             "se sentaron"
         ],
-        "dutch": "gaan zitten/zitten"
+        "dutch": "gaan zitten, zitten"
     },
     {
         "verbo": "volar",
@@ -3469,7 +4085,7 @@
             "robasteis",
             "robaron"
         ],
-        "dutch": "stelen/roven"
+        "dutch": "stelen, roven"
     },
     {
         "verbo": "olvidarse \"de\"",
@@ -3553,7 +4169,7 @@
             "seguisteis",
             "siguieron"
         ],
-        "dutch": "volgen/doorgaan/blijven doen"
+        "dutch": "volgen, doorgaan, blijven doen"
     },
     {
         "verbo": "esperar",
@@ -3581,7 +4197,7 @@
             "esperasteis",
             "esperaron"
         ],
-        "dutch": "wachten/hopen/verwachten"
+        "dutch": "wachten, hopen, verwachten"
     },
     {
         "verbo": "parecer",
@@ -3609,7 +4225,7 @@
             "parecisteis",
             "parecieron"
         ],
-        "dutch": "lijken/schijnen"
+        "dutch": "lijken, schijnen"
     },
     {
         "verbo": "pensar \"en\"",
@@ -3833,7 +4449,7 @@
             "cuidasteis",
             "cuidaron"
         ],
-        "dutch": "zorgen voor/verzorgen"
+        "dutch": "zorgen voor, verzorgen"
     },
     {
         "verbo": "fumar",
@@ -3889,7 +4505,7 @@
             "os fuisteis",
             "se fueron"
         ],
-        "dutch": "weggaan/vertrekken"
+        "dutch": "weggaan, vertrekken"
     },
     {
         "verbo": "servir",
@@ -3917,7 +4533,7 @@
             "servisteis",
             "sirvieron"
         ],
-        "dutch": "serveren/opdienen/eten opscheppen"
+        "dutch": "serveren, opdienen, eten opscheppen"
     },
     {
         "verbo": "ocurrir",
@@ -3945,7 +4561,7 @@
             "ocurristeis",
             "ocurrieron"
         ],
-        "dutch": "gebeuren/plaatsvinden"
+        "dutch": "gebeuren, plaatsvinden"
     },
     {
         "verbo": "descansar",
@@ -3973,7 +4589,7 @@
             "descansasteis",
             "descansaron"
         ],
-        "dutch": "rusten/uitrusten"
+        "dutch": "rusten, uitrusten"
     },
     {
         "verbo": "ducharse",
@@ -4057,7 +4673,7 @@
             "preparasteis",
             "prepararon"
         ],
-        "dutch": "voorbereiden/klaarmaken"
+        "dutch": "voorbereiden, klaarmaken"
     },
     {
         "verbo": "despertarse",
@@ -4113,7 +4729,7 @@
             "os vestisteis",
             "se vistieron"
         ],
-        "dutch": "zich kleden in/zich aankleden in"
+        "dutch": "zich kleden in, zich aankleden in"
     },
     {
         "verbo": "animar",
@@ -4141,7 +4757,7 @@
             "animasteis",
             "animaron"
         ],
-        "dutch": "aanmoedigen/opvrolijken/bemoedigen"
+        "dutch": "aanmoedigen, opvrolijken, bemoedigen"
     },
     {
         "verbo": "reunirse",
@@ -4169,7 +4785,7 @@
             "os reunisteis",
             "se reunieron"
         ],
-        "dutch": "bijeenkomen/samenkomen/vergaderen"
+        "dutch": "bijeenkomen, samenkomen, vergaderen"
     },
     {
         "verbo": "participar",
@@ -4281,7 +4897,7 @@
             "meditasteis",
             "meditaron"
         ],
-        "dutch": "mediteren/overdenken"
+        "dutch": "mediteren, overdenken"
     },
     {
         "verbo": "desconectar",
@@ -4309,7 +4925,7 @@
             "desconectasteis",
             "desconectaron"
         ],
-        "dutch": "ontspannen/loskomen/ontkoppelen"
+        "dutch": "ontspannen, loskomen, ontkoppelen"
     },
     {
         "verbo": "entregar",
@@ -4337,7 +4953,7 @@
             "entregasteis",
             "entregaron"
         ],
-        "dutch": "afleveren/overhandigen/inleveren"
+        "dutch": "afleveren, overhandigen, inleveren"
     },
     {
         "verbo": "quedar \"con\"",
@@ -4449,7 +5065,7 @@
             "pedisteis",
             "pidieron"
         ],
-        "dutch": "bestellen/vragen/verzoeken"
+        "dutch": "bestellen, vragen, verzoeken"
     },
     {
         "verbo": "quedarse \"en\"",
@@ -4477,7 +5093,7 @@
             "os quedasteis",
             "se quedaron"
         ],
-        "dutch": "thuisblijven/blijven in/verblijven in"
+        "dutch": "thuisblijven, blijven in, verblijven in"
     },
     {
         "verbo": "cuidarse",
@@ -4505,7 +5121,7 @@
             "os cuidasteis",
             "se cuidaron"
         ],
-        "dutch": "voor jezelf zorgen/jezelf verzorgen/op jezelf letten"
+        "dutch": "voor jezelf zorgen, jezelf verzorgen, op jezelf letten"
     },
     {
         "verbo": "picar",
@@ -4533,7 +5149,7 @@
             "picasteis",
             "picaron"
         ],
-        "dutch": "hapjes eten/prikken/jeuken"
+        "dutch": "hapjes eten, prikken, jeuken"
     },
     {
         "verbo": "proponer",
@@ -4561,7 +5177,7 @@
             "propusisteis",
             "propusieron"
         ],
-        "dutch": "voorstellen/een voorstel doen"
+        "dutch": "voorstellen, een voorstel doen"
     },
     {
         "verbo": "justificar",
@@ -4589,7 +5205,7 @@
             "justificasteis",
             "justificaron"
         ],
-        "dutch": "rechtvaardigen/verantwoorden/bewijzen"
+        "dutch": "rechtvaardigen, verantwoorden, bewijzen"
     },
     {
         "verbo": "probar",
@@ -4617,7 +5233,7 @@
             "probasteis",
             "probaron"
         ],
-        "dutch": "proberen/proeven/testen"
+        "dutch": "proberen, proeven, testen"
     },
     {
         "verbo": "secarse",
@@ -4813,7 +5429,7 @@
             "recordasteis",
             "recordaron"
         ],
-        "dutch": "herinneren/zich herinneren/onthouden"
+        "dutch": "herinneren, zich herinneren, onthouden"
     },
     {
         "verbo": "terminar",
@@ -4841,7 +5457,7 @@
             "terminasteis",
             "terminaron"
         ],
-        "dutch": "beëindigen/afsluiten/voltooien (bewust afsluiten)"
+        "dutch": "beëindigen, afsluiten, voltooien (bewust afsluiten)"
     },
     {
         "verbo": "aceptar",
@@ -4869,7 +5485,7 @@
             "aceptasteis",
             "aceptaron"
         ],
-        "dutch": "accepteren/aanvaarden"
+        "dutch": "accepteren, aanvaarden"
     },
     {
         "verbo": "rechazar",
@@ -4897,7 +5513,7 @@
             "rechazasteis",
             "rechazaron"
         ],
-        "dutch": "afwijzen/weigeren/verwerpen"
+        "dutch": "afwijzen, weigeren, verwerpen"
     },
     {
         "verbo": "perder",
@@ -4981,7 +5597,7 @@
             "trajisteis",
             "trajeron"
         ],
-        "dutch": "meebrengen/brengen"
+        "dutch": "meebrengen, brengen"
     },
     {
         "verbo": "imaginar",
@@ -5009,7 +5625,7 @@
             "imaginasteis",
             "imaginaron"
         ],
-        "dutch": "voorstellen/zich voorstellen/verbeelden"
+        "dutch": "voorstellen, zich voorstellen, verbeelden"
     },
     {
         "verbo": "conectar",
@@ -5037,7 +5653,7 @@
             "conectasteis",
             "conectaron"
         ],
-        "dutch": "verbinden/aansluiten/contact maken"
+        "dutch": "verbinden, aansluiten, contact maken"
     },
     {
         "verbo": "reciclar",
@@ -5121,7 +5737,7 @@
             "regresasteis",
             "regresaron"
         ],
-        "dutch": "terugkeren/teruggaan/terugkomen"
+        "dutch": "terugkeren, teruggaan, terugkomen"
     },
     {
         "verbo": "cocer",
@@ -5149,7 +5765,7 @@
             "cocisteis",
             "cocieron"
         ],
-        "dutch": "in water koken/garen"
+        "dutch": "in water koken, garen"
     },
     {
         "verbo": "hervir",
@@ -5233,7 +5849,7 @@
             "sacasteis",
             "sacaron"
         ],
-        "dutch": "uitnemen/eruit halen/naar buiten brengen/opslaan"
+        "dutch": "uitnemen, eruit halen, naar buiten brengen, opslaan"
     },
     {
         "verbo": "tomar",
@@ -5261,7 +5877,7 @@
             "tomasteis",
             "tomaron"
         ],
-        "dutch": "nemen/drinken/innemen"
+        "dutch": "nemen, drinken, innemen"
     },
     {
         "verbo": "dudar",
@@ -5317,7 +5933,7 @@
             "anotasteis",
             "anotaron"
         ],
-        "dutch": "noteren/iets opschrijven (formeel)"
+        "dutch": "noteren, iets opschrijven (formeel)"
     },
     {
         "verbo": "aprobar",
@@ -5345,7 +5961,7 @@
             "aprobasteis",
             "aprobaron"
         ],
-        "dutch": "goedkeuren/slagen voor een examen"
+        "dutch": "goedkeuren, slagen voor een examen"
     },
     {
         "verbo": "dejar",
@@ -5373,7 +5989,7 @@
             "dejasteis",
             "dejaron"
         ],
-        "dutch": "achterlaten/laten"
+        "dutch": "achterlaten, laten"
     },
     {
         "verbo": "levantar",
@@ -5401,7 +6017,7 @@
             "levantasteis",
             "levantaron"
         ],
-        "dutch": "optillen/opheffen"
+        "dutch": "optillen, opheffen"
     },
     {
         "verbo": "atender",
@@ -5429,7 +6045,7 @@
             "atendisteis",
             "atendieron"
         ],
-        "dutch": "bedienen/helpen/te woord staan"
+        "dutch": "bedienen, helpen, te woord staan"
     },
     {
         "verbo": "casarse \"con\"",
@@ -5485,7 +6101,7 @@
             "colocasteis",
             "colocaron"
         ],
-        "dutch": "plaatsen/neerzetten"
+        "dutch": "plaatsen, neerzetten"
     },
     {
         "verbo": "consistir",
@@ -5569,7 +6185,7 @@
             "confundisteis",
             "confundieron"
         ],
-        "dutch": "verwarren/in de war brengen"
+        "dutch": "verwarren, in de war brengen"
     },
     {
         "verbo": "coser",
@@ -5625,7 +6241,7 @@
             "criasteis",
             "criaron"
         ],
-        "dutch": "opvoeden/grootbrengen/fokken"
+        "dutch": "opvoeden, grootbrengen, fokken"
     },
     {
         "verbo": "decidir",
@@ -5849,7 +6465,7 @@
             "quemasteis",
             "quemaron"
         ],
-        "dutch": "verbranden/in brand steken"
+        "dutch": "verbranden, in brand steken"
     },
     {
         "verbo": "reparar",
@@ -5877,7 +6493,7 @@
             "reparasteis",
             "repararon"
         ],
-        "dutch": "repareren/herstellen"
+        "dutch": "repareren, herstellen"
     },
     {
         "verbo": "añadir",
@@ -6185,7 +6801,7 @@
             "sonasteis",
             "sonaron"
         ],
-        "dutch": "klinken/weerklinken"
+        "dutch": "klinken, weerklinken"
     },
     {
         "verbo": "encontrar",
@@ -6269,7 +6885,7 @@
             "cortasteis",
             "cortaron"
         ],
-        "dutch": "snijden/knippen"
+        "dutch": "snijden, knippen"
     },
     {
         "verbo": "triturar",
@@ -6297,7 +6913,7 @@
             "triturasteis",
             "trituraron"
         ],
-        "dutch": "vermalen/verpulveren/pureren"
+        "dutch": "vermalen, verpulveren, pureren"
     },
     {
         "verbo": "pelar",
@@ -6325,7 +6941,7 @@
             "pelasteis",
             "pelaron"
         ],
-        "dutch": "schillen/pellen"
+        "dutch": "schillen, pellen"
     },
     {
         "verbo": "acabar",
@@ -6353,7 +6969,7 @@
             "acabasteis",
             "acabaron"
         ],
-        "dutch": "eindigen/afronden/op zijn/ophouden (op natuurlijke wijze)"
+        "dutch": "eindigen, afronden, ophouden (op natuurlijke wijze)"
     },
     {
         "verbo": "pagar",
@@ -6437,7 +7053,7 @@
             "rellenasteis",
             "rellenaron"
         ],
-        "dutch": "invullen/opvullen/vullen"
+        "dutch": "invullen, opvullen, vullen"
     },
     {
         "verbo": "aparcar",
@@ -6605,7 +7221,7 @@
             "supusisteis",
             "supusieron"
         ],
-        "dutch": "veronderstellen/aannemen"
+        "dutch": "veronderstellen, aannemen"
     },
     {
         "verbo": "curar \"a\"",
@@ -6633,7 +7249,7 @@
             "curasteis",
             "curaron"
         ],
-        "dutch": "iemand genezen/behandelen"
+        "dutch": "iemand genezen, behandelen"
     },
     {
         "verbo": "sanar",
@@ -6801,7 +7417,7 @@
             "montasteis",
             "montaron"
         ],
-        "dutch": "monteren/in elkaar zetten/rijden/iets opzetten"
+        "dutch": "monteren, in elkaar zetten, rijden, iets opzetten"
     },
     {
         "verbo": "opinar",
@@ -6997,7 +7613,7 @@
             "dominasteis",
             "dominaron"
         ],
-        "dutch": "domineren/beheersen"
+        "dutch": "domineren, beheersen"
     },
     {
         "verbo": "aburrirse",
@@ -7081,7 +7697,7 @@
             "ligasteis",
             "ligaron"
         ],
-        "dutch": "flirten/versieren"
+        "dutch": "flirten, versieren"
     },
     {
         "verbo": "flirtear",
@@ -7137,7 +7753,7 @@
             "os pusisteis",
             "se pusieron"
         ],
-        "dutch": "kleding aantrekken/zich opstellen/worden"
+        "dutch": "kleding aantrekken, zich opstellen, worden"
     },
     {
         "verbo": "caer",
@@ -7249,7 +7865,7 @@
             "divertisteis",
             "divirtieron"
         ],
-        "dutch": "amuseren/vermaken"
+        "dutch": "amuseren, vermaken"
     },
     {
         "verbo": "divertirse",
@@ -7277,7 +7893,7 @@
             "os divertisteis",
             "se divirtieron"
         ],
-        "dutch": "zich amuseren/plezier maken"
+        "dutch": "zich amuseren, plezier maken"
     },
     {
         "verbo": "encender",
@@ -7305,7 +7921,7 @@
             "encendisteis",
             "encendieron"
         ],
-        "dutch": "aanzetten/aansteken"
+        "dutch": "aanzetten, aansteken"
     },
     {
         "verbo": "conseguir",
@@ -7333,7 +7949,7 @@
             "conseguisteis",
             "consiguieron"
         ],
-        "dutch": "bereiken/lukken/voor elkaar krijgen"
+        "dutch": "bereiken, lukken, voor elkaar krijgen"
     },
     {
         "verbo": "despedirse",
@@ -7473,7 +8089,7 @@
             "mostrasteis",
             "mostraron"
         ],
-        "dutch": "laten zien/tonen"
+        "dutch": "laten zien, tonen"
     },
     {
         "verbo": "morir",
@@ -7585,7 +8201,7 @@
             "bajasteis",
             "bajaron"
         ],
-        "dutch": "naar beneden gaan/dalen/ omlaag brengen/downloaden"
+        "dutch": "naar beneden gaan, dalen, omlaag brengen, downloaden"
     },
     {
         "verbo": "relacionar",
@@ -7613,7 +8229,7 @@
             "relacionasteis",
             "relacionaron"
         ],
-        "dutch": "in verband brengen/relateren"
+        "dutch": "in verband brengen, relateren"
     },
     {
         "verbo": "planificar",
@@ -7669,7 +8285,7 @@
             "retuvisteis",
             "retuvieron"
         ],
-        "dutch": "tegenhouden/vasthouden/onthouden"
+        "dutch": "tegenhouden, vasthouden, onthouden"
     },
     {
         "verbo": "contar",
@@ -7697,7 +8313,7 @@
             "contasteis",
             "contaron"
         ],
-        "dutch": "tellen/vertellen"
+        "dutch": "tellen, vertellen"
     },
     {
         "verbo": "experimentar",
@@ -7725,7 +8341,7 @@
             "experimentasteis",
             "experimentaron"
         ],
-        "dutch": "ervaren/ondervinden/experimenteren"
+        "dutch": "ervaren, ondervinden, experimenteren"
     },
     {
         "verbo": "moverse",
@@ -7781,7 +8397,7 @@
             "recortasteis",
             "recortaron"
         ],
-        "dutch": "uitsnijden/afknippen"
+        "dutch": "uitsnijden, afknippen"
     },
     {
         "verbo": "reconstruir",
@@ -7837,7 +8453,7 @@
             "reconocisteis",
             "reconocieron"
         ],
-        "dutch": "herkennen/erkennen"
+        "dutch": "herkennen, erkennen"
     },
     {
         "verbo": "descubrir",
@@ -7893,7 +8509,7 @@
             "os tocasteis",
             "se tocaron"
         ],
-        "dutch": "zich aanraken/elkaar aanraken"
+        "dutch": "zich aanraken, elkaar aanraken"
     },
     {
         "verbo": "corregir",
@@ -7921,7 +8537,7 @@
             "corregisteis",
             "corrigieron"
         ],
-        "dutch": "verbeteren/corrigeren"
+        "dutch": "verbeteren, corrigeren"
     },
     {
         "verbo": "juzgar",
@@ -7977,7 +8593,7 @@
             "grabasteis",
             "grabaron"
         ],
-        "dutch": "opnemen/vastleggen"
+        "dutch": "opnemen, vastleggen"
     },
     {
         "verbo": "utilizar",
@@ -8033,7 +8649,7 @@
             "pegasteis",
             "pegaron"
         ],
-        "dutch": "lijmen/vastmaken"
+        "dutch": "lijmen, vastmaken"
     },
     {
         "verbo": "sorprender",
@@ -8145,7 +8761,7 @@
             "competisteis",
             "compitieron"
         ],
-        "dutch": "concurreren/strijden"
+        "dutch": "concurreren, strijden"
     },
     {
         "verbo": "soñar \"con\"",
@@ -8201,7 +8817,7 @@
             "recomendasteis",
             "recomendaron"
         ],
-        "dutch": "aanbevelen/aanraden"
+        "dutch": "aanbevelen, aanraden"
     },
     {
         "verbo": "temblar",
@@ -8229,7 +8845,7 @@
             "temblasteis",
             "temblaron"
         ],
-        "dutch": "beven/trillen"
+        "dutch": "beven, trillen"
     },
     {
         "verbo": "enterrar",
@@ -8313,7 +8929,7 @@
             "manifestasteis",
             "manifestaron"
         ],
-        "dutch": "uiten/tonen/verklaren"
+        "dutch": "uiten, tonen, verklaren"
     },
     {
         "verbo": "defender",
@@ -8369,7 +8985,7 @@
             "tendisteis",
             "tendieron"
         ],
-        "dutch": "uittrekken/uitspreiden/uitstrekken"
+        "dutch": "uittrekken, uitspreiden"
     },
     {
         "verbo": "advertir",
@@ -8397,7 +9013,7 @@
             "advertisteis",
             "advirtieron"
         ],
-        "dutch": "waarschuwen/attenderen"
+        "dutch": "waarschuwen, attenderen"
     },
     {
         "verbo": "digerir",
@@ -8425,7 +9041,7 @@
             "digeristeis",
             "digirieron"
         ],
-        "dutch": "verteren/verwerken"
+        "dutch": "verteren, verwerken"
     },
     {
         "verbo": "sugerir",
@@ -8453,7 +9069,7 @@
             "sugeristeis",
             "sugirieron"
         ],
-        "dutch": "voorstellen/aanbevelen/suggereren"
+        "dutch": "voorstellen, aanbevelen, suggereren"
     },
     {
         "verbo": "convertir",
@@ -8537,7 +9153,7 @@
             "renovasteis",
             "renovaron"
         ],
-        "dutch": "vernieuwen/renoveren"
+        "dutch": "vernieuwen, renoveren"
     },
     {
         "verbo": "soltar",
@@ -8649,7 +9265,7 @@
             "provinisteis",
             "provinieron"
         ],
-        "dutch": "komen uit/voortkomen uit"
+        "dutch": "komen uit, voortkomen uit"
     },
     {
         "verbo": "comprobar",
@@ -8677,7 +9293,7 @@
             "comprobasteis",
             "comprobaron"
         ],
-        "dutch": "controleren/nagaan/bewijzen"
+        "dutch": "controleren, nagaan, bewijzen"
     },
     {
         "verbo": "producir",
@@ -8733,7 +9349,7 @@
             "os quejasteis",
             "se quejaron"
         ],
-        "dutch": "klagen/zeuren"
+        "dutch": "klagen, zeuren"
     },
     {
         "verbo": "incluir",
@@ -8761,7 +9377,7 @@
             "incluisteis",
             "incluyeron"
         ],
-        "dutch": "inbegrepen zijn/insluiten/opnemen"
+        "dutch": "inbegrepen zijn, insluiten, opnemen"
     },
     {
         "verbo": "bloquearse",
@@ -8789,7 +9405,7 @@
             "os bloqueasteis",
             "se bloquearon"
         ],
-        "dutch": "blokkeren/vastlopen/verlamd raken"
+        "dutch": "blokkeren, vastlopen, verlamd raken"
     },
     {
         "verbo": "jubilarse",
@@ -8873,7 +9489,7 @@
             "apreciasteis",
             "apreciaron"
         ],
-        "dutch": "waarderen/appreciëren"
+        "dutch": "waarderen, appreciëren"
     },
     {
         "verbo": "coincidir",
@@ -8901,7 +9517,7 @@
             "coincidisteis",
             "coincidieron"
         ],
-        "dutch": "overeenkomen met/samenvallen"
+        "dutch": "overeenkomen met, samenvallen"
     },
     {
         "verbo": "navegar",
@@ -8985,7 +9601,7 @@
             "resolvisteis",
             "resolvieron"
         ],
-        "dutch": "oplossen/besluiten"
+        "dutch": "oplossen, besluiten"
     },
     {
         "verbo": "devolver",
@@ -9013,7 +9629,7 @@
             "devolvisteis",
             "devolvieron"
         ],
-        "dutch": "teruggeven/terugbrengen"
+        "dutch": "teruggeven, terugbrengen"
     },
     {
         "verbo": "envolver",
@@ -9041,7 +9657,7 @@
             "envolvisteis",
             "envolvieron"
         ],
-        "dutch": "inpakken/omhullen"
+        "dutch": "inpakken, omhullen"
     },
     {
         "verbo": "disponer",
@@ -9069,7 +9685,7 @@
             "dispusisteis",
             "dispusieron"
         ],
-        "dutch": "beschikken over/regelen/organiseren"
+        "dutch": "beschikken over, regelen, organiseren"
     },
     {
         "verbo": "imponer",
@@ -9097,7 +9713,7 @@
             "impusisteis",
             "impusieron"
         ],
-        "dutch": "opleggen/opdringen"
+        "dutch": "opleggen, opdringen"
     },
     {
         "verbo": "prever",
@@ -9181,7 +9797,7 @@
             "os convertisteis",
             "se convirtieron"
         ],
-        "dutch": "veranderen in/worden - een nieuwe identiteit krijgen"
+        "dutch": "veranderen in, worden - een nieuwe identiteit krijgen"
     },
     {
         "verbo": "escalar",
@@ -9209,7 +9825,7 @@
             "escalasteis",
             "escalaron"
         ],
-        "dutch": "beklimmen/opklimmen"
+        "dutch": "beklimmen, opklimmen"
     },
     {
         "verbo": "luchar \"contra\"",
@@ -9237,7 +9853,7 @@
             "luchasteis",
             "lucharon"
         ],
-        "dutch": "strijden/vechten tegen"
+        "dutch": "strijden, vechten tegen"
     },
     {
         "verbo": "regalar",
@@ -9349,7 +9965,7 @@
             "creasteis",
             "crearon"
         ],
-        "dutch": "maken/creëren"
+        "dutch": "maken, creëren"
     },
     {
         "verbo": "filmar",
@@ -9405,7 +10021,7 @@
             "dirigisteis",
             "dirigieron"
         ],
-        "dutch": "leiden/besturen/richten"
+        "dutch": "leiden, besturen, richten"
     },
     {
         "verbo": "celebrarse",
@@ -9433,7 +10049,7 @@
             "os celebrasteis",
             "se celebraron"
         ],
-        "dutch": "gehouden worden/plaatsvinden/gevierd worden"
+        "dutch": "gehouden worden, plaatsvinden, gevierd worden"
     },
     {
         "verbo": "inventar",
@@ -9517,7 +10133,7 @@
             "obtuvisteis",
             "obtuvieron"
         ],
-        "dutch": "verkrijgen/bemachtigen/krijgen"
+        "dutch": "verkrijgen, bemachtigen, krijgen"
     },
     {
         "verbo": "superar",
@@ -9545,7 +10161,7 @@
             "superasteis",
             "superaron"
         ],
-        "dutch": "overwinnen/overtreffen/te boven komen"
+        "dutch": "overwinnen, overtreffen, te boven komen"
     },
     {
         "verbo": "enamorarse \"de\"",
@@ -9713,7 +10329,7 @@
             "recogisteis",
             "recogieron"
         ],
-        "dutch": "oprapen/ophalen/inzamelen/net maken"
+        "dutch": "oprapen, ophalen, inzamelen, net maken"
     },
     {
         "verbo": "barrer",
@@ -9797,7 +10413,7 @@
             "lograsteis",
             "lograron"
         ],
-        "dutch": "bereiken/voor elkaar krijgen/slagen in"
+        "dutch": "bereiken, voor elkaar krijgen, slagen in"
     },
     {
         "verbo": "fijarse \"en\"",
@@ -9825,7 +10441,7 @@
             "os fijasteis",
             "se fijaron"
         ],
-        "dutch": "opmerken/op iets/iemand letten/aandacht besteden aan"
+        "dutch": "opmerken, op iets/iemand letten, aandacht besteden aan"
     },
     {
         "verbo": "apagar",
