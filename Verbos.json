@@ -1369,7 +1369,7 @@
             "respondisteis",
             "respondieron"
         ],
-        "dutch": "antwoorden, reageren"
+        "dutch": "antwoorden, reageren (vaak op brieven of emails - formeler)"
     },
     {
         "verbo": "comprender",
@@ -3245,7 +3245,7 @@
             "contestasteis",
             "contestaron"
         ],
-        "dutch": "antwoorden, beantwoorden"
+        "dutch": "antwoorden, beantwoorden (vooral bij vragen of aanspreken - alledaags)"
     },
     {
         "verbo": "ganar",
@@ -3329,7 +3329,7 @@
             "reposasteis",
             "reposaron"
         ],
-        "dutch": "rusten, laten rusten"
+        "dutch": "rusten, laten rusten (fysiek)"
     },
     {
         "verbo": "relajarse",
@@ -3469,7 +3469,7 @@
             "llevasteis",
             "llevaron"
         ],
-        "dutch": "dragen, meenemen, meebrengen, bevatten"
+        "dutch": "dragen, bevatten, naar ergens wegbrengen of meenemen"
     },
     {
         "verbo": "disfrutar",
@@ -4589,7 +4589,7 @@
             "descansasteis",
             "descansaron"
         ],
-        "dutch": "rusten, uitrusten"
+        "dutch": "uitrusten (rust nemen, ontspannen)"
     },
     {
         "verbo": "ducharse",
@@ -5597,7 +5597,7 @@
             "trajisteis",
             "trajeron"
         ],
-        "dutch": "meebrengen, brengen"
+        "dutch": "meebrengen, brengen (naar de spreker toe)"
     },
     {
         "verbo": "imaginar",
@@ -7585,7 +7585,7 @@
             "memorizasteis",
             "memorizaron"
         ],
-        "dutch": "onthouden"
+        "dutch": "onthouden, memorizeren"
     },
     {
         "verbo": "dominar",
@@ -9937,7 +9937,7 @@
             "rodasteis",
             "rodaron"
         ],
-        "dutch": "film opnemen"
+        "dutch": "film opnemen (professioneel)"
     },
     {
         "verbo": "crear",
@@ -9993,7 +9993,7 @@
             "filmasteis",
             "filmaron"
         ],
-        "dutch": "filmen"
+        "dutch": "filmen (algemeen - amateur)"
     },
     {
         "verbo": "dirigir",
