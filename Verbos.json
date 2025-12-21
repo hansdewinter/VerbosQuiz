@@ -2996,7 +2996,7 @@
         "dutch": "verbeteren, beter worden"
     },
     {
-        "verbo": "volver",
+        "verbo": "volver \"a\"",
         "presente": [
             "vuelvo",
             "vuelves",
@@ -3021,7 +3021,7 @@
             "volvisteis",
             "volvieron"
         ],
-        "dutch": "terugkeren, terugkomen, weer gaan doen"
+        "dutch": "terugkeren, terugkomen, weer gaan doen (naar een vorige toestand)"
     },
     {
         "verbo": "llegar",
@@ -3189,7 +3189,7 @@
             "contuvisteis",
             "contuvieron"
         ],
-        "dutch": "bevatten"
+        "dutch": "bevatten (fysieke of chemische inhoud)"
     },
     {
         "verbo": "permitir",
@@ -3693,7 +3693,7 @@
             "negasteis",
             "negaron"
         ],
-        "dutch": "ontkennen, weigeren"
+        "dutch": "een feit of beschuldiging ontkennen, een toestemming weigeren"
     },
     {
         "verbo": "preferir",
@@ -4225,7 +4225,7 @@
             "parecisteis",
             "parecieron"
         ],
-        "dutch": "lijken, schijnen"
+        "dutch": "lijken, schijnen (subjectieve indruk of mening)"
     },
     {
         "verbo": "pensar \"en\"",
@@ -5037,7 +5037,7 @@
             "merendasteis",
             "merendaron"
         ],
-        "dutch": "snack eten"
+        "dutch": "snack of tussendoortje eten rond 16 uur"
     },
     {
         "verbo": "pedir",
@@ -5429,7 +5429,7 @@
             "recordasteis",
             "recordaron"
         ],
-        "dutch": "herinneren, zich herinneren, onthouden"
+        "dutch": "herinneren, zich herinneren, onthouden (neutraal, gebruikelijk)"
     },
     {
         "verbo": "terminar",
@@ -5513,7 +5513,7 @@
             "rechazasteis",
             "rechazaron"
         ],
-        "dutch": "afwijzen, weigeren, verwerpen"
+        "dutch": "een voorstel/aanbod/persoon afwijzen, weigeren, verwerpen"
     },
     {
         "verbo": "perder",
@@ -5737,7 +5737,7 @@
             "regresasteis",
             "regresaron"
         ],
-        "dutch": "terugkeren, teruggaan, terugkomen"
+        "dutch": "fysiek terugkeren, teruggaan, terugkomen naar een plaats"
     },
     {
         "verbo": "cocer",
@@ -6353,7 +6353,7 @@
             "intentasteis",
             "intentaron"
         ],
-        "dutch": "proberen"
+        "dutch": "proberen, een poging doen (moeite doen om iets te bereiken)"
     },
     {
         "verbo": "mentir",
@@ -7333,7 +7333,7 @@
             "os acordasteis",
             "se acordaron"
         ],
-        "dutch": "zich iets herinneren"
+        "dutch": "zich iets herinneren (nadruk op het moment van herinneren)"
     },
     {
         "verbo": "apuntar",
@@ -8145,7 +8145,7 @@
             "os parecisteis",
             "se parecieron"
         ],
-        "dutch": "lijken op"
+        "dutch": "lijken op iemand of iets"
     },
     {
         "verbo": "merecer",
