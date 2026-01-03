@@ -809,7 +809,7 @@
             "entrasteis",
             "entraron"
         ],
-        "dutch": "ga naar"
+        "dutch": "binnenkomen, naar binnen gaan"
     },
     {
         "verbo": "confiar",
@@ -1680,7 +1680,7 @@
         "dutch": "hebben"
     },
     {
-        "verbo": "dedicarse",
+        "verbo": "dedicarse \"a\"",
         "presente": [
             "me dedico",
             "te dedicas",
@@ -1901,7 +1901,7 @@
             "cogisteis",
             "cogieron"
         ],
-        "dutch": "pakken, nemen "
+        "dutch": "pakken, nemen"
     },
     {
         "verbo": "cambiar",
@@ -7977,7 +7977,7 @@
             "conseguisteis",
             "consiguieron"
         ],
-        "dutch": "bereiken, lukken, voor elkaar krijgen"
+        "dutch": "bereiken, lukken, voor elkaar krijgen (dingen, focus op het proces)"
     },
     {
         "verbo": "despedirse",
@@ -10441,7 +10441,7 @@
             "lograsteis",
             "lograron"
         ],
-        "dutch": "bereiken, voor elkaar krijgen, slagen in"
+        "dutch": "bereiken, voor elkaar krijgen, slagen in (doelen, prestaties; focus op het resultaat/succes)"
     },
     {
         "verbo": "fijarse \"en\"",
