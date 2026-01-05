@@ -330,6 +330,26 @@ def compare_answers(correct, user_input):
     return ''.join(result)
 
 
+def print_usage_summary(usage_counts, incorrect_verbs=None):
+    """Print a summary of how many times each verb was used."""
+    incorrect_verbs = incorrect_verbs or set()
+    if not usage_counts:
+        print("No verb usage recorded.")
+        return
+    
+    print("\nVerb usage summary (alphabetical):")
+    longest = max(len(name) + (1 if name in incorrect_verbs else 0) for name in usage_counts)
+    for verb_name in sorted(usage_counts):
+        count = usage_counts[verb_name]
+        flagged = verb_name in incorrect_verbs
+        display_name = f"{verb_name}*" if flagged else verb_name
+        padded = display_name.ljust(longest)
+        if flagged:
+            print(f"  {RED}{padded}{RESET}  {count}")
+        else:
+            print(f"  {padded}  {count}")
+
+
 def ask_question(verb, tense, person_index, person_label, show_dutch=False):
     """
     Ask a conjugation question and return True if correct, False otherwise.
@@ -448,20 +468,26 @@ def run_quiz(verbs, tense_mode='random', specific_verb=None, show_dutch=False):
     
     total_questions = 0
     correct_answers = 0
+    usage_counts = {}
+    incorrect_verbs = set()
     
     try:
         while True:
             # Select verb, person, and tense
             verb = get_random_verb(verb_list)
+            verb_name = verb['verbo']
             person_index, person_label = get_random_person()
             tense = get_tense()
             
             # Ask question
             try:
                 is_correct = ask_question(verb, tense, person_index, person_label, show_dutch)
+                usage_counts[verb_name] = usage_counts.get(verb_name, 0) + 1
                 total_questions += 1
                 if is_correct:
                     correct_answers += 1
+                else:
+                    incorrect_verbs.add(verb_name)
                 
                 # Display current score
                 percentage = (correct_answers / total_questions * 100) if total_questions > 0 else 0
@@ -480,6 +506,7 @@ def run_quiz(verbs, tense_mode='random', specific_verb=None, show_dutch=False):
         else:
             print("No questions answered.")
         print("="*60)
+        print_usage_summary(usage_counts, incorrect_verbs)
         sys.exit(0)
     except EOFError:
         # Handle EOF (Ctrl-D)
@@ -492,6 +519,7 @@ def run_quiz(verbs, tense_mode='random', specific_verb=None, show_dutch=False):
         else:
             print("No questions answered.")
         print("="*60)
+        print_usage_summary(usage_counts, incorrect_verbs)
         sys.exit(0)
 
 
