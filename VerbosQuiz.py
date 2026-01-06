@@ -330,24 +330,32 @@ def compare_answers(correct, user_input):
     return ''.join(result)
 
 
-def print_usage_summary(usage_counts, incorrect_verbs=None):
+def print_usage_summary(usage_counts):
     """Print a summary of how many times each verb was used."""
-    incorrect_verbs = incorrect_verbs or set()
     if not usage_counts:
         print("No verb usage recorded.")
         return
     
     print("\nVerb usage summary (alphabetical):")
-    longest = max(len(name) + (1 if name in incorrect_verbs else 0) for name in usage_counts)
+    longest = max(len(name) for name in usage_counts)
     for verb_name in sorted(usage_counts):
         count = usage_counts[verb_name]
-        flagged = verb_name in incorrect_verbs
-        display_name = f"{verb_name}*" if flagged else verb_name
-        padded = display_name.ljust(longest)
-        if flagged:
-            print(f"  {RED}{padded}{RESET}  {count}")
-        else:
-            print(f"  {padded}  {count}")
+        padded = verb_name.ljust(longest)
+        print(f"  {padded}  {count}")
+
+
+def print_incorrect_summary(usage_counts, incorrect_verbs):
+    """Print a list of verbs answered incorrectly at least once."""
+    if not incorrect_verbs:
+        print("\nIncorrect verbs: none 🎉")
+        return
+    
+    print("\nIncorrect verbs (alphabetical):")
+    longest = max(len(name) for name in incorrect_verbs)
+    for verb_name in sorted(incorrect_verbs):
+        count = usage_counts.get(verb_name, 0)
+        padded = verb_name.ljust(longest)
+        print(f"  {RED}{padded}{RESET}  {count}")
 
 
 def ask_question(verb, tense, person_index, person_label, show_dutch=False):
@@ -506,7 +514,8 @@ def run_quiz(verbs, tense_mode='random', specific_verb=None, show_dutch=False):
         else:
             print("No questions answered.")
         print("="*60)
-        print_usage_summary(usage_counts, incorrect_verbs)
+        print_usage_summary(usage_counts)
+        print_incorrect_summary(usage_counts, incorrect_verbs)
         sys.exit(0)
     except EOFError:
         # Handle EOF (Ctrl-D)
@@ -519,7 +528,8 @@ def run_quiz(verbs, tense_mode='random', specific_verb=None, show_dutch=False):
         else:
             print("No questions answered.")
         print("="*60)
-        print_usage_summary(usage_counts, incorrect_verbs)
+        print_usage_summary(usage_counts)
+        print_incorrect_summary(usage_counts, incorrect_verbs)
         sys.exit(0)
 
 
