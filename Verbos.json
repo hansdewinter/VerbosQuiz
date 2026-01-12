@@ -1,5 +1,33 @@
 [
     {
+        "verbo": "alegrarse \"de algo\"",
+        "presente": [
+            "me alegro",
+            "te alegras",
+            "se alegra",
+            "nos alegramos",
+            "os alegráis",
+            "se alegran"
+        ],
+        "preterito-perfecto": [
+            "me he alegrado",
+            "te has alegrado",
+            "se ha alegrado",
+            "nos hemos alegrado",
+            "os habéis alegrado",
+            "se han alegrado"
+        ],
+        "preterito-indefinido": [
+            "me alegré",
+            "te alegraste",
+            "se alegró",
+            "nos alegramos",
+            "os alegrasteis",
+            "se alegraron"
+        ],
+        "dutch": "blij zijn, zich verheugen"
+    },
+    {
         "verbo": "agradecer \"algo / a alguien\"",
         "presente": [
             "agradezco",
@@ -9321,7 +9349,7 @@
             "comprobasteis",
             "comprobaron"
         ],
-        "dutch": "controleren, nagaan, bewijzen"
+        "dutch": "proberen, controleren, nagaan, bewijzen"
     },
     {
         "verbo": "producir",
