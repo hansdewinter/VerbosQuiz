@@ -1,0 +1,58 @@
+[
+    {
+        "verbo": "agradecer \"algo / a alguien\"",
+        "presente": [
+            "agradezco",
+            "agradeces",
+            "agradece",
+            "agradecemos",
+            "agradecéis",
+            "agradecen"
+        ],
+        "preterito-perfecto": [
+            "he agradecido",
+            "has agradecido",
+            "ha agradecido",
+            "hemos agradecido",
+            "habéis agradecido",
+            "han agradecido"
+        ],
+        "preterito-indefinido": [
+            "agradecí",
+            "agradeciste",
+            "agradeció",
+            "agradecimos",
+            "agradecisteis",
+            "agradecieron"
+        ],
+        "dutch": "bedanken, dankbaar zijn, waarderen (formeel)"
+    },
+    {
+        "verbo": "declararse \"a alguien\"",
+        "presente": [
+            "me declaro",
+            "te declaras",
+            "se declara",
+            "nos declaramos",
+            "os declaráis",
+            "se declaran"
+        ],
+        "preterito-perfecto": [
+            "me he declarado",
+            "te has declarado",
+            "se ha declarado",
+            "nos hemos declarado",
+            "os habéis declarado",
+            "se han declarado"
+        ],
+        "preterito-indefinido": [
+            "me declaré",
+            "te declaraste",
+            "se declaró",
+            "nos declaramos",
+            "os declarasteis",
+            "se declararon"
+        ],
+        "dutch": "zijn/haar liefde verklaren"
+    }
+]

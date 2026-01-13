@@ -25,6 +25,14 @@
             "os alegrasteis",
             "se alegraron"
         ],
+        "presente-progresivo": [
+            "me estoy alegrando",
+            "te estás alegrando",
+            "se está alegrando",
+            "nos estamos alegrando",
+            "os estáis alegrando",
+            "se están alegrando"
+        ],
         "dutch": "blij zijn, zich verheugen"
     },
     {
@@ -52,6 +60,14 @@
             "agradecimos",
             "agradecisteis",
             "agradecieron"
+        ],
+        "presente-progresivo": [
+            "estoy agradeciendo",
+            "estás agradeciendo",
+            "está agradeciendo",
+            "estamos agradeciendo",
+            "estáis agradeciendo",
+            "están agradeciendo"
         ],
         "dutch": "bedanken, dankbaar zijn, waarderen (formeel)"
     },
@@ -81,6 +97,14 @@
             "os declarasteis",
             "se declararon"
         ],
+        "presente-progresivo": [
+            "me estoy declarando",
+            "te estás declarando",
+            "se está declarando",
+            "nos estamos declarando",
+            "os estáis declarando",
+            "se están declarando"
+        ],
         "dutch": "zijn/haar liefde verklaren"
     },
     {
@@ -108,6 +132,14 @@
             "confesamos",
             "confesasteis",
             "confesaron"
+        ],
+        "presente-progresivo": [
+            "estoy confesando",
+            "estás confesando",
+            "está confesando",
+            "estamos confesando",
+            "estáis confesando",
+            "están confesando"
         ],
         "dutch": "bekennen, opbiechten"
     },
@@ -137,6 +169,14 @@
             "os atrevisteis",
             "se atrevieron"
         ],
+        "presente-progresivo": [
+            "me estoy atreviendo",
+            "te estás atreviendo",
+            "se está atreviendo",
+            "nos estamos atreviendo",
+            "os estáis atreviendo",
+            "se están atreviendo"
+        ],
         "dutch": "durven, het aandurven"
     },
     {
@@ -164,6 +204,14 @@
             "inspiramos",
             "inspirasteis",
             "inspiraron"
+        ],
+        "presente-progresivo": [
+            "estoy inspirando",
+            "estás inspirando",
+            "está inspirando",
+            "estamos inspirando",
+            "estáis inspirando",
+            "están inspirando"
         ],
         "dutch": "inspireren, inademen (medisch)"
     },
@@ -193,6 +241,14 @@
             "os callasteis",
             "se callaron"
         ],
+        "presente-progresivo": [
+            "me estoy callando",
+            "te estás callando",
+            "se está callando",
+            "nos estamos callando",
+            "os estáis callando",
+            "se están callando"
+        ],
         "dutch": "zijn mond houden"
     },
     {
@@ -220,6 +276,14 @@
             "golpeamos",
             "golpeasteis",
             "golpearon"
+        ],
+        "presente-progresivo": [
+            "estoy golpeando",
+            "estás golpeando",
+            "está golpeando",
+            "estamos golpeando",
+            "estáis golpeando",
+            "están golpeando"
         ],
         "dutch": "slaan, raken/treffen, hard kloppen"
     },
@@ -249,6 +313,14 @@
             "sujetasteis",
             "sujetaron"
         ],
+        "presente-progresivo": [
+            "estoy sujetando",
+            "estás sujetando",
+            "está sujetando",
+            "estamos sujetando",
+            "estáis sujetando",
+            "están sujetando"
+        ],
         "dutch": "vasthouden, bevestigen/vastmaken, in bedwang houden"
     },
     {
@@ -276,6 +348,14 @@
             "decoramos",
             "decorasteis",
             "decoraron"
+        ],
+        "presente-progresivo": [
+            "estoy decorando",
+            "estás decorando",
+            "está decorando",
+            "estamos decorando",
+            "estáis decorando",
+            "están decorando"
         ],
         "dutch": "inrichten, versieren"
     },
@@ -305,6 +385,14 @@
             "os interesasteis",
             "se interesaron"
         ],
+        "presente-progresivo": [
+            "me estoy interesando",
+            "te estás interesando",
+            "se está interesando",
+            "nos estamos interesando",
+            "os estáis interesando",
+            "se están interesando"
+        ],
         "dutch": "zich interesseren voor, belangstelling tonen voor"
     },
     {
@@ -332,6 +420,14 @@
             "acercamos",
             "acercasteis",
             "acercaron"
+        ],
+        "presente-progresivo": [
+            "estoy acercando",
+            "estás acercando",
+            "está acercando",
+            "estamos acercando",
+            "estáis acercando",
+            "están acercando"
         ],
         "dutch": "iets of iemand dichterbij brengen"
     },
@@ -361,6 +457,14 @@
             "os dormisteis",
             "se durmieron"
         ],
+        "presente-progresivo": [
+            "me estoy durmiendo",
+            "te estás durmiendo",
+            "se está durmiendo",
+            "nos estamos durmiendo",
+            "os estáis durmiendo",
+            "se están durmiendo"
+        ],
         "dutch": "zich verslapen"
     },
     {
@@ -388,6 +492,14 @@
             "prestamos",
             "prestasteis",
             "prestaron"
+        ],
+        "presente-progresivo": [
+            "estoy prestando",
+            "estás prestando",
+            "está prestando",
+            "estamos prestando",
+            "estáis prestando",
+            "están prestando"
         ],
         "dutch": "uitlenen"
     },
@@ -417,6 +529,14 @@
             "tratasteis",
             "trataron"
         ],
+        "presente-progresivo": [
+            "estoy tratando",
+            "estás tratando",
+            "está tratando",
+            "estamos tratando",
+            "estáis tratando",
+            "están tratando"
+        ],
         "dutch": "iemand behandelen"
     },
     {
@@ -444,6 +564,14 @@
             "empujamos",
             "empujasteis",
             "empujaron"
+        ],
+        "presente-progresivo": [
+            "estoy empujando",
+            "estás empujando",
+            "está empujando",
+            "estamos empujando",
+            "estáis empujando",
+            "están empujando"
         ],
         "dutch": "duwen"
     },
@@ -473,6 +601,14 @@
             "adalantasteis",
             "adalantaron"
         ],
+        "presente-progresivo": [
+            "estoy adalantando",
+            "estás adalantando",
+            "está adalantando",
+            "estamos adalantando",
+            "estáis adalantando",
+            "están adalantando"
+        ],
         "dutch": "inhalen, vervroegen"
     },
     {
@@ -500,6 +636,14 @@
             "nos paramos",
             "os parasteis",
             "se pararon"
+        ],
+        "presente-progresivo": [
+            "me estoy parando",
+            "te estás parando",
+            "se está parando",
+            "nos estamos parando",
+            "os estáis parando",
+            "se están parando"
         ],
         "dutch": "blijven staan"
     },
@@ -529,6 +673,14 @@
             "interactuasteis",
             "interactuaron"
         ],
+        "presente-progresivo": [
+            "estoy interactuando",
+            "estás interactuando",
+            "está interactuando",
+            "estamos interactuando",
+            "estáis interactuando",
+            "están interactuando"
+        ],
         "dutch": "interageren, wisselwerking hebben"
     },
     {
@@ -556,6 +708,14 @@
             "nos relacionamos",
             "os relacionasteis",
             "se relacionaron"
+        ],
+        "presente-progresivo": [
+            "me estoy relacionando",
+            "te estás relacionando",
+            "se está relacionando",
+            "nos estamos relacionando",
+            "os estáis relacionando",
+            "se están relacionando"
         ],
         "dutch": "contacten leggen met, omgaan met"
     },
@@ -585,6 +745,14 @@
             "os disteis",
             "se dieron"
         ],
+        "presente-progresivo": [
+            "me estoy dando",
+            "te estás dando",
+            "se está dando",
+            "nos estamos dando",
+            "os estáis dando",
+            "se están dando"
+        ],
         "dutch": "iemand kussen"
     },
     {
@@ -612,6 +780,14 @@
             "nos encontramos",
             "os encontrasteis",
             "se encontraron"
+        ],
+        "presente-progresivo": [
+            "me estoy encontrando",
+            "te estás encontrando",
+            "se está encontrando",
+            "nos estamos encontrando",
+            "os estáis encontrando",
+            "se están encontrando"
         ],
         "dutch": "iemand tegenkomen"
     },
@@ -641,6 +817,14 @@
             "tuteasteis",
             "tutearon"
         ],
+        "presente-progresivo": [
+            "estoy tuteando",
+            "estás tuteando",
+            "está tuteando",
+            "estamos tuteando",
+            "estáis tuteando",
+            "están tuteando"
+        ],
         "dutch": "tutoyeren"
     },
     {
@@ -668,6 +852,14 @@
             "nos disculpamos",
             "os disculpasteis",
             "se disculparon"
+        ],
+        "presente-progresivo": [
+            "me estoy disculpando",
+            "te estás disculpando",
+            "se está disculpando",
+            "nos estamos disculpando",
+            "os estáis disculpando",
+            "se están disculpando"
         ],
         "dutch": "zich verontschuldigen, de excuses aanbieden"
     },
@@ -697,6 +889,14 @@
             "ocupasteis",
             "ocuparon"
         ],
+        "presente-progresivo": [
+            "estoy ocupando",
+            "estás ocupando",
+            "está ocupando",
+            "estamos ocupando",
+            "estáis ocupando",
+            "están ocupando"
+        ],
         "dutch": "innemen, bezetten"
     },
     {
@@ -724,6 +924,14 @@
             "fluimos",
             "fluisteis",
             "fluyeron"
+        ],
+        "presente-progresivo": [
+            "estoy fluyendo",
+            "estás fluyendo",
+            "está fluyendo",
+            "estamos fluyendo",
+            "estáis fluyendo",
+            "están fluyendo"
         ],
         "dutch": "vloeien, stromen"
     },
@@ -753,6 +961,14 @@
             "gastasteis",
             "gastaron"
         ],
+        "presente-progresivo": [
+            "estoy gastando",
+            "estás gastando",
+            "está gastando",
+            "estamos gastando",
+            "estáis gastando",
+            "están gastando"
+        ],
         "dutch": "uitgeven, besteden, verbruiken, verslijten"
     },
     {
@@ -780,6 +996,14 @@
             "sufrimos",
             "sufristeis",
             "sufrieron"
+        ],
+        "presente-progresivo": [
+            "estoy sufriendo",
+            "estás sufriendo",
+            "está sufriendo",
+            "estamos sufriendo",
+            "estáis sufriendo",
+            "están sufriendo"
         ],
         "dutch": "lijden, afzien"
     },
@@ -809,6 +1033,14 @@
             "ahorrasteis",
             "ahorraron"
         ],
+        "presente-progresivo": [
+            "estoy ahorrando",
+            "estás ahorrando",
+            "está ahorrando",
+            "estamos ahorrando",
+            "estáis ahorrando",
+            "están ahorrando"
+        ],
         "dutch": "sparen, besparen"
     },
     {
@@ -836,6 +1068,14 @@
             "entramos",
             "entrasteis",
             "entraron"
+        ],
+        "presente-progresivo": [
+            "estoy entrando",
+            "estás entrando",
+            "está entrando",
+            "estamos entrando",
+            "estáis entrando",
+            "están entrando"
         ],
         "dutch": "binnenkomen, naar binnen gaan"
     },
@@ -865,6 +1105,14 @@
             "confiasteis",
             "confiaron"
         ],
+        "presente-progresivo": [
+            "estoy confiando",
+            "estás confiando",
+            "está confiando",
+            "estamos confiando",
+            "estáis confiando",
+            "están confiando"
+        ],
         "dutch": "vertrouwen"
     },
     {
@@ -892,6 +1140,14 @@
             "firmamos",
             "firmasteis",
             "firmaron"
+        ],
+        "presente-progresivo": [
+            "estoy firmando",
+            "estás firmando",
+            "está firmando",
+            "estamos firmando",
+            "estáis firmando",
+            "están firmando"
         ],
         "dutch": "ondertekenen, tekenen"
     },
@@ -921,6 +1177,14 @@
             "protagonizasteis",
             "protagonizaron"
         ],
+        "presente-progresivo": [
+            "estoy protagonizando",
+            "estás protagonizando",
+            "está protagonizando",
+            "estamos protagonizando",
+            "estáis protagonizando",
+            "están protagonizando"
+        ],
         "dutch": "de hoofdrol spelen/vervullen"
     },
     {
@@ -948,6 +1212,14 @@
             "chocamos",
             "chocasteis",
             "chocaon"
+        ],
+        "presente-progresivo": [
+            "estoy chocando",
+            "estás chocando",
+            "está chocando",
+            "estamos chocando",
+            "estáis chocando",
+            "están chocando"
         ],
         "dutch": "botsen, choqueren, verbazen"
     },
@@ -977,6 +1249,14 @@
             "contactasteis",
             "contactaron"
         ],
+        "presente-progresivo": [
+            "estoy contactando",
+            "estás contactando",
+            "está contactando",
+            "estamos contactando",
+            "estáis contactando",
+            "están contactando"
+        ],
         "dutch": "contacteren, contact opnemen"
     },
     {
@@ -1004,6 +1284,14 @@
             "criticamos",
             "criticasteis",
             "criticaron"
+        ],
+        "presente-progresivo": [
+            "estoy criticando",
+            "estás criticando",
+            "está criticando",
+            "estamos criticando",
+            "estáis criticando",
+            "están criticando"
         ],
         "dutch": "bekritiseren"
     },
@@ -1033,6 +1321,14 @@
             "presentasteis",
             "presentaron"
         ],
+        "presente-progresivo": [
+            "estoy presentando",
+            "estás presentando",
+            "está presentando",
+            "estamos presentando",
+            "estáis presentando",
+            "están presentando"
+        ],
         "dutch": "presenteren, voorstellen, indienen"
     },
     {
@@ -1060,6 +1356,14 @@
             "soportamos",
             "soportasteis",
             "soportaron"
+        ],
+        "presente-progresivo": [
+            "estoy soportando",
+            "estás soportando",
+            "está soportando",
+            "estamos soportando",
+            "estáis soportando",
+            "están soportando"
         ],
         "dutch": "verdragen, uitstaan, dulden"
     },
@@ -1089,6 +1393,14 @@
             "pesasteis",
             "pesaron"
         ],
+        "presente-progresivo": [
+            "estoy pesando",
+            "estás pesando",
+            "está pesando",
+            "estamos pesando",
+            "estáis pesando",
+            "están pesando"
+        ],
         "dutch": "wegen"
     },
     {
@@ -1116,6 +1428,14 @@
             "anduvimos",
             "anduvisteis",
             "anduvieron"
+        ],
+        "presente-progresivo": [
+            "estoy andando",
+            "estás andando",
+            "está andando",
+            "estamos andando",
+            "estáis andando",
+            "están andando"
         ],
         "dutch": "lopen, te voet gaan, rondlopen, ergens zijn"
     },
@@ -1145,6 +1465,14 @@
             "estrenasteis",
             "estrenaron"
         ],
+        "presente-progresivo": [
+            "estoy estrenando",
+            "estás estrenando",
+            "está estrenando",
+            "estamos estrenando",
+            "estáis estrenando",
+            "están estrenando"
+        ],
         "dutch": "voor het eerst gebruiken/dragen, in première gaan"
     },
     {
@@ -1172,6 +1500,14 @@
             "introdujimos",
             "introdujisteis",
             "introdujeron"
+        ],
+        "presente-progresivo": [
+            "estoy introduciendo",
+            "estás introduciendo",
+            "está introduciendo",
+            "estamos introduciendo",
+            "estáis introduciendo",
+            "están introduciendo"
         ],
         "dutch": "invoeren, insteken, introduceren"
     },
@@ -1201,6 +1537,14 @@
             "fuisteis",
             "fueron"
         ],
+        "presente-progresivo": [
+            "estoy siendo",
+            "estás siendo",
+            "está siendo",
+            "estamos siendo",
+            "estáis siendo",
+            "están siendo"
+        ],
         "dutch": "zijn (constant)"
     },
     {
@@ -1228,6 +1572,14 @@
             "estuvimos",
             "estuvisteis",
             "estuvieron"
+        ],
+        "presente-progresivo": [
+            "estoy estando",
+            "estás estando",
+            "está estando",
+            "estamos estando",
+            "estáis estando",
+            "están estando"
         ],
         "dutch": "zijn (variabel)"
     },
@@ -1257,6 +1609,14 @@
             "fuisteis",
             "fueron"
         ],
+        "presente-progresivo": [
+            "estoy yendo",
+            "estás yendo",
+            "está yendo",
+            "estamos yendo",
+            "estáis yendo",
+            "están yendo"
+        ],
         "dutch": "gaan"
     },
     {
@@ -1284,6 +1644,14 @@
             "escuchamos",
             "escuchasteis",
             "escucharon"
+        ],
+        "presente-progresivo": [
+            "estoy escuchando",
+            "estás escuchando",
+            "está escuchando",
+            "estamos escuchando",
+            "estáis escuchando",
+            "están escuchando"
         ],
         "dutch": "luisteren"
     },
@@ -1313,6 +1681,14 @@
             "preguntasteis",
             "preguntaron"
         ],
+        "presente-progresivo": [
+            "estoy preguntando",
+            "estás preguntando",
+            "está preguntando",
+            "estamos preguntando",
+            "estáis preguntando",
+            "están preguntando"
+        ],
         "dutch": "vragen"
     },
     {
@@ -1340,6 +1716,14 @@
             "leímos",
             "leísteis",
             "leyeron"
+        ],
+        "presente-progresivo": [
+            "estoy leyendo",
+            "estás leyendo",
+            "está leyendo",
+            "estamos leyendo",
+            "estáis leyendo",
+            "están leyendo"
         ],
         "dutch": "lezen"
     },
@@ -1369,6 +1753,14 @@
             "hablasteis",
             "hablaron"
         ],
+        "presente-progresivo": [
+            "estoy hablando",
+            "estás hablando",
+            "está hablando",
+            "estamos hablando",
+            "estáis hablando",
+            "están hablando"
+        ],
         "dutch": "praten"
     },
     {
@@ -1396,6 +1788,14 @@
             "escribimos",
             "escribisteis",
             "escribieron"
+        ],
+        "presente-progresivo": [
+            "estoy escribiendo",
+            "estás escribiendo",
+            "está escribiendo",
+            "estamos escribiendo",
+            "estáis escribiendo",
+            "están escribiendo"
         ],
         "dutch": "schrijven"
     },
@@ -1425,6 +1825,14 @@
             "respondisteis",
             "respondieron"
         ],
+        "presente-progresivo": [
+            "estoy respondiendo",
+            "estás respondiendo",
+            "está respondiendo",
+            "estamos respondiendo",
+            "estáis respondiendo",
+            "están respondiendo"
+        ],
         "dutch": "antwoorden, reageren (vaak op brieven of emails - formeler)"
     },
     {
@@ -1452,6 +1860,14 @@
             "comprendimos",
             "comprendisteis",
             "comprendieron"
+        ],
+        "presente-progresivo": [
+            "estoy comprendiendo",
+            "estás comprendiendo",
+            "está comprendiendo",
+            "estamos comprendiendo",
+            "estáis comprendiendo",
+            "están comprendiendo"
         ],
         "dutch": "begrijpen (diepgaand, volledig begrijpen)"
     },
@@ -1481,6 +1897,14 @@
             "repetisteis",
             "repitieron"
         ],
+        "presente-progresivo": [
+            "estoy repitiendo",
+            "estás repitiendo",
+            "está repitiendo",
+            "estamos repitiendo",
+            "estáis repitiendo",
+            "están repitiendo"
+        ],
         "dutch": "herhalen"
     },
     {
@@ -1508,6 +1932,14 @@
             "bebimos",
             "bebisteis",
             "bebieron"
+        ],
+        "presente-progresivo": [
+            "estoy bebiendo",
+            "estás bebiendo",
+            "está bebiendo",
+            "estamos bebiendo",
+            "estáis bebiendo",
+            "están bebiendo"
         ],
         "dutch": "drinken"
     },
@@ -1537,6 +1969,14 @@
             "vivisteis",
             "vivieron"
         ],
+        "presente-progresivo": [
+            "estoy viviendo",
+            "estás viviendo",
+            "está viviendo",
+            "estamos viviendo",
+            "estáis viviendo",
+            "están viviendo"
+        ],
         "dutch": "leven"
     },
     {
@@ -1564,6 +2004,14 @@
             "comimos",
             "comisteis",
             "comieron"
+        ],
+        "presente-progresivo": [
+            "estoy comiendo",
+            "estás comiendo",
+            "está comiendo",
+            "estamos comiendo",
+            "estáis comiendo",
+            "están comiendo"
         ],
         "dutch": "eten"
     },
@@ -1593,6 +2041,14 @@
             "necesitasteis",
             "necesitaron"
         ],
+        "presente-progresivo": [
+            "estoy necesitando",
+            "estás necesitando",
+            "está necesitando",
+            "estamos necesitando",
+            "estáis necesitando",
+            "están necesitando"
+        ],
         "dutch": "nodig hebben"
     },
     {
@@ -1620,6 +2076,14 @@
             "saludamos",
             "saludasteis",
             "saludaron"
+        ],
+        "presente-progresivo": [
+            "estoy saludando",
+            "estás saludando",
+            "está saludando",
+            "estamos saludando",
+            "estáis saludando",
+            "están saludando"
         ],
         "dutch": "groeten"
     },
@@ -1649,6 +2113,14 @@
             "trabajasteis",
             "trabajaron"
         ],
+        "presente-progresivo": [
+            "estoy trabajando",
+            "estás trabajando",
+            "está trabajando",
+            "estamos trabajando",
+            "estáis trabajando",
+            "están trabajando"
+        ],
         "dutch": "werken, acteren (in film)"
     },
     {
@@ -1676,6 +2148,14 @@
             "nos llamamos",
             "os llamasteis",
             "se llamaron"
+        ],
+        "presente-progresivo": [
+            "me estoy llamando",
+            "te estás llamando",
+            "se está llamando",
+            "nos estamos llamando",
+            "os estáis llamando",
+            "se están llamando"
         ],
         "dutch": "heten"
     },
@@ -1705,6 +2185,14 @@
             "tuvisteis",
             "tuvieron"
         ],
+        "presente-progresivo": [
+            "estoy teniendo",
+            "estás teniendo",
+            "está teniendo",
+            "estamos teniendo",
+            "estáis teniendo",
+            "están teniendo"
+        ],
         "dutch": "hebben"
     },
     {
@@ -1732,6 +2220,14 @@
             "nos dedicamos",
             "os dedicasteis",
             "se dedicaron"
+        ],
+        "presente-progresivo": [
+            "me estoy dedicando",
+            "te estás dedicando",
+            "se está dedicando",
+            "nos estamos dedicando",
+            "os estáis dedicando",
+            "se están dedicando"
         ],
         "dutch": "zich bezighouden met, zich toeleggen op"
     },
@@ -1761,6 +2257,14 @@
             "enseñasteis",
             "enseñaron"
         ],
+        "presente-progresivo": [
+            "estoy enseñando",
+            "estás enseñando",
+            "está enseñando",
+            "estamos enseñando",
+            "estáis enseñando",
+            "están enseñando"
+        ],
         "dutch": "lesgeven, onderwijzen"
     },
     {
@@ -1788,6 +2292,14 @@
             "estudiamos",
             "estudiasteis",
             "estudiaron"
+        ],
+        "presente-progresivo": [
+            "estoy estudiando",
+            "estás estudiando",
+            "está estudiando",
+            "estamos estudiando",
+            "estáis estudiando",
+            "están estudiando"
         ],
         "dutch": "studeren"
     },
@@ -1817,6 +2329,14 @@
             "subisteis",
             "subieron"
         ],
+        "presente-progresivo": [
+            "estoy subiendo",
+            "estás subiendo",
+            "está subiendo",
+            "estamos subiendo",
+            "estáis subiendo",
+            "están subiendo"
+        ],
         "dutch": "omhooggaan, naar boven gaan, stijgen, uploaden"
     },
     {
@@ -1844,6 +2364,14 @@
             "aprendimos",
             "aprendisteis",
             "aprendieron"
+        ],
+        "presente-progresivo": [
+            "estoy aprendiendo",
+            "estás aprendiendo",
+            "está aprendiendo",
+            "estamos aprendiendo",
+            "estáis aprendiendo",
+            "están aprendiendo"
         ],
         "dutch": "aanleren"
     },
@@ -1873,6 +2401,14 @@
             "corristeis",
             "corrieron"
         ],
+        "presente-progresivo": [
+            "estoy corriendo",
+            "estás corriendo",
+            "está corriendo",
+            "estamos corriendo",
+            "estáis corriendo",
+            "están corriendo"
+        ],
         "dutch": "rennen, hardlopen"
     },
     {
@@ -1900,6 +2436,14 @@
             "entrenamos",
             "entrenasteis",
             "entrenaron"
+        ],
+        "presente-progresivo": [
+            "estoy entrenando",
+            "estás entrenando",
+            "está entrenando",
+            "estamos entrenando",
+            "estáis entrenando",
+            "están entrenando"
         ],
         "dutch": "trainen"
     },
@@ -1929,6 +2473,14 @@
             "cogisteis",
             "cogieron"
         ],
+        "presente-progresivo": [
+            "estoy cogiendo",
+            "estás cogiendo",
+            "está cogiendo",
+            "estamos cogiendo",
+            "estáis cogiendo",
+            "están cogiendo"
+        ],
         "dutch": "pakken, nemen"
     },
     {
@@ -1956,6 +2508,14 @@
             "cambiamos",
             "cambiasteis",
             "cambiaron"
+        ],
+        "presente-progresivo": [
+            "estoy cambiando",
+            "estás cambiando",
+            "está cambiando",
+            "estamos cambiando",
+            "estáis cambiando",
+            "están cambiando"
         ],
         "dutch": "veranderen, wisselen, ruilen - zonder van identiteit te veranderen"
     },
@@ -1985,6 +2545,14 @@
             "pudisteis",
             "pudieron"
         ],
+        "presente-progresivo": [
+            "estoy pudiendo",
+            "estás pudiendo",
+            "está pudiendo",
+            "estamos pudiendo",
+            "estáis pudiendo",
+            "están pudiendo"
+        ],
         "dutch": "kunnen, mogen"
     },
     {
@@ -2012,6 +2580,14 @@
             "supimos",
             "supisteis",
             "supieron"
+        ],
+        "presente-progresivo": [
+            "estoy sabiendo",
+            "estás sabiendo",
+            "está sabiendo",
+            "estamos sabiendo",
+            "estáis sabiendo",
+            "están sabiendo"
         ],
         "dutch": "weten, kunnen"
     },
@@ -2041,6 +2617,14 @@
             "cantasteis",
             "cantaron"
         ],
+        "presente-progresivo": [
+            "estoy cantando",
+            "estás cantando",
+            "está cantando",
+            "estamos cantando",
+            "estáis cantando",
+            "están cantando"
+        ],
         "dutch": "zingen"
     },
     {
@@ -2068,6 +2652,14 @@
             "quisimos",
             "quisisteis",
             "quisieron"
+        ],
+        "presente-progresivo": [
+            "estoy queriendo",
+            "estás queriendo",
+            "está queriendo",
+            "estamos queriendo",
+            "estáis queriendo",
+            "están queriendo"
         ],
         "dutch": "willen"
     },
@@ -2097,6 +2689,14 @@
             "deletreasteis",
             "deletrearon"
         ],
+        "presente-progresivo": [
+            "estoy deletreando",
+            "estás deletreando",
+            "está deletreando",
+            "estamos deletreando",
+            "estáis deletreando",
+            "están deletreando"
+        ],
         "dutch": "spellen"
     },
     {
@@ -2124,6 +2724,14 @@
             "hicimos",
             "hicisteis",
             "hicieron"
+        ],
+        "presente-progresivo": [
+            "estoy haciendo",
+            "estás haciendo",
+            "está haciendo",
+            "estamos haciendo",
+            "estáis haciendo",
+            "están haciendo"
         ],
         "dutch": "doen, maken"
     },
@@ -2153,6 +2761,14 @@
             "salisteis",
             "salieron"
         ],
+        "presente-progresivo": [
+            "estoy saliendo",
+            "estás saliendo",
+            "está saliendo",
+            "estamos saliendo",
+            "estáis saliendo",
+            "están saliendo"
+        ],
         "dutch": "weggaan, uitgaan, vertrekken"
     },
     {
@@ -2180,6 +2796,14 @@
             "vimos",
             "visteis",
             "vieron"
+        ],
+        "presente-progresivo": [
+            "estoy viendo",
+            "estás viendo",
+            "está viendo",
+            "estamos viendo",
+            "estáis viendo",
+            "están viendo"
         ],
         "dutch": "zien"
     },
@@ -2209,6 +2833,14 @@
             "practicasteis",
             "practicaron"
         ],
+        "presente-progresivo": [
+            "estoy practicando",
+            "estás practicando",
+            "está practicando",
+            "estamos practicando",
+            "estáis practicando",
+            "están practicando"
+        ],
         "dutch": "oefenen, beoefenen"
     },
     {
@@ -2236,6 +2868,14 @@
             "visitamos",
             "visitasteis",
             "visitaron"
+        ],
+        "presente-progresivo": [
+            "estoy visitando",
+            "estás visitando",
+            "está visitando",
+            "estamos visitando",
+            "estáis visitando",
+            "están visitando"
         ],
         "dutch": "bezoeken"
     },
@@ -2265,6 +2905,14 @@
             "jugasteis",
             "jugaron"
         ],
+        "presente-progresivo": [
+            "estoy jugando",
+            "estás jugando",
+            "está jugando",
+            "estamos jugando",
+            "estáis jugando",
+            "están jugando"
+        ],
         "dutch": "spelen"
     },
     {
@@ -2292,6 +2940,14 @@
             "conocimos",
             "conocisteis",
             "conocieron"
+        ],
+        "presente-progresivo": [
+            "estoy conociendo",
+            "estás conociendo",
+            "está conociendo",
+            "estamos conociendo",
+            "estáis conociendo",
+            "están conociendo"
         ],
         "dutch": "kennen, leren kennen"
     },
@@ -2321,6 +2977,14 @@
             "desayunasteis",
             "desayunaron"
         ],
+        "presente-progresivo": [
+            "estoy desayunando",
+            "estás desayunando",
+            "está desayunando",
+            "estamos desayunando",
+            "estáis desayunando",
+            "están desayunando"
+        ],
         "dutch": "ontbijten"
     },
     {
@@ -2348,6 +3012,14 @@
             "almorzamos",
             "almorzasteis",
             "almorzaron"
+        ],
+        "presente-progresivo": [
+            "estoy almorzando",
+            "estás almorzando",
+            "está almorzando",
+            "estamos almorzando",
+            "estáis almorzando",
+            "están almorzando"
         ],
         "dutch": "lunchen"
     },
@@ -2377,6 +3049,14 @@
             "cenasteis",
             "cenaron"
         ],
+        "presente-progresivo": [
+            "estoy cenando",
+            "estás cenando",
+            "está cenando",
+            "estamos cenando",
+            "estáis cenando",
+            "están cenando"
+        ],
         "dutch": "dineren"
     },
     {
@@ -2404,6 +3084,14 @@
             "tocamos",
             "tocasteis",
             "tocaron"
+        ],
+        "presente-progresivo": [
+            "estoy tocando",
+            "estás tocando",
+            "está tocando",
+            "estamos tocando",
+            "estáis tocando",
+            "están tocando"
         ],
         "dutch": "aanraken"
     },
@@ -2433,6 +3121,14 @@
             "bailasteis",
             "bailaron"
         ],
+        "presente-progresivo": [
+            "estoy bailando",
+            "estás bailando",
+            "está bailando",
+            "estamos bailando",
+            "estáis bailando",
+            "están bailando"
+        ],
         "dutch": "dansen"
     },
     {
@@ -2460,6 +3156,14 @@
             "llamamos",
             "llamasteis",
             "llamaron"
+        ],
+        "presente-progresivo": [
+            "estoy llamando",
+            "estás llamando",
+            "está llamando",
+            "estamos llamando",
+            "estáis llamando",
+            "están llamando"
         ],
         "dutch": "bellen met"
     },
@@ -2489,6 +3193,14 @@
             "viajasteis",
             "viajaron"
         ],
+        "presente-progresivo": [
+            "estoy viajando",
+            "estás viajando",
+            "está viajando",
+            "estamos viajando",
+            "estáis viajando",
+            "están viajando"
+        ],
         "dutch": "reizen"
     },
     {
@@ -2516,6 +3228,14 @@
             "compramos",
             "comprasteis",
             "compraron"
+        ],
+        "presente-progresivo": [
+            "estoy comprando",
+            "estás comprando",
+            "está comprando",
+            "estamos comprando",
+            "estáis comprando",
+            "están comprando"
         ],
         "dutch": "kopen"
     },
@@ -2545,6 +3265,14 @@
             "cocinasteis",
             "cocinaron"
         ],
+        "presente-progresivo": [
+            "estoy cocinando",
+            "estás cocinando",
+            "está cocinando",
+            "estamos cocinando",
+            "estáis cocinando",
+            "están cocinando"
+        ],
         "dutch": "koken"
     },
     {
@@ -2572,6 +3300,14 @@
             "vendimos",
             "vendisteis",
             "vendieron"
+        ],
+        "presente-progresivo": [
+            "estoy vendiendo",
+            "estás vendiendo",
+            "está vendiendo",
+            "estamos vendiendo",
+            "estáis vendiendo",
+            "están vendiendo"
         ],
         "dutch": "verkopen"
     },
@@ -2601,6 +3337,14 @@
             "dijisteis",
             "dijeron"
         ],
+        "presente-progresivo": [
+            "estoy diciendo",
+            "estás diciendo",
+            "está diciendo",
+            "estamos diciendo",
+            "estáis diciendo",
+            "están diciendo"
+        ],
         "dutch": "zeggen, vertellen"
     },
     {
@@ -2628,6 +3372,14 @@
             "paseamos",
             "paseasteis",
             "pasearon"
+        ],
+        "presente-progresivo": [
+            "estoy paseando",
+            "estás paseando",
+            "está paseando",
+            "estamos paseando",
+            "estáis paseando",
+            "están paseando"
         ],
         "dutch": "strollen"
     },
@@ -2657,6 +3409,14 @@
             "creísteis",
             "creyeron"
         ],
+        "presente-progresivo": [
+            "estoy creyendo",
+            "estás creyendo",
+            "está creyendo",
+            "estamos creyendo",
+            "estáis creyendo",
+            "están creyendo"
+        ],
         "dutch": "geloven, denken, menen"
     },
     {
@@ -2684,6 +3444,14 @@
             "caminamos",
             "caminasteis",
             "caminaron"
+        ],
+        "presente-progresivo": [
+            "estoy caminando",
+            "estás caminando",
+            "está caminando",
+            "estamos caminando",
+            "estáis caminando",
+            "están caminando"
         ],
         "dutch": "wandelen"
     },
@@ -2713,6 +3481,14 @@
             "callasteis",
             "callaron"
         ],
+        "presente-progresivo": [
+            "estoy callando",
+            "estás callando",
+            "está callando",
+            "estamos callando",
+            "estáis callando",
+            "están callando"
+        ],
         "dutch": "zwijgen, stil zijn"
     },
     {
@@ -2740,6 +3516,14 @@
             "amamos",
             "amasteis",
             "amaron"
+        ],
+        "presente-progresivo": [
+            "estoy amando",
+            "estás amando",
+            "está amando",
+            "estamos amando",
+            "estáis amando",
+            "están amando"
         ],
         "dutch": "houden van, liefhebben"
     },
@@ -2769,6 +3553,14 @@
             "entendisteis",
             "entendieron"
         ],
+        "presente-progresivo": [
+            "estoy entendiendo",
+            "estás entendiendo",
+            "está entendiendo",
+            "estamos entendiendo",
+            "estáis entendiendo",
+            "están entendiendo"
+        ],
         "dutch": "begrijpen, verstaan (alledaags, practisch begrijpen)"
     },
     {
@@ -2796,6 +3588,14 @@
             "chateamos",
             "chateasteis",
             "chatearon"
+        ],
+        "presente-progresivo": [
+            "estoy chateando",
+            "estás chateando",
+            "está chateando",
+            "estamos chateando",
+            "estáis chateando",
+            "están chateando"
         ],
         "dutch": "chatten"
     },
@@ -2825,6 +3625,14 @@
             "pasasteis",
             "pasaron"
         ],
+        "presente-progresivo": [
+            "estoy pasando",
+            "estás pasando",
+            "está pasando",
+            "estamos pasando",
+            "estáis pasando",
+            "están pasando"
+        ],
         "dutch": "voorbijgaan, passeren, gebeuren, langskomen"
     },
     {
@@ -2852,6 +3660,14 @@
             "existimos",
             "exististeis",
             "existieron"
+        ],
+        "presente-progresivo": [
+            "estoy existiendo",
+            "estás existiendo",
+            "está existiendo",
+            "estamos existiendo",
+            "estáis existiendo",
+            "están existiendo"
         ],
         "dutch": "bestaan"
     },
@@ -2881,6 +3697,14 @@
             "admitisteis",
             "admitieron"
         ],
+        "presente-progresivo": [
+            "estoy admitiendo",
+            "estás admitiendo",
+            "está admitiendo",
+            "estamos admitiendo",
+            "estáis admitiendo",
+            "están admitiendo"
+        ],
         "dutch": "toegeven, erkennen, toelaten"
     },
     {
@@ -2908,6 +3732,14 @@
             "describimos",
             "describisteis",
             "describieron"
+        ],
+        "presente-progresivo": [
+            "estoy describiendo",
+            "estás describiendo",
+            "está describiendo",
+            "estamos describiendo",
+            "estáis describiendo",
+            "están describiendo"
         ],
         "dutch": "beschrijven"
     },
@@ -2937,6 +3769,14 @@
             "pusisteis",
             "pusieron"
         ],
+        "presente-progresivo": [
+            "estoy poniendo",
+            "estás poniendo",
+            "está poniendo",
+            "estamos poniendo",
+            "estáis poniendo",
+            "están poniendo"
+        ],
         "dutch": "zetten, leggen, plaatsen, aandoen, opdienen"
     },
     {
@@ -2964,6 +3804,14 @@
             "vinimos",
             "vinisteis",
             "vinieron"
+        ],
+        "presente-progresivo": [
+            "estoy viniendo",
+            "estás viniendo",
+            "está viniendo",
+            "estamos viniendo",
+            "estáis viniendo",
+            "están viniendo"
         ],
         "dutch": "komen"
     },
@@ -2993,6 +3841,14 @@
             "os comunicasteis",
             "se comunicaron"
         ],
+        "presente-progresivo": [
+            "me estoy comunicando",
+            "te estás comunicando",
+            "se está comunicando",
+            "nos estamos comunicando",
+            "os estáis comunicando",
+            "se están comunicando"
+        ],
         "dutch": "communiceren"
     },
     {
@@ -3020,6 +3876,14 @@
             "buscamos",
             "buscasteis",
             "buscaron"
+        ],
+        "presente-progresivo": [
+            "estoy buscando",
+            "estás buscando",
+            "está buscando",
+            "estamos buscando",
+            "estáis buscando",
+            "están buscando"
         ],
         "dutch": "zoeken"
     },
@@ -3049,6 +3913,14 @@
             "mejorasteis",
             "mejoraron"
         ],
+        "presente-progresivo": [
+            "estoy mejorando",
+            "estás mejorando",
+            "está mejorando",
+            "estamos mejorando",
+            "estáis mejorando",
+            "están mejorando"
+        ],
         "dutch": "verbeteren, beter worden"
     },
     {
@@ -3076,6 +3948,14 @@
             "volvimos",
             "volvisteis",
             "volvieron"
+        ],
+        "presente-progresivo": [
+            "estoy volviendo",
+            "estás volviendo",
+            "está volviendo",
+            "estamos volviendo",
+            "estáis volviendo",
+            "están volviendo"
         ],
         "dutch": "terugkeren, terugkomen, weer gaan doen (naar een vorige toestand)"
     },
@@ -3105,6 +3985,14 @@
             "llegasteis",
             "llegaron"
         ],
+        "presente-progresivo": [
+            "estoy llegando",
+            "estás llegando",
+            "está llegando",
+            "estamos llegando",
+            "estáis llegando",
+            "están llegando"
+        ],
         "dutch": "aankomen, arriveren"
     },
     {
@@ -3132,6 +4020,14 @@
             "nadamos",
             "nadasteis",
             "nadaron"
+        ],
+        "presente-progresivo": [
+            "estoy nadando",
+            "estás nadando",
+            "está nadando",
+            "estamos nadando",
+            "estáis nadando",
+            "están nadando"
         ],
         "dutch": "zwemmen"
     },
@@ -3161,6 +4057,14 @@
             "tapeasteis",
             "tapearon"
         ],
+        "presente-progresivo": [
+            "estoy tapeando",
+            "estás tapeando",
+            "está tapeando",
+            "estamos tapeando",
+            "estáis tapeando",
+            "están tapeando"
+        ],
         "dutch": "tapas eten"
     },
     {
@@ -3188,6 +4092,14 @@
             "debimos",
             "debisteis",
             "debieron"
+        ],
+        "presente-progresivo": [
+            "estoy debiendo",
+            "estás debiendo",
+            "está debiendo",
+            "estamos debiendo",
+            "estáis debiendo",
+            "están debiendo"
         ],
         "dutch": "moeten, verschuldigd zijn, moeten betalen"
     },
@@ -3217,6 +4129,14 @@
             "elegisteis",
             "eligieron"
         ],
+        "presente-progresivo": [
+            "estoy eligiendo",
+            "estás eligiendo",
+            "está eligiendo",
+            "estamos eligiendo",
+            "estáis eligiendo",
+            "están eligiendo"
+        ],
         "dutch": "kiezen"
     },
     {
@@ -3244,6 +4164,14 @@
             "contuvimos",
             "contuvisteis",
             "contuvieron"
+        ],
+        "presente-progresivo": [
+            "estoy conteniendo",
+            "estás conteniendo",
+            "está conteniendo",
+            "estamos conteniendo",
+            "estáis conteniendo",
+            "están conteniendo"
         ],
         "dutch": "bevatten (fysieke of chemische inhoud)"
     },
@@ -3273,6 +4201,14 @@
             "permitisteis",
             "permitieron"
         ],
+        "presente-progresivo": [
+            "estoy permitiendo",
+            "estás permitiendo",
+            "está permitiendo",
+            "estamos permitiendo",
+            "estáis permitiendo",
+            "están permitiendo"
+        ],
         "dutch": "toestaan, toelaten"
     },
     {
@@ -3300,6 +4236,14 @@
             "contestamos",
             "contestasteis",
             "contestaron"
+        ],
+        "presente-progresivo": [
+            "estoy contestando",
+            "estás contestando",
+            "está contestando",
+            "estamos contestando",
+            "estáis contestando",
+            "están contestando"
         ],
         "dutch": "antwoorden, beantwoorden (vooral bij vragen of aanspreken - alledaags)"
     },
@@ -3329,6 +4273,14 @@
             "ganasteis",
             "ganaron"
         ],
+        "presente-progresivo": [
+            "estoy ganando",
+            "estás ganando",
+            "está ganando",
+            "estamos ganando",
+            "estáis ganando",
+            "están ganando"
+        ],
         "dutch": "winnen, verdienen"
     },
     {
@@ -3356,6 +4308,14 @@
             "aparecimos",
             "aparecisteis",
             "aparecieron"
+        ],
+        "presente-progresivo": [
+            "estoy apareciendo",
+            "estás apareciendo",
+            "está apareciendo",
+            "estamos apareciendo",
+            "estáis apareciendo",
+            "están apareciendo"
         ],
         "dutch": "verschijnen, tevoorschijn komen"
     },
@@ -3385,6 +4345,14 @@
             "reposasteis",
             "reposaron"
         ],
+        "presente-progresivo": [
+            "estoy reposando",
+            "estás reposando",
+            "está reposando",
+            "estamos reposando",
+            "estáis reposando",
+            "están reposando"
+        ],
         "dutch": "rusten, laten rusten (fysiek)"
     },
     {
@@ -3412,6 +4380,14 @@
             "nos relajamos",
             "os relajasteis",
             "se relajaron"
+        ],
+        "presente-progresivo": [
+            "me estoy relajando",
+            "te estás relajando",
+            "se está relajando",
+            "nos estamos relajando",
+            "os estáis relajando",
+            "se están relajando"
         ],
         "dutch": "ontspannen, zich ontspannen"
     },
@@ -3441,6 +4417,14 @@
             "limpiasteis",
             "limpiaron"
         ],
+        "presente-progresivo": [
+            "estoy limpiando",
+            "estás limpiando",
+            "está limpiando",
+            "estamos limpiando",
+            "estáis limpiando",
+            "están limpiando"
+        ],
         "dutch": "schoonmaken, reinigen"
     },
     {
@@ -3468,6 +4452,14 @@
             "marcamos",
             "marcasteis",
             "marcaron"
+        ],
+        "presente-progresivo": [
+            "estoy marcando",
+            "estás marcando",
+            "está marcando",
+            "estamos marcando",
+            "estáis marcando",
+            "están marcando"
         ],
         "dutch": "markeren, aanduiden, scoren"
     },
@@ -3497,6 +4489,14 @@
             "sobrevivisteis",
             "sobrevivieron"
         ],
+        "presente-progresivo": [
+            "estoy sobreviviendo",
+            "estás sobreviviendo",
+            "está sobreviviendo",
+            "estamos sobreviviendo",
+            "estáis sobreviviendo",
+            "están sobreviviendo"
+        ],
         "dutch": "overleven"
     },
     {
@@ -3524,6 +4524,14 @@
             "llevamos",
             "llevasteis",
             "llevaron"
+        ],
+        "presente-progresivo": [
+            "estoy llevando",
+            "estás llevando",
+            "está llevando",
+            "estamos llevando",
+            "estáis llevando",
+            "están llevando"
         ],
         "dutch": "dragen, bevatten, naar ergens wegbrengen of meenemen"
     },
@@ -3553,6 +4561,14 @@
             "disfrutasteis",
             "disfrutaron"
         ],
+        "presente-progresivo": [
+            "estoy disfrutando",
+            "estás disfrutando",
+            "está disfrutando",
+            "estamos disfrutando",
+            "estáis disfrutando",
+            "están disfrutando"
+        ],
         "dutch": "genieten"
     },
     {
@@ -3580,6 +4596,14 @@
             "empezamos",
             "empezasteis",
             "empezaron"
+        ],
+        "presente-progresivo": [
+            "estoy empezando",
+            "estás empezando",
+            "está empezando",
+            "estamos empezando",
+            "estáis empezando",
+            "están empezando"
         ],
         "dutch": "beginnen, starten (minder formeel)"
     },
@@ -3609,6 +4633,14 @@
             "comenzasteis",
             "comenzaron"
         ],
+        "presente-progresivo": [
+            "estoy comenzando",
+            "estás comenzando",
+            "está comenzando",
+            "estamos comenzando",
+            "estáis comenzando",
+            "están comenzando"
+        ],
         "dutch": "beginnen, starten (formeler)"
     },
     {
@@ -3636,6 +4668,14 @@
             "cerramos",
             "cerrasteis",
             "cerraron"
+        ],
+        "presente-progresivo": [
+            "estoy cerrando",
+            "estás cerrando",
+            "está cerrando",
+            "estamos cerrando",
+            "estáis cerrando",
+            "están cerrando"
         ],
         "dutch": "sluiten"
     },
@@ -3665,6 +4705,14 @@
             "secasteis",
             "secaron"
         ],
+        "presente-progresivo": [
+            "estoy secando",
+            "estás secando",
+            "está secando",
+            "estamos secando",
+            "estáis secando",
+            "están secando"
+        ],
         "dutch": "drogen"
     },
     {
@@ -3692,6 +4740,14 @@
             "lavamos",
             "lavasteis",
             "lavaron"
+        ],
+        "presente-progresivo": [
+            "estoy lavando",
+            "estás lavando",
+            "está lavando",
+            "estamos lavando",
+            "estáis lavando",
+            "están lavando"
         ],
         "dutch": "wassen"
     },
@@ -3721,6 +4777,14 @@
             "os lavasteis",
             "se lavaron"
         ],
+        "presente-progresivo": [
+            "me estoy lavando",
+            "te estás lavando",
+            "se está lavando",
+            "nos estamos lavando",
+            "os estáis lavando",
+            "se están lavando"
+        ],
         "dutch": "zich wassen"
     },
     {
@@ -3748,6 +4812,14 @@
             "negamos",
             "negasteis",
             "negaron"
+        ],
+        "presente-progresivo": [
+            "estoy negando",
+            "estás negando",
+            "está negando",
+            "estamos negando",
+            "estáis negando",
+            "están negando"
         ],
         "dutch": "een feit of beschuldiging ontkennen, een toestemming weigeren"
     },
@@ -3777,6 +4849,14 @@
             "preferisteis",
             "prefirieron"
         ],
+        "presente-progresivo": [
+            "estoy prefiriendo",
+            "estás prefiriendo",
+            "está prefiriendo",
+            "estamos prefiriendo",
+            "estáis prefiriendo",
+            "están prefiriendo"
+        ],
         "dutch": "verkiezen, liever hebben, prefereren"
     },
     {
@@ -3804,6 +4884,14 @@
             "ayudamos",
             "ayudasteis",
             "ayudaron"
+        ],
+        "presente-progresivo": [
+            "estoy ayudando",
+            "estás ayudando",
+            "está ayudando",
+            "estamos ayudando",
+            "estáis ayudando",
+            "están ayudando"
         ],
         "dutch": "helpen"
     },
@@ -3833,6 +4921,14 @@
             "alquilasteis",
             "alquilaron"
         ],
+        "presente-progresivo": [
+            "estoy alquilando",
+            "estás alquilando",
+            "está alquilando",
+            "estamos alquilando",
+            "estáis alquilando",
+            "están alquilando"
+        ],
         "dutch": "huren"
     },
     {
@@ -3860,6 +4956,14 @@
             "condujimos",
             "condujisteis",
             "condujeron"
+        ],
+        "presente-progresivo": [
+            "estoy conduciendo",
+            "estás conduciendo",
+            "está conduciendo",
+            "estamos conduciendo",
+            "estáis conduciendo",
+            "están conduciendo"
         ],
         "dutch": "rijden, besturen"
     },
@@ -3889,6 +4993,14 @@
             "deseasteis",
             "desearon"
         ],
+        "presente-progresivo": [
+            "estoy deseando",
+            "estás deseando",
+            "está deseando",
+            "estamos deseando",
+            "estáis deseando",
+            "están deseando"
+        ],
         "dutch": "wensen"
     },
     {
@@ -3916,6 +5028,14 @@
             "miramos",
             "mirasteis",
             "miraron"
+        ],
+        "presente-progresivo": [
+            "estoy mirando",
+            "estás mirando",
+            "está mirando",
+            "estamos mirando",
+            "estáis mirando",
+            "están mirando"
         ],
         "dutch": "kijken, bekijken"
     },
@@ -3945,6 +5065,14 @@
             "os llevasteis",
             "se llevaron"
         ],
+        "presente-progresivo": [
+            "me estoy llevando",
+            "te estás llevando",
+            "se está llevando",
+            "nos estamos llevando",
+            "os estáis llevando",
+            "se están llevando"
+        ],
         "dutch": "meenemen"
     },
     {
@@ -3972,6 +5100,14 @@
             "usamos",
             "usasteis",
             "usaron"
+        ],
+        "presente-progresivo": [
+            "estoy usando",
+            "estás usando",
+            "está usando",
+            "estamos usando",
+            "estáis usando",
+            "están usando"
         ],
         "dutch": "gebruiken"
     },
@@ -4001,6 +5137,14 @@
             "comparasteis",
             "compararon"
         ],
+        "presente-progresivo": [
+            "estoy comparando",
+            "estás comparando",
+            "está comparando",
+            "estamos comparando",
+            "estáis comparando",
+            "están comparando"
+        ],
         "dutch": "vergelijken"
     },
     {
@@ -4028,6 +5172,14 @@
             "rompimos",
             "rompisteis",
             "rompieron"
+        ],
+        "presente-progresivo": [
+            "estoy rompiendo",
+            "estás rompiendo",
+            "está rompiendo",
+            "estamos rompiendo",
+            "estáis rompiendo",
+            "están rompiendo"
         ],
         "dutch": "stukmaken, breken"
     },
@@ -4057,6 +5209,14 @@
             "os sentasteis",
             "se sentaron"
         ],
+        "presente-progresivo": [
+            "me estoy sentando",
+            "te estás sentando",
+            "se está sentando",
+            "nos estamos sentando",
+            "os estáis sentando",
+            "se están sentando"
+        ],
         "dutch": "gaan zitten, zitten"
     },
     {
@@ -4084,6 +5244,14 @@
             "volamos",
             "volasteis",
             "volaron"
+        ],
+        "presente-progresivo": [
+            "estoy volando",
+            "estás volando",
+            "está volando",
+            "estamos volando",
+            "estáis volando",
+            "están volando"
         ],
         "dutch": "vliegen"
     },
@@ -4113,6 +5281,14 @@
             "disteis",
             "dieron"
         ],
+        "presente-progresivo": [
+            "estoy dando",
+            "estás dando",
+            "está dando",
+            "estamos dando",
+            "estáis dando",
+            "están dando"
+        ],
         "dutch": "geven"
     },
     {
@@ -4140,6 +5316,14 @@
             "robamos",
             "robasteis",
             "robaron"
+        ],
+        "presente-progresivo": [
+            "estoy robando",
+            "estás robando",
+            "está robando",
+            "estamos robando",
+            "estáis robando",
+            "están robando"
         ],
         "dutch": "stelen, roven"
     },
@@ -4169,6 +5353,14 @@
             "os olvidasteis",
             "se olvidaron"
         ],
+        "presente-progresivo": [
+            "me estoy olvidando",
+            "te estás olvidando",
+            "se está olvidando",
+            "nos estamos olvidando",
+            "os estáis olvidando",
+            "se están olvidando"
+        ],
         "dutch": "iets vergeten"
     },
     {
@@ -4196,6 +5388,14 @@
             "olvidamos",
             "olvidasteis",
             "olvidaron"
+        ],
+        "presente-progresivo": [
+            "estoy olvidando",
+            "estás olvidando",
+            "está olvidando",
+            "estamos olvidando",
+            "estáis olvidando",
+            "están olvidando"
         ],
         "dutch": "vergeten"
     },
@@ -4225,6 +5425,14 @@
             "seguisteis",
             "siguieron"
         ],
+        "presente-progresivo": [
+            "estoy siguiendo",
+            "estás siguiendo",
+            "está siguiendo",
+            "estamos siguiendo",
+            "estáis siguiendo",
+            "están siguiendo"
+        ],
         "dutch": "volgen, doorgaan, blijven doen"
     },
     {
@@ -4252,6 +5460,14 @@
             "esperamos",
             "esperasteis",
             "esperaron"
+        ],
+        "presente-progresivo": [
+            "estoy esperando",
+            "estás esperando",
+            "está esperando",
+            "estamos esperando",
+            "estáis esperando",
+            "están esperando"
         ],
         "dutch": "wachten, hopen, verwachten"
     },
@@ -4281,6 +5497,14 @@
             "parecisteis",
             "parecieron"
         ],
+        "presente-progresivo": [
+            "estoy pareciendo",
+            "estás pareciendo",
+            "está pareciendo",
+            "estamos pareciendo",
+            "estáis pareciendo",
+            "están pareciendo"
+        ],
         "dutch": "lijken, schijnen (subjectieve indruk of mening)"
     },
     {
@@ -4308,6 +5532,14 @@
             "pensamos",
             "pensasteis",
             "pensaron"
+        ],
+        "presente-progresivo": [
+            "estoy pensando",
+            "estás pensando",
+            "está pensando",
+            "estamos pensando",
+            "estáis pensando",
+            "están pensando"
         ],
         "dutch": "denken aan"
     },
@@ -4337,6 +5569,14 @@
             "esquiasteis",
             "esquiaron"
         ],
+        "presente-progresivo": [
+            "estoy esquiando",
+            "estás esquiando",
+            "está esquiando",
+            "estamos esquiando",
+            "estáis esquiando",
+            "están esquiando"
+        ],
         "dutch": "skiën"
     },
     {
@@ -4364,6 +5604,14 @@
             "nos levantamos",
             "os levantasteis",
             "se levantaron"
+        ],
+        "presente-progresivo": [
+            "me estoy levantando",
+            "te estás levantando",
+            "se está levantando",
+            "nos estamos levantando",
+            "os estáis levantando",
+            "se están levantando"
         ],
         "dutch": "opstaan"
     },
@@ -4393,6 +5641,14 @@
             "os sentisteis",
             "se sintieron"
         ],
+        "presente-progresivo": [
+            "me estoy sintiendo",
+            "te estás sintiendo",
+            "se está sintiendo",
+            "nos estamos sintiendo",
+            "os estáis sintiendo",
+            "se están sintiendo"
+        ],
         "dutch": "zich voelen"
     },
     {
@@ -4420,6 +5676,14 @@
             "nos acostamos",
             "os acostasteis",
             "se acostaron"
+        ],
+        "presente-progresivo": [
+            "me estoy acostando",
+            "te estás acostando",
+            "se está acostando",
+            "nos estamos acostando",
+            "os estáis acostando",
+            "se están acostando"
         ],
         "dutch": "gaan slapen"
     },
@@ -4449,6 +5713,14 @@
             "madrugasteis",
             "madrugaron"
         ],
+        "presente-progresivo": [
+            "estoy madrugando",
+            "estás madrugando",
+            "está madrugando",
+            "estamos madrugando",
+            "estáis madrugando",
+            "están madrugando"
+        ],
         "dutch": "vroeg opstaan"
     },
     {
@@ -4476,6 +5748,14 @@
             "odiamos",
             "odiasteis",
             "odiaron"
+        ],
+        "presente-progresivo": [
+            "estoy odiando",
+            "estás odiando",
+            "está odiando",
+            "estamos odiando",
+            "estáis odiando",
+            "están odiando"
         ],
         "dutch": "haten"
     },
@@ -4505,6 +5785,14 @@
             "cuidasteis",
             "cuidaron"
         ],
+        "presente-progresivo": [
+            "estoy cuidando",
+            "estás cuidando",
+            "está cuidando",
+            "estamos cuidando",
+            "estáis cuidando",
+            "están cuidando"
+        ],
         "dutch": "zorgen voor, verzorgen"
     },
     {
@@ -4532,6 +5820,14 @@
             "fumamos",
             "fumasteis",
             "fumaron"
+        ],
+        "presente-progresivo": [
+            "estoy fumando",
+            "estás fumando",
+            "está fumando",
+            "estamos fumando",
+            "estáis fumando",
+            "están fumando"
         ],
         "dutch": "roken"
     },
@@ -4561,6 +5857,14 @@
             "os fuisteis",
             "se fueron"
         ],
+        "presente-progresivo": [
+            "me estoy yendo",
+            "te estás yendo",
+            "se está yendo",
+            "nos estamos yendo",
+            "os estáis yendo",
+            "se están yendo"
+        ],
         "dutch": "weggaan, vertrekken"
     },
     {
@@ -4588,6 +5892,14 @@
             "servimos",
             "servisteis",
             "sirvieron"
+        ],
+        "presente-progresivo": [
+            "estoy sirviendo",
+            "estás sirviendo",
+            "está sirviendo",
+            "estamos sirviendo",
+            "estáis sirviendo",
+            "están sirviendo"
         ],
         "dutch": "serveren, opdienen, eten opscheppen"
     },
@@ -4617,6 +5929,14 @@
             "ocurristeis",
             "ocurrieron"
         ],
+        "presente-progresivo": [
+            "estoy ocurriendo",
+            "estás ocurriendo",
+            "está ocurriendo",
+            "estamos ocurriendo",
+            "estáis ocurriendo",
+            "están ocurriendo"
+        ],
         "dutch": "gebeuren, plaatsvinden"
     },
     {
@@ -4644,6 +5964,14 @@
             "descansamos",
             "descansasteis",
             "descansaron"
+        ],
+        "presente-progresivo": [
+            "estoy descansando",
+            "estás descansando",
+            "está descansando",
+            "estamos descansando",
+            "estáis descansando",
+            "están descansando"
         ],
         "dutch": "uitrusten (rust nemen, ontspannen)"
     },
@@ -4673,6 +6001,14 @@
             "os duchasteis",
             "se ducharon"
         ],
+        "presente-progresivo": [
+            "me estoy duchando",
+            "te estás duchando",
+            "se está duchando",
+            "nos estamos duchando",
+            "os estáis duchando",
+            "se están duchando"
+        ],
         "dutch": "zich douchen"
     },
     {
@@ -4700,6 +6036,14 @@
             "celebramos",
             "celebrasteis",
             "celebraron"
+        ],
+        "presente-progresivo": [
+            "estoy celebrando",
+            "estás celebrando",
+            "está celebrando",
+            "estamos celebrando",
+            "estáis celebrando",
+            "están celebrando"
         ],
         "dutch": "vieren"
     },
@@ -4729,6 +6073,14 @@
             "preparasteis",
             "prepararon"
         ],
+        "presente-progresivo": [
+            "estoy preparando",
+            "estás preparando",
+            "está preparando",
+            "estamos preparando",
+            "estáis preparando",
+            "están preparando"
+        ],
         "dutch": "voorbereiden, klaarmaken"
     },
     {
@@ -4756,6 +6108,14 @@
             "nos despertamos",
             "os despertasteis",
             "se despertaron"
+        ],
+        "presente-progresivo": [
+            "me estoy despertando",
+            "te estás despertando",
+            "se está despertando",
+            "nos estamos despertando",
+            "os estáis despertando",
+            "se están despertando"
         ],
         "dutch": "wakker worden"
     },
@@ -4785,6 +6145,14 @@
             "os vestisteis",
             "se vistieron"
         ],
+        "presente-progresivo": [
+            "me estoy vistiendo",
+            "te estás vistiendo",
+            "se está vistiendo",
+            "nos estamos vistiendo",
+            "os estáis vistiendo",
+            "se están vistiendo"
+        ],
         "dutch": "zich kleden in, zich aankleden in"
     },
     {
@@ -4812,6 +6180,14 @@
             "animamos",
             "animasteis",
             "animaron"
+        ],
+        "presente-progresivo": [
+            "estoy animando",
+            "estás animando",
+            "está animando",
+            "estamos animando",
+            "estáis animando",
+            "están animando"
         ],
         "dutch": "aanmoedigen, opvrolijken, bemoedigen"
     },
@@ -4841,6 +6217,14 @@
             "os reunisteis",
             "se reunieron"
         ],
+        "presente-progresivo": [
+            "me estoy reuniendo",
+            "te estás reuniendo",
+            "se está reuniendo",
+            "nos estamos reuniendo",
+            "os estáis reuniendo",
+            "se están reuniendo"
+        ],
         "dutch": "bijeenkomen, samenkomen, vergaderen"
     },
     {
@@ -4868,6 +6252,14 @@
             "participamos",
             "participasteis",
             "participaron"
+        ],
+        "presente-progresivo": [
+            "estoy participando",
+            "estás participando",
+            "está participando",
+            "estamos participando",
+            "estáis participando",
+            "están participando"
         ],
         "dutch": "deelnemen"
     },
@@ -4897,6 +6289,14 @@
             "adornasteis",
             "adornaron"
         ],
+        "presente-progresivo": [
+            "estoy adornando",
+            "estás adornando",
+            "está adornando",
+            "estamos adornando",
+            "estáis adornando",
+            "están adornando"
+        ],
         "dutch": "versieren"
     },
     {
@@ -4924,6 +6324,14 @@
             "compartimos",
             "compartisteis",
             "compartieron"
+        ],
+        "presente-progresivo": [
+            "estoy compartiendo",
+            "estás compartiendo",
+            "está compartiendo",
+            "estamos compartiendo",
+            "estáis compartiendo",
+            "están compartiendo"
         ],
         "dutch": "delen"
     },
@@ -4953,6 +6361,14 @@
             "meditasteis",
             "meditaron"
         ],
+        "presente-progresivo": [
+            "estoy meditando",
+            "estás meditando",
+            "está meditando",
+            "estamos meditando",
+            "estáis meditando",
+            "están meditando"
+        ],
         "dutch": "mediteren, overdenken"
     },
     {
@@ -4980,6 +6396,14 @@
             "desconectamos",
             "desconectasteis",
             "desconectaron"
+        ],
+        "presente-progresivo": [
+            "estoy desconectando",
+            "estás desconectando",
+            "está desconectando",
+            "estamos desconectando",
+            "estáis desconectando",
+            "están desconectando"
         ],
         "dutch": "ontspannen, loskomen, ontkoppelen"
     },
@@ -5009,6 +6433,14 @@
             "entregasteis",
             "entregaron"
         ],
+        "presente-progresivo": [
+            "estoy entregando",
+            "estás entregando",
+            "está entregando",
+            "estamos entregando",
+            "estáis entregando",
+            "están entregando"
+        ],
         "dutch": "afleveren, overhandigen, inleveren"
     },
     {
@@ -5036,6 +6468,14 @@
             "quedamos",
             "quedasteis",
             "quedaron"
+        ],
+        "presente-progresivo": [
+            "estoy quedando",
+            "estás quedando",
+            "está quedando",
+            "estamos quedando",
+            "estáis quedando",
+            "están quedando"
         ],
         "dutch": "afspreken met"
     },
@@ -5065,6 +6505,14 @@
             "dormisteis",
             "durmieron"
         ],
+        "presente-progresivo": [
+            "estoy durmiendo",
+            "estás durmiendo",
+            "está durmiendo",
+            "estamos durmiendo",
+            "estáis durmiendo",
+            "están durmiendo"
+        ],
         "dutch": "slapen"
     },
     {
@@ -5092,6 +6540,14 @@
             "merendamos",
             "merendasteis",
             "merendaron"
+        ],
+        "presente-progresivo": [
+            "estoy merendando",
+            "estás merendando",
+            "está merendando",
+            "estamos merendando",
+            "estáis merendando",
+            "están merendando"
         ],
         "dutch": "snack of tussendoortje eten rond 16 uur"
     },
@@ -5121,6 +6577,14 @@
             "pedisteis",
             "pidieron"
         ],
+        "presente-progresivo": [
+            "estoy pidiendo",
+            "estás pidiendo",
+            "está pidiendo",
+            "estamos pidiendo",
+            "estáis pidiendo",
+            "están pidiendo"
+        ],
         "dutch": "bestellen, vragen, verzoeken"
     },
     {
@@ -5148,6 +6612,14 @@
             "nos quedamos",
             "os quedasteis",
             "se quedaron"
+        ],
+        "presente-progresivo": [
+            "me estoy quedando",
+            "te estás quedando",
+            "se está quedando",
+            "nos estamos quedando",
+            "os estáis quedando",
+            "se están quedando"
         ],
         "dutch": "thuisblijven, blijven in, verblijven in"
     },
@@ -5177,6 +6649,14 @@
             "os cuidasteis",
             "se cuidaron"
         ],
+        "presente-progresivo": [
+            "me estoy cuidando",
+            "te estás cuidando",
+            "se está cuidando",
+            "nos estamos cuidando",
+            "os estáis cuidando",
+            "se están cuidando"
+        ],
         "dutch": "voor jezelf zorgen, jezelf verzorgen, op jezelf letten"
     },
     {
@@ -5204,6 +6684,14 @@
             "picamos",
             "picasteis",
             "picaron"
+        ],
+        "presente-progresivo": [
+            "estoy picando",
+            "estás picando",
+            "está picando",
+            "estamos picando",
+            "estáis picando",
+            "están picando"
         ],
         "dutch": "hapjes eten, prikken, jeuken"
     },
@@ -5233,6 +6721,14 @@
             "propusisteis",
             "propusieron"
         ],
+        "presente-progresivo": [
+            "estoy proponiendo",
+            "estás proponiendo",
+            "está proponiendo",
+            "estamos proponiendo",
+            "estáis proponiendo",
+            "están proponiendo"
+        ],
         "dutch": "voorstellen, een voorstel doen"
     },
     {
@@ -5260,6 +6756,14 @@
             "justificamos",
             "justificasteis",
             "justificaron"
+        ],
+        "presente-progresivo": [
+            "estoy justificando",
+            "estás justificando",
+            "está justificando",
+            "estamos justificando",
+            "estáis justificando",
+            "están justificando"
         ],
         "dutch": "rechtvaardigen, verantwoorden, bewijzen"
     },
@@ -5289,6 +6793,14 @@
             "probasteis",
             "probaron"
         ],
+        "presente-progresivo": [
+            "estoy probando",
+            "estás probando",
+            "está probando",
+            "estamos probando",
+            "estáis probando",
+            "están probando"
+        ],
         "dutch": "proberen, proeven, testen"
     },
     {
@@ -5316,6 +6828,14 @@
             "nos secamos",
             "os secasteis",
             "se secaron"
+        ],
+        "presente-progresivo": [
+            "me estoy secando",
+            "te estás secando",
+            "se está secando",
+            "nos estamos secando",
+            "os estáis secando",
+            "se están secando"
         ],
         "dutch": "zich drogen"
     },
@@ -5345,6 +6865,14 @@
             "os bañasteis",
             "se bañaron"
         ],
+        "presente-progresivo": [
+            "me estoy bañando",
+            "te estás bañando",
+            "se está bañando",
+            "nos estamos bañando",
+            "os estáis bañando",
+            "se están bañando"
+        ],
         "dutch": "zich baden"
     },
     {
@@ -5372,6 +6900,14 @@
             "nos peinamos",
             "os peinasteis",
             "se peinaron"
+        ],
+        "presente-progresivo": [
+            "me estoy peinando",
+            "te estás peinando",
+            "se está peinando",
+            "nos estamos peinando",
+            "os estáis peinando",
+            "se están peinando"
         ],
         "dutch": "zich kammen"
     },
@@ -5401,6 +6937,14 @@
             "os cepillasteis",
             "se cepillaron"
         ],
+        "presente-progresivo": [
+            "me estoy cepillando",
+            "te estás cepillando",
+            "se está cepillando",
+            "nos estamos cepillando",
+            "os estáis cepillando",
+            "se están cepillando"
+        ],
         "dutch": "zich borstellen"
     },
     {
@@ -5428,6 +6972,14 @@
             "nos afeitamos",
             "os afeitasteis",
             "se afeitaron"
+        ],
+        "presente-progresivo": [
+            "me estoy afeitando",
+            "te estás afeitando",
+            "se está afeitando",
+            "nos estamos afeitando",
+            "os estáis afeitando",
+            "se están afeitando"
         ],
         "dutch": "zich scheren"
     },
@@ -5457,6 +7009,14 @@
             "os maquillasteis",
             "se maquillaron"
         ],
+        "presente-progresivo": [
+            "me estoy maquillando",
+            "te estás maquillando",
+            "se está maquillando",
+            "nos estamos maquillando",
+            "os estáis maquillando",
+            "se están maquillando"
+        ],
         "dutch": "zich maquilleren"
     },
     {
@@ -5484,6 +7044,14 @@
             "recordamos",
             "recordasteis",
             "recordaron"
+        ],
+        "presente-progresivo": [
+            "estoy recordando",
+            "estás recordando",
+            "está recordando",
+            "estamos recordando",
+            "estáis recordando",
+            "están recordando"
         ],
         "dutch": "herinneren, zich herinneren, onthouden (neutraal, gebruikelijk)"
     },
@@ -5513,6 +7081,14 @@
             "terminasteis",
             "terminaron"
         ],
+        "presente-progresivo": [
+            "estoy terminando",
+            "estás terminando",
+            "está terminando",
+            "estamos terminando",
+            "estáis terminando",
+            "están terminando"
+        ],
         "dutch": "beëindigen, afsluiten, voltooien (bewust afsluiten)"
     },
     {
@@ -5540,6 +7116,14 @@
             "aceptamos",
             "aceptasteis",
             "aceptaron"
+        ],
+        "presente-progresivo": [
+            "estoy aceptando",
+            "estás aceptando",
+            "está aceptando",
+            "estamos aceptando",
+            "estáis aceptando",
+            "están aceptando"
         ],
         "dutch": "accepteren, aanvaarden"
     },
@@ -5569,6 +7153,14 @@
             "rechazasteis",
             "rechazaron"
         ],
+        "presente-progresivo": [
+            "estoy rechazando",
+            "estás rechazando",
+            "está rechazando",
+            "estamos rechazando",
+            "estáis rechazando",
+            "están rechazando"
+        ],
         "dutch": "een voorstel/aanbod/persoon afwijzen, weigeren, verwerpen"
     },
     {
@@ -5596,6 +7188,14 @@
             "perdimos",
             "perdisteis",
             "perdieron"
+        ],
+        "presente-progresivo": [
+            "estoy perdiendo",
+            "estás perdiendo",
+            "está perdiendo",
+            "estamos perdiendo",
+            "estáis perdiendo",
+            "están perdiendo"
         ],
         "dutch": "verliezen"
     },
@@ -5625,6 +7225,14 @@
             "recibisteis",
             "recibieron"
         ],
+        "presente-progresivo": [
+            "estoy recibiendo",
+            "estás recibiendo",
+            "está recibiendo",
+            "estamos recibiendo",
+            "estáis recibiendo",
+            "están recibiendo"
+        ],
         "dutch": "ontvangen"
     },
     {
@@ -5652,6 +7260,14 @@
             "trajimos",
             "trajisteis",
             "trajeron"
+        ],
+        "presente-progresivo": [
+            "estoy trayendo",
+            "estás trayendo",
+            "está trayendo",
+            "estamos trayendo",
+            "estáis trayendo",
+            "están trayendo"
         ],
         "dutch": "meebrengen, brengen (naar de spreker toe)"
     },
@@ -5681,6 +7297,14 @@
             "imaginasteis",
             "imaginaron"
         ],
+        "presente-progresivo": [
+            "estoy imaginando",
+            "estás imaginando",
+            "está imaginando",
+            "estamos imaginando",
+            "estáis imaginando",
+            "están imaginando"
+        ],
         "dutch": "voorstellen, zich voorstellen, verbeelden"
     },
     {
@@ -5708,6 +7332,14 @@
             "conectamos",
             "conectasteis",
             "conectaron"
+        ],
+        "presente-progresivo": [
+            "estoy conectando",
+            "estás conectando",
+            "está conectando",
+            "estamos conectando",
+            "estáis conectando",
+            "están conectando"
         ],
         "dutch": "verbinden, aansluiten, contact maken"
     },
@@ -5737,6 +7369,14 @@
             "reciclasteis",
             "reciclaron"
         ],
+        "presente-progresivo": [
+            "estoy reciclando",
+            "estás reciclando",
+            "está reciclando",
+            "estamos reciclando",
+            "estáis reciclando",
+            "están reciclando"
+        ],
         "dutch": "recycleren"
     },
     {
@@ -5764,6 +7404,14 @@
             "giramos",
             "girasteis",
             "giraron"
+        ],
+        "presente-progresivo": [
+            "estoy girando",
+            "estás girando",
+            "está girando",
+            "estamos girando",
+            "estáis girando",
+            "están girando"
         ],
         "dutch": "draaien"
     },
@@ -5793,6 +7441,14 @@
             "regresasteis",
             "regresaron"
         ],
+        "presente-progresivo": [
+            "estoy regresando",
+            "estás regresando",
+            "está regresando",
+            "estamos regresando",
+            "estáis regresando",
+            "están regresando"
+        ],
         "dutch": "fysiek terugkeren, teruggaan, terugkomen naar een plaats"
     },
     {
@@ -5820,6 +7476,14 @@
             "cocimos",
             "cocisteis",
             "cocieron"
+        ],
+        "presente-progresivo": [
+            "estoy cociendo",
+            "estás cociendo",
+            "está cociendo",
+            "estamos cociendo",
+            "estáis cociendo",
+            "están cociendo"
         ],
         "dutch": "in water koken, garen"
     },
@@ -5849,6 +7513,14 @@
             "hervisteis",
             "hirvieron"
         ],
+        "presente-progresivo": [
+            "estoy hirviendo",
+            "estás hirviendo",
+            "está hirviendo",
+            "estamos hirviendo",
+            "estáis hirviendo",
+            "están hirviendo"
+        ],
         "dutch": "water koken"
     },
     {
@@ -5876,6 +7548,14 @@
             "recalentamos",
             "recalentasteis",
             "recalentaron"
+        ],
+        "presente-progresivo": [
+            "estoy recalentando",
+            "estás recalentando",
+            "está recalentando",
+            "estamos recalentando",
+            "estáis recalentando",
+            "están recalentando"
         ],
         "dutch": "heropwarmen"
     },
@@ -5905,6 +7585,14 @@
             "sacasteis",
             "sacaron"
         ],
+        "presente-progresivo": [
+            "estoy sacando",
+            "estás sacando",
+            "está sacando",
+            "estamos sacando",
+            "estáis sacando",
+            "están sacando"
+        ],
         "dutch": "uitnemen, eruit halen, naar buiten brengen, opslaan"
     },
     {
@@ -5932,6 +7620,14 @@
             "tomamos",
             "tomasteis",
             "tomaron"
+        ],
+        "presente-progresivo": [
+            "estoy tomando",
+            "estás tomando",
+            "está tomando",
+            "estamos tomando",
+            "estáis tomando",
+            "están tomando"
         ],
         "dutch": "nemen, drinken, innemen"
     },
@@ -5961,6 +7657,14 @@
             "dudasteis",
             "dudaron"
         ],
+        "presente-progresivo": [
+            "estoy dudando",
+            "estás dudando",
+            "está dudando",
+            "estamos dudando",
+            "estáis dudando",
+            "están dudando"
+        ],
         "dutch": "twijfelen"
     },
     {
@@ -5988,6 +7692,14 @@
             "anotamos",
             "anotasteis",
             "anotaron"
+        ],
+        "presente-progresivo": [
+            "estoy anotando",
+            "estás anotando",
+            "está anotando",
+            "estamos anotando",
+            "estáis anotando",
+            "están anotando"
         ],
         "dutch": "noteren, iets opschrijven (formeel)"
     },
@@ -6017,6 +7729,14 @@
             "aprobasteis",
             "aprobaron"
         ],
+        "presente-progresivo": [
+            "estoy aprobando",
+            "estás aprobando",
+            "está aprobando",
+            "estamos aprobando",
+            "estáis aprobando",
+            "están aprobando"
+        ],
         "dutch": "goedkeuren, slagen voor een examen"
     },
     {
@@ -6044,6 +7764,14 @@
             "dejamos",
             "dejasteis",
             "dejaron"
+        ],
+        "presente-progresivo": [
+            "estoy dejando",
+            "estás dejando",
+            "está dejando",
+            "estamos dejando",
+            "estáis dejando",
+            "están dejando"
         ],
         "dutch": "achterlaten, laten"
     },
@@ -6073,6 +7801,14 @@
             "levantasteis",
             "levantaron"
         ],
+        "presente-progresivo": [
+            "estoy levantando",
+            "estás levantando",
+            "está levantando",
+            "estamos levantando",
+            "estáis levantando",
+            "están levantando"
+        ],
         "dutch": "optillen, opheffen"
     },
     {
@@ -6100,6 +7836,14 @@
             "atendimos",
             "atendisteis",
             "atendieron"
+        ],
+        "presente-progresivo": [
+            "estoy atendiendo",
+            "estás atendiendo",
+            "está atendiendo",
+            "estamos atendiendo",
+            "estáis atendiendo",
+            "están atendiendo"
         ],
         "dutch": "bedienen, helpen, te woord staan"
     },
@@ -6129,6 +7873,14 @@
             "os casasteis",
             "se casaron"
         ],
+        "presente-progresivo": [
+            "me estoy casando",
+            "te estás casando",
+            "se está casando",
+            "nos estamos casando",
+            "os estáis casando",
+            "se están casando"
+        ],
         "dutch": "trouwen met"
     },
     {
@@ -6156,6 +7908,14 @@
             "colocamos",
             "colocasteis",
             "colocaron"
+        ],
+        "presente-progresivo": [
+            "estoy colocando",
+            "estás colocando",
+            "está colocando",
+            "estamos colocando",
+            "estáis colocando",
+            "están colocando"
         ],
         "dutch": "plaatsen, neerzetten"
     },
@@ -6185,6 +7945,14 @@
             "consististeis",
             "consistieron"
         ],
+        "presente-progresivo": [
+            "estoy consistiendo",
+            "estás consistiendo",
+            "está consistiendo",
+            "estamos consistiendo",
+            "estáis consistiendo",
+            "están consistiendo"
+        ],
         "dutch": "bestaan uit"
     },
     {
@@ -6212,6 +7980,14 @@
             "continuamos",
             "continuasteis",
             "continuaron"
+        ],
+        "presente-progresivo": [
+            "estoy continuando",
+            "estás continuando",
+            "está continuando",
+            "estamos continuando",
+            "estáis continuando",
+            "están continuando"
         ],
         "dutch": "verderzetten"
     },
@@ -6241,6 +8017,14 @@
             "confundisteis",
             "confundieron"
         ],
+        "presente-progresivo": [
+            "estoy confundiendo",
+            "estás confundiendo",
+            "está confundiendo",
+            "estamos confundiendo",
+            "estáis confundiendo",
+            "están confundiendo"
+        ],
         "dutch": "verwarren, in de war brengen"
     },
     {
@@ -6268,6 +8052,14 @@
             "cosimos",
             "cosisteis",
             "cosieron"
+        ],
+        "presente-progresivo": [
+            "estoy cosiendo",
+            "estás cosiendo",
+            "está cosiendo",
+            "estamos cosiendo",
+            "estáis cosiendo",
+            "están cosiendo"
         ],
         "dutch": "naaien"
     },
@@ -6297,6 +8089,14 @@
             "criasteis",
             "criaron"
         ],
+        "presente-progresivo": [
+            "estoy criando",
+            "estás criando",
+            "está criando",
+            "estamos criando",
+            "estáis criando",
+            "están criando"
+        ],
         "dutch": "opvoeden, grootbrengen, fokken"
     },
     {
@@ -6324,6 +8124,14 @@
             "decidimos",
             "decidisteis",
             "decidieron"
+        ],
+        "presente-progresivo": [
+            "estoy decidiendo",
+            "estás decidiendo",
+            "está decidiendo",
+            "estamos decidiendo",
+            "estáis decidiendo",
+            "están decidiendo"
         ],
         "dutch": "beslissen"
     },
@@ -6353,6 +8161,14 @@
             "definisteis",
             "definieron"
         ],
+        "presente-progresivo": [
+            "estoy definiendo",
+            "estás definiendo",
+            "está definiendo",
+            "estamos definiendo",
+            "estáis definiendo",
+            "están definiendo"
+        ],
         "dutch": "definiëren"
     },
     {
@@ -6380,6 +8196,14 @@
             "dibujamos",
             "dibujasteis",
             "dibujaron"
+        ],
+        "presente-progresivo": [
+            "estoy dibujando",
+            "estás dibujando",
+            "está dibujando",
+            "estamos dibujando",
+            "estáis dibujando",
+            "están dibujando"
         ],
         "dutch": "tekenen"
     },
@@ -6409,6 +8233,14 @@
             "intentasteis",
             "intentaron"
         ],
+        "presente-progresivo": [
+            "estoy intentando",
+            "estás intentando",
+            "está intentando",
+            "estamos intentando",
+            "estáis intentando",
+            "están intentando"
+        ],
         "dutch": "proberen, een poging doen (moeite doen om iets te bereiken)"
     },
     {
@@ -6436,6 +8268,14 @@
             "mentimos",
             "mentisteis",
             "mintieron"
+        ],
+        "presente-progresivo": [
+            "estoy mintiendo",
+            "estás mintiendo",
+            "está mintiendo",
+            "estamos mintiendo",
+            "estáis mintiendo",
+            "están mintiendo"
         ],
         "dutch": "liegen"
     },
@@ -6465,6 +8305,14 @@
             "patinasteis",
             "patinaron"
         ],
+        "presente-progresivo": [
+            "estoy patinando",
+            "estás patinando",
+            "está patinando",
+            "estamos patinando",
+            "estáis patinando",
+            "están patinando"
+        ],
         "dutch": "schaatsen"
     },
     {
@@ -6492,6 +8340,14 @@
             "plantamos",
             "plantasteis",
             "plantaron"
+        ],
+        "presente-progresivo": [
+            "estoy plantando",
+            "estás plantando",
+            "está plantando",
+            "estamos plantando",
+            "estáis plantando",
+            "están plantando"
         ],
         "dutch": "planten"
     },
@@ -6521,6 +8377,14 @@
             "quemasteis",
             "quemaron"
         ],
+        "presente-progresivo": [
+            "estoy quemando",
+            "estás quemando",
+            "está quemando",
+            "estamos quemando",
+            "estáis quemando",
+            "están quemando"
+        ],
         "dutch": "verbranden, in brand steken"
     },
     {
@@ -6548,6 +8412,14 @@
             "reparamos",
             "reparasteis",
             "repararon"
+        ],
+        "presente-progresivo": [
+            "estoy reparando",
+            "estás reparando",
+            "está reparando",
+            "estamos reparando",
+            "estáis reparando",
+            "están reparando"
         ],
         "dutch": "repareren, herstellen"
     },
@@ -6577,6 +8449,14 @@
             "añadisteis",
             "añadieron"
         ],
+        "presente-progresivo": [
+            "estoy añadiendo",
+            "estás añadiendo",
+            "está añadiendo",
+            "estamos añadiendo",
+            "estáis añadiendo",
+            "están añadiendo"
+        ],
         "dutch": "toevoegen"
     },
     {
@@ -6604,6 +8484,14 @@
             "regamos",
             "regasteis",
             "regaron"
+        ],
+        "presente-progresivo": [
+            "estoy regando",
+            "estás regando",
+            "está regando",
+            "estamos regando",
+            "estáis regando",
+            "están regando"
         ],
         "dutch": "water geven"
     },
@@ -6633,6 +8521,14 @@
             "medisteis",
             "midieron"
         ],
+        "presente-progresivo": [
+            "estoy midiendo",
+            "estás midiendo",
+            "está midiendo",
+            "estamos midiendo",
+            "estáis midiendo",
+            "están midiendo"
+        ],
         "dutch": "meten"
     },
     {
@@ -6660,6 +8556,14 @@
             "fregamos",
             "fregasteis",
             "fregaron"
+        ],
+        "presente-progresivo": [
+            "estoy fregando",
+            "estás fregando",
+            "está fregando",
+            "estamos fregando",
+            "estáis fregando",
+            "están fregando"
         ],
         "dutch": "schrobben, dweilen, afwassen"
     },
@@ -6689,6 +8593,14 @@
             "huisteis",
             "huyeron"
         ],
+        "presente-progresivo": [
+            "estoy huyendo",
+            "estás huyendo",
+            "está huyendo",
+            "estamos huyendo",
+            "estáis huyendo",
+            "están huyendo"
+        ],
         "dutch": "wegvluchten"
     },
     {
@@ -6716,6 +8628,14 @@
             "oímos",
             "oísteis",
             "oyeron"
+        ],
+        "presente-progresivo": [
+            "estoy oyendo",
+            "estás oyendo",
+            "está oyendo",
+            "estamos oyendo",
+            "estáis oyendo",
+            "están oyendo"
         ],
         "dutch": "horen"
     },
@@ -6745,6 +8665,14 @@
             "cruzasteis",
             "cruzaron"
         ],
+        "presente-progresivo": [
+            "estoy cruzando",
+            "estás cruzando",
+            "está cruzando",
+            "estamos cruzando",
+            "estáis cruzando",
+            "están cruzando"
+        ],
         "dutch": "oversteken"
     },
     {
@@ -6772,6 +8700,14 @@
             "abrimos",
             "abristeis",
             "abrieron"
+        ],
+        "presente-progresivo": [
+            "estoy abriendo",
+            "estás abriendo",
+            "está abriendo",
+            "estamos abriendo",
+            "estáis abriendo",
+            "están abriendo"
         ],
         "dutch": "openen"
     },
@@ -6801,6 +8737,14 @@
             "mordisteis",
             "mordieron"
         ],
+        "presente-progresivo": [
+            "estoy mordiendo",
+            "estás mordiendo",
+            "está mordiendo",
+            "estamos mordiendo",
+            "estáis mordiendo",
+            "están mordiendo"
+        ],
         "dutch": "bijten"
     },
     {
@@ -6828,6 +8772,14 @@
             "olimos",
             "olisteis",
             "olieron"
+        ],
+        "presente-progresivo": [
+            "estoy oliendo",
+            "estás oliendo",
+            "está oliendo",
+            "estamos oliendo",
+            "estáis oliendo",
+            "están oliendo"
         ],
         "dutch": "ruiken"
     },
@@ -6857,6 +8809,14 @@
             "sonasteis",
             "sonaron"
         ],
+        "presente-progresivo": [
+            "estoy sonando",
+            "estás sonando",
+            "está sonando",
+            "estamos sonando",
+            "estáis sonando",
+            "están sonando"
+        ],
         "dutch": "klinken, weerklinken"
     },
     {
@@ -6884,6 +8844,14 @@
             "encontramos",
             "encontrasteis",
             "encontraron"
+        ],
+        "presente-progresivo": [
+            "estoy encontrando",
+            "estás encontrando",
+            "está encontrando",
+            "estamos encontrando",
+            "estáis encontrando",
+            "están encontrando"
         ],
         "dutch": "vinden"
     },
@@ -6913,6 +8881,14 @@
             "tradujisteis",
             "tradujeron"
         ],
+        "presente-progresivo": [
+            "estoy traduciendo",
+            "estás traduciendo",
+            "está traduciendo",
+            "estamos traduciendo",
+            "estáis traduciendo",
+            "están traduciendo"
+        ],
         "dutch": "vertalen"
     },
     {
@@ -6940,6 +8916,14 @@
             "cortamos",
             "cortasteis",
             "cortaron"
+        ],
+        "presente-progresivo": [
+            "estoy cortando",
+            "estás cortando",
+            "está cortando",
+            "estamos cortando",
+            "estáis cortando",
+            "están cortando"
         ],
         "dutch": "snijden, knippen"
     },
@@ -6969,6 +8953,14 @@
             "triturasteis",
             "trituraron"
         ],
+        "presente-progresivo": [
+            "estoy triturando",
+            "estás triturando",
+            "está triturando",
+            "estamos triturando",
+            "estáis triturando",
+            "están triturando"
+        ],
         "dutch": "vermalen, verpulveren, pureren"
     },
     {
@@ -6996,6 +8988,14 @@
             "pelamos",
             "pelasteis",
             "pelaron"
+        ],
+        "presente-progresivo": [
+            "estoy pelando",
+            "estás pelando",
+            "está pelando",
+            "estamos pelando",
+            "estáis pelando",
+            "están pelando"
         ],
         "dutch": "schillen, pellen"
     },
@@ -7025,6 +9025,14 @@
             "acabasteis",
             "acabaron"
         ],
+        "presente-progresivo": [
+            "estoy acabando",
+            "estás acabando",
+            "está acabando",
+            "estamos acabando",
+            "estáis acabando",
+            "están acabando"
+        ],
         "dutch": "eindigen, afronden, ophouden (op natuurlijke wijze)"
     },
     {
@@ -7052,6 +9060,14 @@
             "pagamos",
             "pagasteis",
             "pagaron"
+        ],
+        "presente-progresivo": [
+            "estoy pagando",
+            "estás pagando",
+            "está pagando",
+            "estamos pagando",
+            "estáis pagando",
+            "están pagando"
         ],
         "dutch": "betalen"
     },
@@ -7081,6 +9097,14 @@
             "respetasteis",
             "respetaron"
         ],
+        "presente-progresivo": [
+            "estoy respetando",
+            "estás respetando",
+            "está respetando",
+            "estamos respetando",
+            "estáis respetando",
+            "están respetando"
+        ],
         "dutch": "respecteren"
     },
     {
@@ -7108,6 +9132,14 @@
             "rellenamos",
             "rellenasteis",
             "rellenaron"
+        ],
+        "presente-progresivo": [
+            "estoy rellenando",
+            "estás rellenando",
+            "está rellenando",
+            "estamos rellenando",
+            "estáis rellenando",
+            "están rellenando"
         ],
         "dutch": "invullen, opvullen, vullen"
     },
@@ -7137,6 +9169,14 @@
             "aparcasteis",
             "aparcaron"
         ],
+        "presente-progresivo": [
+            "estoy aparcando",
+            "estás aparcando",
+            "está aparcando",
+            "estamos aparcando",
+            "estáis aparcando",
+            "están aparcando"
+        ],
         "dutch": "parkeren"
     },
     {
@@ -7164,6 +9204,14 @@
             "reímos",
             "reísteis",
             "rieron"
+        ],
+        "presente-progresivo": [
+            "estoy riendo",
+            "estás riendo",
+            "está riendo",
+            "estamos riendo",
+            "estáis riendo",
+            "están riendo"
         ],
         "dutch": "lachen"
     },
@@ -7193,6 +9241,14 @@
             "mezclasteis",
             "mezclaron"
         ],
+        "presente-progresivo": [
+            "estoy mezclando",
+            "estás mezclando",
+            "está mezclando",
+            "estamos mezclando",
+            "estáis mezclando",
+            "están mezclando"
+        ],
         "dutch": "mengen"
     },
     {
@@ -7220,6 +9276,14 @@
             "pintamos",
             "pintasteis",
             "pintaron"
+        ],
+        "presente-progresivo": [
+            "estoy pintando",
+            "estás pintando",
+            "está pintando",
+            "estamos pintando",
+            "estáis pintando",
+            "están pintando"
         ],
         "dutch": "schilderen"
     },
@@ -7249,6 +9313,14 @@
             "explicasteis",
             "explicaron"
         ],
+        "presente-progresivo": [
+            "estoy explicando",
+            "estás explicando",
+            "está explicando",
+            "estamos explicando",
+            "estáis explicando",
+            "están explicando"
+        ],
         "dutch": "uitleggen"
     },
     {
@@ -7276,6 +9348,14 @@
             "supusimos",
             "supusisteis",
             "supusieron"
+        ],
+        "presente-progresivo": [
+            "estoy suponiendo",
+            "estás suponiendo",
+            "está suponiendo",
+            "estamos suponiendo",
+            "estáis suponiendo",
+            "están suponiendo"
         ],
         "dutch": "veronderstellen, aannemen"
     },
@@ -7305,6 +9385,14 @@
             "curasteis",
             "curaron"
         ],
+        "presente-progresivo": [
+            "estoy curando",
+            "estás curando",
+            "está curando",
+            "estamos curando",
+            "estáis curando",
+            "están curando"
+        ],
         "dutch": "iemand genezen, behandelen"
     },
     {
@@ -7332,6 +9420,14 @@
             "sanamos",
             "sanasteis",
             "sanaron"
+        ],
+        "presente-progresivo": [
+            "estoy sanando",
+            "estás sanando",
+            "está sanando",
+            "estamos sanando",
+            "estáis sanando",
+            "están sanando"
         ],
         "dutch": "helen"
     },
@@ -7361,6 +9457,14 @@
             "dependisteis",
             "dependieron"
         ],
+        "presente-progresivo": [
+            "estoy dependiendo",
+            "estás dependiendo",
+            "está dependiendo",
+            "estamos dependiendo",
+            "estáis dependiendo",
+            "están dependiendo"
+        ],
         "dutch": "afhangen van"
     },
     {
@@ -7388,6 +9492,14 @@
             "nos acordamos",
             "os acordasteis",
             "se acordaron"
+        ],
+        "presente-progresivo": [
+            "me estoy acordando",
+            "te estás acordando",
+            "se está acordando",
+            "nos estamos acordando",
+            "os estáis acordando",
+            "se están acordando"
         ],
         "dutch": "zich iets herinneren (nadruk op het moment van herinneren)"
     },
@@ -7417,6 +9529,14 @@
             "apuntasteis",
             "apuntaron"
         ],
+        "presente-progresivo": [
+            "estoy apuntando",
+            "estás apuntando",
+            "está apuntando",
+            "estamos apuntando",
+            "estáis apuntando",
+            "están apuntando"
+        ],
         "dutch": "opschrijven, noteren, richten (wapen/camera), inschrijven, aanwijzen (informeel)"
     },
     {
@@ -7444,6 +9564,14 @@
             "nos equivocamos",
             "os equivocasteis",
             "se equivocaron"
+        ],
+        "presente-progresivo": [
+            "me estoy equivocando",
+            "te estás equivocando",
+            "se está equivocando",
+            "nos estamos equivocando",
+            "os estáis equivocando",
+            "se están equivocando"
         ],
         "dutch": "zich vergissen van"
     },
@@ -7473,6 +9601,14 @@
             "montasteis",
             "montaron"
         ],
+        "presente-progresivo": [
+            "estoy montando",
+            "estás montando",
+            "está montando",
+            "estamos montando",
+            "estáis montando",
+            "están montando"
+        ],
         "dutch": "monteren, in elkaar zetten, rijden, iets opzetten"
     },
     {
@@ -7500,6 +9636,14 @@
             "opinamos",
             "opinasteis",
             "opinaron"
+        ],
+        "presente-progresivo": [
+            "estoy opinando",
+            "estás opinando",
+            "está opinando",
+            "estamos opinando",
+            "estáis opinando",
+            "están opinando"
         ],
         "dutch": "een mening hebben"
     },
@@ -7529,6 +9673,14 @@
             "organizasteis",
             "organizaron"
         ],
+        "presente-progresivo": [
+            "estoy organizando",
+            "estás organizando",
+            "está organizando",
+            "estamos organizando",
+            "estáis organizando",
+            "están organizando"
+        ],
         "dutch": "organiseren"
     },
     {
@@ -7556,6 +9708,14 @@
             "enviamos",
             "enviasteis",
             "enviaron"
+        ],
+        "presente-progresivo": [
+            "estoy enviando",
+            "estás enviando",
+            "está enviando",
+            "estamos enviando",
+            "estáis enviando",
+            "están enviando"
         ],
         "dutch": "verzenden"
     },
@@ -7585,6 +9745,14 @@
             "valisteis",
             "valieron"
         ],
+        "presente-progresivo": [
+            "estoy valiendo",
+            "estás valiendo",
+            "está valiendo",
+            "estamos valiendo",
+            "estáis valiendo",
+            "están valiendo"
+        ],
         "dutch": "waard zijn"
     },
     {
@@ -7612,6 +9780,14 @@
             "cometimos",
             "cometisteis",
             "cometieron"
+        ],
+        "presente-progresivo": [
+            "estoy cometiendo",
+            "estás cometiendo",
+            "está cometiendo",
+            "estamos cometiendo",
+            "estáis cometiendo",
+            "están cometiendo"
         ],
         "dutch": "plegen"
     },
@@ -7641,6 +9817,14 @@
             "memorizasteis",
             "memorizaron"
         ],
+        "presente-progresivo": [
+            "estoy memorizando",
+            "estás memorizando",
+            "está memorizando",
+            "estamos memorizando",
+            "estáis memorizando",
+            "están memorizando"
+        ],
         "dutch": "onthouden, memorizeren"
     },
     {
@@ -7668,6 +9852,14 @@
             "dominamos",
             "dominasteis",
             "dominaron"
+        ],
+        "presente-progresivo": [
+            "estoy dominando",
+            "estás dominando",
+            "está dominando",
+            "estamos dominando",
+            "estáis dominando",
+            "están dominando"
         ],
         "dutch": "domineren, beheersen"
     },
@@ -7697,6 +9889,14 @@
             "os aburristeis",
             "se aburrieron"
         ],
+        "presente-progresivo": [
+            "me estoy aburriendo",
+            "te estás aburriendo",
+            "se está aburriendo",
+            "nos estamos aburriendo",
+            "os estáis aburriendo",
+            "se están aburriendo"
+        ],
         "dutch": "zich vervelen"
     },
     {
@@ -7724,6 +9924,14 @@
             "roncamos",
             "roncasteis",
             "roncaron"
+        ],
+        "presente-progresivo": [
+            "estoy roncando",
+            "estás roncando",
+            "está roncando",
+            "estamos roncando",
+            "estáis roncando",
+            "están roncando"
         ],
         "dutch": "snurken"
     },
@@ -7753,6 +9961,14 @@
             "ligasteis",
             "ligaron"
         ],
+        "presente-progresivo": [
+            "estoy ligando",
+            "estás ligando",
+            "está ligando",
+            "estamos ligando",
+            "estáis ligando",
+            "están ligando"
+        ],
         "dutch": "flirten, versieren (romantisch of sexueel)"
     },
     {
@@ -7780,6 +9996,14 @@
             "flirteamos",
             "flirteasteis",
             "flirtearon"
+        ],
+        "presente-progresivo": [
+            "estoy flirteando",
+            "estás flirteando",
+            "está flirteando",
+            "estamos flirteando",
+            "estáis flirteando",
+            "están flirteando"
         ],
         "dutch": "flirten (speels en vrijblijvend)"
     },
@@ -7809,6 +10033,14 @@
             "os pusisteis",
             "se pusieron"
         ],
+        "presente-progresivo": [
+            "me estoy poniendo",
+            "te estás poniendo",
+            "se está poniendo",
+            "nos estamos poniendo",
+            "os estáis poniendo",
+            "se están poniendo"
+        ],
         "dutch": "kleding aantrekken, zich opstellen, worden"
     },
     {
@@ -7836,6 +10068,14 @@
             "caímos",
             "caísteis",
             "cayeron"
+        ],
+        "presente-progresivo": [
+            "estoy cayendo",
+            "estás cayendo",
+            "está cayendo",
+            "estamos cayendo",
+            "estáis cayendo",
+            "están cayendo"
         ],
         "dutch": "vallen"
     },
@@ -7865,6 +10105,14 @@
             "os caísteis",
             "se cayeron"
         ],
+        "presente-progresivo": [
+            "me estoy cayendo",
+            "te estás cayendo",
+            "se está cayendo",
+            "nos estamos cayendo",
+            "os estáis cayendo",
+            "se están cayendo"
+        ],
         "dutch": "omvallen"
     },
     {
@@ -7892,6 +10140,14 @@
             "cupimos",
             "cupisteis",
             "cupieron"
+        ],
+        "presente-progresivo": [
+            "estoy cabiendo",
+            "estás cabiendo",
+            "está cabiendo",
+            "estamos cabiendo",
+            "estáis cabiendo",
+            "están cabiendo"
         ],
         "dutch": "in iets passen"
     },
@@ -7921,6 +10177,14 @@
             "divertisteis",
             "divirtieron"
         ],
+        "presente-progresivo": [
+            "estoy divirtiendo",
+            "estás divirtiendo",
+            "está divirtiendo",
+            "estamos divirtiendo",
+            "estáis divirtiendo",
+            "están divirtiendo"
+        ],
         "dutch": "amuseren, vermaken"
     },
     {
@@ -7948,6 +10212,14 @@
             "nos divertimos",
             "os divertisteis",
             "se divirtieron"
+        ],
+        "presente-progresivo": [
+            "me estoy divirtiendo",
+            "te estás divirtiendo",
+            "se está divirtiendo",
+            "nos estamos divirtiendo",
+            "os estáis divirtiendo",
+            "se están divirtiendo"
         ],
         "dutch": "zich amuseren, plezier maken"
     },
@@ -7977,6 +10249,14 @@
             "encendisteis",
             "encendieron"
         ],
+        "presente-progresivo": [
+            "estoy encendiendo",
+            "estás encendiendo",
+            "está encendiendo",
+            "estamos encendiendo",
+            "estáis encendiendo",
+            "están encendiendo"
+        ],
         "dutch": "aanzetten, aansteken"
     },
     {
@@ -8004,6 +10284,14 @@
             "conseguimos",
             "conseguisteis",
             "consiguieron"
+        ],
+        "presente-progresivo": [
+            "estoy consiguiendo",
+            "estás consiguiendo",
+            "está consiguiendo",
+            "estamos consiguiendo",
+            "estáis consiguiendo",
+            "están consiguiendo"
         ],
         "dutch": "bereiken, lukken, voor elkaar krijgen (dingen, focus op het proces)"
     },
@@ -8033,6 +10321,14 @@
             "os despedisteis",
             "se despidieron"
         ],
+        "presente-progresivo": [
+            "me estoy despidiendo",
+            "te estás despidiendo",
+            "se está despidiendo",
+            "nos estamos despidiendo",
+            "os estáis despidiendo",
+            "se están despidiendo"
+        ],
         "dutch": "afscheid nemen"
     },
     {
@@ -8060,6 +10356,14 @@
             "freímos",
             "freísteis",
             "frieron"
+        ],
+        "presente-progresivo": [
+            "estoy friendo",
+            "estás friendo",
+            "está friendo",
+            "estamos friendo",
+            "estáis friendo",
+            "están friendo"
         ],
         "dutch": "frituren"
     },
@@ -8089,6 +10393,14 @@
             "sonreísteis",
             "sonrieron"
         ],
+        "presente-progresivo": [
+            "estoy sonriendo",
+            "estás sonriendo",
+            "está sonriendo",
+            "estamos sonriendo",
+            "estáis sonriendo",
+            "están sonriendo"
+        ],
         "dutch": "glimlachen"
     },
     {
@@ -8116,6 +10428,14 @@
             "dolimos",
             "dolisteis",
             "dolieron"
+        ],
+        "presente-progresivo": [
+            "estoy doliendo",
+            "estás doliendo",
+            "está doliendo",
+            "estamos doliendo",
+            "estáis doliendo",
+            "están doliendo"
         ],
         "dutch": "pijn doen"
     },
@@ -8145,6 +10465,14 @@
             "mostrasteis",
             "mostraron"
         ],
+        "presente-progresivo": [
+            "estoy mostrando",
+            "estás mostrando",
+            "está mostrando",
+            "estamos mostrando",
+            "estáis mostrando",
+            "están mostrando"
+        ],
         "dutch": "laten zien, tonen"
     },
     {
@@ -8172,6 +10500,14 @@
             "morimos",
             "moristeis",
             "murieron"
+        ],
+        "presente-progresivo": [
+            "estoy muriendo",
+            "estás muriendo",
+            "está muriendo",
+            "estamos muriendo",
+            "estáis muriendo",
+            "están muriendo"
         ],
         "dutch": "sterven"
     },
@@ -8201,6 +10537,14 @@
             "os parecisteis",
             "se parecieron"
         ],
+        "presente-progresivo": [
+            "me estoy pareciendo",
+            "te estás pareciendo",
+            "se está pareciendo",
+            "nos estamos pareciendo",
+            "os estáis pareciendo",
+            "se están pareciendo"
+        ],
         "dutch": "lijken op iemand of iets"
     },
     {
@@ -8228,6 +10572,14 @@
             "merecimos",
             "merecisteis",
             "merecieron"
+        ],
+        "presente-progresivo": [
+            "estoy mereciendo",
+            "estás mereciendo",
+            "está mereciendo",
+            "estamos mereciendo",
+            "estáis mereciendo",
+            "están mereciendo"
         ],
         "dutch": "verdienen (iets waard zijn)"
     },
@@ -8257,6 +10609,14 @@
             "bajasteis",
             "bajaron"
         ],
+        "presente-progresivo": [
+            "estoy bajando",
+            "estás bajando",
+            "está bajando",
+            "estamos bajando",
+            "estáis bajando",
+            "están bajando"
+        ],
         "dutch": "naar beneden gaan, dalen, omlaag brengen, downloaden"
     },
     {
@@ -8284,6 +10644,14 @@
             "relacionamos",
             "relacionasteis",
             "relacionaron"
+        ],
+        "presente-progresivo": [
+            "estoy relacionando",
+            "estás relacionando",
+            "está relacionando",
+            "estamos relacionando",
+            "estáis relacionando",
+            "están relacionando"
         ],
         "dutch": "in verband brengen, relateren"
     },
@@ -8313,6 +10681,14 @@
             "planificasteis",
             "planificaron"
         ],
+        "presente-progresivo": [
+            "estoy planificando",
+            "estás planificando",
+            "está planificando",
+            "estamos planificando",
+            "estáis planificando",
+            "están planificando"
+        ],
         "dutch": "plannen"
     },
     {
@@ -8340,6 +10716,14 @@
             "retuvimos",
             "retuvisteis",
             "retuvieron"
+        ],
+        "presente-progresivo": [
+            "estoy reteniendo",
+            "estás reteniendo",
+            "está reteniendo",
+            "estamos reteniendo",
+            "estáis reteniendo",
+            "están reteniendo"
         ],
         "dutch": "tegenhouden, vasthouden, onthouden"
     },
@@ -8369,6 +10753,14 @@
             "contasteis",
             "contaron"
         ],
+        "presente-progresivo": [
+            "estoy contando",
+            "estás contando",
+            "está contando",
+            "estamos contando",
+            "estáis contando",
+            "están contando"
+        ],
         "dutch": "tellen, vertellen"
     },
     {
@@ -8396,6 +10788,14 @@
             "experimentamos",
             "experimentasteis",
             "experimentaron"
+        ],
+        "presente-progresivo": [
+            "estoy experimentando",
+            "estás experimentando",
+            "está experimentando",
+            "estamos experimentando",
+            "estáis experimentando",
+            "están experimentando"
         ],
         "dutch": "ervaren, ondervinden, experimenteren"
     },
@@ -8425,6 +10825,14 @@
             "os movisteis",
             "se movieron"
         ],
+        "presente-progresivo": [
+            "me estoy moviendo",
+            "te estás moviendo",
+            "se está moviendo",
+            "nos estamos moviendo",
+            "os estáis moviendo",
+            "se están moviendo"
+        ],
         "dutch": "zich verplaatsen"
     },
     {
@@ -8452,6 +10860,14 @@
             "recortamos",
             "recortasteis",
             "recortaron"
+        ],
+        "presente-progresivo": [
+            "estoy recortando",
+            "estás recortando",
+            "está recortando",
+            "estamos recortando",
+            "estáis recortando",
+            "están recortando"
         ],
         "dutch": "uitsnijden, afknippen"
     },
@@ -8481,6 +10897,14 @@
             "reconstruisteis",
             "reconstruyeron"
         ],
+        "presente-progresivo": [
+            "estoy reconstruyendo",
+            "estás reconstruyendo",
+            "está reconstruyendo",
+            "estamos reconstruyendo",
+            "estáis reconstruyendo",
+            "están reconstruyendo"
+        ],
         "dutch": "herbouwen"
     },
     {
@@ -8508,6 +10932,14 @@
             "reconocimos",
             "reconocisteis",
             "reconocieron"
+        ],
+        "presente-progresivo": [
+            "estoy reconociendo",
+            "estás reconociendo",
+            "está reconociendo",
+            "estamos reconociendo",
+            "estáis reconociendo",
+            "están reconociendo"
         ],
         "dutch": "herkennen, erkennen"
     },
@@ -8537,6 +10969,14 @@
             "descubristeis",
             "descubrieron"
         ],
+        "presente-progresivo": [
+            "estoy descubriendo",
+            "estás descubriendo",
+            "está descubriendo",
+            "estamos descubriendo",
+            "estáis descubriendo",
+            "están descubriendo"
+        ],
         "dutch": "ontdekken"
     },
     {
@@ -8564,6 +11004,14 @@
             "nos tocamos",
             "os tocasteis",
             "se tocaron"
+        ],
+        "presente-progresivo": [
+            "me estoy tocando",
+            "te estás tocando",
+            "se está tocando",
+            "nos estamos tocando",
+            "os estáis tocando",
+            "se están tocando"
         ],
         "dutch": "zich aanraken, elkaar aanraken"
     },
@@ -8593,6 +11041,14 @@
             "corregisteis",
             "corrigieron"
         ],
+        "presente-progresivo": [
+            "estoy corrigiendo",
+            "estás corrigiendo",
+            "está corrigiendo",
+            "estamos corrigiendo",
+            "estáis corrigiendo",
+            "están corrigiendo"
+        ],
         "dutch": "verbeteren, corrigeren"
     },
     {
@@ -8620,6 +11076,14 @@
             "juzgamos",
             "juzgasteis",
             "juzgaron"
+        ],
+        "presente-progresivo": [
+            "estoy juzgando",
+            "estás juzgando",
+            "está juzgando",
+            "estamos juzgando",
+            "estáis juzgando",
+            "están juzgando"
         ],
         "dutch": "oordelen"
     },
@@ -8649,6 +11113,14 @@
             "grabasteis",
             "grabaron"
         ],
+        "presente-progresivo": [
+            "estoy grabando",
+            "estás grabando",
+            "está grabando",
+            "estamos grabando",
+            "estáis grabando",
+            "están grabando"
+        ],
         "dutch": "opnemen, vastleggen"
     },
     {
@@ -8676,6 +11148,14 @@
             "utilizamos",
             "utilizasteis",
             "utilizaron"
+        ],
+        "presente-progresivo": [
+            "estoy utilizando",
+            "estás utilizando",
+            "está utilizando",
+            "estamos utilizando",
+            "estáis utilizando",
+            "están utilizando"
         ],
         "dutch": "gebruiken"
     },
@@ -8705,6 +11185,14 @@
             "pegasteis",
             "pegaron"
         ],
+        "presente-progresivo": [
+            "estoy pegando",
+            "estás pegando",
+            "está pegando",
+            "estamos pegando",
+            "estáis pegando",
+            "están pegando"
+        ],
         "dutch": "lijmen, vastmaken"
     },
     {
@@ -8732,6 +11220,14 @@
             "sorprendimos",
             "sorprendisteis",
             "sorprendieron"
+        ],
+        "presente-progresivo": [
+            "estoy sorprendiendo",
+            "estás sorprendiendo",
+            "está sorprendiendo",
+            "estamos sorprendiendo",
+            "estáis sorprendiendo",
+            "están sorprendiendo"
         ],
         "dutch": "verrassen"
     },
@@ -8761,6 +11257,14 @@
             "os abrazasteis",
             "se abrazaron"
         ],
+        "presente-progresivo": [
+            "me estoy abrazando",
+            "te estás abrazando",
+            "se está abrazando",
+            "nos estamos abrazando",
+            "os estáis abrazando",
+            "se están abrazando"
+        ],
         "dutch": "knuffelen"
     },
     {
@@ -8788,6 +11292,14 @@
             "pronunciamos",
             "pronunciasteis",
             "pronunciaron"
+        ],
+        "presente-progresivo": [
+            "estoy pronunciando",
+            "estás pronunciando",
+            "está pronunciando",
+            "estamos pronunciando",
+            "estáis pronunciando",
+            "están pronunciando"
         ],
         "dutch": "uitspreken"
     },
@@ -8817,6 +11329,14 @@
             "competisteis",
             "compitieron"
         ],
+        "presente-progresivo": [
+            "estoy compitiendo",
+            "estás compitiendo",
+            "está compitiendo",
+            "estamos compitiendo",
+            "estáis compitiendo",
+            "están compitiendo"
+        ],
         "dutch": "concurreren, strijden"
     },
     {
@@ -8844,6 +11364,14 @@
             "soñamos",
             "soñasteis",
             "soñaron"
+        ],
+        "presente-progresivo": [
+            "estoy soñando",
+            "estás soñando",
+            "está soñando",
+            "estamos soñando",
+            "estáis soñando",
+            "están soñando"
         ],
         "dutch": "dromen van"
     },
@@ -8873,6 +11401,14 @@
             "recomendasteis",
             "recomendaron"
         ],
+        "presente-progresivo": [
+            "estoy recomendando",
+            "estás recomendando",
+            "está recomendando",
+            "estamos recomendando",
+            "estáis recomendando",
+            "están recomendando"
+        ],
         "dutch": "aanbevelen, aanraden"
     },
     {
@@ -8900,6 +11436,14 @@
             "temblamos",
             "temblasteis",
             "temblaron"
+        ],
+        "presente-progresivo": [
+            "estoy temblando",
+            "estás temblando",
+            "está temblando",
+            "estamos temblando",
+            "estáis temblando",
+            "están temblando"
         ],
         "dutch": "beven, trillen"
     },
@@ -8929,6 +11473,14 @@
             "enterrasteis",
             "enterraron"
         ],
+        "presente-progresivo": [
+            "estoy enterrando",
+            "estás enterrando",
+            "está enterrando",
+            "estamos enterrando",
+            "estáis enterrando",
+            "están enterrando"
+        ],
         "dutch": "begraven"
     },
     {
@@ -8956,6 +11508,14 @@
             "helamos",
             "helasteis",
             "helaron"
+        ],
+        "presente-progresivo": [
+            "estoy helando",
+            "estás helando",
+            "está helando",
+            "estamos helando",
+            "estáis helando",
+            "están helando"
         ],
         "dutch": "bevriezen"
     },
@@ -8985,6 +11545,14 @@
             "manifestasteis",
             "manifestaron"
         ],
+        "presente-progresivo": [
+            "estoy manifestando",
+            "estás manifestando",
+            "está manifestando",
+            "estamos manifestando",
+            "estáis manifestando",
+            "están manifestando"
+        ],
         "dutch": "uiten, tonen, verklaren"
     },
     {
@@ -9012,6 +11580,14 @@
             "defendimos",
             "defendisteis",
             "defendieron"
+        ],
+        "presente-progresivo": [
+            "estoy defendiendo",
+            "estás defendiendo",
+            "está defendiendo",
+            "estamos defendiendo",
+            "estáis defendiendo",
+            "están defendiendo"
         ],
         "dutch": "verdedigen"
     },
@@ -9041,6 +11617,14 @@
             "tendisteis",
             "tendieron"
         ],
+        "presente-progresivo": [
+            "estoy tendiendo",
+            "estás tendiendo",
+            "está tendiendo",
+            "estamos tendiendo",
+            "estáis tendiendo",
+            "están tendiendo"
+        ],
         "dutch": "uittrekken, uitspreiden"
     },
     {
@@ -9068,6 +11652,14 @@
             "advertimos",
             "advertisteis",
             "advirtieron"
+        ],
+        "presente-progresivo": [
+            "estoy advirtiendo",
+            "estás advirtiendo",
+            "está advirtiendo",
+            "estamos advirtiendo",
+            "estáis advirtiendo",
+            "están advirtiendo"
         ],
         "dutch": "waarschuwen, attenderen"
     },
@@ -9097,6 +11689,14 @@
             "digeristeis",
             "digirieron"
         ],
+        "presente-progresivo": [
+            "estoy digiriendo",
+            "estás digiriendo",
+            "está digiriendo",
+            "estamos digiriendo",
+            "estáis digiriendo",
+            "están digiriendo"
+        ],
         "dutch": "verteren, verwerken"
     },
     {
@@ -9124,6 +11724,14 @@
             "sugerimos",
             "sugeristeis",
             "sugirieron"
+        ],
+        "presente-progresivo": [
+            "estoy sugiriendo",
+            "estás sugiriendo",
+            "está sugiriendo",
+            "estamos sugiriendo",
+            "estáis sugiriendo",
+            "están sugiriendo"
         ],
         "dutch": "voorstellen, aanbevelen, suggereren"
     },
@@ -9153,6 +11761,14 @@
             "convertisteis",
             "convirtieron"
         ],
+        "presente-progresivo": [
+            "estoy convirtiendo",
+            "estás convirtiendo",
+            "está convirtiendo",
+            "estamos convirtiendo",
+            "estáis convirtiendo",
+            "están convirtiendo"
+        ],
         "dutch": "omzetten"
     },
     {
@@ -9180,6 +11796,14 @@
             "consolamos",
             "consolasteis",
             "consolaron"
+        ],
+        "presente-progresivo": [
+            "estoy consolando",
+            "estás consolando",
+            "está consolando",
+            "estamos consolando",
+            "estáis consolando",
+            "están consolando"
         ],
         "dutch": "troosten"
     },
@@ -9209,6 +11833,14 @@
             "renovasteis",
             "renovaron"
         ],
+        "presente-progresivo": [
+            "estoy renovando",
+            "estás renovando",
+            "está renovando",
+            "estamos renovando",
+            "estáis renovando",
+            "están renovando"
+        ],
         "dutch": "vernieuwen, renoveren"
     },
     {
@@ -9236,6 +11868,14 @@
             "soltamos",
             "soltasteis",
             "soltaron"
+        ],
+        "presente-progresivo": [
+            "estoy soltando",
+            "estás soltando",
+            "está soltando",
+            "estamos soltando",
+            "estáis soltando",
+            "están soltando"
         ],
         "dutch": "loslaten"
     },
@@ -9265,6 +11905,14 @@
             "tostasteis",
             "tostaron"
         ],
+        "presente-progresivo": [
+            "estoy tostando",
+            "estás tostando",
+            "está tostando",
+            "estamos tostando",
+            "estáis tostando",
+            "están tostando"
+        ],
         "dutch": "toasten"
     },
     {
@@ -9292,6 +11940,14 @@
             "nos reñimos",
             "os reñisteis",
             "se riñeron"
+        ],
+        "presente-progresivo": [
+            "me estoy riñendo",
+            "te estás riñendo",
+            "se está riñendo",
+            "nos estamos riñendo",
+            "os estáis riñendo",
+            "se están riñendo"
         ],
         "dutch": "ruzie maken"
     },
@@ -9321,6 +11977,14 @@
             "provinisteis",
             "provinieron"
         ],
+        "presente-progresivo": [
+            "estoy proviniendo",
+            "estás proviniendo",
+            "está proviniendo",
+            "estamos proviniendo",
+            "estáis proviniendo",
+            "están proviniendo"
+        ],
         "dutch": "komen uit, voortkomen uit"
     },
     {
@@ -9348,6 +12012,14 @@
             "comprobamos",
             "comprobasteis",
             "comprobaron"
+        ],
+        "presente-progresivo": [
+            "estoy comprobando",
+            "estás comprobando",
+            "está comprobando",
+            "estamos comprobando",
+            "estáis comprobando",
+            "están comprobando"
         ],
         "dutch": "proberen, controleren, nagaan, bewijzen"
     },
@@ -9377,6 +12049,14 @@
             "produjisteis",
             "produjeron"
         ],
+        "presente-progresivo": [
+            "estoy produciendo",
+            "estás produciendo",
+            "está produciendo",
+            "estamos produciendo",
+            "estáis produciendo",
+            "están produciendo"
+        ],
         "dutch": "produceren"
     },
     {
@@ -9404,6 +12084,14 @@
             "nos quejamos",
             "os quejasteis",
             "se quejaron"
+        ],
+        "presente-progresivo": [
+            "me estoy quejando",
+            "te estás quejando",
+            "se está quejando",
+            "nos estamos quejando",
+            "os estáis quejando",
+            "se están quejando"
         ],
         "dutch": "klagen, zeuren"
     },
@@ -9433,6 +12121,14 @@
             "incluisteis",
             "incluyeron"
         ],
+        "presente-progresivo": [
+            "estoy incluyendo",
+            "estás incluyendo",
+            "está incluyendo",
+            "estamos incluyendo",
+            "estáis incluyendo",
+            "están incluyendo"
+        ],
         "dutch": "inbegrepen zijn, insluiten, opnemen"
     },
     {
@@ -9460,6 +12156,14 @@
             "nos bloqueamos",
             "os bloqueasteis",
             "se bloquearon"
+        ],
+        "presente-progresivo": [
+            "me estoy bloqueando",
+            "te estás bloqueando",
+            "se está bloqueando",
+            "nos estamos bloqueando",
+            "os estáis bloqueando",
+            "se están bloqueando"
         ],
         "dutch": "blokkeren, vastlopen, verlamd raken"
     },
@@ -9489,6 +12193,14 @@
             "os jubilasteis",
             "se jubilaron"
         ],
+        "presente-progresivo": [
+            "me estoy jubilando",
+            "te estás jubilando",
+            "se está jubilando",
+            "nos estamos jubilando",
+            "os estáis jubilando",
+            "se están jubilando"
+        ],
         "dutch": "op pensioen gaan"
     },
     {
@@ -9516,6 +12228,14 @@
             "subrayamos",
             "subrayasteis",
             "subrayaron"
+        ],
+        "presente-progresivo": [
+            "estoy subrayando",
+            "estás subrayando",
+            "está subrayando",
+            "estamos subrayando",
+            "estáis subrayando",
+            "están subrayando"
         ],
         "dutch": "onderstrepen"
     },
@@ -9545,6 +12265,14 @@
             "apreciasteis",
             "apreciaron"
         ],
+        "presente-progresivo": [
+            "estoy apreciando",
+            "estás apreciando",
+            "está apreciando",
+            "estamos apreciando",
+            "estáis apreciando",
+            "están apreciando"
+        ],
         "dutch": "waarderen, appreciëren"
     },
     {
@@ -9572,6 +12300,14 @@
             "coincidimos",
             "coincidisteis",
             "coincidieron"
+        ],
+        "presente-progresivo": [
+            "estoy coincidiendo",
+            "estás coincidiendo",
+            "está coincidiendo",
+            "estamos coincidiendo",
+            "estáis coincidiendo",
+            "están coincidiendo"
         ],
         "dutch": "overeenkomen met, samenvallen"
     },
@@ -9601,6 +12337,14 @@
             "navegasteis",
             "navegaron"
         ],
+        "presente-progresivo": [
+            "estoy navegando",
+            "estás navegando",
+            "está navegando",
+            "estamos navegando",
+            "estáis navegando",
+            "están navegando"
+        ],
         "dutch": "varen"
     },
     {
@@ -9628,6 +12372,14 @@
             "cubrimos",
             "cubristeis",
             "cubrieron"
+        ],
+        "presente-progresivo": [
+            "estoy cubriendo",
+            "estás cubriendo",
+            "está cubriendo",
+            "estamos cubriendo",
+            "estáis cubriendo",
+            "están cubriendo"
         ],
         "dutch": "bedekken"
     },
@@ -9657,6 +12409,14 @@
             "resolvisteis",
             "resolvieron"
         ],
+        "presente-progresivo": [
+            "estoy resolviendo",
+            "estás resolviendo",
+            "está resolviendo",
+            "estamos resolviendo",
+            "estáis resolviendo",
+            "están resolviendo"
+        ],
         "dutch": "oplossen, besluiten"
     },
     {
@@ -9684,6 +12444,14 @@
             "devolvimos",
             "devolvisteis",
             "devolvieron"
+        ],
+        "presente-progresivo": [
+            "estoy devolviendo",
+            "estás devolviendo",
+            "está devolviendo",
+            "estamos devolviendo",
+            "estáis devolviendo",
+            "están devolviendo"
         ],
         "dutch": "teruggeven, terugbrengen"
     },
@@ -9713,6 +12481,14 @@
             "envolvisteis",
             "envolvieron"
         ],
+        "presente-progresivo": [
+            "estoy envolviendo",
+            "estás envolviendo",
+            "está envolviendo",
+            "estamos envolviendo",
+            "estáis envolviendo",
+            "están envolviendo"
+        ],
         "dutch": "inpakken, omhullen"
     },
     {
@@ -9740,6 +12516,14 @@
             "dispusimos",
             "dispusisteis",
             "dispusieron"
+        ],
+        "presente-progresivo": [
+            "estoy disponiendo",
+            "estás disponiendo",
+            "está disponiendo",
+            "estamos disponiendo",
+            "estáis disponiendo",
+            "están disponiendo"
         ],
         "dutch": "beschikken over, regelen, organiseren"
     },
@@ -9769,6 +12553,14 @@
             "impusisteis",
             "impusieron"
         ],
+        "presente-progresivo": [
+            "estoy imponiendo",
+            "estás imponiendo",
+            "está imponiendo",
+            "estamos imponiendo",
+            "estáis imponiendo",
+            "están imponiendo"
+        ],
         "dutch": "opleggen, opdringen"
     },
     {
@@ -9796,6 +12588,14 @@
             "previmos",
             "previsteis",
             "previeron"
+        ],
+        "presente-progresivo": [
+            "estoy previendo",
+            "estás previendo",
+            "está previendo",
+            "estamos previendo",
+            "estáis previendo",
+            "están previendo"
         ],
         "dutch": "voorzien"
     },
@@ -9825,6 +12625,14 @@
             "compusisteis",
             "compusieron"
         ],
+        "presente-progresivo": [
+            "estoy componiendo",
+            "estás componiendo",
+            "está componiendo",
+            "estamos componiendo",
+            "estáis componiendo",
+            "están componiendo"
+        ],
         "dutch": "samenstellen"
     },
     {
@@ -9852,6 +12660,14 @@
             "nos convertimos",
             "os convertisteis",
             "se convirtieron"
+        ],
+        "presente-progresivo": [
+            "me estoy convirtiendo",
+            "te estás convirtiendo",
+            "se está convirtiendo",
+            "nos estamos convirtiendo",
+            "os estáis convirtiendo",
+            "se están convirtiendo"
         ],
         "dutch": "veranderen in, worden - een nieuwe identiteit krijgen"
     },
@@ -9881,6 +12697,14 @@
             "escalasteis",
             "escalaron"
         ],
+        "presente-progresivo": [
+            "estoy escalando",
+            "estás escalando",
+            "está escalando",
+            "estamos escalando",
+            "estáis escalando",
+            "están escalando"
+        ],
         "dutch": "beklimmen, opklimmen"
     },
     {
@@ -9908,6 +12732,14 @@
             "luchamos",
             "luchasteis",
             "lucharon"
+        ],
+        "presente-progresivo": [
+            "estoy luchando",
+            "estás luchando",
+            "está luchando",
+            "estamos luchando",
+            "estáis luchando",
+            "están luchando"
         ],
         "dutch": "strijden, vechten tegen"
     },
@@ -9937,6 +12769,14 @@
             "regalasteis",
             "regalaron"
         ],
+        "presente-progresivo": [
+            "estoy regalando",
+            "estás regalando",
+            "está regalando",
+            "estamos regalando",
+            "estáis regalando",
+            "están regalando"
+        ],
         "dutch": "kado geven"
     },
     {
@@ -9964,6 +12804,14 @@
             "colaboramos",
             "colaborasteis",
             "colaboraron"
+        ],
+        "presente-progresivo": [
+            "estoy colaborando",
+            "estás colaborando",
+            "está colaborando",
+            "estamos colaborando",
+            "estáis colaborando",
+            "están colaborando"
         ],
         "dutch": "samenwerken"
     },
@@ -9993,6 +12841,14 @@
             "rodasteis",
             "rodaron"
         ],
+        "presente-progresivo": [
+            "estoy rodando",
+            "estás rodando",
+            "está rodando",
+            "estamos rodando",
+            "estáis rodando",
+            "están rodando"
+        ],
         "dutch": "film opnemen (professioneel)"
     },
     {
@@ -10020,6 +12876,14 @@
             "creamos",
             "creasteis",
             "crearon"
+        ],
+        "presente-progresivo": [
+            "estoy creando",
+            "estás creando",
+            "está creando",
+            "estamos creando",
+            "estáis creando",
+            "están creando"
         ],
         "dutch": "maken, creëren"
     },
@@ -10049,6 +12913,14 @@
             "filmasteis",
             "filmaron"
         ],
+        "presente-progresivo": [
+            "estoy filmando",
+            "estás filmando",
+            "está filmando",
+            "estamos filmando",
+            "estáis filmando",
+            "están filmando"
+        ],
         "dutch": "filmen (algemeen - amateur)"
     },
     {
@@ -10076,6 +12948,14 @@
             "dirigimos",
             "dirigisteis",
             "dirigieron"
+        ],
+        "presente-progresivo": [
+            "estoy dirigiendo",
+            "estás dirigiendo",
+            "está dirigiendo",
+            "estamos dirigiendo",
+            "estáis dirigiendo",
+            "están dirigiendo"
         ],
         "dutch": "leiden, besturen, richten"
     },
@@ -10105,6 +12985,14 @@
             "os celebrasteis",
             "se celebraron"
         ],
+        "presente-progresivo": [
+            "me estoy celebrando",
+            "te estás celebrando",
+            "se está celebrando",
+            "nos estamos celebrando",
+            "os estáis celebrando",
+            "se están celebrando"
+        ],
         "dutch": "gehouden worden, plaatsvinden, gevierd worden"
     },
     {
@@ -10132,6 +13020,14 @@
             "inventamos",
             "inventasteis",
             "inventaron"
+        ],
+        "presente-progresivo": [
+            "estoy inventando",
+            "estás inventando",
+            "está inventando",
+            "estamos inventando",
+            "estáis inventando",
+            "están inventando"
         ],
         "dutch": "uitvinden"
     },
@@ -10161,6 +13057,14 @@
             "os filmasteis",
             "se filmaron"
         ],
+        "presente-progresivo": [
+            "me estoy filmando",
+            "te estás filmando",
+            "se está filmando",
+            "nos estamos filmando",
+            "os estáis filmando",
+            "se están filmando"
+        ],
         "dutch": "gefilmd worden"
     },
     {
@@ -10188,6 +13092,14 @@
             "obtuvimos",
             "obtuvisteis",
             "obtuvieron"
+        ],
+        "presente-progresivo": [
+            "estoy obteniendo",
+            "estás obteniendo",
+            "está obteniendo",
+            "estamos obteniendo",
+            "estáis obteniendo",
+            "están obteniendo"
         ],
         "dutch": "verkrijgen, bemachtigen, krijgen"
     },
@@ -10217,6 +13129,14 @@
             "superasteis",
             "superaron"
         ],
+        "presente-progresivo": [
+            "estoy superando",
+            "estás superando",
+            "está superando",
+            "estamos superando",
+            "estáis superando",
+            "están superando"
+        ],
         "dutch": "overwinnen, overtreffen, te boven komen"
     },
     {
@@ -10244,6 +13164,14 @@
             "nos enamoramos",
             "os enamorasteis",
             "se enamoraron"
+        ],
+        "presente-progresivo": [
+            "me estoy enamorando",
+            "te estás enamorando",
+            "se está enamorando",
+            "nos estamos enamorando",
+            "os estáis enamorando",
+            "se están enamorando"
         ],
         "dutch": "verliefd worden op"
     },
@@ -10273,6 +13201,14 @@
             "os separasteis",
             "se separaron"
         ],
+        "presente-progresivo": [
+            "me estoy separando",
+            "te estás separando",
+            "se está separando",
+            "nos estamos separando",
+            "os estáis separando",
+            "se están separando"
+        ],
         "dutch": "zich scheiden van"
     },
     {
@@ -10300,6 +13236,14 @@
             "nos divorciamos",
             "os divorciasteis",
             "se divorciaron"
+        ],
+        "presente-progresivo": [
+            "me estoy divorciando",
+            "te estás divorciando",
+            "se está divorciando",
+            "nos estamos divorciando",
+            "os estáis divorciando",
+            "se están divorciando"
         ],
         "dutch": "echtscheiden van"
     },
@@ -10329,6 +13273,14 @@
             "os mudasteis",
             "se mudaron"
         ],
+        "presente-progresivo": [
+            "me estoy mudando",
+            "te estás mudando",
+            "se está mudando",
+            "nos estamos mudando",
+            "os estáis mudando",
+            "se están mudando"
+        ],
         "dutch": "verhuizen"
     },
     {
@@ -10356,6 +13308,14 @@
             "abandonamos",
             "abandonasteis",
             "abandonaron"
+        ],
+        "presente-progresivo": [
+            "estoy abandonando",
+            "estás abandonando",
+            "está abandonando",
+            "estamos abandonando",
+            "estáis abandonando",
+            "están abandonando"
         ],
         "dutch": "verlaten"
     },
@@ -10385,6 +13345,14 @@
             "recogisteis",
             "recogieron"
         ],
+        "presente-progresivo": [
+            "estoy recogiendo",
+            "estás recogiendo",
+            "está recogiendo",
+            "estamos recogiendo",
+            "estáis recogiendo",
+            "están recogiendo"
+        ],
         "dutch": "oprapen, ophalen, inzamelen, net maken"
     },
     {
@@ -10412,6 +13380,14 @@
             "barrimos",
             "barristeis",
             "barrieron"
+        ],
+        "presente-progresivo": [
+            "estoy barriendo",
+            "estás barriendo",
+            "está barriendo",
+            "estamos barriendo",
+            "estáis barriendo",
+            "están barriendo"
         ],
         "dutch": "vegen (met een bezem)"
     },
@@ -10441,6 +13417,14 @@
             "planchasteis",
             "plancharon"
         ],
+        "presente-progresivo": [
+            "estoy planchando",
+            "estás planchando",
+            "está planchando",
+            "estamos planchando",
+            "estáis planchando",
+            "están planchando"
+        ],
         "dutch": "strijken"
     },
     {
@@ -10468,6 +13452,14 @@
             "logramos",
             "lograsteis",
             "lograron"
+        ],
+        "presente-progresivo": [
+            "estoy logrando",
+            "estás logrando",
+            "está logrando",
+            "estamos logrando",
+            "estáis logrando",
+            "están logrando"
         ],
         "dutch": "bereiken, voor elkaar krijgen, slagen in (doelen, prestaties; focus op het resultaat/succes)"
     },
@@ -10497,6 +13489,14 @@
             "os fijasteis",
             "se fijaron"
         ],
+        "presente-progresivo": [
+            "me estoy fijando",
+            "te estás fijando",
+            "se está fijando",
+            "nos estamos fijando",
+            "os estáis fijando",
+            "se están fijando"
+        ],
         "dutch": "opmerken, op iets/iemand letten, aandacht besteden aan"
     },
     {
@@ -10525,6 +13525,14 @@
             "apagasteis",
             "apagaron"
         ],
+        "presente-progresivo": [
+            "estoy apagando",
+            "estás apagando",
+            "está apagando",
+            "estamos apagando",
+            "estáis apagando",
+            "están apagando"
+        ],
         "dutch": "uitschakelen"
     },
     {
@@ -10552,6 +13560,14 @@
             "actuamos",
             "actuasteis",
             "actuaron"
+        ],
+        "presente-progresivo": [
+            "estoy actuando",
+            "estás actuando",
+            "está actuando",
+            "estamos actuando",
+            "estáis actuando",
+            "están actuando"
         ],
         "dutch": "acteren (op toneel)"
     }

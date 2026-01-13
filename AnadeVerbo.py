@@ -4,6 +4,8 @@
 import json
 import os
 import sys
+import re
+import unicodedata
 import requests
 from bs4 import BeautifulSoup
 import deepl
@@ -11,6 +13,12 @@ import deepl
 
 JSON_FILE = "/Users/hans/Dropbox/Spaans/Verbos.json"
 os.environ['DEEPL_API_KEY'] = '3f709804-413d-48ca-aa5c-ce0691c38bfc:fx'
+
+BASE_URL = "https://www.esfacil.eu/nl/werkwoorden/vervoeging.html"
+# Present tense of "estar"
+ESTAR_PRESENT = ["estoy", "estás", "está", "estamos", "estáis", "están"]
+# Reflexive pronouns aligned with person order
+REFLEXIVE_PRONOUNS = ["me", "te", "se", "nos", "os", "se"]
 
 # Ensure stdout uses UTF-8 encoding (Python 3.7+)
 if hasattr(sys.stdout, 'reconfigure'):
@@ -158,6 +166,123 @@ def process_conjugations(conjugations, is_reflexive):
     return processed
 
 
+def remove_accents(text):
+    """Strip accents from a string while keeping other characters intact."""
+    return "".join(
+        ch
+        for ch in unicodedata.normalize("NFD", text)
+        if unicodedata.category(ch) != "Mn"
+    )
+
+
+def is_reflexive(infinitive):
+    """Return True if the infinitive is reflexive (ends with 'se')."""
+    return infinitive.endswith("se")
+
+
+def strip_reflexive_suffix(infinitive):
+    """Remove trailing 'se' from a reflexive infinitive."""
+    return infinitive[:-2] if is_reflexive(infinitive) else infinitive
+
+
+def fetch_gerundio_from_site(verb):
+    """Query esfacil.eu for a verb gerundio. Returns None on failure."""
+    params = {"verb": verb, "option": "com_verb", "task": "conjugate"}
+    for verify in (True, False):
+        try:
+            resp = requests.get(BASE_URL, params=params, timeout=15, verify=verify)
+            resp.raise_for_status()
+        except requests.exceptions.SSLError:
+            continue
+        except requests.RequestException:
+            continue
+
+        gerund = parse_gerundio(resp.text)
+        if gerund:
+            return gerund
+    return None
+
+
+def parse_gerundio(html):
+    """Parse gerundio from the conjugation page HTML."""
+    soup = BeautifulSoup(html, "html.parser")
+    table = soup.find("table")
+    if table:
+        for row in table.find_all("tr"):
+            cells = [c.get_text(strip=True) for c in row.find_all(["th", "td"])]
+            if len(cells) >= 2 and cells[0].lower().startswith("gerund"):
+                return cells[1]
+
+    # Fallback: text search
+    text = soup.get_text(" ", strip=True)
+    match = re.search(r"gerund\w*\s*[:\-]?\s*([a-záéíóúñü]+)", text, re.IGNORECASE)
+    if match:
+        return match.group(1)
+    return None
+
+
+def derive_regular_gerundio(infinitive):
+    """Simple regular gerund builder as a fallback when scraping fails."""
+    base = strip_reflexive_suffix(infinitive)
+    base = re.sub(r"[^\wáéíóúñüÁÉÍÓÚÑÜ]", "", base)
+    if base.endswith("ar"):
+        return base[:-2] + "ando"
+    if base.endswith(("er", "ir")):
+        stem = base[:-2]
+        last = stem[-1].lower() if stem else ""
+        if last in "aeiou" or base.endswith("uir"):
+            return stem + "yendo"
+        return stem + "iendo"
+    return None
+
+
+def fetch_gerundio(infinitive):
+    """
+    Fetch gerundio with fallbacks:
+    - Try non-reflexive form first.
+    - Try original infinitive.
+    - Fall back to a regular gerund derivation.
+    """
+    candidates = []
+    stripped = strip_reflexive_suffix(infinitive)
+    if stripped:
+        candidates.append(stripped)
+    if infinitive and infinitive != stripped:
+        candidates.append(infinitive)
+
+    seen = set()
+    for candidate in candidates:
+        if candidate in seen:
+            continue
+        seen.add(candidate)
+        ger = fetch_gerundio_from_site(candidate)
+        if ger:
+            return ger
+
+    return derive_regular_gerundio(infinitive)
+
+
+def strip_reflexive_from_gerundio(gerundio):
+    """Remove trailing reflexive pronouns from a gerundio and normalize accents."""
+    lowered = gerundio.lower()
+    for pronoun in ("se", "me", "te", "nos", "os"):
+        if lowered.endswith(pronoun):
+            trimmed = gerundio[: -len(pronoun)]
+            return remove_accents(trimmed)
+    return gerundio
+
+
+def build_presente_progresivo(gerundio, reflexive):
+    """Build presente progresivo for the verb, handling reflexive forms."""
+    if reflexive:
+        clean_ger = strip_reflexive_from_gerundio(gerundio)
+        return [
+            f"{pron} {estar} {clean_ger}"
+            for pron, estar in zip(REFLEXIVE_PRONOUNS, ESTAR_PRESENT)
+        ]
+    return [f"{estar} {gerundio}" for estar in ESTAR_PRESENT]
+
+
 def check_verb_exists(verb_data, verb):
     """
     Check if a verb already exists in the JSON data (case-sensitive).
@@ -238,7 +363,18 @@ def main():
         sys.exit(1)
     
     # Determine if verb is reflexive
-    is_reflexive = verb.endswith("se")
+    verb_is_reflexive = is_reflexive(verb)
+
+    # Get presente progresivo
+    print("  - Getting presente-progresivo...")
+    gerundio = fetch_gerundio(verb)
+    if not gerundio:
+        print("Error: Could not determine gerundio. Aborting.")
+        sys.exit(1)
+    presente_progresivo = build_presente_progresivo(
+        gerundio=gerundio,
+        reflexive=verb_is_reflexive
+    )
     
     # Get conjugations for three tenses
     tiempo_mapping = {
@@ -256,7 +392,7 @@ def main():
             print(f"Error: Could not extract {json_key} conjugations. Aborting.")
             sys.exit(1)
         
-        processed_conjugations = process_conjugations(raw_conjugations, is_reflexive)
+        processed_conjugations = process_conjugations(raw_conjugations, verb_is_reflexive)
         
         # Ensure we have exactly 6 conjugations
         if len(processed_conjugations) != 6:
@@ -271,6 +407,7 @@ def main():
         "presente": conjugations_data["presente"],
         "preterito-perfecto": conjugations_data["preterito-perfecto"],
         "preterito-indefinido": conjugations_data["preterito-indefinido"],
+        "presente-progresivo": presente_progresivo,
         "dutch": dutch_translation
     }
     

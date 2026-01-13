@@ -243,7 +243,8 @@ PERSONS = [
 TENSE_LABELS = {
     "presente": "Present",
     "preterito-perfecto": "Pretérito Perfecto",
-    "preterito-indefinido": "Pretérito Indefinido"
+    "preterito-indefinido": "Pretérito Indefinido",
+    "presente-progresivo": "Presente Progresivo"
 }
 
 
@@ -292,7 +293,7 @@ def get_random_person():
 
 def get_random_tense():
     """Return random tense key."""
-    tenses = ["presente", "preterito-perfecto", "preterito-indefinido"]
+    tenses = ["presente", "preterito-perfecto", "preterito-indefinido", "presente-progresivo"]
     return random.choice(tenses)
 
 
@@ -413,6 +414,7 @@ Examples:
   %(prog)s --tense=present           # Practice present tense only
   %(prog)s --tense=perfecto          # Practice Pretérito Perfecto only
   %(prog)s --tense=indefinido        # Practice Pretérito Indefinido only
+  %(prog)s --tense=progresivo        # Practice Presente Progresivo (estar + gerundio) only
   %(prog)s --verb=hablar             # Practice only 'hablar' with all tenses
   %(prog)s --verb=ser                # Practice only 'ser' with all tenses
   %(prog)s --dutch                   # Show Dutch translation instead of Spanish verb
@@ -422,9 +424,9 @@ Examples:
     
     parser.add_argument(
         '--tense',
-        choices=['random', 'present', 'perfecto', 'indefinido'],
+        choices=['random', 'present', 'perfecto', 'indefinido', 'progresivo'],
         default='random',
-        help='Select tense mode: random (default), present, perfecto, or indefinido'
+        help='Select tense mode: random (default), present, perfecto, indefinido, or progresivo'
     )
     
     parser.add_argument(
@@ -473,6 +475,9 @@ def run_quiz(verbs, tense_mode='random', specific_verb=None, show_dutch=False):
     elif tense_mode == 'indefinido':
         def get_tense():
             return "preterito-indefinido"
+    elif tense_mode == 'progresivo':
+        def get_tense():
+            return "presente-progresivo"
     
     total_questions = 0
     correct_answers = 0
@@ -565,7 +570,8 @@ def main():
                 'random': 'Random tense',
                 'present': 'Present tense',
                 'perfecto': 'Pretérito Perfecto',
-                'indefinido': 'Pretérito Indefinido'
+                'indefinido': 'Pretérito Indefinido',
+                'progresivo': 'Presente Progresivo'
             }
             print(f"Tense mode: {tense_display[args.tense]}")
         
