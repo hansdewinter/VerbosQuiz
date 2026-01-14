@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup
 import deepl
 
 
-JSON_FILE = "/Users/hans/Dropbox/Spaans/Verbos.json"
+JSON_FILE = "/Users/hans/Repository/hansdewinter/Spaans/Verbos.json"
 os.environ['DEEPL_API_KEY'] = '3f709804-413d-48ca-aa5c-ce0691c38bfc:fx'
 
 BASE_URL = "https://www.esfacil.eu/nl/werkwoorden/vervoeging.html"
