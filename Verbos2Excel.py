@@ -5,7 +5,7 @@
 Generate an Excel workbook with one sheet per verb from a reference JSON.
 
 Usage (defaults shown):
-    python3 ExtractVerbos.py \
+    python3 Verbos2Excel.py \
         --verbs-file /Users/hans/Desktop/verbos-errores.txt \
         --json-file Verbos.json \
         --output-file VerbosErrores.xlsx
