@@ -720,40 +720,40 @@
         "dutch": "contacten leggen met, omgaan met"
     },
     {
-        "verbo": "darse \"besos\"",
+        "verbo": "besar \"a alguien\"",
         "presente": [
-            "me doy",
-            "te das",
-            "se da",
-            "nos damos",
-            "os dais",
-            "se dan"
+            "beso",
+            "besas",
+            "besa",
+            "besamos",
+            "besáis",
+            "besan"
         ],
         "preterito-perfecto": [
-            "me he dado",
-            "te has dado",
-            "se ha dado",
-            "nos hemos dado",
-            "os habéis dado",
-            "se han dado"
+            "he besado",
+            "has besado",
+            "ha besado",
+            "hemos besado",
+            "habéis besado",
+            "han besado"
         ],
         "preterito-indefinido": [
-            "me di",
-            "te diste",
-            "se dio",
-            "nos dimos",
-            "os disteis",
-            "se dieron"
+            "besé",
+            "besaste",
+            "besó",
+            "besamos",
+            "besasteis",
+            "besaron"
         ],
         "presente-progresivo": [
-            "me estoy dando",
-            "te estás dando",
-            "se está dando",
-            "nos estamos dando",
-            "os estáis dando",
-            "se están dando"
+            "estoy besando",
+            "estás besando",
+            "está besando",
+            "estamos besando",
+            "estáis besando",
+            "están besando"
         ],
-        "dutch": "iemand kussen"
+        "dutch": "kussen"
     },
     {
         "verbo": "encontrarse \"con alguien\"",
