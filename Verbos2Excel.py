@@ -6,7 +6,7 @@ Generate an Excel workbook with one sheet per verb from a reference JSON.
 
 Usage (defaults shown):
     python3 Verbos2Excel.py \
-        --verbs-file /Users/hans/Desktop/verbos-errores.txt \
+        --verbs-file VerbosErrores.txt \
         --json-file Verbos.json \
         --output-file VerbosErrores.xlsx
 """
@@ -164,7 +164,7 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--verbs-file",
-        default="/Users/hans/Desktop/verbos-errores.txt",
+        default="VerbosErrores.txt",
         help="Path to text file with verbs (one per line).",
     )
     parser.add_argument(
