@@ -1,5 +1,41 @@
 [
     {
+        "verbo": "vigilar",
+        "presente": [
+            "vigilo",
+            "vigilas",
+            "vigila",
+            "vigilamos",
+            "vigiláis",
+            "vigilan"
+        ],
+        "preterito-perfecto": [
+            "he vigilado",
+            "has vigilado",
+            "ha vigilado",
+            "hemos vigilado",
+            "habéis vigilado",
+            "han vigilado"
+        ],
+        "preterito-indefinido": [
+            "vigilé",
+            "vigilaste",
+            "vigiló",
+            "vigilamos",
+            "vigilasteis",
+            "vigilaron"
+        ],
+        "presente-progresivo": [
+            "estoy vigilando",
+            "estás vigilando",
+            "está vigilando",
+            "estamos vigilando",
+            "estáis vigilando",
+            "están vigilando"
+        ],
+        "dutch": "bewaken, in de gaten houden, opletten, toezicht houden op"
+    },
+    {
         "verbo": "alegrarse \"de algo\"",
         "presente": [
             "me alegro",
