@@ -25,10 +25,13 @@ dedicarse
 deletrear
 depender
 despertarse
+dirigir
+disculparse
 disponer
 doler
 elegir
 empezar
+entrenar
 enviar
 equivocarse
 escalar
@@ -45,6 +48,7 @@ lavar
 leer
 llamarse
 manifestar
+mezclar
 navegar
 negar
 obtener
@@ -52,8 +56,10 @@ oír
 olvidar
 olvidarse
 pedir
+pesar
 planificar
 poner
+preparar
 prestar
 prever
 producir
@@ -75,4 +81,5 @@ sonar
 soportar
 sugerir
 tender
+tener
 valer

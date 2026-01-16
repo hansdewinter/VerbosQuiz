@@ -104,6 +104,8 @@ def answers_match(user_answer: str, expected: str) -> bool:
     user_norm = normalize(user_answer)
     if not user_norm:
         return False
+    if normalize(expected) == user_norm:
+        return True
     variants = [part.strip() for part in expected.replace(";", "/").split("/") if part.strip()]
     return any(normalize(variant) == user_norm for variant in variants)
 
