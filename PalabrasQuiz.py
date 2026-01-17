@@ -15,26 +15,6 @@ from typing import Dict, List, Optional, Tuple
 
 
 DATA_FILE = Path(__file__).with_name("Palabras.json")
-ACCENT_SHORTCUTS = {
-    "a'": "á",
-    "e'": "é",
-    "i'": "í",
-    "o'": "ó",
-    "u'": "ú",
-    "u:": "ü",
-    "n~": "ñ",
-    "A'": "Á",
-    "E'": "É",
-    "I'": "Í",
-    "O'": "Ó",
-    "U'": "Ú",
-    "U:": "Ü",
-    "N~": "Ñ",
-}
-ACCENT_HELP = (
-    "Accent-sneltoetsen: a'→á, e'→é, i'→í, o'→ó, u'→ú, u:→ü, n~→ñ "
-    "(hoofdletters ook). Accenten direct typen mag ook."
-)
 
 
 class Colors:
@@ -91,14 +71,6 @@ def normalize(text: str) -> str:
     return strip_accents(text.strip()).casefold()
 
 
-def apply_accent_shortcuts(text: str) -> str:
-    """Replace simple shortcuts (a' → á, n~ → ñ, u: → ü) to ease typing."""
-    fixed = text
-    for raw, accented in ACCENT_SHORTCUTS.items():
-        fixed = fixed.replace(raw, accented)
-    return fixed
-
-
 def answers_match(user_answer: str, expected: str) -> bool:
     """Compare answers ignoring case/accents; accept multiple variants."""
     user_norm = normalize(user_answer)
@@ -144,8 +116,6 @@ def quiz(words: List[Dict[str, str]], source_key: str, target_key: str) -> Tuple
     correct = 0
     total = 0
     print("\nTyp 'q' om te stoppen met de quiz.")
-    if target_key == "spanish":
-        print(ACCENT_HELP)
     print()
 
     try:
@@ -160,12 +130,11 @@ def quiz(words: List[Dict[str, str]], source_key: str, target_key: str) -> Tuple
             answer_raw = input(
                 f"Vertaal '{question}' naar {target_key} (q om te stoppen): "
             ).strip()
-            answer = apply_accent_shortcuts(answer_raw)
-            if answer.casefold() in {"q", "quit", "exit"}:
+            if answer_raw.casefold() in {"q", "quit", "exit"}:
                 break
             total += 1
 
-            if answers_match(answer, expected):
+            if answers_match(answer_raw, expected):
                 correct += 1
                 print(f"{colors.green}✔ Goed!{colors.reset}\n")
             else:
@@ -182,10 +151,7 @@ def quiz(words: List[Dict[str, str]], source_key: str, target_key: str) -> Tuple
 def add_word_pair(words: List[Dict[str, str]], path: Path = DATA_FILE) -> bool:
     """Add new Dutch/Spanish pairs in a loop; returns True if any were added."""
     print("\nNieuw woordpaar toevoegen. Typ 'q' om te stoppen.")
-    print(
-        "Accent-sneltoetsen toegestaan: a'→á, e'→é, i'→í, o'→ó, u'→ú, u:→ü, n~→ñ.\n"
-        "Je kunt ook direct de juiste accenten typen."
-    )
+    print("Gebruik accenten zoals je ze in de terminal kunt typen.")
 
     added_any = False
     try:
@@ -198,8 +164,8 @@ def add_word_pair(words: List[Dict[str, str]], path: Path = DATA_FILE) -> bool:
             if spanish_raw.casefold() in {"q", "quit"}:
                 break
 
-            dutch = apply_accent_shortcuts(dutch_raw)
-            spanish = apply_accent_shortcuts(spanish_raw)
+            dutch = dutch_raw
+            spanish = spanish_raw
 
             if not dutch or not spanish:
                 print("Lege invoer overgeslagen.\n")

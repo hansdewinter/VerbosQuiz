@@ -28,9 +28,11 @@ despertarse
 dirigir
 disculparse
 disponer
+divertir
 doler
 elegir
 empezar
+encender
 entrenar
 enviar
 equivocarse
@@ -55,6 +57,7 @@ obtener
 oír
 olvidar
 olvidarse
+pararse
 pedir
 pesar
 planificar
@@ -76,9 +79,11 @@ reunirse
 robar
 rodar
 sanar
+seguir
 sentirse
 sonar
 soportar
+subrayar
 sugerir
 tender
 tener
