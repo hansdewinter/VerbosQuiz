@@ -227,6 +227,11 @@ def main() -> None:
     total_questions = 0
 
     print("Spaans ↔ Nederlands woordquiz.")
+    print(
+        "Let op: in de meeste terminals typ je accenten door eerst het accent te "
+        "typen en daarna de letter (bijv. ' + a = á). Een umlaut typ je met het \" "
+        "teken. Je kunt ook geaccentueerde tekens plakken.\n"
+    )
 
     # Non-interactive actions
     if args.add:

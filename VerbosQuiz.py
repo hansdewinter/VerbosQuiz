@@ -347,7 +347,11 @@ def main():
             }
             print(f"Tense mode: {tense_display[args.tense]}")
         
-        print("\nNote: Enter accented characters directly using your terminal input method.\n")
+        print(
+            "\nNote: In most terminals you can type accents by entering the accent key first,\n"
+            "then the letter (e.g., ' + a = á). An umlaut is entered with the \" character.\n"
+            "You can also paste accented characters.\n"
+        )
         if args.dutch:
             print("Tip: Enter '?' to reveal the Spanish verb before answering.\n")
         
