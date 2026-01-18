@@ -76,8 +76,8 @@
         "spanish": "estar molesto/a"
     },
     {
-        "dutch": "durven \"iets doen\"",
-        "spanish": "atreverse \"a hacer\""
+        "dutch": "durven",
+        "spanish": "atreverse"
     },
     {
         "dutch": "het is jouw beurt",
@@ -104,8 +104,12 @@
         "spanish": "la braga"
     },
     {
+        "dutch": "een paardenstaart",
+        "spanish": "una coleta"
+    },
+    {
         "dutch": "een staart",
-        "spanish": "una coletta"
+        "spanish": "una cola"
     },
     {
         "dutch": "een vlecht",
@@ -145,7 +149,7 @@
     },
     {
         "dutch": "iets of iemand dichterbij brengen",
-        "spanish": "acercar algo o a alguien"
+        "spanish": "acercar"
     },
     {
         "dutch": "van iemand anders",
@@ -221,7 +225,7 @@
     },
     {
         "dutch": "wat betreft...",
-        "spanish": "respeto a..."
+        "spanish": "respeto a"
     },
     {
         "dutch": "de verwarming",
