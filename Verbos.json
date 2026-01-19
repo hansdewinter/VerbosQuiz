@@ -33,7 +33,7 @@
             "estáis vigilando",
             "están vigilando"
         ],
-        "dutch": "bewaken, in de gaten houden, opletten, toezicht houden op"
+        "dutch": "bewaken, in de gaten houden, opletten, toezicht houden opƒeste"
     },
     {
         "verbo": "alegrarse \"de algo\"",
@@ -1476,38 +1476,38 @@
         "dutch": "lopen, te voet gaan, rondlopen, ergens zijn"
     },
     {
-        "verbo": "estrenar",
+        "verbo": "estrenarse",
         "presente": [
-            "estreno",
-            "estrenas",
-            "estrena",
-            "estrenamos",
-            "estrenáis",
-            "estrenan"
+            "me estreno",
+            "te estrenas",
+            "se estrena",
+            "nos estrenamos",
+            "os estrenáis",
+            "se estrenan"
         ],
         "preterito-perfecto": [
-            "he estrenado",
-            "has estrenado",
-            "ha estrenado",
-            "hemos estrenado",
-            "habéis estrenado",
-            "han estrenado"
+            "me he estrenado",
+            "te has estrenado",
+            "nos ha estrenado",
+            "nos hemos estrenado",
+            "os habéis estrenado",
+            "se han estrenado"
         ],
         "preterito-indefinido": [
-            "estrené",
-            "estrenaste",
-            "estrenó",
-            "estrenamos",
-            "estrenasteis",
-            "estrenaron"
+            "me estrené",
+            "te estrenaste",
+            "se estrenó",
+            "nos estrenamos",
+            "os estrenasteis",
+            "se estrenaron"
         ],
         "presente-progresivo": [
-            "estoy estrenando",
-            "estás estrenando",
-            "está estrenando",
-            "estamos estrenando",
-            "estáis estrenando",
-            "están estrenando"
+            "me estoy estrenando",
+            "te estás estrenando",
+            "se está estrenando",
+            "nos estamos estrenando",
+            "os estáis estrenando",
+            "se están estrenando"
         ],
         "dutch": "voor het eerst gebruiken/dragen, in première gaan"
     },
