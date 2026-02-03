@@ -10,6 +10,11 @@ import json
 import random
 import sys
 import unicodedata
+from pathlib import Path
+
+from openpyxl import Workbook
+from openpyxl.styles import Alignment, Font
+from openpyxl.worksheet.worksheet import Worksheet
 
 APP_VERSION = "1.0.0"
 
@@ -37,23 +42,154 @@ TENSE_LABELS = {
 }
 
 
+def capitalize_first(text: str) -> str:
+    """Capitalize only the first character, leaving the rest intact."""
+    return text[:1].upper() + text[1:] if text else ""
+
+
+def normalize_verb(name: str) -> str:
+    """Normalize verb strings for matching (remove hints/quotes, lowercase)."""
+    cleaned = name.strip()
+    for sep in ['"', " "]:
+        idx = cleaned.find(sep)
+        if idx != -1:
+            cleaned = cleaned[:idx].strip()
+            break
+    return cleaned.lower()
+
+
+def sanitize_sheet_title(raw_title: str, fallback: str = "Sheet") -> str:
+    """Excel sheet titles max 31 chars and forbid certain characters."""
+    title = raw_title.replace('"', " ")
+    for ch in r"[]:*?/\\":  # forbidden chars
+        title = title.replace(ch, " ")
+    title = title.strip() or fallback
+    if len(title) > 31:
+        title = title[:31]
+    return title
+
+
+def populate_sheet(ws: Worksheet, verb_entry: dict) -> None:
+    """Build sheet layout and fill conjugations (no template dependency)."""
+    verb_name = capitalize_first(verb_entry.get("verbo", ""))
+
+    headers = [
+        ("A1", verb_name),
+        ("B1", "Present"),
+        ("C1", "Pretérito Perfecto"),
+        ("D1", "Pretérito Indefinido"),
+        ("E1", "Presente Progresivo"),
+    ]
+    header_font = Font(bold=True)
+    center = Alignment(horizontal="center")
+    for cell_ref, value in headers:
+        cell = ws[cell_ref]
+        cell.value = value
+        cell.font = header_font
+        cell.alignment = center
+
+    pronouns = [
+        "yo",
+        "tú",
+        "él/ella/usted",
+        "nosotros",
+        "vosotros",
+        "ellos/ellas/ustedes",
+    ]
+    for idx, pronoun in enumerate(pronouns, start=2):
+        ws.cell(row=idx, column=1, value=pronoun)
+
+    tenses = [
+        ("presente", 2),  # column B
+        ("preterito-perfecto", 3),  # column C
+        ("preterito-indefinido", 4),  # column D
+        ("presente-progresivo", 5),  # column E
+    ]
+
+    for row_idx in range(6):  # rows 2-7 contain pronoun lines
+        excel_row = row_idx + 2
+        for key, col in tenses:
+            forms = verb_entry.get(key, [])
+            value = forms[row_idx] if row_idx < len(forms) else ""
+            ws.cell(row=excel_row, column=col, value=value)
+
+    widths = {"A": 18, "B": 18, "C": 22, "D": 22, "E": 22}
+    for col, width in widths.items():
+        ws.column_dimensions[col].width = width
+
+
+def build_verb_lookup(verbs):
+    """Map verbs by normalized infinitive for quick lookup."""
+    lookup = {}
+    for entry in verbs:
+        norm = normalize_verb(entry.get("verbo", ""))
+        if not norm:
+            continue
+        lookup.setdefault(norm, entry)
+    return lookup
+
+
+def build_workbook(entries):
+    """Create a workbook with one sheet per verb entry."""
+    wb = Workbook()
+    default_ws = wb.active
+    wb.remove(default_ws)
+
+    for entry in entries:
+        title = sanitize_sheet_title(entry.get("verbo", ""))
+        ws = wb.create_sheet(title=title)
+        populate_sheet(ws, entry)
+
+    return wb
+
+
+def export_incorrect_verbs_excel(incorrect_verbs, verbs, output_path: Path) -> None:
+    """Write incorrect verbs to an Excel workbook (one sheet per verb)."""
+    if not incorrect_verbs:
+        return
+
+    lookup = build_verb_lookup(verbs)
+    missing = []
+    entries = []
+    for verb in sorted(incorrect_verbs, key=normalize_verb):
+        entry = lookup.get(normalize_verb(verb))
+        if entry is None:
+            missing.append(verb)
+            continue
+        entries.append(entry)
+
+    if missing:
+        missing_str = ", ".join(missing)
+        print(f"Warning: Verbs not found in JSON: {missing_str}")
+
+    if not entries:
+        print("No incorrect verbs could be exported.")
+        return
+
+    wb = build_workbook(entries)
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    wb.save(output_path)
+    print(f"Created {output_path} with {len(entries)} sheets.")
+
+
 def load_verbs():
     """Load verbs from Verbos.json file with UTF-8 encoding."""
+    json_path = Path(__file__).resolve().parent / "Verbos.json"
     try:
-        with open('/Users/hans/Dropbox/Spaans/Verbos.json', 'r', encoding='utf-8') as f:
+        with open(json_path, 'r', encoding='utf-8') as f:
             verbs = json.load(f)
         if not verbs:
-            print("Error: /Users/hans/Dropbox/Spaans/Verbos.json is empty.")
+            print(f"Error: {json_path} is empty.")
             sys.exit(1)
         return verbs
     except FileNotFoundError:
-        print("Error: /Users/hans/Dropbox/Spaans/Verbos.json file not found.")
+        print(f"Error: {json_path} file not found.")
         sys.exit(1)
     except json.JSONDecodeError as e:
-        print(f"Error: Invalid JSON in /Users/hans/Dropbox/Spaans/Verbos.json: {e}")
+        print(f"Error: Invalid JSON in {json_path}: {e}")
         sys.exit(1)
     except UnicodeDecodeError as e:
-        print(f"Error: Encoding issue when reading /Users/hans/Dropbox/Spaans/Verbos.json: {e}")
+        print(f"Error: Encoding issue when reading {json_path}: {e}")
         sys.exit(1)
 
 
@@ -265,6 +401,7 @@ def run_quiz(verbs, tense_mode='random', specific_verb=None, show_dutch=False):
     correct_answers = 0
     usage_counts = {}
     incorrect_verbs = set()
+    output_path = Path(__file__).resolve().parent / "VerbosErrores.xlsx"
     
     try:
         while True:
@@ -298,6 +435,7 @@ def run_quiz(verbs, tense_mode='random', specific_verb=None, show_dutch=False):
         print("=" * 60)
         print_usage_summary(usage_counts)
         print_incorrect_summary(usage_counts, incorrect_verbs)
+        export_incorrect_verbs_excel(incorrect_verbs, verbs, output_path)
         sys.exit(0)
     except EOFError:
         print("\n\n" + "=" * 60)
@@ -311,6 +449,7 @@ def run_quiz(verbs, tense_mode='random', specific_verb=None, show_dutch=False):
         print("=" * 60)
         print_usage_summary(usage_counts)
         print_incorrect_summary(usage_counts, incorrect_verbs)
+        export_incorrect_verbs_excel(incorrect_verbs, verbs, output_path)
         sys.exit(0)
 
 
@@ -324,7 +463,8 @@ def main():
         if hasattr(sys.stdin, 'reconfigure') and sys.stdin.encoding != 'utf-8':
             sys.stdin.reconfigure(encoding='utf-8')
 
-        print("Loading verbs from /Users/hans/Dropbox/Spaans/Verbos.json...")
+        json_path = Path(__file__).resolve().parent / "Verbos.json"
+        print(f"Loading verbs from {json_path}...")
         verbs = load_verbs()
         print(f"Loaded {len(verbs)} verbs.")
 
@@ -332,7 +472,7 @@ def main():
         if args.verb:
             specific_verb = find_verb(verbs, args.verb)
             if specific_verb is None:
-                print(f"Error: Verb '{args.verb}' not found in /Users/hans/Dropbox/Spaans/Verbos.json.")
+                print(f"Error: Verb '{args.verb}' not found in {json_path}.")
                 print("Please check the spelling and try again.")
                 sys.exit(1)
             print(f"Practicing verb: {specific_verb['verbo']} ({specific_verb.get('dutch', 'N/A')})")
