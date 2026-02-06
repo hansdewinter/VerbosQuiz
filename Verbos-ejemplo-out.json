@@ -25,13 +25,13 @@
             "agradecisteis",
             "agradecieron"
         ],
-        "presente progresivo": [
-            "estoy agradeciendo",
-            "estás agradeciendo",
-            "está agradeciendo",
-            "estamos agradeciendo",
-            "estáis agradeciendo",
-            "están agradeciendo",
+        "preterito-imperfecto": [
+            "agradecía",
+            "agradecías",
+            "agradecía",
+            "agradecíamos",
+            "agradecíais",
+            "agradecían"
         ],
         "dutch": "bedanken, dankbaar zijn, waarderen (formeel)"
     },
@@ -61,13 +61,13 @@
             "os declarasteis",
             "se declararon"
         ],
-        "presente progresivo": [
-            "me estoy declarando",
-            "te estás declarando",
-            "se está declarando",
-            "nos estamos declarandonos",
-            "os estáis declarando",
-            "se están declarando",
+        "preterito-imperfecto": [
+            "me declaraba",
+            "te declarabas",
+            "se declaraba",
+            "nos declarábamos",
+            "os declarabeis",
+            "se declaraban"
         ],
         "dutch": "zijn/haar liefde verklaren"
     }

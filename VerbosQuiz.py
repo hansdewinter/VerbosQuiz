@@ -38,6 +38,7 @@ TENSE_LABELS = {
     "presente": "Present",
     "preterito-perfecto": "Pretérito Perfecto",
     "preterito-indefinido": "Pretérito Indefinido",
+    "preterito-imperfecto": "Pretérito Imperfecto",
     "presente-progresivo": "Presente Progresivo"
 }
 
@@ -78,7 +79,8 @@ def populate_sheet(ws: Worksheet, verb_entry: dict) -> None:
         ("B1", "Present"),
         ("C1", "Pretérito Perfecto"),
         ("D1", "Pretérito Indefinido"),
-        ("E1", "Presente Progresivo"),
+        ("E1", "Pretérito Imperfecto"),
+        ("F1", "Presente Progresivo"),
     ]
     header_font = Font(bold=True)
     center = Alignment(horizontal="center")
@@ -103,7 +105,8 @@ def populate_sheet(ws: Worksheet, verb_entry: dict) -> None:
         ("presente", 2),  # column B
         ("preterito-perfecto", 3),  # column C
         ("preterito-indefinido", 4),  # column D
-        ("presente-progresivo", 5),  # column E
+        ("preterito-imperfecto", 5),  # column E
+        ("presente-progresivo", 6),  # column F
     ]
 
     for row_idx in range(6):  # rows 2-7 contain pronoun lines
@@ -113,7 +116,7 @@ def populate_sheet(ws: Worksheet, verb_entry: dict) -> None:
             value = forms[row_idx] if row_idx < len(forms) else ""
             ws.cell(row=excel_row, column=col, value=value)
 
-    widths = {"A": 18, "B": 18, "C": 22, "D": 22, "E": 22}
+    widths = {"A": 18, "B": 18, "C": 22, "D": 22, "E": 22, "F": 22}
     for col, width in widths.items():
         ws.column_dimensions[col].width = width
 
@@ -222,6 +225,7 @@ def get_random_tense():
         "presente",
         "preterito-perfecto",
         "preterito-indefinido",
+        "preterito-imperfecto",
         "presente-progresivo",
     ]
     return random.choice(tenses)
@@ -335,6 +339,7 @@ Examples:
   %(prog)s --tense=present           # Practice present tense only
   %(prog)s --tense=perfecto          # Practice Pretérito Perfecto only
   %(prog)s --tense=indefinido        # Practice Pretérito Indefinido only
+  %(prog)s --tense=imperfecto        # Practice Pretérito Imperfecto only
   %(prog)s --tense=progresivo        # Practice Presente Progresivo (estar + gerundio) only
   %(prog)s --verb=hablar             # Practice only 'hablar' with all tenses
   %(prog)s --verb=ser                # Practice only 'ser' with all tenses
@@ -345,9 +350,9 @@ Examples:
     
     parser.add_argument(
         '--tense',
-        choices=['random', 'present', 'perfecto', 'indefinido', 'progresivo'],
+        choices=['random', 'present', 'perfecto', 'indefinido', 'imperfecto', 'progresivo'],
         default='random',
-        help='Select tense mode: random (default), present, perfecto, indefinido, or progresivo'
+        help='Select tense mode: random (default), present, perfecto, indefinido, imperfecto, or progresivo'
     )
     
     parser.add_argument(
@@ -393,6 +398,9 @@ def run_quiz(verbs, tense_mode='random', specific_verb=None, show_dutch=False):
     elif tense_mode == 'indefinido':
         def get_tense():
             return "preterito-indefinido"
+    elif tense_mode == 'imperfecto':
+        def get_tense():
+            return "preterito-imperfecto"
     elif tense_mode == 'progresivo':
         def get_tense():
             return "presente-progresivo"
@@ -483,6 +491,7 @@ def main():
                 'present': 'Present tense',
                 'perfecto': 'Pretérito Perfecto',
                 'indefinido': 'Pretérito Indefinido',
+                'imperfecto': 'Pretérito Imperfecto',
                 'progresivo': 'Presente Progresivo'
             }
             print(f"Tense mode: {tense_display[args.tense]}")

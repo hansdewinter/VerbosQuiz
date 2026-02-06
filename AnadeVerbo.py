@@ -376,11 +376,12 @@ def main():
         reflexive=verb_is_reflexive
     )
     
-    # Get conjugations for three tenses
+    # Get conjugations for four tenses
     tiempo_mapping = {
         "indicativo-presente": "presente",
         "indicativo-preterito-perfecto": "preterito-perfecto",
-        "indicativo-preterito-indefinido": "preterito-indefinido"
+        "indicativo-preterito-indefinido": "preterito-indefinido",
+        "indicativo-preterito-imperfecto": "preterito-imperfecto",
     }
     
     conjugations_data = {}
@@ -407,6 +408,7 @@ def main():
         "presente": conjugations_data["presente"],
         "preterito-perfecto": conjugations_data["preterito-perfecto"],
         "preterito-indefinido": conjugations_data["preterito-indefinido"],
+        "preterito-imperfecto": conjugations_data["preterito-imperfecto"],
         "presente-progresivo": presente_progresivo,
         "dutch": dutch_translation
     }

@@ -25,6 +25,14 @@
             "vigilasteis",
             "vigilaron"
         ],
+        "preterito-imperfecto": [
+            "vigilaba",
+            "vigilabas",
+            "vigilaba",
+            "vigilábamos",
+            "vigilabais",
+            "vigilaban"
+        ],
         "presente-progresivo": [
             "estoy vigilando",
             "estás vigilando",
@@ -60,6 +68,14 @@
             "nos alegramos",
             "os alegrasteis",
             "se alegraron"
+        ],
+        "preterito-imperfecto": [
+            "me alegraba",
+            "te alegrabas",
+            "se alegraba",
+            "nos alegrábamos",
+            "os alegrabais",
+            "se alegraban"
         ],
         "presente-progresivo": [
             "me estoy alegrando",
@@ -97,6 +113,14 @@
             "agradecisteis",
             "agradecieron"
         ],
+        "preterito-imperfecto": [
+            "agradecía",
+            "agradecías",
+            "agradecía",
+            "agradecíamos",
+            "agradecíais",
+            "agradecían"
+        ],
         "presente-progresivo": [
             "estoy agradeciendo",
             "estás agradeciendo",
@@ -132,6 +156,14 @@
             "nos declaramos",
             "os declarasteis",
             "se declararon"
+        ],
+        "preterito-imperfecto": [
+            "me declaraba",
+            "te declarabas",
+            "se declaraba",
+            "nos declarábamos",
+            "os declarabais",
+            "se declaraban"
         ],
         "presente-progresivo": [
             "me estoy declarando",
@@ -169,6 +201,14 @@
             "confesasteis",
             "confesaron"
         ],
+        "preterito-imperfecto": [
+            "confesaba",
+            "confesabas",
+            "confesaba",
+            "confesábamos",
+            "confesabais",
+            "confesaban"
+        ],
         "presente-progresivo": [
             "estoy confesando",
             "estás confesando",
@@ -204,6 +244,14 @@
             "nos atrevimos",
             "os atrevisteis",
             "se atrevieron"
+        ],
+        "preterito-imperfecto": [
+            "me atrevía",
+            "te atrevías",
+            "se atrevía",
+            "nos atrevíamos",
+            "os atrevíais",
+            "se atrevían"
         ],
         "presente-progresivo": [
             "me estoy atreviendo",
@@ -241,6 +289,14 @@
             "inspirasteis",
             "inspiraron"
         ],
+        "preterito-imperfecto": [
+            "inspiraba",
+            "inspirabas",
+            "inspiraba",
+            "inspirábamos",
+            "inspirabais",
+            "inspiraban"
+        ],
         "presente-progresivo": [
             "estoy inspirando",
             "estás inspirando",
@@ -276,6 +332,14 @@
             "nos callamos",
             "os callasteis",
             "se callaron"
+        ],
+        "preterito-imperfecto": [
+            "me callaba",
+            "te callabas",
+            "se callaba",
+            "nos callábamos",
+            "os callabais",
+            "se callaban"
         ],
         "presente-progresivo": [
             "me estoy callando",
@@ -313,6 +377,14 @@
             "golpeasteis",
             "golpearon"
         ],
+        "preterito-imperfecto": [
+            "golpeaba",
+            "golpeabas",
+            "golpeaba",
+            "golpeábamos",
+            "golpeabais",
+            "golpeaban"
+        ],
         "presente-progresivo": [
             "estoy golpeando",
             "estás golpeando",
@@ -348,6 +420,14 @@
             "sujetamos",
             "sujetasteis",
             "sujetaron"
+        ],
+        "preterito-imperfecto": [
+            "sujetaba",
+            "sujetabas",
+            "sujetaba",
+            "sujetábamos",
+            "sujetabais",
+            "sujetaban"
         ],
         "presente-progresivo": [
             "estoy sujetando",
@@ -385,6 +465,14 @@
             "decorasteis",
             "decoraron"
         ],
+        "preterito-imperfecto": [
+            "decoraba",
+            "decorabas",
+            "decoraba",
+            "decorábamos",
+            "decorabais",
+            "decoraban"
+        ],
         "presente-progresivo": [
             "estoy decorando",
             "estás decorando",
@@ -420,6 +508,14 @@
             "nos interesamos",
             "os interesasteis",
             "se interesaron"
+        ],
+        "preterito-imperfecto": [
+            "me interesaba",
+            "te interesabas",
+            "se interesaba",
+            "nos interesábamos",
+            "os interesabais",
+            "se interesaban"
         ],
         "presente-progresivo": [
             "me estoy interesando",
@@ -457,6 +553,14 @@
             "acercasteis",
             "acercaron"
         ],
+        "preterito-imperfecto": [
+            "acercaba",
+            "acercabas",
+            "acercaba",
+            "acercábamos",
+            "acercabais",
+            "acercaban"
+        ],
         "presente-progresivo": [
             "estoy acercando",
             "estás acercando",
@@ -492,6 +596,14 @@
             "nos dormimos",
             "os dormisteis",
             "se durmieron"
+        ],
+        "preterito-imperfecto": [
+            "me dormía",
+            "te dormías",
+            "se dormía",
+            "nos dormíamos",
+            "os dormíais",
+            "se dormían"
         ],
         "presente-progresivo": [
             "me estoy durmiendo",
@@ -529,6 +641,14 @@
             "prestasteis",
             "prestaron"
         ],
+        "preterito-imperfecto": [
+            "prestaba",
+            "prestabas",
+            "prestaba",
+            "prestábamos",
+            "prestabais",
+            "prestaban"
+        ],
         "presente-progresivo": [
             "estoy prestando",
             "estás prestando",
@@ -564,6 +684,14 @@
             "tratamos",
             "tratasteis",
             "trataron"
+        ],
+        "preterito-imperfecto": [
+            "trataba",
+            "tratabas",
+            "trataba",
+            "tratábamos",
+            "tratabais",
+            "trataban"
         ],
         "presente-progresivo": [
             "estoy tratando",
@@ -601,6 +729,14 @@
             "empujasteis",
             "empujaron"
         ],
+        "preterito-imperfecto": [
+            "empujaba",
+            "empujabas",
+            "empujaba",
+            "empujábamos",
+            "empujabais",
+            "empujaban"
+        ],
         "presente-progresivo": [
             "estoy empujando",
             "estás empujando",
@@ -636,6 +772,14 @@
             "adalantamos",
             "adalantasteis",
             "adalantaron"
+        ],
+        "preterito-imperfecto": [
+            "adalantaba",
+            "adalantabas",
+            "adalantaba",
+            "adalantábamos",
+            "adalantabais",
+            "adalantaban"
         ],
         "presente-progresivo": [
             "estoy adalantando",
@@ -673,6 +817,14 @@
             "os parasteis",
             "se pararon"
         ],
+        "preterito-imperfecto": [
+            "me paraba",
+            "te parabas",
+            "se paraba",
+            "nos parábamos",
+            "os parabais",
+            "se paraban"
+        ],
         "presente-progresivo": [
             "me estoy parando",
             "te estás parando",
@@ -708,6 +860,14 @@
             "interactuamos",
             "interactuasteis",
             "interactuaron"
+        ],
+        "preterito-imperfecto": [
+            "interactuaba",
+            "interactuabas",
+            "interactuaba",
+            "interactuábamos",
+            "interactuabais",
+            "interactuaban"
         ],
         "presente-progresivo": [
             "estoy interactuando",
@@ -745,6 +905,14 @@
             "os relacionasteis",
             "se relacionaron"
         ],
+        "preterito-imperfecto": [
+            "me relacionaba",
+            "te relacionabas",
+            "se relacionaba",
+            "nos relacionábamos",
+            "os relacionabais",
+            "se relacionaban"
+        ],
         "presente-progresivo": [
             "me estoy relacionando",
             "te estás relacionando",
@@ -780,6 +948,14 @@
             "besamos",
             "besasteis",
             "besaron"
+        ],
+        "preterito-imperfecto": [
+            "besaba",
+            "besabas",
+            "besaba",
+            "besábamos",
+            "besabais",
+            "besaban"
         ],
         "presente-progresivo": [
             "estoy besando",
@@ -817,6 +993,14 @@
             "os encontrasteis",
             "se encontraron"
         ],
+        "preterito-imperfecto": [
+            "me encontraba",
+            "te encontrabas",
+            "se encontraba",
+            "nos encontrábamos",
+            "os encontrabais",
+            "se encontraban"
+        ],
         "presente-progresivo": [
             "me estoy encontrando",
             "te estás encontrando",
@@ -852,6 +1036,14 @@
             "tuteamos",
             "tuteasteis",
             "tutearon"
+        ],
+        "preterito-imperfecto": [
+            "tuteaba",
+            "tuteabas",
+            "tuteaba",
+            "tuteábamos",
+            "tuteabais",
+            "tuteaban"
         ],
         "presente-progresivo": [
             "estoy tuteando",
@@ -889,6 +1081,14 @@
             "os disculpasteis",
             "se disculparon"
         ],
+        "preterito-imperfecto": [
+            "me disculpaba",
+            "te disculpabas",
+            "se disculpaba",
+            "nos disculpábamos",
+            "os disculpabais",
+            "se disculpaban"
+        ],
         "presente-progresivo": [
             "me estoy disculpando",
             "te estás disculpando",
@@ -924,6 +1124,14 @@
             "ocupamos",
             "ocupasteis",
             "ocuparon"
+        ],
+        "preterito-imperfecto": [
+            "ocupaba",
+            "ocupabas",
+            "ocupaba",
+            "ocupábamos",
+            "ocupabais",
+            "ocupaban"
         ],
         "presente-progresivo": [
             "estoy ocupando",
@@ -961,6 +1169,14 @@
             "fluisteis",
             "fluyeron"
         ],
+        "preterito-imperfecto": [
+            "fluía",
+            "fluías",
+            "fluía",
+            "fluíamos",
+            "fluíais",
+            "fluían"
+        ],
         "presente-progresivo": [
             "estoy fluyendo",
             "estás fluyendo",
@@ -996,6 +1212,14 @@
             "gastamos",
             "gastasteis",
             "gastaron"
+        ],
+        "preterito-imperfecto": [
+            "gastaba",
+            "gastabas",
+            "gastaba",
+            "gastábamos",
+            "gastabais",
+            "gastaban"
         ],
         "presente-progresivo": [
             "estoy gastando",
@@ -1033,6 +1257,14 @@
             "sufristeis",
             "sufrieron"
         ],
+        "preterito-imperfecto": [
+            "sufría",
+            "sufrías",
+            "sufría",
+            "sufríamos",
+            "sufríais",
+            "sufrían"
+        ],
         "presente-progresivo": [
             "estoy sufriendo",
             "estás sufriendo",
@@ -1068,6 +1300,14 @@
             "ahorramos",
             "ahorrasteis",
             "ahorraron"
+        ],
+        "preterito-imperfecto": [
+            "ahorraba",
+            "ahorrabas",
+            "ahorraba",
+            "ahorrábamos",
+            "ahorrabais",
+            "ahorraban"
         ],
         "presente-progresivo": [
             "estoy ahorrando",
@@ -1105,6 +1345,14 @@
             "entrasteis",
             "entraron"
         ],
+        "preterito-imperfecto": [
+            "entraba",
+            "entrabas",
+            "entraba",
+            "entrábamos",
+            "entrabais",
+            "entraban"
+        ],
         "presente-progresivo": [
             "estoy entrando",
             "estás entrando",
@@ -1140,6 +1388,14 @@
             "confiamos",
             "confiasteis",
             "confiaron"
+        ],
+        "preterito-imperfecto": [
+            "confiaba",
+            "confiabas",
+            "confiaba",
+            "confiábamos",
+            "confiabais",
+            "confiaban"
         ],
         "presente-progresivo": [
             "estoy confiando",
@@ -1177,6 +1433,14 @@
             "firmasteis",
             "firmaron"
         ],
+        "preterito-imperfecto": [
+            "firmaba",
+            "firmabas",
+            "firmaba",
+            "firmábamos",
+            "firmabais",
+            "firmaban"
+        ],
         "presente-progresivo": [
             "estoy firmando",
             "estás firmando",
@@ -1212,6 +1476,14 @@
             "protagonizamos",
             "protagonizasteis",
             "protagonizaron"
+        ],
+        "preterito-imperfecto": [
+            "protagonizaba",
+            "protagonizabas",
+            "protagonizaba",
+            "protagonizábamos",
+            "protagonizabais",
+            "protagonizaban"
         ],
         "presente-progresivo": [
             "estoy protagonizando",
@@ -1249,6 +1521,14 @@
             "chocasteis",
             "chocaon"
         ],
+        "preterito-imperfecto": [
+            "chocaba",
+            "chocabas",
+            "chocaba",
+            "chocábamos",
+            "chocabais",
+            "chocaban"
+        ],
         "presente-progresivo": [
             "estoy chocando",
             "estás chocando",
@@ -1284,6 +1564,14 @@
             "contactamos",
             "contactasteis",
             "contactaron"
+        ],
+        "preterito-imperfecto": [
+            "contactaba",
+            "contactabas",
+            "contactaba",
+            "contactábamos",
+            "contactabais",
+            "contactaban"
         ],
         "presente-progresivo": [
             "estoy contactando",
@@ -1321,6 +1609,14 @@
             "criticasteis",
             "criticaron"
         ],
+        "preterito-imperfecto": [
+            "criticaba",
+            "criticabas",
+            "criticaba",
+            "criticábamos",
+            "criticabais",
+            "criticaban"
+        ],
         "presente-progresivo": [
             "estoy criticando",
             "estás criticando",
@@ -1356,6 +1652,14 @@
             "presentamos",
             "presentasteis",
             "presentaron"
+        ],
+        "preterito-imperfecto": [
+            "presentaba",
+            "presentabas",
+            "presentaba",
+            "presentábamos",
+            "presentabais",
+            "presentaban"
         ],
         "presente-progresivo": [
             "estoy presentando",
@@ -1393,6 +1697,14 @@
             "soportasteis",
             "soportaron"
         ],
+        "preterito-imperfecto": [
+            "soportaba",
+            "soportabas",
+            "soportaba",
+            "soportábamos",
+            "soportabais",
+            "soportaban"
+        ],
         "presente-progresivo": [
             "estoy soportando",
             "estás soportando",
@@ -1428,6 +1740,14 @@
             "pesamos",
             "pesasteis",
             "pesaron"
+        ],
+        "preterito-imperfecto": [
+            "pesaba",
+            "pesabas",
+            "pesaba",
+            "pesábamos",
+            "pesabais",
+            "pesaban"
         ],
         "presente-progresivo": [
             "estoy pesando",
@@ -1465,6 +1785,14 @@
             "anduvisteis",
             "anduvieron"
         ],
+        "preterito-imperfecto": [
+            "andaba",
+            "andabas",
+            "andaba",
+            "andábamos",
+            "andabais",
+            "andaban"
+        ],
         "presente-progresivo": [
             "estoy andando",
             "estás andando",
@@ -1500,6 +1828,14 @@
             "nos estrenamos",
             "os estrenasteis",
             "se estrenaron"
+        ],
+        "preterito-imperfecto": [
+            "me estrenaba",
+            "te estrenabas",
+            "se estrenaba",
+            "nos estrenábamos",
+            "os estrenabais",
+            "se estrenaban"
         ],
         "presente-progresivo": [
             "me estoy estrenando",
@@ -1537,6 +1873,14 @@
             "introdujisteis",
             "introdujeron"
         ],
+        "preterito-imperfecto": [
+            "introducía",
+            "introducías",
+            "introducía",
+            "introducíamos",
+            "introducíais",
+            "introducían"
+        ],
         "presente-progresivo": [
             "estoy introduciendo",
             "estás introduciendo",
@@ -1572,6 +1916,14 @@
             "fuimos",
             "fuisteis",
             "fueron"
+        ],
+        "preterito-imperfecto": [
+            "era",
+            "eras",
+            "era",
+            "éramos",
+            "erais",
+            "eran"
         ],
         "presente-progresivo": [
             "estoy siendo",
@@ -1609,6 +1961,14 @@
             "estuvisteis",
             "estuvieron"
         ],
+        "preterito-imperfecto": [
+            "estaba",
+            "estabas",
+            "estaba",
+            "estábamos",
+            "estabais",
+            "estaban"
+        ],
         "presente-progresivo": [
             "estoy estando",
             "estás estando",
@@ -1644,6 +2004,14 @@
             "fuimos",
             "fuisteis",
             "fueron"
+        ],
+        "preterito-imperfecto": [
+            "iba",
+            "ibas",
+            "iba",
+            "íbamos",
+            "ibais",
+            "iban"
         ],
         "presente-progresivo": [
             "estoy yendo",
@@ -1681,6 +2049,14 @@
             "escuchasteis",
             "escucharon"
         ],
+        "preterito-imperfecto": [
+            "escuchaba",
+            "escuchabas",
+            "escuchaba",
+            "escuchábamos",
+            "escuchabais",
+            "escuchaban"
+        ],
         "presente-progresivo": [
             "estoy escuchando",
             "estás escuchando",
@@ -1716,6 +2092,14 @@
             "preguntamos",
             "preguntasteis",
             "preguntaron"
+        ],
+        "preterito-imperfecto": [
+            "preguntaba",
+            "preguntabas",
+            "preguntaba",
+            "preguntábamos",
+            "preguntabais",
+            "preguntaban"
         ],
         "presente-progresivo": [
             "estoy preguntando",
@@ -1753,6 +2137,14 @@
             "leísteis",
             "leyeron"
         ],
+        "preterito-imperfecto": [
+            "leía",
+            "leías",
+            "leía",
+            "leíamos",
+            "leíais",
+            "leían"
+        ],
         "presente-progresivo": [
             "estoy leyendo",
             "estás leyendo",
@@ -1788,6 +2180,14 @@
             "hablamos",
             "hablasteis",
             "hablaron"
+        ],
+        "preterito-imperfecto": [
+            "hablaba",
+            "hablabas",
+            "hablaba",
+            "hablábamos",
+            "hablabais",
+            "hablaban"
         ],
         "presente-progresivo": [
             "estoy hablando",
@@ -1825,6 +2225,14 @@
             "escribisteis",
             "escribieron"
         ],
+        "preterito-imperfecto": [
+            "escribía",
+            "escribías",
+            "escribía",
+            "escribíamos",
+            "escribíais",
+            "escribían"
+        ],
         "presente-progresivo": [
             "estoy escribiendo",
             "estás escribiendo",
@@ -1860,6 +2268,14 @@
             "respondimos",
             "respondisteis",
             "respondieron"
+        ],
+        "preterito-imperfecto": [
+            "respondía",
+            "respondías",
+            "respondía",
+            "respondíamos",
+            "respondíais",
+            "respondían"
         ],
         "presente-progresivo": [
             "estoy respondiendo",
@@ -1897,6 +2313,14 @@
             "comprendisteis",
             "comprendieron"
         ],
+        "preterito-imperfecto": [
+            "comprendía",
+            "comprendías",
+            "comprendía",
+            "comprendíamos",
+            "comprendíais",
+            "comprendían"
+        ],
         "presente-progresivo": [
             "estoy comprendiendo",
             "estás comprendiendo",
@@ -1932,6 +2356,14 @@
             "repetimos",
             "repetisteis",
             "repitieron"
+        ],
+        "preterito-imperfecto": [
+            "repetía",
+            "repetías",
+            "repetía",
+            "repetíamos",
+            "repetíais",
+            "repetían"
         ],
         "presente-progresivo": [
             "estoy repitiendo",
@@ -1969,6 +2401,14 @@
             "bebisteis",
             "bebieron"
         ],
+        "preterito-imperfecto": [
+            "bebía",
+            "bebías",
+            "bebía",
+            "bebíamos",
+            "bebíais",
+            "bebían"
+        ],
         "presente-progresivo": [
             "estoy bebiendo",
             "estás bebiendo",
@@ -2004,6 +2444,14 @@
             "vivimos",
             "vivisteis",
             "vivieron"
+        ],
+        "preterito-imperfecto": [
+            "vivía",
+            "vivías",
+            "vivía",
+            "vivíamos",
+            "vivíais",
+            "vivían"
         ],
         "presente-progresivo": [
             "estoy viviendo",
@@ -2041,6 +2489,14 @@
             "comisteis",
             "comieron"
         ],
+        "preterito-imperfecto": [
+            "comía",
+            "comías",
+            "comía",
+            "comíamos",
+            "comíais",
+            "comían"
+        ],
         "presente-progresivo": [
             "estoy comiendo",
             "estás comiendo",
@@ -2076,6 +2532,14 @@
             "necesitamos",
             "necesitasteis",
             "necesitaron"
+        ],
+        "preterito-imperfecto": [
+            "necesitaba",
+            "necesitabas",
+            "necesitaba",
+            "necesitábamos",
+            "necesitabais",
+            "necesitaban"
         ],
         "presente-progresivo": [
             "estoy necesitando",
@@ -2113,6 +2577,14 @@
             "saludasteis",
             "saludaron"
         ],
+        "preterito-imperfecto": [
+            "saludaba",
+            "saludabas",
+            "saludaba",
+            "saludábamos",
+            "saludabais",
+            "saludaban"
+        ],
         "presente-progresivo": [
             "estoy saludando",
             "estás saludando",
@@ -2148,6 +2620,14 @@
             "trabajamos",
             "trabajasteis",
             "trabajaron"
+        ],
+        "preterito-imperfecto": [
+            "trabajaba",
+            "trabajabas",
+            "trabajaba",
+            "trabajábamos",
+            "trabajabais",
+            "trabajaban"
         ],
         "presente-progresivo": [
             "estoy trabajando",
@@ -2185,6 +2665,14 @@
             "os llamasteis",
             "se llamaron"
         ],
+        "preterito-imperfecto": [
+            "me llamaba",
+            "te llamabas",
+            "se llamaba",
+            "nos llamábamos",
+            "os llamabais",
+            "se llamaban"
+        ],
         "presente-progresivo": [
             "me estoy llamando",
             "te estás llamando",
@@ -2220,6 +2708,14 @@
             "tuvimos",
             "tuvisteis",
             "tuvieron"
+        ],
+        "preterito-imperfecto": [
+            "tenía",
+            "tenías",
+            "tenía",
+            "teníamos",
+            "teníais",
+            "tenían"
         ],
         "presente-progresivo": [
             "estoy teniendo",
@@ -2257,6 +2753,14 @@
             "os dedicasteis",
             "se dedicaron"
         ],
+        "preterito-imperfecto": [
+            "me dedicaba",
+            "te dedicabas",
+            "se dedicaba",
+            "nos dedicábamos",
+            "os dedicabais",
+            "se dedicaban"
+        ],
         "presente-progresivo": [
             "me estoy dedicando",
             "te estás dedicando",
@@ -2292,6 +2796,14 @@
             "enseñamos",
             "enseñasteis",
             "enseñaron"
+        ],
+        "preterito-imperfecto": [
+            "enseñaba",
+            "enseñabas",
+            "enseñaba",
+            "enseñábamos",
+            "enseñabais",
+            "enseñaban"
         ],
         "presente-progresivo": [
             "estoy enseñando",
@@ -2329,6 +2841,14 @@
             "estudiasteis",
             "estudiaron"
         ],
+        "preterito-imperfecto": [
+            "estudiaba",
+            "estudiabas",
+            "estudiaba",
+            "estudiábamos",
+            "estudiabais",
+            "estudiaban"
+        ],
         "presente-progresivo": [
             "estoy estudiando",
             "estás estudiando",
@@ -2364,6 +2884,14 @@
             "subimos",
             "subisteis",
             "subieron"
+        ],
+        "preterito-imperfecto": [
+            "subía",
+            "subías",
+            "subía",
+            "subíamos",
+            "subíais",
+            "subían"
         ],
         "presente-progresivo": [
             "estoy subiendo",
@@ -2401,6 +2929,14 @@
             "aprendisteis",
             "aprendieron"
         ],
+        "preterito-imperfecto": [
+            "aprendía",
+            "aprendías",
+            "aprendía",
+            "aprendíamos",
+            "aprendíais",
+            "aprendían"
+        ],
         "presente-progresivo": [
             "estoy aprendiendo",
             "estás aprendiendo",
@@ -2436,6 +2972,14 @@
             "corrimos",
             "corristeis",
             "corrieron"
+        ],
+        "preterito-imperfecto": [
+            "corría",
+            "corrías",
+            "corría",
+            "corríamos",
+            "corríais",
+            "corrían"
         ],
         "presente-progresivo": [
             "estoy corriendo",
@@ -2473,6 +3017,14 @@
             "entrenasteis",
             "entrenaron"
         ],
+        "preterito-imperfecto": [
+            "entrenaba",
+            "entrenabas",
+            "entrenaba",
+            "entrenábamos",
+            "entrenabais",
+            "entrenaban"
+        ],
         "presente-progresivo": [
             "estoy entrenando",
             "estás entrenando",
@@ -2508,6 +3060,14 @@
             "cogimos",
             "cogisteis",
             "cogieron"
+        ],
+        "preterito-imperfecto": [
+            "cogía",
+            "cogías",
+            "cogía",
+            "cogíamos",
+            "cogíais",
+            "cogían"
         ],
         "presente-progresivo": [
             "estoy cogiendo",
@@ -2545,6 +3105,14 @@
             "cambiasteis",
             "cambiaron"
         ],
+        "preterito-imperfecto": [
+            "cambiaba",
+            "cambiabas",
+            "cambiaba",
+            "cambiábamos",
+            "cambiabais",
+            "cambiaban"
+        ],
         "presente-progresivo": [
             "estoy cambiando",
             "estás cambiando",
@@ -2580,6 +3148,14 @@
             "pudimos",
             "pudisteis",
             "pudieron"
+        ],
+        "preterito-imperfecto": [
+            "podía",
+            "podías",
+            "podía",
+            "podíamos",
+            "podíais",
+            "podían"
         ],
         "presente-progresivo": [
             "estoy pudiendo",
@@ -2617,6 +3193,14 @@
             "supisteis",
             "supieron"
         ],
+        "preterito-imperfecto": [
+            "sabía",
+            "sabías",
+            "sabía",
+            "sabíamos",
+            "sabíais",
+            "sabían"
+        ],
         "presente-progresivo": [
             "estoy sabiendo",
             "estás sabiendo",
@@ -2652,6 +3236,14 @@
             "cantamos",
             "cantasteis",
             "cantaron"
+        ],
+        "preterito-imperfecto": [
+            "cantaba",
+            "cantabas",
+            "cantaba",
+            "cantábamos",
+            "cantabais",
+            "cantaban"
         ],
         "presente-progresivo": [
             "estoy cantando",
@@ -2689,6 +3281,14 @@
             "quisisteis",
             "quisieron"
         ],
+        "preterito-imperfecto": [
+            "quería",
+            "querías",
+            "quería",
+            "queríamos",
+            "queríais",
+            "querían"
+        ],
         "presente-progresivo": [
             "estoy queriendo",
             "estás queriendo",
@@ -2724,6 +3324,14 @@
             "deletreamos",
             "deletreasteis",
             "deletrearon"
+        ],
+        "preterito-imperfecto": [
+            "deletreaba",
+            "deletreabas",
+            "deletreaba",
+            "deletreábamos",
+            "deletreabais",
+            "deletreaban"
         ],
         "presente-progresivo": [
             "estoy deletreando",
@@ -2761,6 +3369,14 @@
             "hicisteis",
             "hicieron"
         ],
+        "preterito-imperfecto": [
+            "hacía",
+            "hacías",
+            "hacía",
+            "hacíamos",
+            "hacíais",
+            "hacían"
+        ],
         "presente-progresivo": [
             "estoy haciendo",
             "estás haciendo",
@@ -2796,6 +3412,14 @@
             "salimos",
             "salisteis",
             "salieron"
+        ],
+        "preterito-imperfecto": [
+            "salía",
+            "salías",
+            "salía",
+            "salíamos",
+            "salíais",
+            "salían"
         ],
         "presente-progresivo": [
             "estoy saliendo",
@@ -2833,6 +3457,14 @@
             "visteis",
             "vieron"
         ],
+        "preterito-imperfecto": [
+            "veía",
+            "veías",
+            "veía",
+            "veíamos",
+            "veíais",
+            "veían"
+        ],
         "presente-progresivo": [
             "estoy viendo",
             "estás viendo",
@@ -2868,6 +3500,14 @@
             "practicamos",
             "practicasteis",
             "practicaron"
+        ],
+        "preterito-imperfecto": [
+            "practicaba",
+            "practicabas",
+            "practicaba",
+            "practicábamos",
+            "practicabais",
+            "practicaban"
         ],
         "presente-progresivo": [
             "estoy practicando",
@@ -2905,6 +3545,14 @@
             "visitasteis",
             "visitaron"
         ],
+        "preterito-imperfecto": [
+            "visitaba",
+            "visitabas",
+            "visitaba",
+            "visitábamos",
+            "visitabais",
+            "visitaban"
+        ],
         "presente-progresivo": [
             "estoy visitando",
             "estás visitando",
@@ -2940,6 +3588,14 @@
             "jugamos",
             "jugasteis",
             "jugaron"
+        ],
+        "preterito-imperfecto": [
+            "jugaba",
+            "jugabas",
+            "jugaba",
+            "jugábamos",
+            "jugabais",
+            "jugaban"
         ],
         "presente-progresivo": [
             "estoy jugando",
@@ -2977,6 +3633,14 @@
             "conocisteis",
             "conocieron"
         ],
+        "preterito-imperfecto": [
+            "conocía",
+            "conocías",
+            "conocía",
+            "conocíamos",
+            "conocíais",
+            "conocían"
+        ],
         "presente-progresivo": [
             "estoy conociendo",
             "estás conociendo",
@@ -3012,6 +3676,14 @@
             "desayunamos",
             "desayunasteis",
             "desayunaron"
+        ],
+        "preterito-imperfecto": [
+            "desayunaba",
+            "desayunabas",
+            "desayunaba",
+            "desayunábamos",
+            "desayunabais",
+            "desayunaban"
         ],
         "presente-progresivo": [
             "estoy desayunando",
@@ -3049,6 +3721,14 @@
             "almorzasteis",
             "almorzaron"
         ],
+        "preterito-imperfecto": [
+            "almorzaba",
+            "almorzabas",
+            "almorzaba",
+            "almorzábamos",
+            "almorzabais",
+            "almorzaban"
+        ],
         "presente-progresivo": [
             "estoy almorzando",
             "estás almorzando",
@@ -3084,6 +3764,14 @@
             "cenamos",
             "cenasteis",
             "cenaron"
+        ],
+        "preterito-imperfecto": [
+            "cenaba",
+            "cenabas",
+            "cenaba",
+            "cenábamos",
+            "cenabais",
+            "cenaban"
         ],
         "presente-progresivo": [
             "estoy cenando",
@@ -3121,6 +3809,14 @@
             "tocasteis",
             "tocaron"
         ],
+        "preterito-imperfecto": [
+            "tocaba",
+            "tocabas",
+            "tocaba",
+            "tocábamos",
+            "tocabais",
+            "tocaban"
+        ],
         "presente-progresivo": [
             "estoy tocando",
             "estás tocando",
@@ -3156,6 +3852,14 @@
             "bailamos",
             "bailasteis",
             "bailaron"
+        ],
+        "preterito-imperfecto": [
+            "bailaba",
+            "bailabas",
+            "bailaba",
+            "bailábamos",
+            "bailabais",
+            "bailaban"
         ],
         "presente-progresivo": [
             "estoy bailando",
@@ -3193,6 +3897,14 @@
             "llamasteis",
             "llamaron"
         ],
+        "preterito-imperfecto": [
+            "llamaba",
+            "llamabas",
+            "llamaba",
+            "llamábamos",
+            "llamabais",
+            "llamaban"
+        ],
         "presente-progresivo": [
             "estoy llamando",
             "estás llamando",
@@ -3228,6 +3940,14 @@
             "viajamos",
             "viajasteis",
             "viajaron"
+        ],
+        "preterito-imperfecto": [
+            "viajaba",
+            "viajabas",
+            "viajaba",
+            "viajábamos",
+            "viajabais",
+            "viajaban"
         ],
         "presente-progresivo": [
             "estoy viajando",
@@ -3265,6 +3985,14 @@
             "comprasteis",
             "compraron"
         ],
+        "preterito-imperfecto": [
+            "compraba",
+            "comprabas",
+            "compraba",
+            "comprábamos",
+            "comprabais",
+            "compraban"
+        ],
         "presente-progresivo": [
             "estoy comprando",
             "estás comprando",
@@ -3300,6 +4028,14 @@
             "cocinamos",
             "cocinasteis",
             "cocinaron"
+        ],
+        "preterito-imperfecto": [
+            "cocinaba",
+            "cocinabas",
+            "cocinaba",
+            "cocinábamos",
+            "cocinabais",
+            "cocinaban"
         ],
         "presente-progresivo": [
             "estoy cocinando",
@@ -3337,6 +4073,14 @@
             "vendisteis",
             "vendieron"
         ],
+        "preterito-imperfecto": [
+            "vendía",
+            "vendías",
+            "vendía",
+            "vendíamos",
+            "vendíais",
+            "vendían"
+        ],
         "presente-progresivo": [
             "estoy vendiendo",
             "estás vendiendo",
@@ -3372,6 +4116,14 @@
             "dijimos",
             "dijisteis",
             "dijeron"
+        ],
+        "preterito-imperfecto": [
+            "decía",
+            "decías",
+            "decía",
+            "decíamos",
+            "decíais",
+            "decían"
         ],
         "presente-progresivo": [
             "estoy diciendo",
@@ -3409,6 +4161,14 @@
             "paseasteis",
             "pasearon"
         ],
+        "preterito-imperfecto": [
+            "paseaba",
+            "paseabas",
+            "paseaba",
+            "paseábamos",
+            "paseabais",
+            "paseaban"
+        ],
         "presente-progresivo": [
             "estoy paseando",
             "estás paseando",
@@ -3444,6 +4204,14 @@
             "creímos",
             "creísteis",
             "creyeron"
+        ],
+        "preterito-imperfecto": [
+            "creía",
+            "creías",
+            "creía",
+            "creíamos",
+            "creíais",
+            "creían"
         ],
         "presente-progresivo": [
             "estoy creyendo",
@@ -3481,6 +4249,14 @@
             "caminasteis",
             "caminaron"
         ],
+        "preterito-imperfecto": [
+            "caminaba",
+            "caminabas",
+            "caminaba",
+            "caminábamos",
+            "caminabais",
+            "caminaban"
+        ],
         "presente-progresivo": [
             "estoy caminando",
             "estás caminando",
@@ -3516,6 +4292,14 @@
             "callamos",
             "callasteis",
             "callaron"
+        ],
+        "preterito-imperfecto": [
+            "callaba",
+            "callabas",
+            "callaba",
+            "callábamos",
+            "callabais",
+            "callaban"
         ],
         "presente-progresivo": [
             "estoy callando",
@@ -3553,6 +4337,14 @@
             "amasteis",
             "amaron"
         ],
+        "preterito-imperfecto": [
+            "amaba",
+            "amabas",
+            "amaba",
+            "amábamos",
+            "amabais",
+            "amaban"
+        ],
         "presente-progresivo": [
             "estoy amando",
             "estás amando",
@@ -3588,6 +4380,14 @@
             "entendimos",
             "entendisteis",
             "entendieron"
+        ],
+        "preterito-imperfecto": [
+            "entendía",
+            "entendías",
+            "entendía",
+            "entendíamos",
+            "entendíais",
+            "entendían"
         ],
         "presente-progresivo": [
             "estoy entendiendo",
@@ -3625,6 +4425,14 @@
             "chateasteis",
             "chatearon"
         ],
+        "preterito-imperfecto": [
+            "chateaba",
+            "chateabas",
+            "chateaba",
+            "chateábamos",
+            "chateabais",
+            "chateaban"
+        ],
         "presente-progresivo": [
             "estoy chateando",
             "estás chateando",
@@ -3660,6 +4468,14 @@
             "pasamos",
             "pasasteis",
             "pasaron"
+        ],
+        "preterito-imperfecto": [
+            "pasaba",
+            "pasabas",
+            "pasaba",
+            "pasábamos",
+            "pasabais",
+            "pasaban"
         ],
         "presente-progresivo": [
             "estoy pasando",
@@ -3697,6 +4513,14 @@
             "exististeis",
             "existieron"
         ],
+        "preterito-imperfecto": [
+            "existía",
+            "existías",
+            "existía",
+            "existíamos",
+            "existíais",
+            "existían"
+        ],
         "presente-progresivo": [
             "estoy existiendo",
             "estás existiendo",
@@ -3732,6 +4556,14 @@
             "admitimos",
             "admitisteis",
             "admitieron"
+        ],
+        "preterito-imperfecto": [
+            "admitía",
+            "admitías",
+            "admitía",
+            "admitíamos",
+            "admitíais",
+            "admitían"
         ],
         "presente-progresivo": [
             "estoy admitiendo",
@@ -3769,6 +4601,14 @@
             "describisteis",
             "describieron"
         ],
+        "preterito-imperfecto": [
+            "describía",
+            "describías",
+            "describía",
+            "describíamos",
+            "describíais",
+            "describían"
+        ],
         "presente-progresivo": [
             "estoy describiendo",
             "estás describiendo",
@@ -3804,6 +4644,14 @@
             "pusimos",
             "pusisteis",
             "pusieron"
+        ],
+        "preterito-imperfecto": [
+            "ponía",
+            "ponías",
+            "ponía",
+            "poníamos",
+            "poníais",
+            "ponían"
         ],
         "presente-progresivo": [
             "estoy poniendo",
@@ -3841,6 +4689,14 @@
             "vinisteis",
             "vinieron"
         ],
+        "preterito-imperfecto": [
+            "venía",
+            "venías",
+            "venía",
+            "veníamos",
+            "veníais",
+            "venían"
+        ],
         "presente-progresivo": [
             "estoy viniendo",
             "estás viniendo",
@@ -3876,6 +4732,14 @@
             "nos comunicamos",
             "os comunicasteis",
             "se comunicaron"
+        ],
+        "preterito-imperfecto": [
+            "me comunicaba",
+            "te comunicabas",
+            "se comunicaba",
+            "nos comunicábamos",
+            "os comunicabais",
+            "se comunicaban"
         ],
         "presente-progresivo": [
             "me estoy comunicando",
@@ -3913,6 +4777,14 @@
             "buscasteis",
             "buscaron"
         ],
+        "preterito-imperfecto": [
+            "buscaba",
+            "buscabas",
+            "buscaba",
+            "buscábamos",
+            "buscabais",
+            "buscaban"
+        ],
         "presente-progresivo": [
             "estoy buscando",
             "estás buscando",
@@ -3948,6 +4820,14 @@
             "mejoramos",
             "mejorasteis",
             "mejoraron"
+        ],
+        "preterito-imperfecto": [
+            "mejoraba",
+            "mejorabas",
+            "mejoraba",
+            "mejorábamos",
+            "mejorabais",
+            "mejoraban"
         ],
         "presente-progresivo": [
             "estoy mejorando",
@@ -3985,6 +4865,14 @@
             "volvisteis",
             "volvieron"
         ],
+        "preterito-imperfecto": [
+            "volvía",
+            "volvías",
+            "volvía",
+            "volvíamos",
+            "volvíais",
+            "volvían"
+        ],
         "presente-progresivo": [
             "estoy volviendo",
             "estás volviendo",
@@ -4020,6 +4908,14 @@
             "llegamos",
             "llegasteis",
             "llegaron"
+        ],
+        "preterito-imperfecto": [
+            "llegaba",
+            "llegabas",
+            "llegaba",
+            "llegábamos",
+            "llegabais",
+            "llegaban"
         ],
         "presente-progresivo": [
             "estoy llegando",
@@ -4057,6 +4953,14 @@
             "nadasteis",
             "nadaron"
         ],
+        "preterito-imperfecto": [
+            "nadaba",
+            "nadabas",
+            "nadaba",
+            "nadábamos",
+            "nadabais",
+            "nadaban"
+        ],
         "presente-progresivo": [
             "estoy nadando",
             "estás nadando",
@@ -4092,6 +4996,14 @@
             "tapeamos",
             "tapeasteis",
             "tapearon"
+        ],
+        "preterito-imperfecto": [
+            "tapeaba",
+            "tapeabas",
+            "tapeaba",
+            "tapeábamos",
+            "tapeabais",
+            "tapeaban"
         ],
         "presente-progresivo": [
             "estoy tapeando",
@@ -4129,6 +5041,14 @@
             "debisteis",
             "debieron"
         ],
+        "preterito-imperfecto": [
+            "debía",
+            "debías",
+            "debía",
+            "debíamos",
+            "debíais",
+            "debían"
+        ],
         "presente-progresivo": [
             "estoy debiendo",
             "estás debiendo",
@@ -4164,6 +5084,14 @@
             "elegimos",
             "elegisteis",
             "eligieron"
+        ],
+        "preterito-imperfecto": [
+            "elegía",
+            "elegías",
+            "elegía",
+            "elegíamos",
+            "elegíais",
+            "elegían"
         ],
         "presente-progresivo": [
             "estoy eligiendo",
@@ -4201,6 +5129,14 @@
             "contuvisteis",
             "contuvieron"
         ],
+        "preterito-imperfecto": [
+            "contenía",
+            "contenías",
+            "contenía",
+            "conteníamos",
+            "conteníais",
+            "contenían"
+        ],
         "presente-progresivo": [
             "estoy conteniendo",
             "estás conteniendo",
@@ -4236,6 +5172,14 @@
             "permitimos",
             "permitisteis",
             "permitieron"
+        ],
+        "preterito-imperfecto": [
+            "permitía",
+            "permitías",
+            "permitía",
+            "permitíamos",
+            "permitíais",
+            "permitían"
         ],
         "presente-progresivo": [
             "estoy permitiendo",
@@ -4273,6 +5217,14 @@
             "contestasteis",
             "contestaron"
         ],
+        "preterito-imperfecto": [
+            "contestaba",
+            "contestabas",
+            "contestaba",
+            "contestábamos",
+            "contestabais",
+            "contestaban"
+        ],
         "presente-progresivo": [
             "estoy contestando",
             "estás contestando",
@@ -4308,6 +5260,14 @@
             "ganamos",
             "ganasteis",
             "ganaron"
+        ],
+        "preterito-imperfecto": [
+            "ganaba",
+            "ganabas",
+            "ganaba",
+            "ganábamos",
+            "ganabais",
+            "ganaban"
         ],
         "presente-progresivo": [
             "estoy ganando",
@@ -4345,6 +5305,14 @@
             "aparecisteis",
             "aparecieron"
         ],
+        "preterito-imperfecto": [
+            "aparecía",
+            "aparecías",
+            "aparecía",
+            "aparecíamos",
+            "aparecíais",
+            "aparecían"
+        ],
         "presente-progresivo": [
             "estoy apareciendo",
             "estás apareciendo",
@@ -4380,6 +5348,14 @@
             "reposamos",
             "reposasteis",
             "reposaron"
+        ],
+        "preterito-imperfecto": [
+            "reposaba",
+            "reposabas",
+            "reposaba",
+            "reposábamos",
+            "reposabais",
+            "reposaban"
         ],
         "presente-progresivo": [
             "estoy reposando",
@@ -4417,6 +5393,14 @@
             "os relajasteis",
             "se relajaron"
         ],
+        "preterito-imperfecto": [
+            "me relajaba",
+            "te relajabas",
+            "se relajaba",
+            "nos relajábamos",
+            "os relajabais",
+            "se relajaban"
+        ],
         "presente-progresivo": [
             "me estoy relajando",
             "te estás relajando",
@@ -4452,6 +5436,14 @@
             "limpiamos",
             "limpiasteis",
             "limpiaron"
+        ],
+        "preterito-imperfecto": [
+            "limpiaba",
+            "limpiabas",
+            "limpiaba",
+            "limpiábamos",
+            "limpiabais",
+            "limpiaban"
         ],
         "presente-progresivo": [
             "estoy limpiando",
@@ -4489,6 +5481,14 @@
             "marcasteis",
             "marcaron"
         ],
+        "preterito-imperfecto": [
+            "marcaba",
+            "marcabas",
+            "marcaba",
+            "marcábamos",
+            "marcabais",
+            "marcaban"
+        ],
         "presente-progresivo": [
             "estoy marcando",
             "estás marcando",
@@ -4524,6 +5524,14 @@
             "sobrevivimos",
             "sobrevivisteis",
             "sobrevivieron"
+        ],
+        "preterito-imperfecto": [
+            "sobrevivía",
+            "sobrevivías",
+            "sobrevivía",
+            "sobrevivíamos",
+            "sobrevivíais",
+            "sobrevivían"
         ],
         "presente-progresivo": [
             "estoy sobreviviendo",
@@ -4561,6 +5569,14 @@
             "llevasteis",
             "llevaron"
         ],
+        "preterito-imperfecto": [
+            "llevaba",
+            "llevabas",
+            "llevaba",
+            "llevábamos",
+            "llevabais",
+            "llevaban"
+        ],
         "presente-progresivo": [
             "estoy llevando",
             "estás llevando",
@@ -4596,6 +5612,14 @@
             "disfrutamos",
             "disfrutasteis",
             "disfrutaron"
+        ],
+        "preterito-imperfecto": [
+            "disfrutaba",
+            "disfrutabas",
+            "disfrutaba",
+            "disfrutábamos",
+            "disfrutabais",
+            "disfrutaban"
         ],
         "presente-progresivo": [
             "estoy disfrutando",
@@ -4633,6 +5657,14 @@
             "empezasteis",
             "empezaron"
         ],
+        "preterito-imperfecto": [
+            "empezaba",
+            "empezabas",
+            "empezaba",
+            "empezábamos",
+            "empezabais",
+            "empezaban"
+        ],
         "presente-progresivo": [
             "estoy empezando",
             "estás empezando",
@@ -4668,6 +5700,14 @@
             "comenzamos",
             "comenzasteis",
             "comenzaron"
+        ],
+        "preterito-imperfecto": [
+            "comenzaba",
+            "comenzabas",
+            "comenzaba",
+            "comenzábamos",
+            "comenzabais",
+            "comenzaban"
         ],
         "presente-progresivo": [
             "estoy comenzando",
@@ -4705,6 +5745,14 @@
             "cerrasteis",
             "cerraron"
         ],
+        "preterito-imperfecto": [
+            "cerraba",
+            "cerrabas",
+            "cerraba",
+            "cerrábamos",
+            "cerrabais",
+            "cerraban"
+        ],
         "presente-progresivo": [
             "estoy cerrando",
             "estás cerrando",
@@ -4740,6 +5788,14 @@
             "secamos",
             "secasteis",
             "secaron"
+        ],
+        "preterito-imperfecto": [
+            "secaba",
+            "secabas",
+            "secaba",
+            "secábamos",
+            "secabais",
+            "secaban"
         ],
         "presente-progresivo": [
             "estoy secando",
@@ -4777,6 +5833,14 @@
             "lavasteis",
             "lavaron"
         ],
+        "preterito-imperfecto": [
+            "lavaba",
+            "lavabas",
+            "lavaba",
+            "lavábamos",
+            "lavabais",
+            "lavaban"
+        ],
         "presente-progresivo": [
             "estoy lavando",
             "estás lavando",
@@ -4812,6 +5876,14 @@
             "nos lavamos",
             "os lavasteis",
             "se lavaron"
+        ],
+        "preterito-imperfecto": [
+            "me lavaba",
+            "te lavabas",
+            "se lavaba",
+            "nos lavábamos",
+            "os lavabais",
+            "se lavaban"
         ],
         "presente-progresivo": [
             "me estoy lavando",
@@ -4849,6 +5921,14 @@
             "negasteis",
             "negaron"
         ],
+        "preterito-imperfecto": [
+            "negaba",
+            "negabas",
+            "negaba",
+            "negábamos",
+            "negabais",
+            "negaban"
+        ],
         "presente-progresivo": [
             "estoy negando",
             "estás negando",
@@ -4884,6 +5964,14 @@
             "preferimos",
             "preferisteis",
             "prefirieron"
+        ],
+        "preterito-imperfecto": [
+            "prefería",
+            "preferías",
+            "prefería",
+            "preferíamos",
+            "preferíais",
+            "preferían"
         ],
         "presente-progresivo": [
             "estoy prefiriendo",
@@ -4921,6 +6009,14 @@
             "ayudasteis",
             "ayudaron"
         ],
+        "preterito-imperfecto": [
+            "ayudaba",
+            "ayudabas",
+            "ayudaba",
+            "ayudábamos",
+            "ayudabais",
+            "ayudaban"
+        ],
         "presente-progresivo": [
             "estoy ayudando",
             "estás ayudando",
@@ -4956,6 +6052,14 @@
             "alquilamos",
             "alquilasteis",
             "alquilaron"
+        ],
+        "preterito-imperfecto": [
+            "alquilaba",
+            "alquilabas",
+            "alquilaba",
+            "alquilábamos",
+            "alquilabais",
+            "alquilaban"
         ],
         "presente-progresivo": [
             "estoy alquilando",
@@ -4993,6 +6097,14 @@
             "condujisteis",
             "condujeron"
         ],
+        "preterito-imperfecto": [
+            "conducía",
+            "conducías",
+            "conducía",
+            "conducíamos",
+            "conducíais",
+            "conducían"
+        ],
         "presente-progresivo": [
             "estoy conduciendo",
             "estás conduciendo",
@@ -5028,6 +6140,14 @@
             "deseamos",
             "deseasteis",
             "desearon"
+        ],
+        "preterito-imperfecto": [
+            "deseaba",
+            "deseabas",
+            "deseaba",
+            "deseábamos",
+            "deseabais",
+            "deseaban"
         ],
         "presente-progresivo": [
             "estoy deseando",
@@ -5065,6 +6185,14 @@
             "mirasteis",
             "miraron"
         ],
+        "preterito-imperfecto": [
+            "miraba",
+            "mirabas",
+            "miraba",
+            "mirábamos",
+            "mirabais",
+            "miraban"
+        ],
         "presente-progresivo": [
             "estoy mirando",
             "estás mirando",
@@ -5100,6 +6228,14 @@
             "nos llevamos",
             "os llevasteis",
             "se llevaron"
+        ],
+        "preterito-imperfecto": [
+            "me llevaba",
+            "te llevabas",
+            "se llevaba",
+            "nos llevábamos",
+            "os llevabais",
+            "se llevaban"
         ],
         "presente-progresivo": [
             "me estoy llevando",
@@ -5137,6 +6273,14 @@
             "usasteis",
             "usaron"
         ],
+        "preterito-imperfecto": [
+            "usaba",
+            "usabas",
+            "usaba",
+            "usábamos",
+            "usabais",
+            "usaban"
+        ],
         "presente-progresivo": [
             "estoy usando",
             "estás usando",
@@ -5172,6 +6316,14 @@
             "comparamos",
             "comparasteis",
             "compararon"
+        ],
+        "preterito-imperfecto": [
+            "comparaba",
+            "comparabas",
+            "comparaba",
+            "comparábamos",
+            "comparabais",
+            "comparaban"
         ],
         "presente-progresivo": [
             "estoy comparando",
@@ -5209,6 +6361,14 @@
             "rompisteis",
             "rompieron"
         ],
+        "preterito-imperfecto": [
+            "rompía",
+            "rompías",
+            "rompía",
+            "rompíamos",
+            "rompíais",
+            "rompían"
+        ],
         "presente-progresivo": [
             "estoy rompiendo",
             "estás rompiendo",
@@ -5244,6 +6404,14 @@
             "nos sentamos",
             "os sentasteis",
             "se sentaron"
+        ],
+        "preterito-imperfecto": [
+            "me sentaba",
+            "te sentabas",
+            "se sentaba",
+            "nos sentábamos",
+            "os sentabais",
+            "se sentaban"
         ],
         "presente-progresivo": [
             "me estoy sentando",
@@ -5281,6 +6449,14 @@
             "volasteis",
             "volaron"
         ],
+        "preterito-imperfecto": [
+            "volaba",
+            "volabas",
+            "volaba",
+            "volábamos",
+            "volabais",
+            "volaban"
+        ],
         "presente-progresivo": [
             "estoy volando",
             "estás volando",
@@ -5316,6 +6492,14 @@
             "dimos",
             "disteis",
             "dieron"
+        ],
+        "preterito-imperfecto": [
+            "daba",
+            "dabas",
+            "daba",
+            "dábamos",
+            "dabais",
+            "daban"
         ],
         "presente-progresivo": [
             "estoy dando",
@@ -5353,6 +6537,14 @@
             "robasteis",
             "robaron"
         ],
+        "preterito-imperfecto": [
+            "robaba",
+            "robabas",
+            "robaba",
+            "robábamos",
+            "robabais",
+            "robaban"
+        ],
         "presente-progresivo": [
             "estoy robando",
             "estás robando",
@@ -5388,6 +6580,14 @@
             "nos olvidamos",
             "os olvidasteis",
             "se olvidaron"
+        ],
+        "preterito-imperfecto": [
+            "me olvidaba",
+            "te olvidabas",
+            "se olvidaba",
+            "nos olvidábamos",
+            "os olvidabais",
+            "se olvidaban"
         ],
         "presente-progresivo": [
             "me estoy olvidando",
@@ -5425,6 +6625,14 @@
             "olvidasteis",
             "olvidaron"
         ],
+        "preterito-imperfecto": [
+            "olvidaba",
+            "olvidabas",
+            "olvidaba",
+            "olvidábamos",
+            "olvidabais",
+            "olvidaban"
+        ],
         "presente-progresivo": [
             "estoy olvidando",
             "estás olvidando",
@@ -5460,6 +6668,14 @@
             "seguimos",
             "seguisteis",
             "siguieron"
+        ],
+        "preterito-imperfecto": [
+            "seguía",
+            "seguías",
+            "seguía",
+            "seguíamos",
+            "seguíais",
+            "seguían"
         ],
         "presente-progresivo": [
             "estoy siguiendo",
@@ -5497,6 +6713,14 @@
             "esperasteis",
             "esperaron"
         ],
+        "preterito-imperfecto": [
+            "esperaba",
+            "esperabas",
+            "esperaba",
+            "esperábamos",
+            "esperabais",
+            "esperaban"
+        ],
         "presente-progresivo": [
             "estoy esperando",
             "estás esperando",
@@ -5532,6 +6756,14 @@
             "parecimos",
             "parecisteis",
             "parecieron"
+        ],
+        "preterito-imperfecto": [
+            "parecía",
+            "parecías",
+            "parecía",
+            "parecíamos",
+            "parecíais",
+            "parecían"
         ],
         "presente-progresivo": [
             "estoy pareciendo",
@@ -5569,6 +6801,14 @@
             "pensasteis",
             "pensaron"
         ],
+        "preterito-imperfecto": [
+            "pensaba",
+            "pensabas",
+            "pensaba",
+            "pensábamos",
+            "pensabais",
+            "pensaban"
+        ],
         "presente-progresivo": [
             "estoy pensando",
             "estás pensando",
@@ -5604,6 +6844,14 @@
             "esquiamos",
             "esquiasteis",
             "esquiaron"
+        ],
+        "preterito-imperfecto": [
+            "esquiaba",
+            "esquiabas",
+            "esquiaba",
+            "esquiábamos",
+            "esquiabais",
+            "esquiaban"
         ],
         "presente-progresivo": [
             "estoy esquiando",
@@ -5641,6 +6889,14 @@
             "os levantasteis",
             "se levantaron"
         ],
+        "preterito-imperfecto": [
+            "me levantaba",
+            "te levantabas",
+            "se levantaba",
+            "nos levantábamos",
+            "os levantabais",
+            "se levantaban"
+        ],
         "presente-progresivo": [
             "me estoy levantando",
             "te estás levantando",
@@ -5676,6 +6932,14 @@
             "nos sentimos",
             "os sentisteis",
             "se sintieron"
+        ],
+        "preterito-imperfecto": [
+            "me sentía",
+            "te sentías",
+            "se sentía",
+            "nos sentíamos",
+            "os sentíais",
+            "se sentían"
         ],
         "presente-progresivo": [
             "me estoy sintiendo",
@@ -5713,6 +6977,14 @@
             "os acostasteis",
             "se acostaron"
         ],
+        "preterito-imperfecto": [
+            "me acostaba",
+            "te acostabas",
+            "se acostaba",
+            "nos acostábamos",
+            "os acostabais",
+            "se acostaban"
+        ],
         "presente-progresivo": [
             "me estoy acostando",
             "te estás acostando",
@@ -5748,6 +7020,14 @@
             "madrugamos",
             "madrugasteis",
             "madrugaron"
+        ],
+        "preterito-imperfecto": [
+            "madrugaba",
+            "madrugabas",
+            "madrugaba",
+            "madrugábamos",
+            "madrugabais",
+            "madrugaban"
         ],
         "presente-progresivo": [
             "estoy madrugando",
@@ -5785,6 +7065,14 @@
             "odiasteis",
             "odiaron"
         ],
+        "preterito-imperfecto": [
+            "odiaba",
+            "odiabas",
+            "odiaba",
+            "odiábamos",
+            "odiabais",
+            "odiaban"
+        ],
         "presente-progresivo": [
             "estoy odiando",
             "estás odiando",
@@ -5820,6 +7108,14 @@
             "cuidamos",
             "cuidasteis",
             "cuidaron"
+        ],
+        "preterito-imperfecto": [
+            "cuidaba",
+            "cuidabas",
+            "cuidaba",
+            "cuidábamos",
+            "cuidabais",
+            "cuidaban"
         ],
         "presente-progresivo": [
             "estoy cuidando",
@@ -5857,6 +7153,14 @@
             "fumasteis",
             "fumaron"
         ],
+        "preterito-imperfecto": [
+            "fumaba",
+            "fumabas",
+            "fumaba",
+            "fumábamos",
+            "fumabais",
+            "fumaban"
+        ],
         "presente-progresivo": [
             "estoy fumando",
             "estás fumando",
@@ -5892,6 +7196,14 @@
             "nos fuimos",
             "os fuisteis",
             "se fueron"
+        ],
+        "preterito-imperfecto": [
+            "me iba",
+            "te ibas",
+            "se iba",
+            "nos íbamos",
+            "os ibais",
+            "se iban"
         ],
         "presente-progresivo": [
             "me estoy yendo",
@@ -5929,6 +7241,14 @@
             "servisteis",
             "sirvieron"
         ],
+        "preterito-imperfecto": [
+            "servía",
+            "servías",
+            "servía",
+            "servíamos",
+            "servíais",
+            "servían"
+        ],
         "presente-progresivo": [
             "estoy sirviendo",
             "estás sirviendo",
@@ -5964,6 +7284,14 @@
             "ocurrimos",
             "ocurristeis",
             "ocurrieron"
+        ],
+        "preterito-imperfecto": [
+            "ocurría",
+            "ocurrías",
+            "ocurría",
+            "ocurríamos",
+            "ocurríais",
+            "ocurrían"
         ],
         "presente-progresivo": [
             "estoy ocurriendo",
@@ -6001,6 +7329,14 @@
             "descansasteis",
             "descansaron"
         ],
+        "preterito-imperfecto": [
+            "descansaba",
+            "descansabas",
+            "descansaba",
+            "descansábamos",
+            "descansabais",
+            "descansaban"
+        ],
         "presente-progresivo": [
             "estoy descansando",
             "estás descansando",
@@ -6036,6 +7372,14 @@
             "nos duchamos",
             "os duchasteis",
             "se ducharon"
+        ],
+        "preterito-imperfecto": [
+            "me duchaba",
+            "te duchabas",
+            "se duchaba",
+            "nos duchábamos",
+            "os duchabais",
+            "se duchaban"
         ],
         "presente-progresivo": [
             "me estoy duchando",
@@ -6073,6 +7417,14 @@
             "celebrasteis",
             "celebraron"
         ],
+        "preterito-imperfecto": [
+            "celebraba",
+            "celebrabas",
+            "celebraba",
+            "celebrábamos",
+            "celebrabais",
+            "celebraban"
+        ],
         "presente-progresivo": [
             "estoy celebrando",
             "estás celebrando",
@@ -6108,6 +7460,14 @@
             "preparamos",
             "preparasteis",
             "prepararon"
+        ],
+        "preterito-imperfecto": [
+            "preparaba",
+            "preparabas",
+            "preparaba",
+            "preparábamos",
+            "preparabais",
+            "preparaban"
         ],
         "presente-progresivo": [
             "estoy preparando",
@@ -6145,6 +7505,14 @@
             "os despertasteis",
             "se despertaron"
         ],
+        "preterito-imperfecto": [
+            "me despertaba",
+            "te despertabas",
+            "se despertaba",
+            "nos despertábamos",
+            "os despertabais",
+            "se despertaban"
+        ],
         "presente-progresivo": [
             "me estoy despertando",
             "te estás despertando",
@@ -6180,6 +7548,14 @@
             "nos vestimos",
             "os vestisteis",
             "se vistieron"
+        ],
+        "preterito-imperfecto": [
+            "me vestía",
+            "te vestías",
+            "se vestía",
+            "nos vestíamos",
+            "os vestíais",
+            "se vestían"
         ],
         "presente-progresivo": [
             "me estoy vistiendo",
@@ -6217,6 +7593,14 @@
             "animasteis",
             "animaron"
         ],
+        "preterito-imperfecto": [
+            "animaba",
+            "animabas",
+            "animaba",
+            "animábamos",
+            "animabais",
+            "animaban"
+        ],
         "presente-progresivo": [
             "estoy animando",
             "estás animando",
@@ -6252,6 +7636,14 @@
             "nos reunimos",
             "os reunisteis",
             "se reunieron"
+        ],
+        "preterito-imperfecto": [
+            "me reunía",
+            "te reunías",
+            "se reunía",
+            "nos reuníamos",
+            "os reuníais",
+            "se reunían"
         ],
         "presente-progresivo": [
             "me estoy reuniendo",
@@ -6289,6 +7681,14 @@
             "participasteis",
             "participaron"
         ],
+        "preterito-imperfecto": [
+            "participaba",
+            "participabas",
+            "participaba",
+            "participábamos",
+            "participabais",
+            "participaban"
+        ],
         "presente-progresivo": [
             "estoy participando",
             "estás participando",
@@ -6324,6 +7724,14 @@
             "adornamos",
             "adornasteis",
             "adornaron"
+        ],
+        "preterito-imperfecto": [
+            "adornaba",
+            "adornabas",
+            "adornaba",
+            "adornábamos",
+            "adornabais",
+            "adornaban"
         ],
         "presente-progresivo": [
             "estoy adornando",
@@ -6361,6 +7769,14 @@
             "compartisteis",
             "compartieron"
         ],
+        "preterito-imperfecto": [
+            "compartía",
+            "compartías",
+            "compartía",
+            "compartíamos",
+            "compartíais",
+            "compartían"
+        ],
         "presente-progresivo": [
             "estoy compartiendo",
             "estás compartiendo",
@@ -6396,6 +7812,14 @@
             "meditamos",
             "meditasteis",
             "meditaron"
+        ],
+        "preterito-imperfecto": [
+            "meditaba",
+            "meditabas",
+            "meditaba",
+            "meditábamos",
+            "meditabais",
+            "meditaban"
         ],
         "presente-progresivo": [
             "estoy meditando",
@@ -6433,6 +7857,14 @@
             "desconectasteis",
             "desconectaron"
         ],
+        "preterito-imperfecto": [
+            "desconectaba",
+            "desconectabas",
+            "desconectaba",
+            "desconectábamos",
+            "desconectabais",
+            "desconectaban"
+        ],
         "presente-progresivo": [
             "estoy desconectando",
             "estás desconectando",
@@ -6468,6 +7900,14 @@
             "entregamos",
             "entregasteis",
             "entregaron"
+        ],
+        "preterito-imperfecto": [
+            "entregaba",
+            "entregabas",
+            "entregaba",
+            "entregábamos",
+            "entregabais",
+            "entregaban"
         ],
         "presente-progresivo": [
             "estoy entregando",
@@ -6505,6 +7945,14 @@
             "quedasteis",
             "quedaron"
         ],
+        "preterito-imperfecto": [
+            "quedaba",
+            "quedabas",
+            "quedaba",
+            "quedábamos",
+            "quedabais",
+            "quedaban"
+        ],
         "presente-progresivo": [
             "estoy quedando",
             "estás quedando",
@@ -6540,6 +7988,14 @@
             "dormimos",
             "dormisteis",
             "durmieron"
+        ],
+        "preterito-imperfecto": [
+            "dormía",
+            "dormías",
+            "dormía",
+            "dormíamos",
+            "dormíais",
+            "dormían"
         ],
         "presente-progresivo": [
             "estoy durmiendo",
@@ -6577,6 +8033,14 @@
             "merendasteis",
             "merendaron"
         ],
+        "preterito-imperfecto": [
+            "merendaba",
+            "merendabas",
+            "merendaba",
+            "merendábamos",
+            "merendabais",
+            "merendaban"
+        ],
         "presente-progresivo": [
             "estoy merendando",
             "estás merendando",
@@ -6612,6 +8076,14 @@
             "pedimos",
             "pedisteis",
             "pidieron"
+        ],
+        "preterito-imperfecto": [
+            "pedía",
+            "pedías",
+            "pedía",
+            "pedíamos",
+            "pedíais",
+            "pedían"
         ],
         "presente-progresivo": [
             "estoy pidiendo",
@@ -6649,6 +8121,14 @@
             "os quedasteis",
             "se quedaron"
         ],
+        "preterito-imperfecto": [
+            "me quedaba",
+            "te quedabas",
+            "se quedaba",
+            "nos quedábamos",
+            "os quedabais",
+            "se quedaban"
+        ],
         "presente-progresivo": [
             "me estoy quedando",
             "te estás quedando",
@@ -6684,6 +8164,14 @@
             "nos cuidamos",
             "os cuidasteis",
             "se cuidaron"
+        ],
+        "preterito-imperfecto": [
+            "me cuidaba",
+            "te cuidabas",
+            "se cuidaba",
+            "nos cuidábamos",
+            "os cuidabais",
+            "se cuidaban"
         ],
         "presente-progresivo": [
             "me estoy cuidando",
@@ -6721,6 +8209,14 @@
             "picasteis",
             "picaron"
         ],
+        "preterito-imperfecto": [
+            "picaba",
+            "picabas",
+            "picaba",
+            "picábamos",
+            "picabais",
+            "picaban"
+        ],
         "presente-progresivo": [
             "estoy picando",
             "estás picando",
@@ -6756,6 +8252,14 @@
             "propusimos",
             "propusisteis",
             "propusieron"
+        ],
+        "preterito-imperfecto": [
+            "proponía",
+            "proponías",
+            "proponía",
+            "proponíamos",
+            "proponíais",
+            "proponían"
         ],
         "presente-progresivo": [
             "estoy proponiendo",
@@ -6793,6 +8297,14 @@
             "justificasteis",
             "justificaron"
         ],
+        "preterito-imperfecto": [
+            "justificaba",
+            "justificabas",
+            "justificaba",
+            "justificábamos",
+            "justificabais",
+            "justificaban"
+        ],
         "presente-progresivo": [
             "estoy justificando",
             "estás justificando",
@@ -6828,6 +8340,14 @@
             "probamos",
             "probasteis",
             "probaron"
+        ],
+        "preterito-imperfecto": [
+            "probaba",
+            "probabas",
+            "probaba",
+            "probábamos",
+            "probabais",
+            "probaban"
         ],
         "presente-progresivo": [
             "estoy probando",
@@ -6865,6 +8385,14 @@
             "os secasteis",
             "se secaron"
         ],
+        "preterito-imperfecto": [
+            "me secaba",
+            "te secabas",
+            "se secaba",
+            "nos secábamos",
+            "os secabais",
+            "se secaban"
+        ],
         "presente-progresivo": [
             "me estoy secando",
             "te estás secando",
@@ -6900,6 +8428,14 @@
             "nos bañamos",
             "os bañasteis",
             "se bañaron"
+        ],
+        "preterito-imperfecto": [
+            "me bañaba",
+            "te bañabas",
+            "se bañaba",
+            "nos bañábamos",
+            "os bañabais",
+            "se bañaban"
         ],
         "presente-progresivo": [
             "me estoy bañando",
@@ -6937,6 +8473,14 @@
             "os peinasteis",
             "se peinaron"
         ],
+        "preterito-imperfecto": [
+            "me peinaba",
+            "te peinabas",
+            "se peinaba",
+            "nos peinábamos",
+            "os peinabais",
+            "se peinaban"
+        ],
         "presente-progresivo": [
             "me estoy peinando",
             "te estás peinando",
@@ -6972,6 +8516,14 @@
             "nos cepillamos",
             "os cepillasteis",
             "se cepillaron"
+        ],
+        "preterito-imperfecto": [
+            "me cepillaba",
+            "te cepillabas",
+            "se cepillaba",
+            "nos cepillábamos",
+            "os cepillabais",
+            "se cepillaban"
         ],
         "presente-progresivo": [
             "me estoy cepillando",
@@ -7009,6 +8561,14 @@
             "os afeitasteis",
             "se afeitaron"
         ],
+        "preterito-imperfecto": [
+            "me afeitaba",
+            "te afeitabas",
+            "se afeitaba",
+            "nos afeitábamos",
+            "os afeitabais",
+            "se afeitaban"
+        ],
         "presente-progresivo": [
             "me estoy afeitando",
             "te estás afeitando",
@@ -7044,6 +8604,14 @@
             "nos maquillamos",
             "os maquillasteis",
             "se maquillaron"
+        ],
+        "preterito-imperfecto": [
+            "me maquillaba",
+            "te maquillabas",
+            "se maquillaba",
+            "nos maquillábamos",
+            "os maquillabais",
+            "se maquillaban"
         ],
         "presente-progresivo": [
             "me estoy maquillando",
@@ -7081,6 +8649,14 @@
             "recordasteis",
             "recordaron"
         ],
+        "preterito-imperfecto": [
+            "recordaba",
+            "recordabas",
+            "recordaba",
+            "recordábamos",
+            "recordabais",
+            "recordaban"
+        ],
         "presente-progresivo": [
             "estoy recordando",
             "estás recordando",
@@ -7116,6 +8692,14 @@
             "terminamos",
             "terminasteis",
             "terminaron"
+        ],
+        "preterito-imperfecto": [
+            "terminaba",
+            "terminabas",
+            "terminaba",
+            "terminábamos",
+            "terminabais",
+            "terminaban"
         ],
         "presente-progresivo": [
             "estoy terminando",
@@ -7153,6 +8737,14 @@
             "aceptasteis",
             "aceptaron"
         ],
+        "preterito-imperfecto": [
+            "aceptaba",
+            "aceptabas",
+            "aceptaba",
+            "aceptábamos",
+            "aceptabais",
+            "aceptaban"
+        ],
         "presente-progresivo": [
             "estoy aceptando",
             "estás aceptando",
@@ -7188,6 +8780,14 @@
             "rechazamos",
             "rechazasteis",
             "rechazaron"
+        ],
+        "preterito-imperfecto": [
+            "rechazaba",
+            "rechazabas",
+            "rechazaba",
+            "rechazábamos",
+            "rechazabais",
+            "rechazaban"
         ],
         "presente-progresivo": [
             "estoy rechazando",
@@ -7225,6 +8825,14 @@
             "perdisteis",
             "perdieron"
         ],
+        "preterito-imperfecto": [
+            "perdía",
+            "perdías",
+            "perdía",
+            "perdíamos",
+            "perdíais",
+            "perdían"
+        ],
         "presente-progresivo": [
             "estoy perdiendo",
             "estás perdiendo",
@@ -7260,6 +8868,14 @@
             "recibimos",
             "recibisteis",
             "recibieron"
+        ],
+        "preterito-imperfecto": [
+            "recibía",
+            "recibías",
+            "recibía",
+            "recibíamos",
+            "recibíais",
+            "recibían"
         ],
         "presente-progresivo": [
             "estoy recibiendo",
@@ -7297,6 +8913,14 @@
             "trajisteis",
             "trajeron"
         ],
+        "preterito-imperfecto": [
+            "traía",
+            "traías",
+            "traía",
+            "traíamos",
+            "traíais",
+            "traían"
+        ],
         "presente-progresivo": [
             "estoy trayendo",
             "estás trayendo",
@@ -7332,6 +8956,14 @@
             "imaginamos",
             "imaginasteis",
             "imaginaron"
+        ],
+        "preterito-imperfecto": [
+            "imaginaba",
+            "imaginabas",
+            "imaginaba",
+            "imaginábamos",
+            "imaginabais",
+            "imaginaban"
         ],
         "presente-progresivo": [
             "estoy imaginando",
@@ -7369,6 +9001,14 @@
             "conectasteis",
             "conectaron"
         ],
+        "preterito-imperfecto": [
+            "conectaba",
+            "conectabas",
+            "conectaba",
+            "conectábamos",
+            "conectabais",
+            "conectaban"
+        ],
         "presente-progresivo": [
             "estoy conectando",
             "estás conectando",
@@ -7404,6 +9044,14 @@
             "reciclamos",
             "reciclasteis",
             "reciclaron"
+        ],
+        "preterito-imperfecto": [
+            "reciclaba",
+            "reciclabas",
+            "reciclaba",
+            "reciclábamos",
+            "reciclabais",
+            "reciclaban"
         ],
         "presente-progresivo": [
             "estoy reciclando",
@@ -7441,6 +9089,14 @@
             "girasteis",
             "giraron"
         ],
+        "preterito-imperfecto": [
+            "giraba",
+            "girabas",
+            "giraba",
+            "girábamos",
+            "girabais",
+            "giraban"
+        ],
         "presente-progresivo": [
             "estoy girando",
             "estás girando",
@@ -7476,6 +9132,14 @@
             "regresamos",
             "regresasteis",
             "regresaron"
+        ],
+        "preterito-imperfecto": [
+            "regresaba",
+            "regresabas",
+            "regresaba",
+            "regresábamos",
+            "regresabais",
+            "regresaban"
         ],
         "presente-progresivo": [
             "estoy regresando",
@@ -7513,6 +9177,14 @@
             "cocisteis",
             "cocieron"
         ],
+        "preterito-imperfecto": [
+            "cocía",
+            "cocías",
+            "cocía",
+            "cocíamos",
+            "cocíais",
+            "cocían"
+        ],
         "presente-progresivo": [
             "estoy cociendo",
             "estás cociendo",
@@ -7548,6 +9220,14 @@
             "hervimos",
             "hervisteis",
             "hirvieron"
+        ],
+        "preterito-imperfecto": [
+            "hervía",
+            "hervías",
+            "hervía",
+            "hervíamos",
+            "hervíais",
+            "hervían"
         ],
         "presente-progresivo": [
             "estoy hirviendo",
@@ -7585,6 +9265,14 @@
             "recalentasteis",
             "recalentaron"
         ],
+        "preterito-imperfecto": [
+            "recalentaba",
+            "recalentabas",
+            "recalentaba",
+            "recalentábamos",
+            "recalentabais",
+            "recalentaban"
+        ],
         "presente-progresivo": [
             "estoy recalentando",
             "estás recalentando",
@@ -7620,6 +9308,14 @@
             "sacamos",
             "sacasteis",
             "sacaron"
+        ],
+        "preterito-imperfecto": [
+            "sacaba",
+            "sacabas",
+            "sacaba",
+            "sacábamos",
+            "sacabais",
+            "sacaban"
         ],
         "presente-progresivo": [
             "estoy sacando",
@@ -7657,6 +9353,14 @@
             "tomasteis",
             "tomaron"
         ],
+        "preterito-imperfecto": [
+            "tomaba",
+            "tomabas",
+            "tomaba",
+            "tomábamos",
+            "tomabais",
+            "tomaban"
+        ],
         "presente-progresivo": [
             "estoy tomando",
             "estás tomando",
@@ -7692,6 +9396,14 @@
             "dudamos",
             "dudasteis",
             "dudaron"
+        ],
+        "preterito-imperfecto": [
+            "dudaba",
+            "dudabas",
+            "dudaba",
+            "dudábamos",
+            "dudabais",
+            "dudaban"
         ],
         "presente-progresivo": [
             "estoy dudando",
@@ -7729,6 +9441,14 @@
             "anotasteis",
             "anotaron"
         ],
+        "preterito-imperfecto": [
+            "anotaba",
+            "anotabas",
+            "anotaba",
+            "anotábamos",
+            "anotabais",
+            "anotaban"
+        ],
         "presente-progresivo": [
             "estoy anotando",
             "estás anotando",
@@ -7764,6 +9484,14 @@
             "aprobamos",
             "aprobasteis",
             "aprobaron"
+        ],
+        "preterito-imperfecto": [
+            "aprobaba",
+            "aprobabas",
+            "aprobaba",
+            "aprobábamos",
+            "aprobabais",
+            "aprobaban"
         ],
         "presente-progresivo": [
             "estoy aprobando",
@@ -7801,6 +9529,14 @@
             "dejasteis",
             "dejaron"
         ],
+        "preterito-imperfecto": [
+            "dejaba",
+            "dejabas",
+            "dejaba",
+            "dejábamos",
+            "dejabais",
+            "dejaban"
+        ],
         "presente-progresivo": [
             "estoy dejando",
             "estás dejando",
@@ -7836,6 +9572,14 @@
             "levantamos",
             "levantasteis",
             "levantaron"
+        ],
+        "preterito-imperfecto": [
+            "levantaba",
+            "levantabas",
+            "levantaba",
+            "levantábamos",
+            "levantabais",
+            "levantaban"
         ],
         "presente-progresivo": [
             "estoy levantando",
@@ -7873,6 +9617,14 @@
             "atendisteis",
             "atendieron"
         ],
+        "preterito-imperfecto": [
+            "atendía",
+            "atendías",
+            "atendía",
+            "atendíamos",
+            "atendíais",
+            "atendían"
+        ],
         "presente-progresivo": [
             "estoy atendiendo",
             "estás atendiendo",
@@ -7908,6 +9660,14 @@
             "nos casamos",
             "os casasteis",
             "se casaron"
+        ],
+        "preterito-imperfecto": [
+            "me casaba",
+            "te casabas",
+            "se casaba",
+            "nos casábamos",
+            "os casabais",
+            "se casaban"
         ],
         "presente-progresivo": [
             "me estoy casando",
@@ -7945,6 +9705,14 @@
             "colocasteis",
             "colocaron"
         ],
+        "preterito-imperfecto": [
+            "colocaba",
+            "colocabas",
+            "colocaba",
+            "colocábamos",
+            "colocabais",
+            "colocaban"
+        ],
         "presente-progresivo": [
             "estoy colocando",
             "estás colocando",
@@ -7980,6 +9748,14 @@
             "consistimos",
             "consististeis",
             "consistieron"
+        ],
+        "preterito-imperfecto": [
+            "consistía",
+            "consistías",
+            "consistía",
+            "consistíamos",
+            "consistíais",
+            "consistían"
         ],
         "presente-progresivo": [
             "estoy consistiendo",
@@ -8017,6 +9793,14 @@
             "continuasteis",
             "continuaron"
         ],
+        "preterito-imperfecto": [
+            "continuaba",
+            "continuabas",
+            "continuaba",
+            "continuábamos",
+            "continuabais",
+            "continuaban"
+        ],
         "presente-progresivo": [
             "estoy continuando",
             "estás continuando",
@@ -8052,6 +9836,14 @@
             "confundimos",
             "confundisteis",
             "confundieron"
+        ],
+        "preterito-imperfecto": [
+            "confundía",
+            "confundías",
+            "confundía",
+            "confundíamos",
+            "confundíais",
+            "confundían"
         ],
         "presente-progresivo": [
             "estoy confundiendo",
@@ -8089,6 +9881,14 @@
             "cosisteis",
             "cosieron"
         ],
+        "preterito-imperfecto": [
+            "cosía",
+            "cosías",
+            "cosía",
+            "cosíamos",
+            "cosíais",
+            "cosían"
+        ],
         "presente-progresivo": [
             "estoy cosiendo",
             "estás cosiendo",
@@ -8124,6 +9924,14 @@
             "criamos",
             "criasteis",
             "criaron"
+        ],
+        "preterito-imperfecto": [
+            "criaba",
+            "criabas",
+            "criaba",
+            "criábamos",
+            "criabais",
+            "criaban"
         ],
         "presente-progresivo": [
             "estoy criando",
@@ -8161,6 +9969,14 @@
             "decidisteis",
             "decidieron"
         ],
+        "preterito-imperfecto": [
+            "decidía",
+            "decidías",
+            "decidía",
+            "decidíamos",
+            "decidíais",
+            "decidían"
+        ],
         "presente-progresivo": [
             "estoy decidiendo",
             "estás decidiendo",
@@ -8196,6 +10012,14 @@
             "definimos",
             "definisteis",
             "definieron"
+        ],
+        "preterito-imperfecto": [
+            "definía",
+            "definías",
+            "definía",
+            "definíamos",
+            "definíais",
+            "definían"
         ],
         "presente-progresivo": [
             "estoy definiendo",
@@ -8233,6 +10057,14 @@
             "dibujasteis",
             "dibujaron"
         ],
+        "preterito-imperfecto": [
+            "dibujaba",
+            "dibujabas",
+            "dibujaba",
+            "dibujábamos",
+            "dibujabais",
+            "dibujaban"
+        ],
         "presente-progresivo": [
             "estoy dibujando",
             "estás dibujando",
@@ -8268,6 +10100,14 @@
             "intentamos",
             "intentasteis",
             "intentaron"
+        ],
+        "preterito-imperfecto": [
+            "intentaba",
+            "intentabas",
+            "intentaba",
+            "intentábamos",
+            "intentabais",
+            "intentaban"
         ],
         "presente-progresivo": [
             "estoy intentando",
@@ -8305,6 +10145,14 @@
             "mentisteis",
             "mintieron"
         ],
+        "preterito-imperfecto": [
+            "mentía",
+            "mentías",
+            "mentía",
+            "mentíamos",
+            "mentíais",
+            "mentían"
+        ],
         "presente-progresivo": [
             "estoy mintiendo",
             "estás mintiendo",
@@ -8340,6 +10188,14 @@
             "patinamos",
             "patinasteis",
             "patinaron"
+        ],
+        "preterito-imperfecto": [
+            "patinaba",
+            "patinabas",
+            "patinaba",
+            "patinábamos",
+            "patinabais",
+            "patinaban"
         ],
         "presente-progresivo": [
             "estoy patinando",
@@ -8377,6 +10233,14 @@
             "plantasteis",
             "plantaron"
         ],
+        "preterito-imperfecto": [
+            "plantaba",
+            "plantabas",
+            "plantaba",
+            "plantábamos",
+            "plantabais",
+            "plantaban"
+        ],
         "presente-progresivo": [
             "estoy plantando",
             "estás plantando",
@@ -8412,6 +10276,14 @@
             "quemamos",
             "quemasteis",
             "quemaron"
+        ],
+        "preterito-imperfecto": [
+            "quemaba",
+            "quemabas",
+            "quemaba",
+            "quemábamos",
+            "quemabais",
+            "quemaban"
         ],
         "presente-progresivo": [
             "estoy quemando",
@@ -8449,6 +10321,14 @@
             "reparasteis",
             "repararon"
         ],
+        "preterito-imperfecto": [
+            "reparaba",
+            "reparabas",
+            "reparaba",
+            "reparábamos",
+            "reparabais",
+            "reparaban"
+        ],
         "presente-progresivo": [
             "estoy reparando",
             "estás reparando",
@@ -8484,6 +10364,14 @@
             "añadimos",
             "añadisteis",
             "añadieron"
+        ],
+        "preterito-imperfecto": [
+            "añadía",
+            "añadías",
+            "añadía",
+            "añadíamos",
+            "añadíais",
+            "añadían"
         ],
         "presente-progresivo": [
             "estoy añadiendo",
@@ -8521,6 +10409,14 @@
             "regasteis",
             "regaron"
         ],
+        "preterito-imperfecto": [
+            "regaba",
+            "regabas",
+            "regaba",
+            "regábamos",
+            "regabais",
+            "regaban"
+        ],
         "presente-progresivo": [
             "estoy regando",
             "estás regando",
@@ -8556,6 +10452,14 @@
             "medimos",
             "medisteis",
             "midieron"
+        ],
+        "preterito-imperfecto": [
+            "medía",
+            "medías",
+            "medía",
+            "medíamos",
+            "medíais",
+            "medían"
         ],
         "presente-progresivo": [
             "estoy midiendo",
@@ -8593,6 +10497,14 @@
             "fregasteis",
             "fregaron"
         ],
+        "preterito-imperfecto": [
+            "fregaba",
+            "fregabas",
+            "fregaba",
+            "fregábamos",
+            "fregabais",
+            "fregaban"
+        ],
         "presente-progresivo": [
             "estoy fregando",
             "estás fregando",
@@ -8628,6 +10540,14 @@
             "huimos",
             "huisteis",
             "huyeron"
+        ],
+        "preterito-imperfecto": [
+            "huía",
+            "huías",
+            "huía",
+            "huíamos",
+            "huíais",
+            "huían"
         ],
         "presente-progresivo": [
             "estoy huyendo",
@@ -8665,6 +10585,14 @@
             "oísteis",
             "oyeron"
         ],
+        "preterito-imperfecto": [
+            "oía",
+            "oías",
+            "oía",
+            "oíamos",
+            "oíais",
+            "oían"
+        ],
         "presente-progresivo": [
             "estoy oyendo",
             "estás oyendo",
@@ -8700,6 +10628,14 @@
             "cruzamos",
             "cruzasteis",
             "cruzaron"
+        ],
+        "preterito-imperfecto": [
+            "cruzaba",
+            "cruzabas",
+            "cruzaba",
+            "cruzábamos",
+            "cruzabais",
+            "cruzaban"
         ],
         "presente-progresivo": [
             "estoy cruzando",
@@ -8737,6 +10673,14 @@
             "abristeis",
             "abrieron"
         ],
+        "preterito-imperfecto": [
+            "abría",
+            "abrías",
+            "abría",
+            "abríamos",
+            "abríais",
+            "abrían"
+        ],
         "presente-progresivo": [
             "estoy abriendo",
             "estás abriendo",
@@ -8772,6 +10716,14 @@
             "mordimos",
             "mordisteis",
             "mordieron"
+        ],
+        "preterito-imperfecto": [
+            "mordía",
+            "mordías",
+            "mordía",
+            "mordíamos",
+            "mordíais",
+            "mordían"
         ],
         "presente-progresivo": [
             "estoy mordiendo",
@@ -8809,6 +10761,14 @@
             "olisteis",
             "olieron"
         ],
+        "preterito-imperfecto": [
+            "olía",
+            "olías",
+            "olía",
+            "olíamos",
+            "olíais",
+            "olían"
+        ],
         "presente-progresivo": [
             "estoy oliendo",
             "estás oliendo",
@@ -8844,6 +10804,14 @@
             "sonamos",
             "sonasteis",
             "sonaron"
+        ],
+        "preterito-imperfecto": [
+            "sonaba",
+            "sonabas",
+            "sonaba",
+            "sonábamos",
+            "sonabais",
+            "sonaban"
         ],
         "presente-progresivo": [
             "estoy sonando",
@@ -8881,6 +10849,14 @@
             "encontrasteis",
             "encontraron"
         ],
+        "preterito-imperfecto": [
+            "encontraba",
+            "encontrabas",
+            "encontraba",
+            "encontrábamos",
+            "encontrabais",
+            "encontraban"
+        ],
         "presente-progresivo": [
             "estoy encontrando",
             "estás encontrando",
@@ -8916,6 +10892,14 @@
             "tradujimos",
             "tradujisteis",
             "tradujeron"
+        ],
+        "preterito-imperfecto": [
+            "traducía",
+            "traducías",
+            "traducía",
+            "traducíamos",
+            "traducíais",
+            "traducían"
         ],
         "presente-progresivo": [
             "estoy traduciendo",
@@ -8953,6 +10937,14 @@
             "cortasteis",
             "cortaron"
         ],
+        "preterito-imperfecto": [
+            "cortaba",
+            "cortabas",
+            "cortaba",
+            "cortábamos",
+            "cortabais",
+            "cortaban"
+        ],
         "presente-progresivo": [
             "estoy cortando",
             "estás cortando",
@@ -8988,6 +10980,14 @@
             "trituramos",
             "triturasteis",
             "trituraron"
+        ],
+        "preterito-imperfecto": [
+            "trituraba",
+            "triturabas",
+            "trituraba",
+            "triturábamos",
+            "triturabais",
+            "trituraban"
         ],
         "presente-progresivo": [
             "estoy triturando",
@@ -9025,6 +11025,14 @@
             "pelasteis",
             "pelaron"
         ],
+        "preterito-imperfecto": [
+            "pelaba",
+            "pelabas",
+            "pelaba",
+            "pelábamos",
+            "pelabais",
+            "pelaban"
+        ],
         "presente-progresivo": [
             "estoy pelando",
             "estás pelando",
@@ -9060,6 +11068,14 @@
             "acabamos",
             "acabasteis",
             "acabaron"
+        ],
+        "preterito-imperfecto": [
+            "acababa",
+            "acababas",
+            "acababa",
+            "acabábamos",
+            "acababais",
+            "acababan"
         ],
         "presente-progresivo": [
             "estoy acabando",
@@ -9097,6 +11113,14 @@
             "pagasteis",
             "pagaron"
         ],
+        "preterito-imperfecto": [
+            "pagaba",
+            "pagabas",
+            "pagaba",
+            "pagábamos",
+            "pagabais",
+            "pagaban"
+        ],
         "presente-progresivo": [
             "estoy pagando",
             "estás pagando",
@@ -9132,6 +11156,14 @@
             "respetamos",
             "respetasteis",
             "respetaron"
+        ],
+        "preterito-imperfecto": [
+            "respetaba",
+            "respetabas",
+            "respetaba",
+            "respetábamos",
+            "respetabais",
+            "respetaban"
         ],
         "presente-progresivo": [
             "estoy respetando",
@@ -9169,6 +11201,14 @@
             "rellenasteis",
             "rellenaron"
         ],
+        "preterito-imperfecto": [
+            "rellenaba",
+            "rellenabas",
+            "rellenaba",
+            "rellenábamos",
+            "rellenabais",
+            "rellenaban"
+        ],
         "presente-progresivo": [
             "estoy rellenando",
             "estás rellenando",
@@ -9204,6 +11244,14 @@
             "aparcamos",
             "aparcasteis",
             "aparcaron"
+        ],
+        "preterito-imperfecto": [
+            "aparcaba",
+            "aparcabas",
+            "aparcaba",
+            "aparcábamos",
+            "aparcabais",
+            "aparcaban"
         ],
         "presente-progresivo": [
             "estoy aparcando",
@@ -9241,6 +11289,14 @@
             "reísteis",
             "rieron"
         ],
+        "preterito-imperfecto": [
+            "reía",
+            "reías",
+            "reía",
+            "reíamos",
+            "reíais",
+            "reían"
+        ],
         "presente-progresivo": [
             "estoy riendo",
             "estás riendo",
@@ -9276,6 +11332,14 @@
             "mezclamos",
             "mezclasteis",
             "mezclaron"
+        ],
+        "preterito-imperfecto": [
+            "mezclaba",
+            "mezclabas",
+            "mezclaba",
+            "mezclábamos",
+            "mezclabais",
+            "mezclaban"
         ],
         "presente-progresivo": [
             "estoy mezclando",
@@ -9313,6 +11377,14 @@
             "pintasteis",
             "pintaron"
         ],
+        "preterito-imperfecto": [
+            "pintaba",
+            "pintabas",
+            "pintaba",
+            "pintábamos",
+            "pintabais",
+            "pintaban"
+        ],
         "presente-progresivo": [
             "estoy pintando",
             "estás pintando",
@@ -9348,6 +11420,14 @@
             "explicamos",
             "explicasteis",
             "explicaron"
+        ],
+        "preterito-imperfecto": [
+            "explicaba",
+            "explicabas",
+            "explicaba",
+            "explicábamos",
+            "explicabais",
+            "explicaban"
         ],
         "presente-progresivo": [
             "estoy explicando",
@@ -9385,6 +11465,14 @@
             "supusisteis",
             "supusieron"
         ],
+        "preterito-imperfecto": [
+            "suponía",
+            "suponías",
+            "suponía",
+            "suponíamos",
+            "suponíais",
+            "suponían"
+        ],
         "presente-progresivo": [
             "estoy suponiendo",
             "estás suponiendo",
@@ -9420,6 +11508,14 @@
             "curamos",
             "curasteis",
             "curaron"
+        ],
+        "preterito-imperfecto": [
+            "curaba",
+            "curabas",
+            "curaba",
+            "curábamos",
+            "curabais",
+            "curaban"
         ],
         "presente-progresivo": [
             "estoy curando",
@@ -9457,6 +11553,14 @@
             "sanasteis",
             "sanaron"
         ],
+        "preterito-imperfecto": [
+            "sanaba",
+            "sanabas",
+            "sanaba",
+            "sanábamos",
+            "sanabais",
+            "sanaban"
+        ],
         "presente-progresivo": [
             "estoy sanando",
             "estás sanando",
@@ -9492,6 +11596,14 @@
             "dependimos",
             "dependisteis",
             "dependieron"
+        ],
+        "preterito-imperfecto": [
+            "dependía",
+            "dependías",
+            "dependía",
+            "dependíamos",
+            "dependíais",
+            "dependían"
         ],
         "presente-progresivo": [
             "estoy dependiendo",
@@ -9529,6 +11641,14 @@
             "os acordasteis",
             "se acordaron"
         ],
+        "preterito-imperfecto": [
+            "me acordaba",
+            "te acordabas",
+            "se acordaba",
+            "nos acordábamos",
+            "os acordabais",
+            "se acordaban"
+        ],
         "presente-progresivo": [
             "me estoy acordando",
             "te estás acordando",
@@ -9564,6 +11684,14 @@
             "apuntamos",
             "apuntasteis",
             "apuntaron"
+        ],
+        "preterito-imperfecto": [
+            "apuntaba",
+            "apuntabas",
+            "apuntaba",
+            "apuntábamos",
+            "apuntabais",
+            "apuntaban"
         ],
         "presente-progresivo": [
             "estoy apuntando",
@@ -9601,6 +11729,14 @@
             "os equivocasteis",
             "se equivocaron"
         ],
+        "preterito-imperfecto": [
+            "me equivocaba",
+            "te equivocabas",
+            "se equivocaba",
+            "nos equivocábamos",
+            "os equivocabais",
+            "se equivocaban"
+        ],
         "presente-progresivo": [
             "me estoy equivocando",
             "te estás equivocando",
@@ -9636,6 +11772,14 @@
             "montamos",
             "montasteis",
             "montaron"
+        ],
+        "preterito-imperfecto": [
+            "montaba",
+            "montabas",
+            "montaba",
+            "montábamos",
+            "montabais",
+            "montaban"
         ],
         "presente-progresivo": [
             "estoy montando",
@@ -9673,6 +11817,14 @@
             "opinasteis",
             "opinaron"
         ],
+        "preterito-imperfecto": [
+            "opinaba",
+            "opinabas",
+            "opinaba",
+            "opinábamos",
+            "opinabais",
+            "opinaban"
+        ],
         "presente-progresivo": [
             "estoy opinando",
             "estás opinando",
@@ -9708,6 +11860,14 @@
             "organizamos",
             "organizasteis",
             "organizaron"
+        ],
+        "preterito-imperfecto": [
+            "organizaba",
+            "organizabas",
+            "organizaba",
+            "organizábamos",
+            "organizabais",
+            "organizaban"
         ],
         "presente-progresivo": [
             "estoy organizando",
@@ -9745,6 +11905,14 @@
             "enviasteis",
             "enviaron"
         ],
+        "preterito-imperfecto": [
+            "enviaba",
+            "enviabas",
+            "enviaba",
+            "enviábamos",
+            "enviabais",
+            "enviaban"
+        ],
         "presente-progresivo": [
             "estoy enviando",
             "estás enviando",
@@ -9780,6 +11948,14 @@
             "valimos",
             "valisteis",
             "valieron"
+        ],
+        "preterito-imperfecto": [
+            "valía",
+            "valías",
+            "valía",
+            "valíamos",
+            "valíais",
+            "valían"
         ],
         "presente-progresivo": [
             "estoy valiendo",
@@ -9817,6 +11993,14 @@
             "cometisteis",
             "cometieron"
         ],
+        "preterito-imperfecto": [
+            "cometía",
+            "cometías",
+            "cometía",
+            "cometíamos",
+            "cometíais",
+            "cometían"
+        ],
         "presente-progresivo": [
             "estoy cometiendo",
             "estás cometiendo",
@@ -9852,6 +12036,14 @@
             "memorizamos",
             "memorizasteis",
             "memorizaron"
+        ],
+        "preterito-imperfecto": [
+            "memorizaba",
+            "memorizabas",
+            "memorizaba",
+            "memorizábamos",
+            "memorizabais",
+            "memorizaban"
         ],
         "presente-progresivo": [
             "estoy memorizando",
@@ -9889,6 +12081,14 @@
             "dominasteis",
             "dominaron"
         ],
+        "preterito-imperfecto": [
+            "dominaba",
+            "dominabas",
+            "dominaba",
+            "dominábamos",
+            "dominabais",
+            "dominaban"
+        ],
         "presente-progresivo": [
             "estoy dominando",
             "estás dominando",
@@ -9924,6 +12124,14 @@
             "nos aburrimos",
             "os aburristeis",
             "se aburrieron"
+        ],
+        "preterito-imperfecto": [
+            "me aburría",
+            "te aburrías",
+            "se aburría",
+            "nos aburríamos",
+            "os aburríais",
+            "se aburrían"
         ],
         "presente-progresivo": [
             "me estoy aburriendo",
@@ -9961,6 +12169,14 @@
             "roncasteis",
             "roncaron"
         ],
+        "preterito-imperfecto": [
+            "roncaba",
+            "roncabas",
+            "roncaba",
+            "roncábamos",
+            "roncabais",
+            "roncaban"
+        ],
         "presente-progresivo": [
             "estoy roncando",
             "estás roncando",
@@ -9996,6 +12212,14 @@
             "ligamos",
             "ligasteis",
             "ligaron"
+        ],
+        "preterito-imperfecto": [
+            "ligaba",
+            "ligabas",
+            "ligaba",
+            "ligábamos",
+            "ligabais",
+            "ligaban"
         ],
         "presente-progresivo": [
             "estoy ligando",
@@ -10033,6 +12257,14 @@
             "flirteasteis",
             "flirtearon"
         ],
+        "preterito-imperfecto": [
+            "flirteaba",
+            "flirteabas",
+            "flirteaba",
+            "flirteábamos",
+            "flirteabais",
+            "flirteaban"
+        ],
         "presente-progresivo": [
             "estoy flirteando",
             "estás flirteando",
@@ -10068,6 +12300,14 @@
             "nos pusimos",
             "os pusisteis",
             "se pusieron"
+        ],
+        "preterito-imperfecto": [
+            "me ponía",
+            "te ponías",
+            "se ponía",
+            "nos poníamos",
+            "os poníais",
+            "se ponían"
         ],
         "presente-progresivo": [
             "me estoy poniendo",
@@ -10105,6 +12345,14 @@
             "caísteis",
             "cayeron"
         ],
+        "preterito-imperfecto": [
+            "caía",
+            "caías",
+            "caía",
+            "caíamos",
+            "caíais",
+            "caían"
+        ],
         "presente-progresivo": [
             "estoy cayendo",
             "estás cayendo",
@@ -10140,6 +12388,14 @@
             "nos caímos",
             "os caísteis",
             "se cayeron"
+        ],
+        "preterito-imperfecto": [
+            "me caía",
+            "te caías",
+            "se caía",
+            "nos caíamos",
+            "os caíais",
+            "se caían"
         ],
         "presente-progresivo": [
             "me estoy cayendo",
@@ -10177,6 +12433,14 @@
             "cupisteis",
             "cupieron"
         ],
+        "preterito-imperfecto": [
+            "cabía",
+            "cabías",
+            "cabía",
+            "cabíamos",
+            "cabíais",
+            "cabían"
+        ],
         "presente-progresivo": [
             "estoy cabiendo",
             "estás cabiendo",
@@ -10212,6 +12476,14 @@
             "divertimos",
             "divertisteis",
             "divirtieron"
+        ],
+        "preterito-imperfecto": [
+            "divertía",
+            "divertías",
+            "divertía",
+            "divertíamos",
+            "divertíais",
+            "divertían"
         ],
         "presente-progresivo": [
             "estoy divirtiendo",
@@ -10249,6 +12521,14 @@
             "os divertisteis",
             "se divirtieron"
         ],
+        "preterito-imperfecto": [
+            "me divertía",
+            "te divertías",
+            "se divertía",
+            "nos divertíamos",
+            "os divertíais",
+            "se divertían"
+        ],
         "presente-progresivo": [
             "me estoy divirtiendo",
             "te estás divirtiendo",
@@ -10284,6 +12564,14 @@
             "encendimos",
             "encendisteis",
             "encendieron"
+        ],
+        "preterito-imperfecto": [
+            "encendía",
+            "encendías",
+            "encendía",
+            "encendíamos",
+            "encendíais",
+            "encendían"
         ],
         "presente-progresivo": [
             "estoy encendiendo",
@@ -10321,6 +12609,14 @@
             "conseguisteis",
             "consiguieron"
         ],
+        "preterito-imperfecto": [
+            "conseguía",
+            "conseguías",
+            "conseguía",
+            "conseguíamos",
+            "conseguíais",
+            "conseguían"
+        ],
         "presente-progresivo": [
             "estoy consiguiendo",
             "estás consiguiendo",
@@ -10356,6 +12652,14 @@
             "nos despedimos",
             "os despedisteis",
             "se despidieron"
+        ],
+        "preterito-imperfecto": [
+            "me despedía",
+            "te despedías",
+            "se despedía",
+            "nos despedíamos",
+            "os despedíais",
+            "se despedían"
         ],
         "presente-progresivo": [
             "me estoy despidiendo",
@@ -10393,6 +12697,14 @@
             "freísteis",
             "frieron"
         ],
+        "preterito-imperfecto": [
+            "freía",
+            "freías",
+            "freía",
+            "freíamos",
+            "freíais",
+            "freían"
+        ],
         "presente-progresivo": [
             "estoy friendo",
             "estás friendo",
@@ -10428,6 +12740,14 @@
             "sonreímos",
             "sonreísteis",
             "sonrieron"
+        ],
+        "preterito-imperfecto": [
+            "sonreía",
+            "sonreías",
+            "sonreía",
+            "sonreíamos",
+            "sonreíais",
+            "sonreían"
         ],
         "presente-progresivo": [
             "estoy sonriendo",
@@ -10465,6 +12785,14 @@
             "dolisteis",
             "dolieron"
         ],
+        "preterito-imperfecto": [
+            "dolía",
+            "dolías",
+            "dolía",
+            "dolíamos",
+            "dolíais",
+            "dolían"
+        ],
         "presente-progresivo": [
             "estoy doliendo",
             "estás doliendo",
@@ -10500,6 +12828,14 @@
             "mostramos",
             "mostrasteis",
             "mostraron"
+        ],
+        "preterito-imperfecto": [
+            "mostraba",
+            "mostrabas",
+            "mostraba",
+            "mostrábamos",
+            "mostrabais",
+            "mostraban"
         ],
         "presente-progresivo": [
             "estoy mostrando",
@@ -10537,6 +12873,14 @@
             "moristeis",
             "murieron"
         ],
+        "preterito-imperfecto": [
+            "moría",
+            "morías",
+            "moría",
+            "moríamos",
+            "moríais",
+            "morían"
+        ],
         "presente-progresivo": [
             "estoy muriendo",
             "estás muriendo",
@@ -10572,6 +12916,14 @@
             "nos parecimos",
             "os parecisteis",
             "se parecieron"
+        ],
+        "preterito-imperfecto": [
+            "me parecía",
+            "te parecías",
+            "se parecía",
+            "nos parecíamos",
+            "os parecíais",
+            "se parecían"
         ],
         "presente-progresivo": [
             "me estoy pareciendo",
@@ -10609,6 +12961,14 @@
             "merecisteis",
             "merecieron"
         ],
+        "preterito-imperfecto": [
+            "merecía",
+            "merecías",
+            "merecía",
+            "merecíamos",
+            "merecíais",
+            "merecían"
+        ],
         "presente-progresivo": [
             "estoy mereciendo",
             "estás mereciendo",
@@ -10644,6 +13004,14 @@
             "bajamos",
             "bajasteis",
             "bajaron"
+        ],
+        "preterito-imperfecto": [
+            "bajaba",
+            "bajabas",
+            "bajaba",
+            "bajábamos",
+            "bajabais",
+            "bajaban"
         ],
         "presente-progresivo": [
             "estoy bajando",
@@ -10681,6 +13049,14 @@
             "relacionasteis",
             "relacionaron"
         ],
+        "preterito-imperfecto": [
+            "relacionaba",
+            "relacionabas",
+            "relacionaba",
+            "relacionábamos",
+            "relacionabais",
+            "relacionaban"
+        ],
         "presente-progresivo": [
             "estoy relacionando",
             "estás relacionando",
@@ -10716,6 +13092,14 @@
             "planificamos",
             "planificasteis",
             "planificaron"
+        ],
+        "preterito-imperfecto": [
+            "planificaba",
+            "planificabas",
+            "planificaba",
+            "planificábamos",
+            "planificabais",
+            "planificaban"
         ],
         "presente-progresivo": [
             "estoy planificando",
@@ -10753,6 +13137,14 @@
             "retuvisteis",
             "retuvieron"
         ],
+        "preterito-imperfecto": [
+            "retenía",
+            "retenías",
+            "retenía",
+            "reteníamos",
+            "reteníais",
+            "retenían"
+        ],
         "presente-progresivo": [
             "estoy reteniendo",
             "estás reteniendo",
@@ -10788,6 +13180,14 @@
             "contamos",
             "contasteis",
             "contaron"
+        ],
+        "preterito-imperfecto": [
+            "contaba",
+            "contabas",
+            "contaba",
+            "contábamos",
+            "contabais",
+            "contaban"
         ],
         "presente-progresivo": [
             "estoy contando",
@@ -10825,6 +13225,14 @@
             "experimentasteis",
             "experimentaron"
         ],
+        "preterito-imperfecto": [
+            "experimentaba",
+            "experimentabas",
+            "experimentaba",
+            "experimentábamos",
+            "experimentabais",
+            "experimentaban"
+        ],
         "presente-progresivo": [
             "estoy experimentando",
             "estás experimentando",
@@ -10860,6 +13268,14 @@
             "nos movimos",
             "os movisteis",
             "se movieron"
+        ],
+        "preterito-imperfecto": [
+            "me movía",
+            "te movías",
+            "se movía",
+            "nos movíamos",
+            "os movíais",
+            "se movían"
         ],
         "presente-progresivo": [
             "me estoy moviendo",
@@ -10897,6 +13313,14 @@
             "recortasteis",
             "recortaron"
         ],
+        "preterito-imperfecto": [
+            "recortaba",
+            "recortabas",
+            "recortaba",
+            "recortábamos",
+            "recortabais",
+            "recortaban"
+        ],
         "presente-progresivo": [
             "estoy recortando",
             "estás recortando",
@@ -10932,6 +13356,14 @@
             "reconstruimos",
             "reconstruisteis",
             "reconstruyeron"
+        ],
+        "preterito-imperfecto": [
+            "reconstruía",
+            "reconstruías",
+            "reconstruía",
+            "reconstruíamos",
+            "reconstruíais",
+            "reconstruían"
         ],
         "presente-progresivo": [
             "estoy reconstruyendo",
@@ -10969,6 +13401,14 @@
             "reconocisteis",
             "reconocieron"
         ],
+        "preterito-imperfecto": [
+            "reconocía",
+            "reconocías",
+            "reconocía",
+            "reconocíamos",
+            "reconocíais",
+            "reconocían"
+        ],
         "presente-progresivo": [
             "estoy reconociendo",
             "estás reconociendo",
@@ -11004,6 +13444,14 @@
             "descubrimos",
             "descubristeis",
             "descubrieron"
+        ],
+        "preterito-imperfecto": [
+            "descubría",
+            "descubrías",
+            "descubría",
+            "descubríamos",
+            "descubríais",
+            "descubrían"
         ],
         "presente-progresivo": [
             "estoy descubriendo",
@@ -11041,6 +13489,14 @@
             "os tocasteis",
             "se tocaron"
         ],
+        "preterito-imperfecto": [
+            "me tocaba",
+            "te tocabas",
+            "se tocaba",
+            "nos tocábamos",
+            "os tocabais",
+            "se tocaban"
+        ],
         "presente-progresivo": [
             "me estoy tocando",
             "te estás tocando",
@@ -11076,6 +13532,14 @@
             "corregimos",
             "corregisteis",
             "corrigieron"
+        ],
+        "preterito-imperfecto": [
+            "corregía",
+            "corregías",
+            "corregía",
+            "corregíamos",
+            "corregíais",
+            "corregían"
         ],
         "presente-progresivo": [
             "estoy corrigiendo",
@@ -11113,6 +13577,14 @@
             "juzgasteis",
             "juzgaron"
         ],
+        "preterito-imperfecto": [
+            "juzgaba",
+            "juzgabas",
+            "juzgaba",
+            "juzgábamos",
+            "juzgabais",
+            "juzgaban"
+        ],
         "presente-progresivo": [
             "estoy juzgando",
             "estás juzgando",
@@ -11148,6 +13620,14 @@
             "grabamos",
             "grabasteis",
             "grabaron"
+        ],
+        "preterito-imperfecto": [
+            "grababa",
+            "grababas",
+            "grababa",
+            "grabábamos",
+            "grababais",
+            "grababan"
         ],
         "presente-progresivo": [
             "estoy grabando",
@@ -11185,6 +13665,14 @@
             "utilizasteis",
             "utilizaron"
         ],
+        "preterito-imperfecto": [
+            "utilizaba",
+            "utilizabas",
+            "utilizaba",
+            "utilizábamos",
+            "utilizabais",
+            "utilizaban"
+        ],
         "presente-progresivo": [
             "estoy utilizando",
             "estás utilizando",
@@ -11220,6 +13708,14 @@
             "pegamos",
             "pegasteis",
             "pegaron"
+        ],
+        "preterito-imperfecto": [
+            "pegaba",
+            "pegabas",
+            "pegaba",
+            "pegábamos",
+            "pegabais",
+            "pegaban"
         ],
         "presente-progresivo": [
             "estoy pegando",
@@ -11257,6 +13753,14 @@
             "sorprendisteis",
             "sorprendieron"
         ],
+        "preterito-imperfecto": [
+            "sorprendía",
+            "sorprendías",
+            "sorprendía",
+            "sorprendíamos",
+            "sorprendíais",
+            "sorprendían"
+        ],
         "presente-progresivo": [
             "estoy sorprendiendo",
             "estás sorprendiendo",
@@ -11292,6 +13796,14 @@
             "nos abrazamos",
             "os abrazasteis",
             "se abrazaron"
+        ],
+        "preterito-imperfecto": [
+            "me abrazaba",
+            "te abrazabas",
+            "se abrazaba",
+            "nos abrazábamos",
+            "os abrazabais",
+            "se abrazaban"
         ],
         "presente-progresivo": [
             "me estoy abrazando",
@@ -11329,6 +13841,14 @@
             "pronunciasteis",
             "pronunciaron"
         ],
+        "preterito-imperfecto": [
+            "pronunciaba",
+            "pronunciabas",
+            "pronunciaba",
+            "pronunciábamos",
+            "pronunciabais",
+            "pronunciaban"
+        ],
         "presente-progresivo": [
             "estoy pronunciando",
             "estás pronunciando",
@@ -11364,6 +13884,14 @@
             "competimos",
             "competisteis",
             "compitieron"
+        ],
+        "preterito-imperfecto": [
+            "competía",
+            "competías",
+            "competía",
+            "competíamos",
+            "competíais",
+            "competían"
         ],
         "presente-progresivo": [
             "estoy compitiendo",
@@ -11401,6 +13929,14 @@
             "soñasteis",
             "soñaron"
         ],
+        "preterito-imperfecto": [
+            "soñaba",
+            "soñabas",
+            "soñaba",
+            "soñábamos",
+            "soñabais",
+            "soñaban"
+        ],
         "presente-progresivo": [
             "estoy soñando",
             "estás soñando",
@@ -11436,6 +13972,14 @@
             "recomendamos",
             "recomendasteis",
             "recomendaron"
+        ],
+        "preterito-imperfecto": [
+            "recomendaba",
+            "recomendabas",
+            "recomendaba",
+            "recomendábamos",
+            "recomendabais",
+            "recomendaban"
         ],
         "presente-progresivo": [
             "estoy recomendando",
@@ -11473,6 +14017,14 @@
             "temblasteis",
             "temblaron"
         ],
+        "preterito-imperfecto": [
+            "temblaba",
+            "temblabas",
+            "temblaba",
+            "temblábamos",
+            "temblabais",
+            "temblaban"
+        ],
         "presente-progresivo": [
             "estoy temblando",
             "estás temblando",
@@ -11508,6 +14060,14 @@
             "enterramos",
             "enterrasteis",
             "enterraron"
+        ],
+        "preterito-imperfecto": [
+            "enterraba",
+            "enterrabas",
+            "enterraba",
+            "enterrábamos",
+            "enterrabais",
+            "enterraban"
         ],
         "presente-progresivo": [
             "estoy enterrando",
@@ -11545,6 +14105,14 @@
             "helasteis",
             "helaron"
         ],
+        "preterito-imperfecto": [
+            "helaba",
+            "helabas",
+            "helaba",
+            "helábamos",
+            "helabais",
+            "helaban"
+        ],
         "presente-progresivo": [
             "estoy helando",
             "estás helando",
@@ -11580,6 +14148,14 @@
             "manifestamos",
             "manifestasteis",
             "manifestaron"
+        ],
+        "preterito-imperfecto": [
+            "manifestaba",
+            "manifestabas",
+            "manifestaba",
+            "manifestábamos",
+            "manifestabais",
+            "manifestaban"
         ],
         "presente-progresivo": [
             "estoy manifestando",
@@ -11617,6 +14193,14 @@
             "defendisteis",
             "defendieron"
         ],
+        "preterito-imperfecto": [
+            "defendía",
+            "defendías",
+            "defendía",
+            "defendíamos",
+            "defendíais",
+            "defendían"
+        ],
         "presente-progresivo": [
             "estoy defendiendo",
             "estás defendiendo",
@@ -11652,6 +14236,14 @@
             "tendimos",
             "tendisteis",
             "tendieron"
+        ],
+        "preterito-imperfecto": [
+            "tendía",
+            "tendías",
+            "tendía",
+            "tendíamos",
+            "tendíais",
+            "tendían"
         ],
         "presente-progresivo": [
             "estoy tendiendo",
@@ -11689,6 +14281,14 @@
             "advertisteis",
             "advirtieron"
         ],
+        "preterito-imperfecto": [
+            "advertía",
+            "advertías",
+            "advertía",
+            "advertíamos",
+            "advertíais",
+            "advertían"
+        ],
         "presente-progresivo": [
             "estoy advirtiendo",
             "estás advirtiendo",
@@ -11724,6 +14324,14 @@
             "digerimos",
             "digeristeis",
             "digirieron"
+        ],
+        "preterito-imperfecto": [
+            "digería",
+            "digerías",
+            "digería",
+            "digeríamos",
+            "digeríais",
+            "digerían"
         ],
         "presente-progresivo": [
             "estoy digiriendo",
@@ -11761,6 +14369,14 @@
             "sugeristeis",
             "sugirieron"
         ],
+        "preterito-imperfecto": [
+            "sugería",
+            "sugerías",
+            "sugería",
+            "sugeríamos",
+            "sugeríais",
+            "sugerían"
+        ],
         "presente-progresivo": [
             "estoy sugiriendo",
             "estás sugiriendo",
@@ -11796,6 +14412,14 @@
             "convertimos",
             "convertisteis",
             "convirtieron"
+        ],
+        "preterito-imperfecto": [
+            "convertía",
+            "convertías",
+            "convertía",
+            "convertíamos",
+            "convertíais",
+            "convertían"
         ],
         "presente-progresivo": [
             "estoy convirtiendo",
@@ -11833,6 +14457,14 @@
             "consolasteis",
             "consolaron"
         ],
+        "preterito-imperfecto": [
+            "consolaba",
+            "consolabas",
+            "consolaba",
+            "consolábamos",
+            "consolabais",
+            "consolaban"
+        ],
         "presente-progresivo": [
             "estoy consolando",
             "estás consolando",
@@ -11868,6 +14500,14 @@
             "renovamos",
             "renovasteis",
             "renovaron"
+        ],
+        "preterito-imperfecto": [
+            "renovaba",
+            "renovabas",
+            "renovaba",
+            "renovábamos",
+            "renovabais",
+            "renovaban"
         ],
         "presente-progresivo": [
             "estoy renovando",
@@ -11905,6 +14545,14 @@
             "soltasteis",
             "soltaron"
         ],
+        "preterito-imperfecto": [
+            "soltaba",
+            "soltabas",
+            "soltaba",
+            "soltábamos",
+            "soltabais",
+            "soltaban"
+        ],
         "presente-progresivo": [
             "estoy soltando",
             "estás soltando",
@@ -11940,6 +14588,14 @@
             "tostamos",
             "tostasteis",
             "tostaron"
+        ],
+        "preterito-imperfecto": [
+            "tostaba",
+            "tostabas",
+            "tostaba",
+            "tostábamos",
+            "tostabais",
+            "tostaban"
         ],
         "presente-progresivo": [
             "estoy tostando",
@@ -11977,6 +14633,14 @@
             "os reñisteis",
             "se riñeron"
         ],
+        "preterito-imperfecto": [
+            "me reñía",
+            "te reñías",
+            "se reñía",
+            "nos reñíamos",
+            "os reñíais",
+            "se reñían"
+        ],
         "presente-progresivo": [
             "me estoy riñendo",
             "te estás riñendo",
@@ -12012,6 +14676,14 @@
             "provinimos",
             "provinisteis",
             "provinieron"
+        ],
+        "preterito-imperfecto": [
+            "provenía",
+            "provenías",
+            "provenía",
+            "proveníamos",
+            "proveníais",
+            "provenían"
         ],
         "presente-progresivo": [
             "estoy proviniendo",
@@ -12049,6 +14721,14 @@
             "comprobasteis",
             "comprobaron"
         ],
+        "preterito-imperfecto": [
+            "comprobaba",
+            "comprobabas",
+            "comprobaba",
+            "comprobábamos",
+            "comprobabais",
+            "comprobaban"
+        ],
         "presente-progresivo": [
             "estoy comprobando",
             "estás comprobando",
@@ -12084,6 +14764,14 @@
             "produjimos",
             "produjisteis",
             "produjeron"
+        ],
+        "preterito-imperfecto": [
+            "producía",
+            "producías",
+            "producía",
+            "producíamos",
+            "producíais",
+            "producían"
         ],
         "presente-progresivo": [
             "estoy produciendo",
@@ -12121,6 +14809,14 @@
             "os quejasteis",
             "se quejaron"
         ],
+        "preterito-imperfecto": [
+            "me quejaba",
+            "te quejabas",
+            "se quejaba",
+            "nos quejábamos",
+            "os quejabais",
+            "se quejaban"
+        ],
         "presente-progresivo": [
             "me estoy quejando",
             "te estás quejando",
@@ -12156,6 +14852,14 @@
             "incluimos",
             "incluisteis",
             "incluyeron"
+        ],
+        "preterito-imperfecto": [
+            "incluía",
+            "incluías",
+            "incluía",
+            "incluíamos",
+            "incluíais",
+            "incluían"
         ],
         "presente-progresivo": [
             "estoy incluyendo",
@@ -12193,6 +14897,14 @@
             "os bloqueasteis",
             "se bloquearon"
         ],
+        "preterito-imperfecto": [
+            "me bloqueaba",
+            "te bloqueabas",
+            "se bloqueaba",
+            "nos bloqueábamos",
+            "os bloqueabais",
+            "se bloqueaban"
+        ],
         "presente-progresivo": [
             "me estoy bloqueando",
             "te estás bloqueando",
@@ -12228,6 +14940,14 @@
             "nos jubilamos",
             "os jubilasteis",
             "se jubilaron"
+        ],
+        "preterito-imperfecto": [
+            "me jubilaba",
+            "te jubilabas",
+            "se jubilaba",
+            "nos jubilábamos",
+            "os jubilabais",
+            "se jubilaban"
         ],
         "presente-progresivo": [
             "me estoy jubilando",
@@ -12265,6 +14985,14 @@
             "subrayasteis",
             "subrayaron"
         ],
+        "preterito-imperfecto": [
+            "subrayaba",
+            "subrayabas",
+            "subrayaba",
+            "subrayábamos",
+            "subrayabais",
+            "subrayaban"
+        ],
         "presente-progresivo": [
             "estoy subrayando",
             "estás subrayando",
@@ -12300,6 +15028,14 @@
             "apreciamos",
             "apreciasteis",
             "apreciaron"
+        ],
+        "preterito-imperfecto": [
+            "apreciaba",
+            "apreciabas",
+            "apreciaba",
+            "apreciábamos",
+            "apreciabais",
+            "apreciaban"
         ],
         "presente-progresivo": [
             "estoy apreciando",
@@ -12337,6 +15073,14 @@
             "coincidisteis",
             "coincidieron"
         ],
+        "preterito-imperfecto": [
+            "coincidía",
+            "coincidías",
+            "coincidía",
+            "coincidíamos",
+            "coincidíais",
+            "coincidían"
+        ],
         "presente-progresivo": [
             "estoy coincidiendo",
             "estás coincidiendo",
@@ -12372,6 +15116,14 @@
             "navegamos",
             "navegasteis",
             "navegaron"
+        ],
+        "preterito-imperfecto": [
+            "navegaba",
+            "navegabas",
+            "navegaba",
+            "navegábamos",
+            "navegabais",
+            "navegaban"
         ],
         "presente-progresivo": [
             "estoy navegando",
@@ -12409,6 +15161,14 @@
             "cubristeis",
             "cubrieron"
         ],
+        "preterito-imperfecto": [
+            "cubría",
+            "cubrías",
+            "cubría",
+            "cubríamos",
+            "cubríais",
+            "cubrían"
+        ],
         "presente-progresivo": [
             "estoy cubriendo",
             "estás cubriendo",
@@ -12444,6 +15204,14 @@
             "resolvimos",
             "resolvisteis",
             "resolvieron"
+        ],
+        "preterito-imperfecto": [
+            "resolvía",
+            "resolvías",
+            "resolvía",
+            "resolvíamos",
+            "resolvíais",
+            "resolvían"
         ],
         "presente-progresivo": [
             "estoy resolviendo",
@@ -12481,6 +15249,14 @@
             "devolvisteis",
             "devolvieron"
         ],
+        "preterito-imperfecto": [
+            "devolvía",
+            "devolvías",
+            "devolvía",
+            "devolvíamos",
+            "devolvíais",
+            "devolvían"
+        ],
         "presente-progresivo": [
             "estoy devolviendo",
             "estás devolviendo",
@@ -12516,6 +15292,14 @@
             "envolvimos",
             "envolvisteis",
             "envolvieron"
+        ],
+        "preterito-imperfecto": [
+            "envolvía",
+            "envolvías",
+            "envolvía",
+            "envolvíamos",
+            "envolvíais",
+            "envolvían"
         ],
         "presente-progresivo": [
             "estoy envolviendo",
@@ -12553,6 +15337,14 @@
             "dispusisteis",
             "dispusieron"
         ],
+        "preterito-imperfecto": [
+            "disponía",
+            "disponías",
+            "disponía",
+            "disponíamos",
+            "disponíais",
+            "disponían"
+        ],
         "presente-progresivo": [
             "estoy disponiendo",
             "estás disponiendo",
@@ -12588,6 +15380,14 @@
             "impusimos",
             "impusisteis",
             "impusieron"
+        ],
+        "preterito-imperfecto": [
+            "imponía",
+            "imponías",
+            "imponía",
+            "imponíamos",
+            "imponíais",
+            "imponían"
         ],
         "presente-progresivo": [
             "estoy imponiendo",
@@ -12625,6 +15425,14 @@
             "previsteis",
             "previeron"
         ],
+        "preterito-imperfecto": [
+            "preveía",
+            "preveías",
+            "preveía",
+            "preveíamos",
+            "preveíais",
+            "preveían"
+        ],
         "presente-progresivo": [
             "estoy previendo",
             "estás previendo",
@@ -12660,6 +15468,14 @@
             "compusimos",
             "compusisteis",
             "compusieron"
+        ],
+        "preterito-imperfecto": [
+            "componía",
+            "componías",
+            "componía",
+            "componíamos",
+            "componíais",
+            "componían"
         ],
         "presente-progresivo": [
             "estoy componiendo",
@@ -12697,6 +15513,14 @@
             "os convertisteis",
             "se convirtieron"
         ],
+        "preterito-imperfecto": [
+            "me convertía",
+            "te convertías",
+            "se convertía",
+            "nos convertíamos",
+            "os convertíais",
+            "se convertían"
+        ],
         "presente-progresivo": [
             "me estoy convirtiendo",
             "te estás convirtiendo",
@@ -12732,6 +15556,14 @@
             "escalamos",
             "escalasteis",
             "escalaron"
+        ],
+        "preterito-imperfecto": [
+            "escalaba",
+            "escalabas",
+            "escalaba",
+            "escalábamos",
+            "escalabais",
+            "escalaban"
         ],
         "presente-progresivo": [
             "estoy escalando",
@@ -12769,6 +15601,14 @@
             "luchasteis",
             "lucharon"
         ],
+        "preterito-imperfecto": [
+            "luchaba",
+            "luchabas",
+            "luchaba",
+            "luchábamos",
+            "luchabais",
+            "luchaban"
+        ],
         "presente-progresivo": [
             "estoy luchando",
             "estás luchando",
@@ -12804,6 +15644,14 @@
             "regalamos",
             "regalasteis",
             "regalaron"
+        ],
+        "preterito-imperfecto": [
+            "regalaba",
+            "regalabas",
+            "regalaba",
+            "regalábamos",
+            "regalabais",
+            "regalaban"
         ],
         "presente-progresivo": [
             "estoy regalando",
@@ -12841,6 +15689,14 @@
             "colaborasteis",
             "colaboraron"
         ],
+        "preterito-imperfecto": [
+            "colaboraba",
+            "colaborabas",
+            "colaboraba",
+            "colaborábamos",
+            "colaborabais",
+            "colaboraban"
+        ],
         "presente-progresivo": [
             "estoy colaborando",
             "estás colaborando",
@@ -12876,6 +15732,14 @@
             "rodamos",
             "rodasteis",
             "rodaron"
+        ],
+        "preterito-imperfecto": [
+            "rodaba",
+            "rodabas",
+            "rodaba",
+            "rodábamos",
+            "rodabais",
+            "rodaban"
         ],
         "presente-progresivo": [
             "estoy rodando",
@@ -12913,6 +15777,14 @@
             "creasteis",
             "crearon"
         ],
+        "preterito-imperfecto": [
+            "creaba",
+            "creabas",
+            "creaba",
+            "creábamos",
+            "creabais",
+            "creaban"
+        ],
         "presente-progresivo": [
             "estoy creando",
             "estás creando",
@@ -12948,6 +15820,14 @@
             "filmamos",
             "filmasteis",
             "filmaron"
+        ],
+        "preterito-imperfecto": [
+            "filmaba",
+            "filmabas",
+            "filmaba",
+            "filmábamos",
+            "filmabais",
+            "filmaban"
         ],
         "presente-progresivo": [
             "estoy filmando",
@@ -12985,6 +15865,14 @@
             "dirigisteis",
             "dirigieron"
         ],
+        "preterito-imperfecto": [
+            "dirigía",
+            "dirigías",
+            "dirigía",
+            "dirigíamos",
+            "dirigíais",
+            "dirigían"
+        ],
         "presente-progresivo": [
             "estoy dirigiendo",
             "estás dirigiendo",
@@ -13020,6 +15908,14 @@
             "nos celebramos",
             "os celebrasteis",
             "se celebraron"
+        ],
+        "preterito-imperfecto": [
+            "me celebraba",
+            "te celebrabas",
+            "se celebraba",
+            "nos celebrábamos",
+            "os celebrabais",
+            "se celebraban"
         ],
         "presente-progresivo": [
             "me estoy celebrando",
@@ -13057,6 +15953,14 @@
             "inventasteis",
             "inventaron"
         ],
+        "preterito-imperfecto": [
+            "inventaba",
+            "inventabas",
+            "inventaba",
+            "inventábamos",
+            "inventabais",
+            "inventaban"
+        ],
         "presente-progresivo": [
             "estoy inventando",
             "estás inventando",
@@ -13092,6 +15996,14 @@
             "nos filmamos",
             "os filmasteis",
             "se filmaron"
+        ],
+        "preterito-imperfecto": [
+            "me filmaba",
+            "te filmabas",
+            "se filmaba",
+            "nos filmábamos",
+            "os filmabais",
+            "se filmaban"
         ],
         "presente-progresivo": [
             "me estoy filmando",
@@ -13129,6 +16041,14 @@
             "obtuvisteis",
             "obtuvieron"
         ],
+        "preterito-imperfecto": [
+            "obtenía",
+            "obtenías",
+            "obtenía",
+            "obteníamos",
+            "obteníais",
+            "obtenían"
+        ],
         "presente-progresivo": [
             "estoy obteniendo",
             "estás obteniendo",
@@ -13164,6 +16084,14 @@
             "superamos",
             "superasteis",
             "superaron"
+        ],
+        "preterito-imperfecto": [
+            "superaba",
+            "superabas",
+            "superaba",
+            "superábamos",
+            "superabais",
+            "superaban"
         ],
         "presente-progresivo": [
             "estoy superando",
@@ -13201,6 +16129,14 @@
             "os enamorasteis",
             "se enamoraron"
         ],
+        "preterito-imperfecto": [
+            "me enamoraba",
+            "te enamorabas",
+            "se enamoraba",
+            "nos enamorábamos",
+            "os enamorabais",
+            "se enamoraban"
+        ],
         "presente-progresivo": [
             "me estoy enamorando",
             "te estás enamorando",
@@ -13236,6 +16172,14 @@
             "nos separamos",
             "os separasteis",
             "se separaron"
+        ],
+        "preterito-imperfecto": [
+            "me separaba",
+            "te separabas",
+            "se separaba",
+            "nos separábamos",
+            "os separabais",
+            "se separaban"
         ],
         "presente-progresivo": [
             "me estoy separando",
@@ -13273,6 +16217,14 @@
             "os divorciasteis",
             "se divorciaron"
         ],
+        "preterito-imperfecto": [
+            "me divorciaba",
+            "te divorciabas",
+            "se divorciaba",
+            "nos divorciábamos",
+            "os divorciabais",
+            "se divorciaban"
+        ],
         "presente-progresivo": [
             "me estoy divorciando",
             "te estás divorciando",
@@ -13308,6 +16260,14 @@
             "nos mudamos",
             "os mudasteis",
             "se mudaron"
+        ],
+        "preterito-imperfecto": [
+            "me mudaba",
+            "te mudabas",
+            "se mudaba",
+            "nos mudábamos",
+            "os mudabais",
+            "se mudaban"
         ],
         "presente-progresivo": [
             "me estoy mudando",
@@ -13345,6 +16305,14 @@
             "abandonasteis",
             "abandonaron"
         ],
+        "preterito-imperfecto": [
+            "abandonaba",
+            "abandonabas",
+            "abandonaba",
+            "abandonábamos",
+            "abandonabais",
+            "abandonaban"
+        ],
         "presente-progresivo": [
             "estoy abandonando",
             "estás abandonando",
@@ -13380,6 +16348,14 @@
             "recogimos",
             "recogisteis",
             "recogieron"
+        ],
+        "preterito-imperfecto": [
+            "recogía",
+            "recogías",
+            "recogía",
+            "recogíamos",
+            "recogíais",
+            "recogían"
         ],
         "presente-progresivo": [
             "estoy recogiendo",
@@ -13417,6 +16393,14 @@
             "barristeis",
             "barrieron"
         ],
+        "preterito-imperfecto": [
+            "barría",
+            "barrías",
+            "barría",
+            "barríamos",
+            "barríais",
+            "barrían"
+        ],
         "presente-progresivo": [
             "estoy barriendo",
             "estás barriendo",
@@ -13452,6 +16436,14 @@
             "planchamos",
             "planchasteis",
             "plancharon"
+        ],
+        "preterito-imperfecto": [
+            "planchaba",
+            "planchabas",
+            "planchaba",
+            "planchábamos",
+            "planchabais",
+            "planchaban"
         ],
         "presente-progresivo": [
             "estoy planchando",
@@ -13489,6 +16481,14 @@
             "lograsteis",
             "lograron"
         ],
+        "preterito-imperfecto": [
+            "lograba",
+            "lograbas",
+            "lograba",
+            "lográbamos",
+            "lograbais",
+            "lograban"
+        ],
         "presente-progresivo": [
             "estoy logrando",
             "estás logrando",
@@ -13524,6 +16524,14 @@
             "nos fijamos",
             "os fijasteis",
             "se fijaron"
+        ],
+        "preterito-imperfecto": [
+            "me fijaba",
+            "te fijabas",
+            "se fijaba",
+            "nos fijábamos",
+            "os fijabais",
+            "se fijaban"
         ],
         "presente-progresivo": [
             "me estoy fijando",
@@ -13561,6 +16569,14 @@
             "apagasteis",
             "apagaron"
         ],
+        "preterito-imperfecto": [
+            "apagaba",
+            "apagabas",
+            "apagaba",
+            "apagábamos",
+            "apagabais",
+            "apagaban"
+        ],
         "presente-progresivo": [
             "estoy apagando",
             "estás apagando",
@@ -13596,6 +16612,14 @@
             "actuamos",
             "actuasteis",
             "actuaron"
+        ],
+        "preterito-imperfecto": [
+            "actuaba",
+            "actuabas",
+            "actuaba",
+            "actuábamos",
+            "actuabais",
+            "actuaban"
         ],
         "presente-progresivo": [
             "estoy actuando",
