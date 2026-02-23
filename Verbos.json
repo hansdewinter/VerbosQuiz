@@ -1,5 +1,533 @@
 [
     {
+        "verbo": "apuntarse",
+        "presente": [
+            "me apunto",
+            "te apuntas",
+            "se apunta",
+            "nos apuntamos",
+            "os apuntáis",
+            "se apuntan"
+        ],
+        "preterito-perfecto": [
+            "me he apuntado",
+            "te has apuntado",
+            "se ha apuntado",
+            "nos hemos apuntado",
+            "os habéis apuntado",
+            "se han apuntado"
+        ],
+        "preterito-indefinido": [
+            "me apunté",
+            "te apuntaste",
+            "se apuntó",
+            "nos apuntamos",
+            "os apuntasteis",
+            "se apuntaron"
+        ],
+        "preterito-imperfecto": [
+            "me apuntaba",
+            "te apuntabas",
+            "se apuntaba",
+            "nos apuntábamos",
+            "os apuntabais",
+            "se apuntaban"
+        ],
+        "presente-progresivo": [
+            "me estoy apuntando",
+            "te estás apuntando",
+            "se está apuntando",
+            "nos estamos apuntando",
+            "os estáis apuntando",
+            "se están apuntando"
+        ],
+        "dutch": "zich inschrijven, zich aanmelden"
+    },
+    {
+        "verbo": "valorar",
+        "presente": [
+            "valoro",
+            "valoras",
+            "valora",
+            "valoramos",
+            "valoráis",
+            "valoran"
+        ],
+        "preterito-perfecto": [
+            "he valorado",
+            "has valorado",
+            "ha valorado",
+            "hemos valorado",
+            "habéis valorado",
+            "han valorado"
+        ],
+        "preterito-indefinido": [
+            "valoré",
+            "valoraste",
+            "valoró",
+            "valoramos",
+            "valorasteis",
+            "valoraron"
+        ],
+        "preterito-imperfecto": [
+            "valoraba",
+            "valorabas",
+            "valoraba",
+            "valorábamos",
+            "valorabais",
+            "valoraban"
+        ],
+        "presente-progresivo": [
+            "estoy valorando",
+            "estás valorando",
+            "está valorando",
+            "estamos valorando",
+            "estáis valorando",
+            "están valorando"
+        ],
+        "dutch": "waarderen, beoordelen, evalueren"
+    },
+    {
+        "verbo": "consultar",
+        "presente": [
+            "consulto",
+            "consultas",
+            "consulta",
+            "consultamos",
+            "consultáis",
+            "consultan"
+        ],
+        "preterito-perfecto": [
+            "he consultado",
+            "has consultado",
+            "ha consultado",
+            "hemos consultado",
+            "habéis consultado",
+            "han consultado"
+        ],
+        "preterito-indefinido": [
+            "consulté",
+            "consultaste",
+            "consultó",
+            "consultamos",
+            "consultasteis",
+            "consultaron"
+        ],
+        "preterito-imperfecto": [
+            "consultaba",
+            "consultabas",
+            "consultaba",
+            "consultábamos",
+            "consultabais",
+            "consultaban"
+        ],
+        "presente-progresivo": [
+            "estoy consultando",
+            "estás consultando",
+            "está consultando",
+            "estamos consultando",
+            "estáis consultando",
+            "están consultando"
+        ],
+        "dutch": "raadplegen, consulteren"
+    },
+    {
+        "verbo": "aconsejar",
+        "presente": [
+            "aconsejo",
+            "aconsejas",
+            "aconseja",
+            "aconsejamos",
+            "aconsejáis",
+            "aconsejan"
+        ],
+        "preterito-perfecto": [
+            "he aconsejado",
+            "has aconsejado",
+            "ha aconsejado",
+            "hemos aconsejado",
+            "habéis aconsejado",
+            "han aconsejado"
+        ],
+        "preterito-indefinido": [
+            "aconsejé",
+            "aconsejaste",
+            "aconsejó",
+            "aconsejamos",
+            "aconsejasteis",
+            "aconsejaron"
+        ],
+        "preterito-imperfecto": [
+            "aconsejaba",
+            "aconsejabas",
+            "aconsejaba",
+            "aconsejábamos",
+            "aconsejabais",
+            "aconsejaban"
+        ],
+        "presente-progresivo": [
+            "estoy aconsejando",
+            "estás aconsejando",
+            "está aconsejando",
+            "estamos aconsejando",
+            "estáis aconsejando",
+            "están aconsejando"
+        ],
+        "dutch": "adviseren"
+    },
+    {
+        "verbo": "ofrecer",
+        "presente": [
+            "ofrezco",
+            "ofreces",
+            "ofrece",
+            "ofrecemos",
+            "ofrecéis",
+            "ofrecen"
+        ],
+        "preterito-perfecto": [
+            "he ofrecido",
+            "has ofrecido",
+            "ha ofrecido",
+            "hemos ofrecido",
+            "habéis ofrecido",
+            "han ofrecido"
+        ],
+        "preterito-indefinido": [
+            "ofrecí",
+            "ofreciste",
+            "ofreció",
+            "ofrecimos",
+            "ofrecisteis",
+            "ofrecieron"
+        ],
+        "preterito-imperfecto": [
+            "ofrecía",
+            "ofrecías",
+            "ofrecía",
+            "ofrecíamos",
+            "ofrecíais",
+            "ofrecían"
+        ],
+        "presente-progresivo": [
+            "estoy ofreciendo",
+            "estás ofreciendo",
+            "está ofreciendo",
+            "estamos ofreciendo",
+            "estáis ofreciendo",
+            "están ofreciendo"
+        ],
+        "dutch": "aanbieden, voorstellen"
+    },
+    {
+        "verbo": "proporcionar",
+        "presente": [
+            "proporciono",
+            "proporcionas",
+            "proporciona",
+            "proporcionamos",
+            "proporcionáis",
+            "proporcionan"
+        ],
+        "preterito-perfecto": [
+            "he proporcionado",
+            "has proporcionado",
+            "ha proporcionado",
+            "hemos proporcionado",
+            "habéis proporcionado",
+            "han proporcionado"
+        ],
+        "preterito-indefinido": [
+            "proporcioné",
+            "proporcionaste",
+            "proporcionó",
+            "proporcionamos",
+            "proporcionasteis",
+            "proporcionaron"
+        ],
+        "preterito-imperfecto": [
+            "proporcionaba",
+            "proporcionabas",
+            "proporcionaba",
+            "proporcionábamos",
+            "proporcionabais",
+            "proporcionaban"
+        ],
+        "presente-progresivo": [
+            "estoy proporcionando",
+            "estás proporcionando",
+            "está proporcionando",
+            "estamos proporcionando",
+            "estáis proporcionando",
+            "están proporcionando"
+        ],
+        "dutch": "iets verschaffen, voorzien van, iets leveren"
+    },
+    {
+        "verbo": "redescubrir",
+        "presente": [
+            "redescubro",
+            "redescubres",
+            "redescubre",
+            "redescubrimos",
+            "redescubrís",
+            "redescubren"
+        ],
+        "preterito-perfecto": [
+            "he redescubrido",
+            "has redescubrido",
+            "ha redescubrido",
+            "hemos redescubrido",
+            "habéis redescubrido",
+            "han redescubrido"
+        ],
+        "preterito-indefinido": [
+            "redescubrí",
+            "redescubriste",
+            "redescubrió",
+            "redescubrimos",
+            "redescubristeis",
+            "redescubrieron"
+        ],
+        "preterito-imperfecto": [
+            "redescubría",
+            "redescubrías",
+            "redescubría",
+            "redescubríamos",
+            "redescubríais",
+            "redescubrían"
+        ],
+        "presente-progresivo": [
+            "estoy redescubriendo",
+            "estás redescubriendo",
+            "está redescubriendo",
+            "estamos redescubriendo",
+            "estáis redescubriendo",
+            "están redescubriendo"
+        ],
+        "dutch": "herontdekken"
+    },
+    {
+        "verbo": "bordear",
+        "presente": [
+            "bordeo",
+            "bordeas",
+            "bordea",
+            "bordeamos",
+            "bordeáis",
+            "bordean"
+        ],
+        "preterito-perfecto": [
+            "he bordeado",
+            "has bordeado",
+            "ha bordeado",
+            "hemos bordeado",
+            "habéis bordeado",
+            "han bordeado"
+        ],
+        "preterito-indefinido": [
+            "bordeé",
+            "bordeaste",
+            "bordeó",
+            "bordeamos",
+            "bordeasteis",
+            "bordearon"
+        ],
+        "preterito-imperfecto": [
+            "bordeaba",
+            "bordeabas",
+            "bordeaba",
+            "bordeábamos",
+            "bordeabais",
+            "bordeaban"
+        ],
+        "presente-progresivo": [
+            "estoy bordeando",
+            "estás bordeando",
+            "está bordeando",
+            "estamos bordeando",
+            "estáis bordeando",
+            "están bordeando"
+        ],
+        "dutch": "langs (de rand) gaan, omheen lopen"
+    },
+    {
+        "verbo": "atravesar",
+        "presente": [
+            "atravieso",
+            "atraviesas",
+            "atraviesa",
+            "atravesamos",
+            "atravesáis",
+            "atraviesan"
+        ],
+        "preterito-perfecto": [
+            "he atravesado",
+            "has atravesado",
+            "ha atravesado",
+            "hemos atravesado",
+            "habéis atravesado",
+            "han atravesado"
+        ],
+        "preterito-indefinido": [
+            "atravesé",
+            "atravesaste",
+            "atravesó",
+            "atravesamos",
+            "atravesasteis",
+            "atravesaron"
+        ],
+        "preterito-imperfecto": [
+            "atravesaba",
+            "atravesabas",
+            "atravesaba",
+            "atravesábamos",
+            "atravesabais",
+            "atravesaban"
+        ],
+        "presente-progresivo": [
+            "estoy atravesando",
+            "estás atravesando",
+            "está atravesando",
+            "estamos atravesando",
+            "estáis atravesando",
+            "están atravesando"
+        ],
+        "dutch": "doorkruisen, doorheen gaan, oversteken (letterlijk of figuurlijk)"
+    },
+    {
+        "verbo": "destacar",
+        "presente": [
+            "destaco",
+            "destacas",
+            "destaca",
+            "destacamos",
+            "destacáis",
+            "destacan"
+        ],
+        "preterito-perfecto": [
+            "he destacado",
+            "has destacado",
+            "ha destacado",
+            "hemos destacado",
+            "habéis destacado",
+            "han destacado"
+        ],
+        "preterito-indefinido": [
+            "destaqué",
+            "destacaste",
+            "destacó",
+            "destacamos",
+            "destacasteis",
+            "destacaron"
+        ],
+        "preterito-imperfecto": [
+            "destacaba",
+            "destacabas",
+            "destacaba",
+            "destacábamos",
+            "destacabais",
+            "destacaban"
+        ],
+        "presente-progresivo": [
+            "estoy destacando",
+            "estás destacando",
+            "está destacando",
+            "estamos destacando",
+            "estáis destacando",
+            "están destacando"
+        ],
+        "dutch": "opvallen, uitblinken, opvallen"
+    },
+    {
+        "verbo": "ampliar",
+        "presente": [
+            "amplío",
+            "amplías",
+            "amplía",
+            "ampliamos",
+            "ampliáis",
+            "amplían"
+        ],
+        "preterito-perfecto": [
+            "he ampliado",
+            "has ampliado",
+            "ha ampliado",
+            "hemos ampliado",
+            "habéis ampliado",
+            "han ampliado"
+        ],
+        "preterito-indefinido": [
+            "amplié",
+            "ampliaste",
+            "amplió",
+            "ampliamos",
+            "ampliasteis",
+            "ampliaron"
+        ],
+        "preterito-imperfecto": [
+            "ampliaba",
+            "ampliabas",
+            "ampliaba",
+            "ampliábamos",
+            "ampliabais",
+            "ampliaban"
+        ],
+        "presente-progresivo": [
+            "estoy ampliando",
+            "estás ampliando",
+            "está ampliando",
+            "estamos ampliando",
+            "estáis ampliando",
+            "están ampliando"
+        ],
+        "dutch": "vergroten, uitbreiden, verbreden (fysiek of figurlijk)"
+    },
+    {
+        "verbo": "fundar",
+        "presente": [
+            "fundo",
+            "fundas",
+            "funda",
+            "fundamos",
+            "fundáis",
+            "fundan"
+        ],
+        "preterito-perfecto": [
+            "he fundado",
+            "has fundado",
+            "ha fundado",
+            "hemos fundado",
+            "habéis fundado",
+            "han fundado"
+        ],
+        "preterito-indefinido": [
+            "fundé",
+            "fundaste",
+            "fundó",
+            "fundamos",
+            "fundasteis",
+            "fundaron"
+        ],
+        "preterito-imperfecto": [
+            "fundaba",
+            "fundabas",
+            "fundaba",
+            "fundábamos",
+            "fundabais",
+            "fundaban"
+        ],
+        "presente-progresivo": [
+            "estoy fundando",
+            "estás fundando",
+            "está fundando",
+            "estamos fundando",
+            "estáis fundando",
+            "están fundando"
+        ],
+        "dutch": "stichten, oprichten, vestigen"
+    },
+    {
         "verbo": "vigilar",
         "presente": [
             "vigilo",
