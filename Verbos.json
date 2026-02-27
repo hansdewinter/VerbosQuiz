@@ -1,5 +1,137 @@
 [
     {
+        "verbo": "trasladarse",
+        "presente": [
+            "me traslado",
+            "te trasladas",
+            "se traslada",
+            "nos trasladamos",
+            "os trasladáis",
+            "se trasladan"
+        ],
+        "preterito-perfecto": [
+            "me he trasladado",
+            "te has trasladado",
+            "se ha trasladado",
+            "nos hemos trasladado",
+            "os habéis trasladado",
+            "se han trasladado"
+        ],
+        "preterito-indefinido": [
+            "me trasladé",
+            "te trasladaste",
+            "se trasladó",
+            "nos trasladamos",
+            "os trasladasteis",
+            "se trasladaron"
+        ],
+        "preterito-imperfecto": [
+            "me trasladaba",
+            "te trasladabas",
+            "se trasladaba",
+            "nos trasladábamos",
+            "os trasladabais",
+            "se trasladaban"
+        ],
+        "presente-progresivo": [
+            "me estoy trasladando",
+            "te estás trasladando",
+            "se está trasladando",
+            "nos estamos trasladando",
+            "os estáis trasladando",
+            "se están trasladando"
+        ],
+        "dutch": "zich overplaatsen (verhuizen maar dan voor werk)"
+    },
+    {
+        "verbo": "llorar",
+        "presente": [
+            "lloro",
+            "lloras",
+            "llora",
+            "lloramos",
+            "lloráis",
+            "lloran"
+        ],
+        "preterito-perfecto": [
+            "he llorado",
+            "has llorado",
+            "ha llorado",
+            "hemos llorado",
+            "habéis llorado",
+            "han llorado"
+        ],
+        "preterito-indefinido": [
+            "lloré",
+            "lloraste",
+            "lloró",
+            "lloramos",
+            "llorasteis",
+            "lloraron"
+        ],
+        "preterito-imperfecto": [
+            "lloraba",
+            "llorabas",
+            "lloraba",
+            "llorábamos",
+            "llorabais",
+            "lloraban"
+        ],
+        "presente-progresivo": [
+            "estoy llorando",
+            "estás llorando",
+            "está llorando",
+            "estamos llorando",
+            "estáis llorando",
+            "están llorando"
+        ],
+        "dutch": "huilen, wenen"
+    },
+    {
+        "verbo": "adivinar",
+        "presente": [
+            "adivino",
+            "adivinas",
+            "adivina",
+            "adivinamos",
+            "adivináis",
+            "adivinan"
+        ],
+        "preterito-perfecto": [
+            "he adivinado",
+            "has adivinado",
+            "ha adivinado",
+            "hemos adivinado",
+            "habéis adivinado",
+            "han adivinado"
+        ],
+        "preterito-indefinido": [
+            "adiviné",
+            "adivinaste",
+            "adivinó",
+            "adivinamos",
+            "adivinasteis",
+            "adivinaron"
+        ],
+        "preterito-imperfecto": [
+            "adivinaba",
+            "adivinabas",
+            "adivinaba",
+            "adivinábamos",
+            "adivinabais",
+            "adivinaban"
+        ],
+        "presente-progresivo": [
+            "estoy adivinando",
+            "estás adivinando",
+            "está adivinando",
+            "estamos adivinando",
+            "estáis adivinando",
+            "están adivinando"
+        ],
+        "dutch": "raden"
+    },
+    {
         "verbo": "apuntarse",
         "presente": [
             "me apunto",
@@ -16805,7 +16937,7 @@
             "os estáis mudando",
             "se están mudando"
         ],
-        "dutch": "verhuizen"
+        "dutch": "verhuizen (prive)"
     },
     {
         "verbo": "abandonar",
