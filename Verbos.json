@@ -1,5 +1,49 @@
 [
     {
+        "verbo": "suicidarse",
+        "presente": [
+            "me suicido",
+            "te suicidas",
+            "se suicida",
+            "nos suicidamos",
+            "os suicidáis",
+            "se suicidan"
+        ],
+        "preterito-perfecto": [
+            "me he suicidado",
+            "te has suicidado",
+            "se ha suicidado",
+            "nos hemos suicidado",
+            "os habéis suicidado",
+            "se han suicidado"
+        ],
+        "preterito-indefinido": [
+            "me suicidé",
+            "te suicidaste",
+            "se suicidó",
+            "nos suicidamos",
+            "os suicidasteis",
+            "se suicidaron"
+        ],
+        "preterito-imperfecto": [
+            "me suicidaba",
+            "te suicidabas",
+            "se suicidaba",
+            "nos suicidábamos",
+            "os suicidabais",
+            "se suicidaban"
+        ],
+        "presente-progresivo": [
+            "me estoy suicidando",
+            "te estás suicidando",
+            "se está suicidando",
+            "nos estamos suicidando",
+            "os estáis suicidando",
+            "se están suicidando"
+        ],
+        "dutch": "zelfmoord plegen"
+    },
+    {
         "verbo": "trasladarse",
         "presente": [
             "me traslado",
