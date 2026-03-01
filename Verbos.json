@@ -1,5 +1,49 @@
 [
     {
+        "verbo": "fundir",
+        "presente": [
+            "fundo",
+            "fundes",
+            "funde",
+            "fundimos",
+            "fundís",
+            "funden"
+        ],
+        "preterito-perfecto": [
+            "he fundido",
+            "has fundido",
+            "ha fundido",
+            "hemos fundido",
+            "habéis fundido",
+            "han fundido"
+        ],
+        "preterito-indefinido": [
+            "fundí",
+            "fundiste",
+            "fundió",
+            "fundimos",
+            "fundisteis",
+            "fundieron"
+        ],
+        "preterito-imperfecto": [
+            "fundía",
+            "fundías",
+            "fundía",
+            "fundíamos",
+            "fundíais",
+            "fundían"
+        ],
+        "presente-progresivo": [
+            "estoy fundiendo",
+            "estás fundiendo",
+            "está fundiendo",
+            "estamos fundiendo",
+            "estáis fundiendo",
+            "están fundiendo"
+        ],
+        "dutch": "smelten"
+    },
+    {
         "verbo": "rodear",
         "presente": [
             "rodeo",
