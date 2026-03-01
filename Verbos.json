@@ -1,5 +1,49 @@
 [
     {
+        "verbo": "rodear",
+        "presente": [
+            "rodeo",
+            "rodeas",
+            "rodea",
+            "rodeamos",
+            "rodeáis",
+            "rodean"
+        ],
+        "preterito-perfecto": [
+            "he rodeado",
+            "has rodeado",
+            "ha rodeado",
+            "hemos rodeado",
+            "habéis rodeado",
+            "han rodeado"
+        ],
+        "preterito-indefinido": [
+            "rodeé",
+            "rodeaste",
+            "rodeó",
+            "rodeamos",
+            "rodeasteis",
+            "rodearon"
+        ],
+        "preterito-imperfecto": [
+            "rodeaba",
+            "rodeabas",
+            "rodeaba",
+            "rodeábamos",
+            "rodeabais",
+            "rodeaban"
+        ],
+        "presente-progresivo": [
+            "estoy rodeando",
+            "estás rodeando",
+            "está rodeando",
+            "estamos rodeando",
+            "estáis rodeando",
+            "están rodeando"
+        ],
+        "dutch": "omringen, ergens omheen gaan"
+    },
+    {
         "verbo": "suicidarse",
         "presente": [
             "me suicido",
@@ -1273,7 +1317,7 @@
             "estáis acercando",
             "están acercando"
         ],
-        "dutch": "iets of iemand dichterbij brengen"
+        "dutch": "inzoomen, iets of iemand dichterbij brengen"
     },
     {
         "verbo": "dormirse",
