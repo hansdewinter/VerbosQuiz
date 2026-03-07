@@ -1,5 +1,973 @@
 [
     {
+        "verbo": "separar",
+        "presente": [
+            "separo",
+            "separas",
+            "separa",
+            "separamos",
+            "separáis",
+            "separan"
+        ],
+        "preterito-perfecto": [
+            "he separado",
+            "has separado",
+            "ha separado",
+            "hemos separado",
+            "habéis separado",
+            "han separado"
+        ],
+        "preterito-indefinido": [
+            "separé",
+            "separaste",
+            "separó",
+            "separamos",
+            "separasteis",
+            "separaron"
+        ],
+        "preterito-imperfecto": [
+            "separaba",
+            "separabas",
+            "separaba",
+            "separábamos",
+            "separabais",
+            "separaban"
+        ],
+        "presente-progresivo": [
+            "estoy separando",
+            "estás separando",
+            "está separando",
+            "estamos separando",
+            "estáis separando",
+            "están separando"
+        ],
+        "dutch": "scheiden, uit elkaar halen"
+    },
+    {
+        "verbo": "durar",
+        "presente": [
+            "duro",
+            "duras",
+            "dura",
+            "duramos",
+            "duráis",
+            "duran"
+        ],
+        "preterito-perfecto": [
+            "he durado",
+            "has durado",
+            "ha durado",
+            "hemos durado",
+            "habéis durado",
+            "han durado"
+        ],
+        "preterito-indefinido": [
+            "duré",
+            "duraste",
+            "duró",
+            "duramos",
+            "durasteis",
+            "duraron"
+        ],
+        "preterito-imperfecto": [
+            "duraba",
+            "durabas",
+            "duraba",
+            "durábamos",
+            "durabais",
+            "duraban"
+        ],
+        "presente-progresivo": [
+            "estoy durando",
+            "estás durando",
+            "está durando",
+            "estamos durando",
+            "estáis durando",
+            "están durando"
+        ],
+        "dutch": "duren"
+    },
+    {
+        "verbo": "guardar",
+        "presente": [
+            "guardo",
+            "guardas",
+            "guarda",
+            "guardamos",
+            "guardáis",
+            "guardan"
+        ],
+        "preterito-perfecto": [
+            "he guardado",
+            "has guardado",
+            "ha guardado",
+            "hemos guardado",
+            "habéis guardado",
+            "han guardado"
+        ],
+        "preterito-indefinido": [
+            "guardé",
+            "guardaste",
+            "guardó",
+            "guardamos",
+            "guardasteis",
+            "guardaron"
+        ],
+        "preterito-imperfecto": [
+            "guardaba",
+            "guardabas",
+            "guardaba",
+            "guardábamos",
+            "guardabais",
+            "guardaban"
+        ],
+        "presente-progresivo": [
+            "estoy guardando",
+            "estás guardando",
+            "está guardando",
+            "estamos guardando",
+            "estáis guardando",
+            "están guardando"
+        ],
+        "dutch": "bewaren, opbergen"
+    },
+    {
+        "verbo": "asar",
+        "presente": [
+            "aso",
+            "asas",
+            "asa",
+            "asamos",
+            "asáis",
+            "asan"
+        ],
+        "preterito-perfecto": [
+            "he asado",
+            "has asado",
+            "ha asado",
+            "hemos asado",
+            "habéis asado",
+            "han asado"
+        ],
+        "preterito-indefinido": [
+            "asé",
+            "asaste",
+            "asó",
+            "asamos",
+            "asasteis",
+            "asaron"
+        ],
+        "preterito-imperfecto": [
+            "asaba",
+            "asabas",
+            "asaba",
+            "asábamos",
+            "asabais",
+            "asaban"
+        ],
+        "presente-progresivo": [
+            "estoy asando",
+            "estás asando",
+            "está asando",
+            "estamos asando",
+            "estáis asando",
+            "están asando"
+        ],
+        "dutch": "grillen, roosteren, braden"
+    },
+    {
+        "verbo": "congelar",
+        "presente": [
+            "congelo",
+            "congelas",
+            "congela",
+            "congelamos",
+            "congeláis",
+            "congelan"
+        ],
+        "preterito-perfecto": [
+            "he congelado",
+            "has congelado",
+            "ha congelado",
+            "hemos congelado",
+            "habéis congelado",
+            "han congelado"
+        ],
+        "preterito-indefinido": [
+            "congelé",
+            "congelaste",
+            "congeló",
+            "congelamos",
+            "congelasteis",
+            "congelaron"
+        ],
+        "preterito-imperfecto": [
+            "congelaba",
+            "congelabas",
+            "congelaba",
+            "congelábamos",
+            "congelabais",
+            "congelaban"
+        ],
+        "presente-progresivo": [
+            "estoy congelando",
+            "estás congelando",
+            "está congelando",
+            "estamos congelando",
+            "estáis congelando",
+            "están congelando"
+        ],
+        "dutch": "invriezen, bevriezen"
+    },
+    {
+        "verbo": "calentar",
+        "presente": [
+            "caliento",
+            "calientas",
+            "calienta",
+            "calentamos",
+            "calentáis",
+            "calientan"
+        ],
+        "preterito-perfecto": [
+            "he calentado",
+            "has calentado",
+            "ha calentado",
+            "hemos calentado",
+            "habéis calentado",
+            "han calentado"
+        ],
+        "preterito-indefinido": [
+            "calenté",
+            "calentaste",
+            "calentó",
+            "calentamos",
+            "calentasteis",
+            "calentaron"
+        ],
+        "preterito-imperfecto": [
+            "calentaba",
+            "calentabas",
+            "calentaba",
+            "calentábamos",
+            "calentabais",
+            "calentaban"
+        ],
+        "presente-progresivo": [
+            "estoy calentando",
+            "estás calentando",
+            "está calentando",
+            "estamos calentando",
+            "estáis calentando",
+            "están calentando"
+        ],
+        "dutch": "opwarmen"
+    },
+    {
+        "verbo": "licuar",
+        "presente": [
+            "licúo",
+            "licúas",
+            "licúa",
+            "licuamos",
+            "licuáis",
+            "licúan"
+        ],
+        "preterito-perfecto": [
+            "he licuado",
+            "has licuado",
+            "ha licuado",
+            "hemos licuado",
+            "habéis licuado",
+            "han licuado"
+        ],
+        "preterito-indefinido": [
+            "licué",
+            "licuaste",
+            "licuó",
+            "licuamos",
+            "licuasteis",
+            "licuaron"
+        ],
+        "preterito-imperfecto": [
+            "licuaba",
+            "licuabas",
+            "licuaba",
+            "licuábamos",
+            "licuabais",
+            "licuaban"
+        ],
+        "presente-progresivo": [
+            "estoy licuando",
+            "estás licuando",
+            "está licuando",
+            "estamos licuando",
+            "estáis licuando",
+            "están licuando"
+        ],
+        "dutch": "blenden, vloeibaar maken"
+    },
+    {
+        "verbo": "prepararse",
+        "presente": [
+            "me preparo",
+            "te preparas",
+            "se prepara",
+            "nos preparamos",
+            "os preparáis",
+            "se preparan"
+        ],
+        "preterito-perfecto": [
+            "me he preparado",
+            "te has preparado",
+            "se ha preparado",
+            "nos hemos preparado",
+            "os habéis preparado",
+            "se han preparado"
+        ],
+        "preterito-indefinido": [
+            "me preparé",
+            "te preparaste",
+            "se preparó",
+            "nos preparamos",
+            "os preparasteis",
+            "se prepararon"
+        ],
+        "preterito-imperfecto": [
+            "me preparaba",
+            "te preparabas",
+            "se preparaba",
+            "nos preparábamos",
+            "os preparabais",
+            "se preparaban"
+        ],
+        "presente-progresivo": [
+            "me estoy preparando",
+            "te estás preparando",
+            "se está preparando",
+            "nos estamos preparando",
+            "os estáis preparando",
+            "se están preparando"
+        ],
+        "dutch": "zich klaarmaken, voorbereiden"
+    },
+    {
+        "verbo": "eliminar",
+        "presente": [
+            "elimino",
+            "eliminas",
+            "elimina",
+            "eliminamos",
+            "elimináis",
+            "eliminan"
+        ],
+        "preterito-perfecto": [
+            "he eliminado",
+            "has eliminado",
+            "ha eliminado",
+            "hemos eliminado",
+            "habéis eliminado",
+            "han eliminado"
+        ],
+        "preterito-indefinido": [
+            "eliminé",
+            "eliminaste",
+            "eliminó",
+            "eliminamos",
+            "eliminasteis",
+            "eliminaron"
+        ],
+        "preterito-imperfecto": [
+            "eliminaba",
+            "eliminabas",
+            "eliminaba",
+            "eliminábamos",
+            "eliminabais",
+            "eliminaban"
+        ],
+        "presente-progresivo": [
+            "estoy eliminando",
+            "estás eliminando",
+            "está eliminando",
+            "estamos eliminando",
+            "estáis eliminando",
+            "están eliminando"
+        ],
+        "dutch": "elimineren, verwijderen"
+    },
+    {
+        "verbo": "purificar",
+        "presente": [
+            "purifico",
+            "purificas",
+            "purifica",
+            "purificamos",
+            "purificáis",
+            "purifican"
+        ],
+        "preterito-perfecto": [
+            "he purificado",
+            "has purificado",
+            "ha purificado",
+            "hemos purificado",
+            "habéis purificado",
+            "han purificado"
+        ],
+        "preterito-indefinido": [
+            "purifiqué",
+            "purificaste",
+            "purificó",
+            "purificamos",
+            "purificasteis",
+            "purificaron"
+        ],
+        "preterito-imperfecto": [
+            "purificaba",
+            "purificabas",
+            "purificaba",
+            "purificábamos",
+            "purificabais",
+            "purificaban"
+        ],
+        "presente-progresivo": [
+            "estoy purificando",
+            "estás purificando",
+            "está purificando",
+            "estamos purificando",
+            "estáis purificando",
+            "están purificando"
+        ],
+        "dutch": "zuiveren, reinigen"
+    },
+    {
+        "verbo": "alimentarse",
+        "presente": [
+            "me alimento",
+            "te alimentas",
+            "se alimenta",
+            "nos alimentamos",
+            "os alimentáis",
+            "se alimentan"
+        ],
+        "preterito-perfecto": [
+            "me he alimentado",
+            "te has alimentado",
+            "se ha alimentado",
+            "nos hemos alimentado",
+            "os habéis alimentado",
+            "se han alimentado"
+        ],
+        "preterito-indefinido": [
+            "me alimenté",
+            "te alimentaste",
+            "se alimentó",
+            "nos alimentamos",
+            "os alimentasteis",
+            "se alimentaron"
+        ],
+        "preterito-imperfecto": [
+            "me alimentaba",
+            "te alimentabas",
+            "se alimentaba",
+            "nos alimentábamos",
+            "os alimentabais",
+            "se alimentaban"
+        ],
+        "presente-progresivo": [
+            "me estoy alimentando",
+            "te estás alimentando",
+            "se está alimentando",
+            "nos estamos alimentando",
+            "os estáis alimentando",
+            "se están alimentando"
+        ],
+        "dutch": "zich voederen"
+    },
+    {
+        "verbo": "batir",
+        "presente": [
+            "bato",
+            "bates",
+            "bate",
+            "batimos",
+            "batís",
+            "baten"
+        ],
+        "preterito-perfecto": [
+            "he batido",
+            "has batido",
+            "ha batido",
+            "hemos batido",
+            "habéis batido",
+            "han batido"
+        ],
+        "preterito-indefinido": [
+            "batí",
+            "batiste",
+            "batió",
+            "batimos",
+            "batisteis",
+            "batieron"
+        ],
+        "preterito-imperfecto": [
+            "batía",
+            "batías",
+            "batía",
+            "batíamos",
+            "batíais",
+            "batían"
+        ],
+        "presente-progresivo": [
+            "estoy batiendo",
+            "estás batiendo",
+            "está batiendo",
+            "estamos batiendo",
+            "estáis batiendo",
+            "están batiendo"
+        ],
+        "dutch": "(op)kloppen, mixen"
+    },
+    {
+        "verbo": "echar",
+        "presente": [
+            "echo",
+            "echas",
+            "echa",
+            "echamos",
+            "echáis",
+            "echan"
+        ],
+        "preterito-perfecto": [
+            "he echado",
+            "has echado",
+            "ha echado",
+            "hemos echado",
+            "habéis echado",
+            "han echado"
+        ],
+        "preterito-indefinido": [
+            "eché",
+            "echaste",
+            "echó",
+            "echamos",
+            "echasteis",
+            "echaron"
+        ],
+        "preterito-imperfecto": [
+            "echaba",
+            "echabas",
+            "echaba",
+            "echábamos",
+            "echabais",
+            "echaban"
+        ],
+        "presente-progresivo": [
+            "estoy echando",
+            "estás echando",
+            "está echando",
+            "estamos echando",
+            "estáis echando",
+            "están echando"
+        ],
+        "dutch": "gooien, toevoegen"
+    },
+    {
+        "verbo": "acompañar",
+        "presente": [
+            "acompaño",
+            "acompañas",
+            "acompaña",
+            "acompañamos",
+            "acompañáis",
+            "acompañan"
+        ],
+        "preterito-perfecto": [
+            "he acompañado",
+            "has acompañado",
+            "ha acompañado",
+            "hemos acompañado",
+            "habéis acompañado",
+            "han acompañado"
+        ],
+        "preterito-indefinido": [
+            "acompañé",
+            "acompañaste",
+            "acompañó",
+            "acompañamos",
+            "acompañasteis",
+            "acompañaron"
+        ],
+        "preterito-imperfecto": [
+            "acompañaba",
+            "acompañabas",
+            "acompañaba",
+            "acompañábamos",
+            "acompañabais",
+            "acompañaban"
+        ],
+        "presente-progresivo": [
+            "estoy acompañando",
+            "estás acompañando",
+            "está acompañando",
+            "estamos acompañando",
+            "estáis acompañando",
+            "están acompañando"
+        ],
+        "dutch": "vergezellen, begeleiden, serveren bij (eten)"
+    },
+    {
+        "verbo": "aplastar",
+        "presente": [
+            "aplasto",
+            "aplastas",
+            "aplasta",
+            "aplastamos",
+            "aplastáis",
+            "aplastan"
+        ],
+        "preterito-perfecto": [
+            "he aplastado",
+            "has aplastado",
+            "ha aplastado",
+            "hemos aplastado",
+            "habéis aplastado",
+            "han aplastado"
+        ],
+        "preterito-indefinido": [
+            "aplasté",
+            "aplastaste",
+            "aplastó",
+            "aplastamos",
+            "aplastasteis",
+            "aplastaron"
+        ],
+        "preterito-imperfecto": [
+            "aplastaba",
+            "aplastabas",
+            "aplastaba",
+            "aplastábamos",
+            "aplastabais",
+            "aplastaban"
+        ],
+        "presente-progresivo": [
+            "estoy aplastando",
+            "estás aplastando",
+            "está aplastando",
+            "estamos aplastando",
+            "estáis aplastando",
+            "están aplastando"
+        ],
+        "dutch": "pletten, platdrukken, verpletteren"
+    },
+    {
+        "verbo": "combinar",
+        "presente": [
+            "combino",
+            "combinas",
+            "combina",
+            "combinamos",
+            "combináis",
+            "combinan"
+        ],
+        "preterito-perfecto": [
+            "he combinado",
+            "has combinado",
+            "ha combinado",
+            "hemos combinado",
+            "habéis combinado",
+            "han combinado"
+        ],
+        "preterito-indefinido": [
+            "combiné",
+            "combinaste",
+            "combinó",
+            "combinamos",
+            "combinasteis",
+            "combinaron"
+        ],
+        "preterito-imperfecto": [
+            "combinaba",
+            "combinabas",
+            "combinaba",
+            "combinábamos",
+            "combinabais",
+            "combinaban"
+        ],
+        "presente-progresivo": [
+            "estoy combinando",
+            "estás combinando",
+            "está combinando",
+            "estamos combinando",
+            "estáis combinando",
+            "están combinando"
+        ],
+        "dutch": "combineren"
+    },
+    {
+        "verbo": "alimentar",
+        "presente": [
+            "alimento",
+            "alimentas",
+            "alimenta",
+            "alimentamos",
+            "alimentáis",
+            "alimentan"
+        ],
+        "preterito-perfecto": [
+            "he alimentado",
+            "has alimentado",
+            "ha alimentado",
+            "hemos alimentado",
+            "habéis alimentado",
+            "han alimentado"
+        ],
+        "preterito-indefinido": [
+            "alimenté",
+            "alimentaste",
+            "alimentó",
+            "alimentamos",
+            "alimentasteis",
+            "alimentaron"
+        ],
+        "preterito-imperfecto": [
+            "alimentaba",
+            "alimentabas",
+            "alimentaba",
+            "alimentábamos",
+            "alimentabais",
+            "alimentaban"
+        ],
+        "presente-progresivo": [
+            "estoy alimentando",
+            "estás alimentando",
+            "está alimentando",
+            "estamos alimentando",
+            "estáis alimentando",
+            "están alimentando"
+        ],
+        "dutch": "voederen"
+    },
+    {
+        "verbo": "consumir",
+        "presente": [
+            "consumo",
+            "consumes",
+            "consume",
+            "consumimos",
+            "consumís",
+            "consumen"
+        ],
+        "preterito-perfecto": [
+            "he consumido",
+            "has consumido",
+            "ha consumido",
+            "hemos consumido",
+            "habéis consumido",
+            "han consumido"
+        ],
+        "preterito-indefinido": [
+            "consumí",
+            "consumiste",
+            "consumió",
+            "consumimos",
+            "consumisteis",
+            "consumieron"
+        ],
+        "preterito-imperfecto": [
+            "consumía",
+            "consumías",
+            "consumía",
+            "consumíamos",
+            "consumíais",
+            "consumían"
+        ],
+        "presente-progresivo": [
+            "estoy consumiendo",
+            "estás consumiendo",
+            "está consumiendo",
+            "estamos consumiendo",
+            "estáis consumiendo",
+            "están consumiendo"
+        ],
+        "dutch": "consumeren"
+    },
+    {
+        "verbo": "optar \"por\"",
+        "presente": [
+            "opto",
+            "optas",
+            "opta",
+            "optamos",
+            "optáis",
+            "optan"
+        ],
+        "preterito-perfecto": [
+            "he optado",
+            "has optado",
+            "ha optado",
+            "hemos optado",
+            "habéis optado",
+            "han optado"
+        ],
+        "preterito-indefinido": [
+            "opté",
+            "optaste",
+            "optó",
+            "optamos",
+            "optasteis",
+            "optaron"
+        ],
+        "preterito-imperfecto": [
+            "optaba",
+            "optabas",
+            "optaba",
+            "optábamos",
+            "optabais",
+            "optaban"
+        ],
+        "presente-progresivo": [
+            "estoy optando",
+            "estás optando",
+            "está optando",
+            "estamos optando",
+            "estáis optando",
+            "están optando"
+        ],
+        "dutch": "opteren, kiezen voor"
+    },
+    {
+        "verbo": "aprovechar",
+        "presente": [
+            "aprovecho",
+            "aprovechas",
+            "aprovecha",
+            "aprovechamos",
+            "aprovecháis",
+            "aprovechan"
+        ],
+        "preterito-perfecto": [
+            "he aprovechado",
+            "has aprovechado",
+            "ha aprovechado",
+            "hemos aprovechado",
+            "habéis aprovechado",
+            "han aprovechado"
+        ],
+        "preterito-indefinido": [
+            "aproveché",
+            "aprovechaste",
+            "aprovechó",
+            "aprovechamos",
+            "aprovechasteis",
+            "aprovecharon"
+        ],
+        "preterito-imperfecto": [
+            "aprovechaba",
+            "aprovechabas",
+            "aprovechaba",
+            "aprovechábamos",
+            "aprovechabais",
+            "aprovechaban"
+        ],
+        "presente-progresivo": [
+            "estoy aprovechando",
+            "estás aprovechando",
+            "está aprovechando",
+            "estamos aprovechando",
+            "estáis aprovechando",
+            "están aprovechando"
+        ],
+        "dutch": "profiteren van, benutten"
+    },
+    {
+        "verbo": "recuperarse \"de\"",
+        "presente": [
+            "me recupero",
+            "te recuperas",
+            "se recupera",
+            "nos recuperamos",
+            "os recuperáis",
+            "se recuperan"
+        ],
+        "preterito-perfecto": [
+            "me he recuperado",
+            "te has recuperado",
+            "se ha recuperado",
+            "nos hemos recuperado",
+            "os habéis recuperado",
+            "se han recuperado"
+        ],
+        "preterito-indefinido": [
+            "me recuperé",
+            "te recuperaste",
+            "se recuperó",
+            "nos recuperamos",
+            "os recuperasteis",
+            "se recuperaron"
+        ],
+        "preterito-imperfecto": [
+            "me recuperaba",
+            "te recuperabas",
+            "se recuperaba",
+            "nos recuperábamos",
+            "os recuperabais",
+            "se recuperaban"
+        ],
+        "presente-progresivo": [
+            "me estoy recuperando",
+            "te estás recuperando",
+            "se está recuperando",
+            "nos estamos recuperando",
+            "os estáis recuperando",
+            "se están recuperando"
+        ],
+        "dutch": "herstellen, recupereren"
+    },
+    {
+        "verbo": "pescar",
+        "presente": [
+            "pesco",
+            "pescas",
+            "pesca",
+            "pescamos",
+            "pescáis",
+            "pescan"
+        ],
+        "preterito-perfecto": [
+            "he pescado",
+            "has pescado",
+            "ha pescado",
+            "hemos pescado",
+            "habéis pescado",
+            "han pescado"
+        ],
+        "preterito-indefinido": [
+            "pesqué",
+            "pescaste",
+            "pescó",
+            "pescamos",
+            "pescasteis",
+            "pescaron"
+        ],
+        "preterito-imperfecto": [
+            "pescaba",
+            "pescabas",
+            "pescaba",
+            "pescábamos",
+            "pescabais",
+            "pescaban"
+        ],
+        "presente-progresivo": [
+            "estoy pescando",
+            "estás pescando",
+            "está pescando",
+            "estamos pescando",
+            "estáis pescando",
+            "están pescando"
+        ],
+        "dutch": "vissen"
+    },
+    {
         "verbo": "fundir",
         "presente": [
             "fundo",
