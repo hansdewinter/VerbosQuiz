@@ -1,5 +1,49 @@
 [
     {
+        "verbo": "colgar",
+        "presente": [
+            "cuelgo",
+            "cuelgas",
+            "cuelga",
+            "colgamos",
+            "colgáis",
+            "cuelgan"
+        ],
+        "preterito-perfecto": [
+            "he colgado",
+            "has colgado",
+            "ha colgado",
+            "hemos colgado",
+            "habéis colgado",
+            "han colgado"
+        ],
+        "preterito-indefinido": [
+            "colgué",
+            "colgaste",
+            "colgó",
+            "colgamos",
+            "colgasteis",
+            "colgaron"
+        ],
+        "preterito-imperfecto": [
+            "colgaba",
+            "colgabas",
+            "colgaba",
+            "colgábamos",
+            "colgabais",
+            "colgaban"
+        ],
+        "presente-progresivo": [
+            "estoy colgando",
+            "estás colgando",
+            "está colgando",
+            "estamos colgando",
+            "estáis colgando",
+            "están colgando"
+        ],
+        "dutch": "hangen, ophangen"
+    },
+    {
         "verbo": "separar",
         "presente": [
             "separo",
