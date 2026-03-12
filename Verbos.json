@@ -1,5 +1,93 @@
 [
     {
+        "verbo": "enfriarse",
+        "presente": [
+            "me enfrio",
+            "te enfrias",
+            "se enfria",
+            "nos enfriamos",
+            "os enfriáis",
+            "se enfrian"
+        ],
+        "preterito-perfecto": [
+            "me he enfriado",
+            "te has enfriado",
+            "se ha enfriado",
+            "nos hemos enfriado",
+            "os habéis enfriado",
+            "se han enfriado"
+        ],
+        "preterito-indefinido": [
+            "me enfrié",
+            "te enfriaste",
+            "se enfrió",
+            "nos enfriamos",
+            "os enfriasteis",
+            "se enfriaron"
+        ],
+        "preterito-imperfecto": [
+            "me enfriaba",
+            "te enfriabas",
+            "se enfriaba",
+            "nos enfriábamos",
+            "os enfriabais",
+            "se enfriaban"
+        ],
+        "presente-progresivo": [
+            "me estoy enfriando",
+            "te estás enfriando",
+            "se está enfriando",
+            "nos estamos enfriando",
+            "os estáis enfriando",
+            "se están enfriando"
+        ],
+        "dutch": "iets of iemand zelf afkoelen (uit zichzelf)"
+    },
+    {
+        "verbo": "enfriar",
+        "presente": [
+            "enfrío",
+            "enfrías",
+            "enfría",
+            "enfriamos",
+            "enfriáis",
+            "enfrían"
+        ],
+        "preterito-perfecto": [
+            "he enfriado",
+            "has enfriado",
+            "ha enfriado",
+            "hemos enfriado",
+            "habéis enfriado",
+            "han enfriado"
+        ],
+        "preterito-indefinido": [
+            "enfrié",
+            "enfriaste",
+            "enfrió",
+            "enfriamos",
+            "enfriasteis",
+            "enfriaron"
+        ],
+        "preterito-imperfecto": [
+            "enfriaba",
+            "enfriabas",
+            "enfriaba",
+            "enfriábamos",
+            "enfriabais",
+            "enfriaban"
+        ],
+        "presente-progresivo": [
+            "estoy enfriando",
+            "estás enfriando",
+            "está enfriando",
+            "estamos enfriando",
+            "estáis enfriando",
+            "están enfriando"
+        ],
+        "dutch": "iets of iemand dt afkoelt (door iets of iemand anders)"
+    },
+    {
         "verbo": "colgar",
         "presente": [
             "cuelgo",
