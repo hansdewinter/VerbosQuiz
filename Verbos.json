@@ -1,5 +1,93 @@
 [
     {
+        "verbo": "bucear",
+        "presente": [
+            "buceo",
+            "buceas",
+            "bucea",
+            "buceamos",
+            "buceáis",
+            "bucean"
+        ],
+        "preterito-perfecto": [
+            "he buceado",
+            "has buceado",
+            "ha buceado",
+            "hemos buceado",
+            "habéis buceado",
+            "han buceado"
+        ],
+        "preterito-indefinido": [
+            "buceé",
+            "buceaste",
+            "buceó",
+            "buceamos",
+            "buceasteis",
+            "bucearon"
+        ],
+        "preterito-imperfecto": [
+            "buceaba",
+            "buceabas",
+            "buceaba",
+            "buceábamos",
+            "buceabais",
+            "buceaban"
+        ],
+        "presente-progresivo": [
+            "estoy buceando",
+            "estás buceando",
+            "está buceando",
+            "estamos buceando",
+            "estáis buceando",
+            "están buceando"
+        ],
+        "dutch": "duiken"
+    },
+    {
+        "verbo": "amasar",
+        "presente": [
+            "amaso",
+            "amasas",
+            "amasa",
+            "amasamos",
+            "amasáis",
+            "amasan"
+        ],
+        "preterito-perfecto": [
+            "he amasado",
+            "has amasado",
+            "ha amasado",
+            "hemos amasado",
+            "habéis amasado",
+            "han amasado"
+        ],
+        "preterito-indefinido": [
+            "amasé",
+            "amasaste",
+            "amasó",
+            "amasamos",
+            "amasasteis",
+            "amasaron"
+        ],
+        "preterito-imperfecto": [
+            "amasaba",
+            "amasabas",
+            "amasaba",
+            "amasábamos",
+            "amasabais",
+            "amasaban"
+        ],
+        "presente-progresivo": [
+            "estoy amasando",
+            "estás amasando",
+            "está amasando",
+            "estamos amasando",
+            "estáis amasando",
+            "están amasando"
+        ],
+        "dutch": "kneden"
+    },
+    {
         "verbo": "suavizar",
         "presente": [
             "suavizo",
@@ -1009,7 +1097,7 @@
             "estáis combatiendo",
             "están combatiendo"
         ],
-        "dutch": "vechten, strijden tegen"
+        "dutch": "vechten, strijden tegen (synoniem van luchar)"
     },
     {
         "verbo": "enfriarse",
@@ -2197,7 +2285,7 @@
             "estáis rodeando",
             "están rodeando"
         ],
-        "dutch": "omringen, ergens omheen gaan"
+        "dutch": "omringen"
     },
     {
         "verbo": "suicidarse",
@@ -16805,7 +16893,7 @@
             "estáis compitiendo",
             "están compitiendo"
         ],
-        "dutch": "concurreren, strijden"
+        "dutch": "concurreren, strijden, competitie doen"
     },
     {
         "verbo": "soñar \"con\"",
@@ -18521,7 +18609,7 @@
             "estáis luchando",
             "están luchando"
         ],
-        "dutch": "strijden, vechten tegen"
+        "dutch": "strijden, vechten tegen (synoniem van combatir)"
     },
     {
         "verbo": "regalar",
