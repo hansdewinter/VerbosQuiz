@@ -1,5 +1,1809 @@
 [
     {
+        "verbo": "extender",
+        "presente": [
+            "extiendo",
+            "extiendes",
+            "extiende",
+            "extendemos",
+            "extendéis",
+            "extienden"
+        ],
+        "preterito-perfecto": [
+            "he extendido",
+            "has extendido",
+            "ha extendido",
+            "hemos extendido",
+            "habéis extendido",
+            "han extendido"
+        ],
+        "preterito-indefinido": [
+            "extendí",
+            "extendiste",
+            "extendió",
+            "extendimos",
+            "extendisteis",
+            "extendieron"
+        ],
+        "preterito-imperfecto": [
+            "extendía",
+            "extendías",
+            "extendía",
+            "extendíamos",
+            "extendíais",
+            "extendían"
+        ],
+        "presente-progresivo": [
+            "estoy extendiendo",
+            "estás extendiendo",
+            "está extendiendo",
+            "estamos extendiendo",
+            "estáis extendiendo",
+            "están extendiendo"
+        ],
+        "dutch": "uitspreiden, uitrollen (pizza)"
+    },
+    {
+        "verbo": "engordar",
+        "presente": [
+            "engordo",
+            "engordas",
+            "engorda",
+            "engordamos",
+            "engordáis",
+            "engordan"
+        ],
+        "preterito-perfecto": [
+            "he engordado",
+            "has engordado",
+            "ha engordado",
+            "hemos engordado",
+            "habéis engordado",
+            "han engordado"
+        ],
+        "preterito-indefinido": [
+            "engordé",
+            "engordaste",
+            "engordó",
+            "engordamos",
+            "engordasteis",
+            "engordaron"
+        ],
+        "preterito-imperfecto": [
+            "engordaba",
+            "engordabas",
+            "engordaba",
+            "engordábamos",
+            "engordabais",
+            "engordaban"
+        ],
+        "presente-progresivo": [
+            "estoy engordando",
+            "estás engordando",
+            "está engordando",
+            "estamos engordando",
+            "estáis engordando",
+            "están engordando"
+        ],
+        "dutch": "verdikken"
+    },
+    {
+        "verbo": "conocerse",
+        "presente": [
+            "me conozco",
+            "te conoces",
+            "se conoce",
+            "nos conocemos",
+            "os conocéis",
+            "se conocen"
+        ],
+        "preterito-perfecto": [
+            "me he conocido",
+            "te has conocido",
+            "se ha conocido",
+            "nos hemos conocido",
+            "os habéis conocido",
+            "se han conocido"
+        ],
+        "preterito-indefinido": [
+            "me conocí",
+            "te conociste",
+            "se conoció",
+            "nos conocimos",
+            "os conocisteis",
+            "se conocieron"
+        ],
+        "preterito-imperfecto": [
+            "me conocía",
+            "te conocías",
+            "se conocía",
+            "nos conocíamos",
+            "os conocíais",
+            "se conocían"
+        ],
+        "presente-progresivo": [
+            "me estoy conociendo",
+            "te estás conociendo",
+            "se está conociendo",
+            "nos estamos conociendo",
+            "os estáis conociendo",
+            "se están conociendo"
+        ],
+        "dutch": "elkaar (leren) kennen"
+    },
+    {
+        "verbo": "exponer",
+        "presente": [
+            "expongo",
+            "expones",
+            "expone",
+            "exponemos",
+            "exponéis",
+            "exponen"
+        ],
+        "preterito-perfecto": [
+            "he expuesto",
+            "has expuesto",
+            "ha expuesto",
+            "hemos expuesto",
+            "habéis expuesto",
+            "han expuesto"
+        ],
+        "preterito-indefinido": [
+            "expuse",
+            "expusiste",
+            "expuso",
+            "expusimos",
+            "expusisteis",
+            "expusieron"
+        ],
+        "preterito-imperfecto": [
+            "exponía",
+            "exponías",
+            "exponía",
+            "exponíamos",
+            "exponíais",
+            "exponían"
+        ],
+        "presente-progresivo": [
+            "estoy exponiendo",
+            "estás exponiendo",
+            "está exponiendo",
+            "estamos exponiendo",
+            "estáis exponiendo",
+            "están exponiendo"
+        ],
+        "dutch": "uitleggen, uiteenzetten, toelichten, presenteren"
+    },
+    {
+        "verbo": "enterarse",
+        "presente": [
+            "me entero",
+            "te enteras",
+            "se entera",
+            "nos enteramos",
+            "os enteráis",
+            "se enteran"
+        ],
+        "preterito-perfecto": [
+            "me he enterado",
+            "te has enterado",
+            "se ha enterado",
+            "nos hemos enterado",
+            "os habéis enterado",
+            "se han enterado"
+        ],
+        "preterito-indefinido": [
+            "me enteré",
+            "te enteraste",
+            "se enteró",
+            "nos enteramos",
+            "os enterasteis",
+            "se enteraron"
+        ],
+        "preterito-imperfecto": [
+            "me enteraba",
+            "te enterabas",
+            "se enteraba",
+            "nos enterábamos",
+            "os enterabais",
+            "se enteraban"
+        ],
+        "presente-progresivo": [
+            "me estoy enterando",
+            "te estás enterando",
+            "se está enterando",
+            "nos estamos enterando",
+            "os estáis enterando",
+            "se están enterando"
+        ],
+        "dutch": "vernemen, te weten komen"
+    },
+    {
+        "verbo": "aclararse",
+        "presente": [
+            "me aclaro",
+            "te aclaras",
+            "se aclara",
+            "nos aclaramos",
+            "os aclaráis",
+            "se aclaran"
+        ],
+        "preterito-perfecto": [
+            "me he aclarado",
+            "te has aclarado",
+            "se ha aclarado",
+            "nos hemos aclarado",
+            "os habéis aclarado",
+            "se han aclarado"
+        ],
+        "preterito-indefinido": [
+            "me aclaré",
+            "te aclaraste",
+            "se aclaró",
+            "nos aclaramos",
+            "os aclarasteis",
+            "se aclararon"
+        ],
+        "preterito-imperfecto": [
+            "me aclaraba",
+            "te aclarabas",
+            "se aclaraba",
+            "nos aclarábamos",
+            "os aclarabais",
+            "se aclaraban"
+        ],
+        "presente-progresivo": [
+            "me estoy aclarando",
+            "te estás aclarando",
+            "se está aclarando",
+            "nos estamos aclarando",
+            "os estáis aclarando",
+            "se están aclarando"
+        ],
+        "dutch": "duidelijk worden, iets begrijpen, opklaren, helder worden n het hoofd"
+    },
+    {
+        "verbo": "absorber",
+        "presente": [
+            "absorbo",
+            "absorbes",
+            "absorbe",
+            "absorbemos",
+            "absorbéis",
+            "absorben"
+        ],
+        "preterito-perfecto": [
+            "he absorbido",
+            "has absorbido",
+            "ha absorbido",
+            "hemos absorbido",
+            "habéis absorbido",
+            "han absorbido"
+        ],
+        "preterito-indefinido": [
+            "absorbí",
+            "absorbiste",
+            "absorbió",
+            "absorbimos",
+            "absorbisteis",
+            "absorbieron"
+        ],
+        "preterito-imperfecto": [
+            "absorbía",
+            "absorbías",
+            "absorbía",
+            "absorbíamos",
+            "absorbíais",
+            "absorbían"
+        ],
+        "presente-progresivo": [
+            "estoy absorbiendo",
+            "estás absorbiendo",
+            "está absorbiendo",
+            "estamos absorbiendo",
+            "estáis absorbiendo",
+            "están absorbiendo"
+        ],
+        "dutch": "absorberen"
+    },
+    {
+        "verbo": "evaluar",
+        "presente": [
+            "evalúo",
+            "evalúas",
+            "evalúa",
+            "evaluamos",
+            "evaluáis",
+            "evalúan"
+        ],
+        "preterito-perfecto": [
+            "he evaluado",
+            "has evaluado",
+            "ha evaluado",
+            "hemos evaluado",
+            "habéis evaluado",
+            "han evaluado"
+        ],
+        "preterito-indefinido": [
+            "evalué",
+            "evaluaste",
+            "evaluó",
+            "evaluamos",
+            "evaluasteis",
+            "evaluaron"
+        ],
+        "preterito-imperfecto": [
+            "evaluaba",
+            "evaluabas",
+            "evaluaba",
+            "evaluábamos",
+            "evaluabais",
+            "evaluaban"
+        ],
+        "presente-progresivo": [
+            "estoy evaluando",
+            "estás evaluando",
+            "está evaluando",
+            "estamos evaluando",
+            "estáis evaluando",
+            "están evaluando"
+        ],
+        "dutch": "evalueren"
+    },
+    {
+        "verbo": "controlar",
+        "presente": [
+            "controlo",
+            "controlas",
+            "controla",
+            "controlamos",
+            "controláis",
+            "controlan"
+        ],
+        "preterito-perfecto": [
+            "he controlado",
+            "has controlado",
+            "ha controlado",
+            "hemos controlado",
+            "habéis controlado",
+            "han controlado"
+        ],
+        "preterito-indefinido": [
+            "controlé",
+            "controlaste",
+            "controló",
+            "controlamos",
+            "controlasteis",
+            "controlaron"
+        ],
+        "preterito-imperfecto": [
+            "controlaba",
+            "controlabas",
+            "controlaba",
+            "controlábamos",
+            "controlabais",
+            "controlaban"
+        ],
+        "presente-progresivo": [
+            "estoy controlando",
+            "estás controlando",
+            "está controlando",
+            "estamos controlando",
+            "estáis controlando",
+            "están controlando"
+        ],
+        "dutch": "controleren"
+    },
+    {
+        "verbo": "tardar",
+        "presente": [
+            "tardo",
+            "tardas",
+            "tarda",
+            "tardamos",
+            "tardáis",
+            "tardan"
+        ],
+        "preterito-perfecto": [
+            "he tardado",
+            "has tardado",
+            "ha tardado",
+            "hemos tardado",
+            "habéis tardado",
+            "han tardado"
+        ],
+        "preterito-indefinido": [
+            "tardé",
+            "tardaste",
+            "tardó",
+            "tardamos",
+            "tardasteis",
+            "tardaron"
+        ],
+        "preterito-imperfecto": [
+            "tardaba",
+            "tardabas",
+            "tardaba",
+            "tardábamos",
+            "tardabais",
+            "tardaban"
+        ],
+        "presente-progresivo": [
+            "estoy tardando",
+            "estás tardando",
+            "está tardando",
+            "estamos tardando",
+            "estáis tardando",
+            "están tardando"
+        ],
+        "dutch": "tijd nodig hebben, er (een bepaalde tijd) over doen"
+    },
+    {
+        "verbo": "movilizar",
+        "presente": [
+            "movilizo",
+            "movilizas",
+            "moviliza",
+            "movilizamos",
+            "movilizáis",
+            "movilizan"
+        ],
+        "preterito-perfecto": [
+            "he movilizado",
+            "has movilizado",
+            "ha movilizado",
+            "hemos movilizado",
+            "habéis movilizado",
+            "han movilizado"
+        ],
+        "preterito-indefinido": [
+            "movilicé",
+            "movilizaste",
+            "movilizó",
+            "movilizamos",
+            "movilizasteis",
+            "movilizaron"
+        ],
+        "preterito-imperfecto": [
+            "movilizaba",
+            "movilizabas",
+            "movilizaba",
+            "movilizábamos",
+            "movilizabais",
+            "movilizaban"
+        ],
+        "presente-progresivo": [
+            "estoy movilizando",
+            "estás movilizando",
+            "está movilizando",
+            "estamos movilizando",
+            "estáis movilizando",
+            "están movilizando"
+        ],
+        "dutch": "mobiliseren"
+    },
+    {
+        "verbo": "ensayar",
+        "presente": [
+            "ensayo",
+            "ensayas",
+            "ensaya",
+            "ensayamos",
+            "ensayáis",
+            "ensayan"
+        ],
+        "preterito-perfecto": [
+            "he ensayado",
+            "has ensayado",
+            "ha ensayado",
+            "hemos ensayado",
+            "habéis ensayado",
+            "han ensayado"
+        ],
+        "preterito-indefinido": [
+            "ensayé",
+            "ensayaste",
+            "ensayó",
+            "ensayamos",
+            "ensayasteis",
+            "ensayaron"
+        ],
+        "preterito-imperfecto": [
+            "ensayaba",
+            "ensayabas",
+            "ensayaba",
+            "ensayábamos",
+            "ensayabais",
+            "ensayaban"
+        ],
+        "presente-progresivo": [
+            "estoy ensayando",
+            "estás ensayando",
+            "está ensayando",
+            "estamos ensayando",
+            "estáis ensayando",
+            "están ensayando"
+        ],
+        "dutch": "repeteren"
+    },
+    {
+        "verbo": "emocionarse",
+        "presente": [
+            "me emociono",
+            "te emocionas",
+            "se emociona",
+            "nos emocionamos",
+            "os emocionáis",
+            "se emocionan"
+        ],
+        "preterito-perfecto": [
+            "me he emocionado",
+            "te has emocionado",
+            "se ha emocionado",
+            "nos hemos emocionado",
+            "os habéis emocionado",
+            "se han emocionado"
+        ],
+        "preterito-indefinido": [
+            "me emocioné",
+            "te emocionaste",
+            "se emocionó",
+            "nos emocionamos",
+            "os emocionasteis",
+            "se emocionaron"
+        ],
+        "preterito-imperfecto": [
+            "me emocionaba",
+            "te emocionabas",
+            "se emocionaba",
+            "nos emocionábamos",
+            "os emocionabais",
+            "se emocionaban"
+        ],
+        "presente-progresivo": [
+            "me estoy emocionando",
+            "te estás emocionando",
+            "se está emocionando",
+            "nos estamos emocionando",
+            "os estáis emocionando",
+            "se están emocionando"
+        ],
+        "dutch": "opgewonden raken, emotioneel worden"
+    },
+    {
+        "verbo": "enfedarse",
+        "presente": [
+            "me enfedo",
+            "te enfedas",
+            "se enfeda",
+            "nos enfedamos",
+            "os enfedáis",
+            "se enfedan"
+        ],
+        "preterito-perfecto": [
+            "me he enfedado",
+            "te has enfedado",
+            "se ha enfedado",
+            "nos hemos enfedado",
+            "os habéis enfedado",
+            "se han enfedado"
+        ],
+        "preterito-indefinido": [
+            "me enfedé",
+            "te enfedaste",
+            "se enfedó",
+            "nos enfedamos",
+            "os enfedasteis",
+            "se enfedaron"
+        ],
+        "preterito-imperfecto": [
+            "me enfedaba",
+            "te enfedabas",
+            "se enfedaba",
+            "nos enfedábamos",
+            "os enfedabais",
+            "se enfedaban"
+        ],
+        "presente-progresivo": [
+            "me estoy enfedando",
+            "te estás enfedando",
+            "se está enfedando",
+            "nos estamos enfedando",
+            "os estáis enfedando",
+            "se están enfedando"
+        ],
+        "dutch": "boos worden"
+    },
+    {
+        "verbo": "invitar",
+        "presente": [
+            "invito",
+            "invitas",
+            "invita",
+            "invitamos",
+            "invitáis",
+            "invitan"
+        ],
+        "preterito-perfecto": [
+            "he invitado",
+            "has invitado",
+            "ha invitado",
+            "hemos invitado",
+            "habéis invitado",
+            "han invitado"
+        ],
+        "preterito-indefinido": [
+            "invité",
+            "invitaste",
+            "invitó",
+            "invitamos",
+            "invitasteis",
+            "invitaron"
+        ],
+        "preterito-imperfecto": [
+            "invitaba",
+            "invitabas",
+            "invitaba",
+            "invitábamos",
+            "invitabais",
+            "invitaban"
+        ],
+        "presente-progresivo": [
+            "estoy invitando",
+            "estás invitando",
+            "está invitando",
+            "estamos invitando",
+            "estáis invitando",
+            "están invitando"
+        ],
+        "dutch": "uitnodigen, inviteren"
+    },
+    {
+        "verbo": "charlar",
+        "presente": [
+            "charlo",
+            "charlas",
+            "charla",
+            "charlamos",
+            "charláis",
+            "charlan"
+        ],
+        "preterito-perfecto": [
+            "he charlado",
+            "has charlado",
+            "ha charlado",
+            "hemos charlado",
+            "habéis charlado",
+            "han charlado"
+        ],
+        "preterito-indefinido": [
+            "charlé",
+            "charlaste",
+            "charló",
+            "charlamos",
+            "charlasteis",
+            "charlaron"
+        ],
+        "preterito-imperfecto": [
+            "charlaba",
+            "charlabas",
+            "charlaba",
+            "charlábamos",
+            "charlabais",
+            "charlaban"
+        ],
+        "presente-progresivo": [
+            "estoy charlando",
+            "estás charlando",
+            "está charlando",
+            "estamos charlando",
+            "estáis charlando",
+            "están charlando"
+        ],
+        "dutch": "chatten, babbelen"
+    },
+    {
+        "verbo": "dirigirse",
+        "presente": [
+            "me dirijo",
+            "te diriges",
+            "se dirige",
+            "nos dirigimos",
+            "os dirigís",
+            "se dirigen"
+        ],
+        "preterito-perfecto": [
+            "me he dirigido",
+            "te has dirigido",
+            "se ha dirigido",
+            "nos hemos dirigido",
+            "os habéis dirigido",
+            "se han dirigido"
+        ],
+        "preterito-indefinido": [
+            "me dirigí",
+            "te dirigiste",
+            "se dirigió",
+            "nos dirigimos",
+            "os dirigisteis",
+            "se dirigieron"
+        ],
+        "preterito-imperfecto": [
+            "me dirigía",
+            "te dirigías",
+            "se dirigía",
+            "nos dirigíamos",
+            "os dirigíais",
+            "se dirigían"
+        ],
+        "presente-progresivo": [
+            "me estoy dirigiendo",
+            "te estás dirigiendo",
+            "se está dirigiendo",
+            "nos estamos dirigiendo",
+            "os estáis dirigiendo",
+            "se están dirigiendo"
+        ],
+        "dutch": "zich richten tot, zich begeven naar"
+    },
+    {
+        "verbo": "avanzar",
+        "presente": [
+            "avanzo",
+            "avanzas",
+            "avanza",
+            "avanzamos",
+            "avanzáis",
+            "avanzan"
+        ],
+        "preterito-perfecto": [
+            "he avanzado",
+            "has avanzado",
+            "ha avanzado",
+            "hemos avanzado",
+            "habéis avanzado",
+            "han avanzado"
+        ],
+        "preterito-indefinido": [
+            "avancé",
+            "avanzaste",
+            "avanzó",
+            "avanzamos",
+            "avanzasteis",
+            "avanzaron"
+        ],
+        "preterito-imperfecto": [
+            "avanzaba",
+            "avanzabas",
+            "avanzaba",
+            "avanzábamos",
+            "avanzabais",
+            "avanzaban"
+        ],
+        "presente-progresivo": [
+            "estoy avanzando",
+            "estás avanzando",
+            "está avanzando",
+            "estamos avanzando",
+            "estáis avanzando",
+            "están avanzando"
+        ],
+        "dutch": "vooruitgaan, vooruitgang boeken"
+    },
+    {
+        "verbo": "narrar",
+        "presente": [
+            "narro",
+            "narras",
+            "narra",
+            "narramos",
+            "narráis",
+            "narran"
+        ],
+        "preterito-perfecto": [
+            "he narrado",
+            "has narrado",
+            "ha narrado",
+            "hemos narrado",
+            "habéis narrado",
+            "han narrado"
+        ],
+        "preterito-indefinido": [
+            "narré",
+            "narraste",
+            "narró",
+            "narramos",
+            "narrasteis",
+            "narraron"
+        ],
+        "preterito-imperfecto": [
+            "narraba",
+            "narrabas",
+            "narraba",
+            "narrábamos",
+            "narrabais",
+            "narraban"
+        ],
+        "presente-progresivo": [
+            "estoy narrando",
+            "estás narrando",
+            "está narrando",
+            "estamos narrando",
+            "estáis narrando",
+            "están narrando"
+        ],
+        "dutch": "vertellen, verhalen, beschrijven"
+    },
+    {
+        "verbo": "desaparecer",
+        "presente": [
+            "desaparezco",
+            "desapareces",
+            "desaparece",
+            "desaparecemos",
+            "desaparecéis",
+            "desaparecen"
+        ],
+        "preterito-perfecto": [
+            "he desaparecido",
+            "has desaparecido",
+            "ha desaparecido",
+            "hemos desaparecido",
+            "habéis desaparecido",
+            "han desaparecido"
+        ],
+        "preterito-indefinido": [
+            "desaparecí",
+            "desapareciste",
+            "desapareció",
+            "desaparecimos",
+            "desaparecisteis",
+            "desaparecieron"
+        ],
+        "preterito-imperfecto": [
+            "desaparecía",
+            "desaparecías",
+            "desaparecía",
+            "desaparecíamos",
+            "desaparecíais",
+            "desaparecían"
+        ],
+        "presente-progresivo": [
+            "estoy desapareciendo",
+            "estás desapareciendo",
+            "está desapareciendo",
+            "estamos desapareciendo",
+            "estáis desapareciendo",
+            "están desapareciendo"
+        ],
+        "dutch": "verdwijnen"
+    },
+    {
+        "verbo": "acercarse",
+        "presente": [
+            "me acerco",
+            "te acercas",
+            "se acerca",
+            "nos acercamos",
+            "os acercáis",
+            "se acercan"
+        ],
+        "preterito-perfecto": [
+            "me he acercado",
+            "te has acercado",
+            "se ha acercado",
+            "nos hemos acercado",
+            "os habéis acercado",
+            "se han acercado"
+        ],
+        "preterito-indefinido": [
+            "me acerqué",
+            "te acercaste",
+            "se acercó",
+            "nos acercamos",
+            "os acercasteis",
+            "se acercaron"
+        ],
+        "preterito-imperfecto": [
+            "me acercaba",
+            "te acercabas",
+            "se acercaba",
+            "nos acercábamos",
+            "os acercabais",
+            "se acercaban"
+        ],
+        "presente-progresivo": [
+            "me estoy acercando",
+            "te estás acercando",
+            "se está acercando",
+            "nos estamos acercando",
+            "os estáis acercando",
+            "se están acercando"
+        ],
+        "dutch": "dichterbij komen, naderen"
+    },
+    {
+        "verbo": "jurar",
+        "presente": [
+            "juro",
+            "juras",
+            "jura",
+            "juramos",
+            "juráis",
+            "juran"
+        ],
+        "preterito-perfecto": [
+            "he jurado",
+            "has jurado",
+            "ha jurado",
+            "hemos jurado",
+            "habéis jurado",
+            "han jurado"
+        ],
+        "preterito-indefinido": [
+            "juré",
+            "juraste",
+            "juró",
+            "juramos",
+            "jurasteis",
+            "juraron"
+        ],
+        "preterito-imperfecto": [
+            "juraba",
+            "jurabas",
+            "juraba",
+            "jurábamos",
+            "jurabais",
+            "juraban"
+        ],
+        "presente-progresivo": [
+            "estoy jurando",
+            "estás jurando",
+            "está jurando",
+            "estamos jurando",
+            "estáis jurando",
+            "están jurando"
+        ],
+        "dutch": "zweren, plechtig beloven"
+    },
+    {
+        "verbo": "pisar",
+        "presente": [
+            "piso",
+            "pisas",
+            "pisa",
+            "pisamos",
+            "pisáis",
+            "pisan"
+        ],
+        "preterito-perfecto": [
+            "he pisado",
+            "has pisado",
+            "ha pisado",
+            "hemos pisado",
+            "habéis pisado",
+            "han pisado"
+        ],
+        "preterito-indefinido": [
+            "pisé",
+            "pisaste",
+            "pisó",
+            "pisamos",
+            "pisasteis",
+            "pisaron"
+        ],
+        "preterito-imperfecto": [
+            "pisaba",
+            "pisabas",
+            "pisaba",
+            "pisábamos",
+            "pisabais",
+            "pisaban"
+        ],
+        "presente-progresivo": [
+            "estoy pisando",
+            "estás pisando",
+            "está pisando",
+            "estamos pisando",
+            "estáis pisando",
+            "están pisando"
+        ],
+        "dutch": "op iets stappen, betreden"
+    },
+    {
+        "verbo": "unirse \"a\"",
+        "presente": [
+            "me uno",
+            "te unes",
+            "se une",
+            "nos unimos",
+            "os unís",
+            "se unen"
+        ],
+        "preterito-perfecto": [
+            "me he unido",
+            "te has unido",
+            "se ha unido",
+            "nos hemos unido",
+            "os habéis unido",
+            "se han unido"
+        ],
+        "preterito-indefinido": [
+            "me uní",
+            "te uniste",
+            "se unió",
+            "nos unimos",
+            "os unisteis",
+            "se unieron"
+        ],
+        "preterito-imperfecto": [
+            "me unía",
+            "te unías",
+            "se unía",
+            "nos uníamos",
+            "os uníais",
+            "se unían"
+        ],
+        "presente-progresivo": [
+            "me estoy uniendo",
+            "te estás uniendo",
+            "se está uniendo",
+            "nos estamos uniendo",
+            "os estáis uniendo",
+            "se están uniendo"
+        ],
+        "dutch": "lid worden van, aansluiten bij"
+    },
+    {
+        "verbo": "alzarse",
+        "presente": [
+            "me alzo",
+            "te alzas",
+            "se alza",
+            "nos alzamos",
+            "os alzáis",
+            "se alzan"
+        ],
+        "preterito-perfecto": [
+            "me he alzado",
+            "te has alzado",
+            "se ha alzado",
+            "nos hemos alzado",
+            "os habéis alzado",
+            "se han alzado"
+        ],
+        "preterito-indefinido": [
+            "me alcé",
+            "te alzaste",
+            "se alzó",
+            "nos alzamos",
+            "os alzasteis",
+            "se alzaron"
+        ],
+        "preterito-imperfecto": [
+            "me alzaba",
+            "te alzabas",
+            "se alzaba",
+            "nos alzábamos",
+            "os alzabais",
+            "se alzaban"
+        ],
+        "presente-progresivo": [
+            "me estoy alzando",
+            "te estás alzando",
+            "se está alzando",
+            "nos estamos alzando",
+            "os estáis alzando",
+            "se están alzando"
+        ],
+        "dutch": "in opstand komen"
+    },
+    {
+        "verbo": "hacerse",
+        "presente": [
+            "me hago",
+            "te haces",
+            "se hace",
+            "nos hacemos",
+            "os hacéis",
+            "se hacen"
+        ],
+        "preterito-perfecto": [
+            "me he hecho",
+            "te has hecho",
+            "se ha hecho",
+            "nos hemos hecho",
+            "os habéis hecho",
+            "se han hecho"
+        ],
+        "preterito-indefinido": [
+            "me hice",
+            "te hiciste",
+            "se hizo",
+            "nos hicimos",
+            "os hicisteis",
+            "se hicieron"
+        ],
+        "preterito-imperfecto": [
+            "me hacía",
+            "te hacías",
+            "se hacía",
+            "nos hacíamos",
+            "os hacíais",
+            "se hacían"
+        ],
+        "presente-progresivo": [
+            "me estoy haciendo",
+            "te estás haciendo",
+            "se está haciendo",
+            "nos estamos haciendo",
+            "os estáis haciendo",
+            "se están haciendo"
+        ],
+        "dutch": "worden (verandering van toestand of identiteit)"
+    },
+    {
+        "verbo": "reestablecer",
+        "presente": [
+            "reestablezco",
+            "reestableces",
+            "reestablece",
+            "reestablecemos",
+            "reestablecéis",
+            "reestablecen"
+        ],
+        "preterito-perfecto": [
+            "he reestablecido",
+            "has reestablecido",
+            "ha reestablecido",
+            "hemos reestablecido",
+            "habéis reestablecido",
+            "han reestablecido"
+        ],
+        "preterito-indefinido": [
+            "reestablecí",
+            "reestableciste",
+            "reestableció",
+            "reestablecimos",
+            "reestablecisteis",
+            "reestablecieron"
+        ],
+        "preterito-imperfecto": [
+            "reestablecía",
+            "reestablecías",
+            "reestablecía",
+            "reestablecíamos",
+            "reestablecíais",
+            "reestablecían"
+        ],
+        "presente-progresivo": [
+            "estoy reestableciendo",
+            "estás reestableciendo",
+            "está reestableciendo",
+            "estamos reestableciendo",
+            "estáis reestableciendo",
+            "están reestableciendo"
+        ],
+        "dutch": "opnieuw invoeren, herstellen"
+    },
+    {
+        "verbo": "renunciar",
+        "presente": [
+            "renuncio",
+            "renuncias",
+            "renuncia",
+            "renunciamos",
+            "renunciáis",
+            "renuncian"
+        ],
+        "preterito-perfecto": [
+            "he renunciado",
+            "has renunciado",
+            "ha renunciado",
+            "hemos renunciado",
+            "habéis renunciado",
+            "han renunciado"
+        ],
+        "preterito-indefinido": [
+            "renuncié",
+            "renunciaste",
+            "renunció",
+            "renunciamos",
+            "renunciasteis",
+            "renunciaron"
+        ],
+        "preterito-imperfecto": [
+            "renunciaba",
+            "renunciabas",
+            "renunciaba",
+            "renunciábamos",
+            "renunciabais",
+            "renunciaban"
+        ],
+        "presente-progresivo": [
+            "estoy renunciando",
+            "estás renunciando",
+            "está renunciando",
+            "estamos renunciando",
+            "estáis renunciando",
+            "están renunciando"
+        ],
+        "dutch": "ontslag nemen, opgeven, aftreden"
+    },
+    {
+        "verbo": "autorizar",
+        "presente": [
+            "autorizo",
+            "autorizas",
+            "autoriza",
+            "autorizamos",
+            "autorizáis",
+            "autorizan"
+        ],
+        "preterito-perfecto": [
+            "he autorizado",
+            "has autorizado",
+            "ha autorizado",
+            "hemos autorizado",
+            "habéis autorizado",
+            "han autorizado"
+        ],
+        "preterito-indefinido": [
+            "autoricé",
+            "autorizaste",
+            "autorizó",
+            "autorizamos",
+            "autorizasteis",
+            "autorizaron"
+        ],
+        "preterito-imperfecto": [
+            "autorizaba",
+            "autorizabas",
+            "autorizaba",
+            "autorizábamos",
+            "autorizabais",
+            "autorizaban"
+        ],
+        "presente-progresivo": [
+            "estoy autorizando",
+            "estás autorizando",
+            "está autorizando",
+            "estamos autorizando",
+            "estáis autorizando",
+            "están autorizando"
+        ],
+        "dutch": "authorizeren, machtigen"
+    },
+    {
+        "verbo": "ordenar",
+        "presente": [
+            "ordeno",
+            "ordenas",
+            "ordena",
+            "ordenamos",
+            "ordenáis",
+            "ordenan"
+        ],
+        "preterito-perfecto": [
+            "he ordenado",
+            "has ordenado",
+            "ha ordenado",
+            "hemos ordenado",
+            "habéis ordenado",
+            "han ordenado"
+        ],
+        "preterito-indefinido": [
+            "ordené",
+            "ordenaste",
+            "ordenó",
+            "ordenamos",
+            "ordenasteis",
+            "ordenaron"
+        ],
+        "preterito-imperfecto": [
+            "ordenaba",
+            "ordenabas",
+            "ordenaba",
+            "ordenábamos",
+            "ordenabais",
+            "ordenaban"
+        ],
+        "presente-progresivo": [
+            "estoy ordenando",
+            "estás ordenando",
+            "está ordenando",
+            "estamos ordenando",
+            "estáis ordenando",
+            "están ordenando"
+        ],
+        "dutch": "bestellen, ordenen, bevelen"
+    },
+    {
+        "verbo": "derrotar",
+        "presente": [
+            "derroto",
+            "derrotas",
+            "derrota",
+            "derrotamos",
+            "derrotáis",
+            "derrotan"
+        ],
+        "preterito-perfecto": [
+            "he derrotado",
+            "has derrotado",
+            "ha derrotado",
+            "hemos derrotado",
+            "habéis derrotado",
+            "han derrotado"
+        ],
+        "preterito-indefinido": [
+            "derroté",
+            "derrotaste",
+            "derrotó",
+            "derrotamos",
+            "derrotasteis",
+            "derrotaron"
+        ],
+        "preterito-imperfecto": [
+            "derrotaba",
+            "derrotabas",
+            "derrotaba",
+            "derrotábamos",
+            "derrotabais",
+            "derrotaban"
+        ],
+        "presente-progresivo": [
+            "estoy derrotando",
+            "estás derrotando",
+            "está derrotando",
+            "estamos derrotando",
+            "estáis derrotando",
+            "están derrotando"
+        ],
+        "dutch": "overwinnen, verslaan"
+    },
+    {
+        "verbo": "formar",
+        "presente": [
+            "formo",
+            "formas",
+            "forma",
+            "formamos",
+            "formáis",
+            "forman"
+        ],
+        "preterito-perfecto": [
+            "he formado",
+            "has formado",
+            "ha formado",
+            "hemos formado",
+            "habéis formado",
+            "han formado"
+        ],
+        "preterito-indefinido": [
+            "formé",
+            "formaste",
+            "formó",
+            "formamos",
+            "formasteis",
+            "formaron"
+        ],
+        "preterito-imperfecto": [
+            "formaba",
+            "formabas",
+            "formaba",
+            "formábamos",
+            "formabais",
+            "formaban"
+        ],
+        "presente-progresivo": [
+            "estoy formando",
+            "estás formando",
+            "está formando",
+            "estamos formando",
+            "estáis formando",
+            "están formando"
+        ],
+        "dutch": "vormen"
+    },
+    {
+        "verbo": "internarse",
+        "presente": [
+            "me interno",
+            "te internas",
+            "se interna",
+            "nos internamos",
+            "os internáis",
+            "se internan"
+        ],
+        "preterito-perfecto": [
+            "me he internado",
+            "te has internado",
+            "se ha internado",
+            "nos hemos internado",
+            "os habéis internado",
+            "se han internado"
+        ],
+        "preterito-indefinido": [
+            "me interné",
+            "te internaste",
+            "se internó",
+            "nos internamos",
+            "os internasteis",
+            "se internaron"
+        ],
+        "preterito-imperfecto": [
+            "me internaba",
+            "te internabas",
+            "se internaba",
+            "nos internábamos",
+            "os internabais",
+            "se internaban"
+        ],
+        "presente-progresivo": [
+            "me estoy internando",
+            "te estás internando",
+            "se está internando",
+            "nos estamos internando",
+            "os estáis internando",
+            "se están internando"
+        ],
+        "dutch": "binnendringen \"in\""
+    },
+    {
+        "verbo": "asumir",
+        "presente": [
+            "asumo",
+            "asumes",
+            "asume",
+            "asumimos",
+            "asumís",
+            "asumen"
+        ],
+        "preterito-perfecto": [
+            "he asumido",
+            "has asumido",
+            "ha asumido",
+            "hemos asumido",
+            "habéis asumido",
+            "han asumido"
+        ],
+        "preterito-indefinido": [
+            "asumí",
+            "asumiste",
+            "asumió",
+            "asumimos",
+            "asumisteis",
+            "asumieron"
+        ],
+        "preterito-imperfecto": [
+            "asumía",
+            "asumías",
+            "asumía",
+            "asumíamos",
+            "asumíais",
+            "asumían"
+        ],
+        "presente-progresivo": [
+            "estoy asumiendo",
+            "estás asumiendo",
+            "está asumiendo",
+            "estamos asumiendo",
+            "estáis asumiendo",
+            "están asumiendo"
+        ],
+        "dutch": "aannemen, op zich nemen, accepteren"
+    },
+    {
+        "verbo": "subirse",
+        "presente": [
+            "me subo",
+            "te subes",
+            "se sube",
+            "nos subimos",
+            "os subís",
+            "se suben"
+        ],
+        "preterito-perfecto": [
+            "me he subido",
+            "te has subido",
+            "se ha subido",
+            "nos hemos subido",
+            "os habéis subido",
+            "se han subido"
+        ],
+        "preterito-indefinido": [
+            "me subí",
+            "te subiste",
+            "se subió",
+            "nos subimos",
+            "os subisteis",
+            "se subieron"
+        ],
+        "preterito-imperfecto": [
+            "me subía",
+            "te subías",
+            "se subía",
+            "nos subíamos",
+            "os subíais",
+            "se subían"
+        ],
+        "presente-progresivo": [
+            "me estoy subiendo",
+            "te estás subiendo",
+            "se está subiendo",
+            "nos estamos subiendo",
+            "os estáis subiendo",
+            "se están subiendo"
+        ],
+        "dutch": "ergens op klimmen, ergens opstappen"
+    },
+    {
+        "verbo": "acojer",
+        "presente": [
+            "acojo",
+            "acojes",
+            "acoje",
+            "acojemos",
+            "acojéis",
+            "acojen"
+        ],
+        "preterito-perfecto": [
+            "he acojido",
+            "has acojido",
+            "ha acojido",
+            "hemos acojido",
+            "habéis acojido",
+            "han acojido"
+        ],
+        "preterito-indefinido": [
+            "acojí",
+            "acojiste",
+            "acojió",
+            "acojimos",
+            "acojisteis",
+            "acojieron"
+        ],
+        "preterito-imperfecto": [
+            "acojía",
+            "acojías",
+            "acojía",
+            "acojíamos",
+            "acojíais",
+            "acojían"
+        ],
+        "presente-progresivo": [
+            "estoy acojiendo",
+            "estás acojiendo",
+            "está acojiendo",
+            "estamos acojiendo",
+            "estáis acojiendo",
+            "están acojiendo"
+        ],
+        "dutch": "iemand onderdak geven, onthalen, opnemen"
+    },
+    {
+        "verbo": "cultivar",
+        "presente": [
+            "cultivo",
+            "cultivas",
+            "cultiva",
+            "cultivamos",
+            "cultiváis",
+            "cultivan"
+        ],
+        "preterito-perfecto": [
+            "he cultivado",
+            "has cultivado",
+            "ha cultivado",
+            "hemos cultivado",
+            "habéis cultivado",
+            "han cultivado"
+        ],
+        "preterito-indefinido": [
+            "cultivé",
+            "cultivaste",
+            "cultivó",
+            "cultivamos",
+            "cultivasteis",
+            "cultivaron"
+        ],
+        "preterito-imperfecto": [
+            "cultivaba",
+            "cultivabas",
+            "cultivaba",
+            "cultivábamos",
+            "cultivabais",
+            "cultivaban"
+        ],
+        "presente-progresivo": [
+            "estoy cultivando",
+            "estás cultivando",
+            "está cultivando",
+            "estamos cultivando",
+            "estáis cultivando",
+            "están cultivando"
+        ],
+        "dutch": "cultiveren, kweken"
+    },
+    {
+        "verbo": "ilustrar",
+        "presente": [
+            "ilustro",
+            "ilustras",
+            "ilustra",
+            "ilustramos",
+            "ilustráis",
+            "ilustran"
+        ],
+        "preterito-perfecto": [
+            "he ilustrado",
+            "has ilustrado",
+            "ha ilustrado",
+            "hemos ilustrado",
+            "habéis ilustrado",
+            "han ilustrado"
+        ],
+        "preterito-indefinido": [
+            "ilustré",
+            "ilustraste",
+            "ilustró",
+            "ilustramos",
+            "ilustrasteis",
+            "ilustraron"
+        ],
+        "preterito-imperfecto": [
+            "ilustraba",
+            "ilustrabas",
+            "ilustraba",
+            "ilustrábamos",
+            "ilustrabais",
+            "ilustraban"
+        ],
+        "presente-progresivo": [
+            "estoy ilustrando",
+            "estás ilustrando",
+            "está ilustrando",
+            "estamos ilustrando",
+            "estáis ilustrando",
+            "están ilustrando"
+        ],
+        "dutch": "illustreren"
+    },
+    {
+        "verbo": "atraer",
+        "presente": [
+            "atraigo",
+            "atraes",
+            "atrae",
+            "atraemos",
+            "atraéis",
+            "atraen"
+        ],
+        "preterito-perfecto": [
+            "he atraído",
+            "has atraído",
+            "ha atraído",
+            "hemos atraído",
+            "habéis atraído",
+            "han atraído"
+        ],
+        "preterito-indefinido": [
+            "atraje",
+            "atrajiste",
+            "atrajo",
+            "atrajimos",
+            "atrajisteis",
+            "atrajeron"
+        ],
+        "preterito-imperfecto": [
+            "atraía",
+            "atraías",
+            "atraía",
+            "atraíamos",
+            "atraíais",
+            "atraían"
+        ],
+        "presente-progresivo": [
+            "estoy atrayendo",
+            "estás atrayendo",
+            "está atrayendo",
+            "estamos atrayendo",
+            "estáis atrayendo",
+            "están atrayendo"
+        ],
+        "dutch": "aantrekken, lokken"
+    },
+    {
+        "verbo": "emitir",
+        "presente": [
+            "emito",
+            "emites",
+            "emite",
+            "emitimos",
+            "emitís",
+            "emiten"
+        ],
+        "preterito-perfecto": [
+            "he emitido",
+            "has emitido",
+            "ha emitido",
+            "hemos emitido",
+            "habéis emitido",
+            "han emitido"
+        ],
+        "preterito-indefinido": [
+            "emití",
+            "emitiste",
+            "emitió",
+            "emitimos",
+            "emitisteis",
+            "emitieron"
+        ],
+        "preterito-imperfecto": [
+            "emitía",
+            "emitías",
+            "emitía",
+            "emitíamos",
+            "emitíais",
+            "emitían"
+        ],
+        "presente-progresivo": [
+            "estoy emitiendo",
+            "estás emitiendo",
+            "está emitiendo",
+            "estamos emitiendo",
+            "estáis emitiendo",
+            "están emitiendo"
+        ],
+        "dutch": "uitzenden, uitreiken"
+    },
+    {
+        "verbo": "legalizar",
+        "presente": [
+            "legalizo",
+            "legalizas",
+            "legaliza",
+            "legalizamos",
+            "legalizáis",
+            "legalizan"
+        ],
+        "preterito-perfecto": [
+            "he legalizado",
+            "has legalizado",
+            "ha legalizado",
+            "hemos legalizado",
+            "habéis legalizado",
+            "han legalizado"
+        ],
+        "preterito-indefinido": [
+            "legalicé",
+            "legalizaste",
+            "legalizó",
+            "legalizamos",
+            "legalizasteis",
+            "legalizaron"
+        ],
+        "preterito-imperfecto": [
+            "legalizaba",
+            "legalizabas",
+            "legalizaba",
+            "legalizábamos",
+            "legalizabais",
+            "legalizaban"
+        ],
+        "presente-progresivo": [
+            "estoy legalizando",
+            "estás legalizando",
+            "está legalizando",
+            "estamos legalizando",
+            "estáis legalizando",
+            "están legalizando"
+        ],
+        "dutch": "legaliseren"
+    },
+    {
         "verbo": "bucear",
         "presente": [
             "buceo",
@@ -2109,7 +3913,7 @@
             "estáis aprovechando",
             "están aprovechando"
         ],
-        "dutch": "profiteren van, benutten"
+        "dutch": "profiteren van, benutten, gebruik maken van"
     },
     {
         "verbo": "recuperarse \"de\"",
@@ -4001,7 +5805,7 @@
             "os estáis encontrando",
             "se están encontrando"
         ],
-        "dutch": "iemand tegenkomen"
+        "dutch": "iemand ontmoeten, zich op een plek bevinden"
     },
     {
         "verbo": "tutear",
@@ -5893,7 +7697,7 @@
             "estáis subiendo",
             "están subiendo"
         ],
-        "dutch": "omhooggaan, naar boven gaan, stijgen, uploaden"
+        "dutch": "omhooggaan, naar boven gaan, stijgen, uploaden, instappen, aan boord gaan"
     },
     {
         "verbo": "aprender",
@@ -12537,7 +14341,7 @@
             "estáis dejando",
             "están dejando"
         ],
-        "dutch": "achterlaten, laten"
+        "dutch": "achterlaten, laten, opgeven"
     },
     {
         "verbo": "levantar",
@@ -19577,7 +21381,7 @@
             "estáis apagando",
             "están apagando"
         ],
-        "dutch": "uitschakelen"
+        "dutch": "uitschakelen, blussen"
     },
     {
         "verbo": "actuar",
