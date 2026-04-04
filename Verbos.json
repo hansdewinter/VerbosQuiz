@@ -1,5 +1,93 @@
 [
     {
+        "verbo": "destapar",
+        "presente": [
+            "destapo",
+            "destapas",
+            "destapa",
+            "destapamos",
+            "destapáis",
+            "destapan"
+        ],
+        "preterito-perfecto": [
+            "he destapado",
+            "has destapado",
+            "ha destapado",
+            "hemos destapado",
+            "habéis destapado",
+            "han destapado"
+        ],
+        "preterito-indefinido": [
+            "destapé",
+            "destapaste",
+            "destapó",
+            "destapamos",
+            "destapasteis",
+            "destaparon"
+        ],
+        "preterito-imperfecto": [
+            "destapaba",
+            "destapabas",
+            "destapaba",
+            "destapábamos",
+            "destapabais",
+            "destapaban"
+        ],
+        "presente-progresivo": [
+            "estoy destapando",
+            "estás destapando",
+            "está destapando",
+            "estamos destapando",
+            "estáis destapando",
+            "están destapando"
+        ],
+        "dutch": "een fles ontkurken"
+    },
+    {
+        "verbo": "aliñar",
+        "presente": [
+            "aliño",
+            "aliñas",
+            "aliña",
+            "aliñamos",
+            "aliñáis",
+            "aliñan"
+        ],
+        "preterito-perfecto": [
+            "he aliñado",
+            "has aliñado",
+            "ha aliñado",
+            "hemos aliñado",
+            "habéis aliñado",
+            "han aliñado"
+        ],
+        "preterito-indefinido": [
+            "aliñé",
+            "aliñaste",
+            "aliñó",
+            "aliñamos",
+            "aliñasteis",
+            "aliñaron"
+        ],
+        "preterito-imperfecto": [
+            "aliñaba",
+            "aliñabas",
+            "aliñaba",
+            "aliñábamos",
+            "aliñabais",
+            "aliñaban"
+        ],
+        "presente-progresivo": [
+            "estoy aliñando",
+            "estás aliñando",
+            "está aliñando",
+            "estamos aliñando",
+            "estáis aliñando",
+            "están aliñando"
+        ],
+        "dutch": "kruiden, op smaak brengen"
+    },
+    {
         "verbo": "extender",
         "presente": [
             "extiendo",
@@ -833,7 +921,7 @@
             "estáis narrando",
             "están narrando"
         ],
-        "dutch": "vertellen, verhalen, beschrijven"
+        "dutch": "vertellen, verhalen, beschrijven (formeel)"
     },
     {
         "verbo": "desaparecer",
@@ -17993,7 +18081,7 @@
             "estáis contando",
             "están contando"
         ],
-        "dutch": "tellen, vertellen"
+        "dutch": "tellen, vertellen (minder formeel, dagelijks gebruik)"
     },
     {
         "verbo": "experimentar",
