@@ -1,5 +1,49 @@
 [
     {
+        "verbo": "soler",
+        "presente": [
+            "suelo",
+            "sueles",
+            "suele",
+            "solemos",
+            "soléis",
+            "suelen"
+        ],
+        "preterito-perfecto": [
+            "he solido",
+            "has solido",
+            "ha solido",
+            "hemos solido",
+            "habéis solido",
+            "han solido"
+        ],
+        "preterito-indefinido": [
+            "solí",
+            "soliste",
+            "solió",
+            "solimos",
+            "solisteis",
+            "solieron"
+        ],
+        "preterito-imperfecto": [
+            "solía",
+            "solías",
+            "solía",
+            "solíamos",
+            "solíais",
+            "solían"
+        ],
+        "presente-progresivo": [
+            "estoy soliendo",
+            "estás soliendo",
+            "está soliendo",
+            "estamos soliendo",
+            "estáis soliendo",
+            "están soliendo"
+        ],
+        "dutch": "hulpwerkwoord om \"gewoon zijn te\" of \"plegen te\" te omschrijven. Steeds gevolhd door infinitief"
+    },
+    {
         "verbo": "destapar",
         "presente": [
             "destapo",
