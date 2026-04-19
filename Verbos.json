@@ -1,5 +1,49 @@
 [
     {
+        "verbo": "liderar",
+        "presente": [
+            "lidero",
+            "lideras",
+            "lidera",
+            "lideramos",
+            "lideráis",
+            "lideran"
+        ],
+        "preterito-perfecto": [
+            "he liderado",
+            "has liderado",
+            "ha liderado",
+            "hemos liderado",
+            "habéis liderado",
+            "han liderado"
+        ],
+        "preterito-indefinido": [
+            "lideré",
+            "lideraste",
+            "lideró",
+            "lideramos",
+            "liderasteis",
+            "lideraron"
+        ],
+        "preterito-imperfecto": [
+            "lideraba",
+            "liderabas",
+            "lideraba",
+            "liderábamos",
+            "liderabais",
+            "lideraban"
+        ],
+        "presente-progresivo": [
+            "estoy liderando",
+            "estás liderando",
+            "está liderando",
+            "estamos liderando",
+            "estáis liderando",
+            "están liderando"
+        ],
+        "dutch": "leiden, aanvoeren (synoniem van dirigir)"
+    },
+    {
         "verbo": "soler",
         "presente": [
             "suelo",
@@ -20809,7 +20853,7 @@
             "estáis dirigiendo",
             "están dirigiendo"
         ],
-        "dutch": "leiden, besturen, richten"
+        "dutch": "leiden, besturen, richten (synoniem van liderar)"
     },
     {
         "verbo": "celebrarse",
