@@ -1,5 +1,49 @@
 [
     {
+        "verbo": "nombrar",
+        "presente": [
+            "nombro",
+            "nombras",
+            "nombra",
+            "nombramos",
+            "nombráis",
+            "nombran"
+        ],
+        "preterito-perfecto": [
+            "he nombrado",
+            "has nombrado",
+            "ha nombrado",
+            "hemos nombrado",
+            "habéis nombrado",
+            "han nombrado"
+        ],
+        "preterito-indefinido": [
+            "nombré",
+            "nombraste",
+            "nombró",
+            "nombramos",
+            "nombrasteis",
+            "nombraron"
+        ],
+        "preterito-imperfecto": [
+            "nombraba",
+            "nombrabas",
+            "nombraba",
+            "nombrábamos",
+            "nombrabais",
+            "nombraban"
+        ],
+        "presente-progresivo": [
+            "estoy nombrando",
+            "estás nombrando",
+            "está nombrando",
+            "estamos nombrando",
+            "estáis nombrando",
+            "están nombrando"
+        ],
+        "dutch": "noemen, benoemen, aanstellen"
+    },
+    {
         "verbo": "liderar",
         "presente": [
             "lidero",
