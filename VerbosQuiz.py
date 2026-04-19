@@ -317,7 +317,9 @@ def ask_question(verb, tense, person_index, person_label, show_dutch=False):
     
     is_correct = normalize_string(correct_answer) == normalize_string(user_answer)
 
-    print(f"\nCorrect answer: {compare_answers(correct_answer, user_answer)}")
+    print(
+        f"\nCorrect answer ({verb_name}): {compare_answers(correct_answer, user_answer)}"
+    )
     print(f"Your answer:    {user_answer}")
     
     if is_correct:
