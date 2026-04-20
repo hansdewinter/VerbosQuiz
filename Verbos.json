@@ -1,5 +1,49 @@
 [
     {
+        "verbo": "ejecutar",
+        "presente": [
+            "ejecuto",
+            "ejecutas",
+            "ejecuta",
+            "ejecutamos",
+            "ejecutáis",
+            "ejecutan"
+        ],
+        "preterito-perfecto": [
+            "he ejecutado",
+            "has ejecutado",
+            "ha ejecutado",
+            "hemos ejecutado",
+            "habéis ejecutado",
+            "han ejecutado"
+        ],
+        "preterito-indefinido": [
+            "ejecuté",
+            "ejecutaste",
+            "ejecutó",
+            "ejecutamos",
+            "ejecutasteis",
+            "ejecutaron"
+        ],
+        "preterito-imperfecto": [
+            "ejecutaba",
+            "ejecutabas",
+            "ejecutaba",
+            "ejecutábamos",
+            "ejecutabais",
+            "ejecutaban"
+        ],
+        "presente-progresivo": [
+            "estoy ejecutando",
+            "estás ejecutando",
+            "está ejecutando",
+            "estamos ejecutando",
+            "estáis ejecutando",
+            "están ejecutando"
+        ],
+        "dutch": "executeren, implementeren, uitvoeren"
+    },
+    {
         "verbo": "nombrar",
         "presente": [
             "nombro",
