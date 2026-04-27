@@ -1,5 +1,93 @@
 [
     {
+        "verbo": "chillar",
+        "presente": [
+            "chillo",
+            "chillas",
+            "chilla",
+            "chillamos",
+            "chilláis",
+            "chillan"
+        ],
+        "preterito-perfecto": [
+            "he chillado",
+            "has chillado",
+            "ha chillado",
+            "hemos chillado",
+            "habéis chillado",
+            "han chillado"
+        ],
+        "preterito-indefinido": [
+            "chillé",
+            "chillaste",
+            "chilló",
+            "chillamos",
+            "chillasteis",
+            "chillaron"
+        ],
+        "preterito-imperfecto": [
+            "chillaba",
+            "chillabas",
+            "chillaba",
+            "chillábamos",
+            "chillabais",
+            "chillaban"
+        ],
+        "presente-progresivo": [
+            "estoy chillando",
+            "estás chillando",
+            "está chillando",
+            "estamos chillando",
+            "estáis chillando",
+            "están chillando"
+        ],
+        "dutch": "roepen, gillen"
+    },
+    {
+        "verbo": "gritar",
+        "presente": [
+            "grito",
+            "gritas",
+            "grita",
+            "gritamos",
+            "gritáis",
+            "gritan"
+        ],
+        "preterito-perfecto": [
+            "he gritado",
+            "has gritado",
+            "ha gritado",
+            "hemos gritado",
+            "habéis gritado",
+            "han gritado"
+        ],
+        "preterito-indefinido": [
+            "grité",
+            "gritaste",
+            "gritó",
+            "gritamos",
+            "gritasteis",
+            "gritaron"
+        ],
+        "preterito-imperfecto": [
+            "gritaba",
+            "gritabas",
+            "gritaba",
+            "gritábamos",
+            "gritabais",
+            "gritaban"
+        ],
+        "presente-progresivo": [
+            "estoy gritando",
+            "estás gritando",
+            "está gritando",
+            "estamos gritando",
+            "estáis gritando",
+            "están gritando"
+        ],
+        "dutch": "heel luid praten"
+    },
+    {
         "verbo": "ejecutar",
         "presente": [
             "ejecuto",
