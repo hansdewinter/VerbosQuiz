@@ -1,5 +1,93 @@
 [
     {
+        "verbo": "desinfectar",
+        "presente": [
+            "desinfecto",
+            "desinfectas",
+            "desinfecta",
+            "desinfectamos",
+            "desinfectáis",
+            "desinfectan"
+        ],
+        "preterito-perfecto": [
+            "he desinfectado",
+            "has desinfectado",
+            "ha desinfectado",
+            "hemos desinfectado",
+            "habéis desinfectado",
+            "han desinfectado"
+        ],
+        "preterito-indefinido": [
+            "desinfecté",
+            "desinfectaste",
+            "desinfectó",
+            "desinfectamos",
+            "desinfectasteis",
+            "desinfectaron"
+        ],
+        "preterito-imperfecto": [
+            "desinfectaba",
+            "desinfectabas",
+            "desinfectaba",
+            "desinfectábamos",
+            "desinfectabais",
+            "desinfectaban"
+        ],
+        "presente-progresivo": [
+            "estoy desinfectando",
+            "estás desinfectando",
+            "está desinfectando",
+            "estamos desinfectando",
+            "estáis desinfectando",
+            "están desinfectando"
+        ],
+        "dutch": "desinfecteren, ontsmetten"
+    },
+    {
+        "verbo": "atacar",
+        "presente": [
+            "ataco",
+            "atacas",
+            "ataca",
+            "atacamos",
+            "atacáis",
+            "atacan"
+        ],
+        "preterito-perfecto": [
+            "he atacado",
+            "has atacado",
+            "ha atacado",
+            "hemos atacado",
+            "habéis atacado",
+            "han atacado"
+        ],
+        "preterito-indefinido": [
+            "ataqué",
+            "atacaste",
+            "atacó",
+            "atacamos",
+            "atacasteis",
+            "atacaron"
+        ],
+        "preterito-imperfecto": [
+            "atacaba",
+            "atacabas",
+            "atacaba",
+            "atacábamos",
+            "atacabais",
+            "atacaban"
+        ],
+        "presente-progresivo": [
+            "estoy atacando",
+            "estás atacando",
+            "está atacando",
+            "estamos atacando",
+            "estáis atacando",
+            "están atacando"
+        ],
+        "dutch": "aanvallen"
+    },
+    {
         "verbo": "chillar",
         "presente": [
             "chillo",
