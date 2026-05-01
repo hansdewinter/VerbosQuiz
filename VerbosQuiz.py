@@ -16,7 +16,7 @@ from openpyxl import Workbook
 from openpyxl.styles import Alignment, Font
 from openpyxl.worksheet.worksheet import Worksheet
 
-APP_VERSION = "1.0.0"
+APP_VERSION = "1.1.0"
 
 # ANSI color codes
 GREEN = '\033[92m'
@@ -39,7 +39,8 @@ TENSE_LABELS = {
     "preterito-perfecto": "Pretérito Perfecto",
     "preterito-indefinido": "Pretérito Indefinido",
     "preterito-imperfecto": "Pretérito Imperfecto",
-    "presente-progresivo": "Presente Progresivo"
+    "presente-progresivo": "Presente Progresivo",
+    "imperativo-afirmativo": "Imperativo afirmativo",
 }
 
 
@@ -81,6 +82,7 @@ def populate_sheet(ws: Worksheet, verb_entry: dict) -> None:
         ("D1", "Pretérito Indefinido"),
         ("E1", "Pretérito Imperfecto"),
         ("F1", "Presente Progresivo"),
+        ("G1", "Imperativo afirmativo (tú / vosotros)"),
     ]
     header_font = Font(bold=True)
     center = Alignment(horizontal="center")
@@ -116,7 +118,13 @@ def populate_sheet(ws: Worksheet, verb_entry: dict) -> None:
             value = forms[row_idx] if row_idx < len(forms) else ""
             ws.cell(row=excel_row, column=col, value=value)
 
-    widths = {"A": 18, "B": 18, "C": 22, "D": 22, "E": 22, "F": 22}
+    imperativo = verb_entry.get("imperativo-afirmativo")
+    if isinstance(imperativo, dict):
+        # rows: 2=yo, 3=tú, 4=él…, 5=nosotros, 6=vosotros, 7=ellos…
+        ws.cell(row=3, column=7, value=imperativo.get("tu", ""))
+        ws.cell(row=6, column=7, value=imperativo.get("vosotros", ""))
+
+    widths = {"A": 18, "B": 18, "C": 22, "D": 22, "E": 22, "F": 22, "G": 26}
     for col, width in widths.items():
         ws.column_dimensions[col].width = width
 
@@ -219,18 +227,6 @@ def get_random_person():
     return index, PERSONS[index]
 
 
-def get_random_tense():
-    """Return random tense key."""
-    tenses = [
-        "presente",
-        "preterito-perfecto",
-        "preterito-indefinido",
-        "preterito-imperfecto",
-        "presente-progresivo",
-    ]
-    return random.choice(tenses)
-
-
 def normalize_string(s):
     """Normalize string for comparison (case-insensitive, NFC normalization)."""
     return unicodedata.normalize('NFC', s.lower().strip())
@@ -289,14 +285,13 @@ def print_incorrect_summary(usage_counts, incorrect_verbs):
         print(f"  {RED}{padded}{RESET}  {count}")
 
 
-def ask_question(verb, tense, person_index, person_label, show_dutch=False):
+def ask_question(verb, tense, person_label, correct_answer, show_dutch=False):
     """
     Ask a conjugation question and return True if correct, False otherwise.
     """
     verb_name = verb['verbo']
     dutch_translation = verb['dutch']
-    correct_answer = verb[tense][person_index]
-    
+
     tense_label = TENSE_LABELS.get(tense, tense).lower()
     display_name = dutch_translation if show_dutch else verb_name
 
@@ -343,6 +338,7 @@ Examples:
   %(prog)s --tense=indefinido        # Practice Pretérito Indefinido only
   %(prog)s --tense=imperfecto        # Practice Pretérito Imperfecto only
   %(prog)s --tense=progresivo        # Practice Presente Progresivo (estar + gerundio) only
+  %(prog)s --tense=imperativo        # Practice imperativo afirmativo (tú and vosotros only)
   %(prog)s --verb=hablar             # Practice only 'hablar' with all tenses
   %(prog)s --verb=ser                # Practice only 'ser' with all tenses
   %(prog)s --dutch                   # Show Dutch translation instead of Spanish verb
@@ -352,9 +348,17 @@ Examples:
     
     parser.add_argument(
         '--tense',
-        choices=['random', 'present', 'perfecto', 'indefinido', 'imperfecto', 'progresivo'],
+        choices=[
+            'random',
+            'present',
+            'perfecto',
+            'indefinido',
+            'imperfecto',
+            'progresivo',
+            'imperativo',
+        ],
         default='random',
-        help='Select tense mode: random (default), present, perfecto, indefinido, imperfecto, or progresivo'
+        help='Select tense mode: random (default), present, perfecto, indefinido, imperfecto, progresivo, or imperativo (tú/vosotros)'
     )
     
     parser.add_argument(
@@ -388,9 +392,36 @@ def run_quiz(verbs, tense_mode='random', specific_verb=None, show_dutch=False):
     else:
         verb_list = verbs
 
+    has_imperativo_data = any(
+        isinstance(v.get("imperativo-afirmativo"), dict)
+        and v["imperativo-afirmativo"].get("tu")
+        and v["imperativo-afirmativo"].get("vosotros")
+        for v in verb_list
+    )
+
+    if tense_mode == "imperativo" and not has_imperativo_data:
+        print(
+            "Error: No verbs in the practice set have imperativo-afirmativo "
+            "(tú and vosotros). Update Verbos.json or pick another tense."
+        )
+        sys.exit(1)
+
     if tense_mode == 'random':
+        random_tenses = [
+            "presente",
+            "preterito-perfecto",
+            "preterito-indefinido",
+            "preterito-imperfecto",
+            "presente-progresivo",
+            "imperativo-afirmativo",
+        ]
+        if not has_imperativo_data:
+            random_tenses = [
+                t for t in random_tenses if t != "imperativo-afirmativo"
+            ]
+
         def get_tense():
-            return get_random_tense()
+            return random.choice(random_tenses)
     elif tense_mode == 'present':
         def get_tense():
             return "presente"
@@ -406,7 +437,10 @@ def run_quiz(verbs, tense_mode='random', specific_verb=None, show_dutch=False):
     elif tense_mode == 'progresivo':
         def get_tense():
             return "presente-progresivo"
-    
+    elif tense_mode == 'imperativo':
+        def get_tense():
+            return "imperativo-afirmativo"
+
     total_questions = 0
     correct_answers = 0
     usage_counts = {}
@@ -417,11 +451,28 @@ def run_quiz(verbs, tense_mode='random', specific_verb=None, show_dutch=False):
         while True:
             verb = get_random_verb(verb_list)
             verb_name = verb['verbo']
-            person_index, person_label = get_random_person()
             tense = get_tense()
 
+            if tense == "imperativo-afirmativo":
+                imper = verb.get("imperativo-afirmativo")
+                if not imper or not isinstance(imper, dict):
+                    continue
+                slot = random.choice(["tu", "vosotros"])
+                person_label = "tú" if slot == "tu" else "vosotros"
+                correct_answer = imper.get(slot)
+                if not correct_answer:
+                    continue
+            else:
+                person_index, person_label = get_random_person()
+                forms = verb.get(tense)
+                if not forms or not isinstance(forms, list) or person_index >= len(forms):
+                    continue
+                correct_answer = forms[person_index]
+
             try:
-                is_correct = ask_question(verb, tense, person_index, person_label, show_dutch)
+                is_correct = ask_question(
+                    verb, tense, person_label, correct_answer, show_dutch
+                )
                 usage_counts[verb_name] = usage_counts.get(verb_name, 0) + 1
                 total_questions += 1
                 if is_correct:
@@ -486,7 +537,7 @@ def main():
                 print("Please check the spelling and try again.")
                 sys.exit(1)
             print(f"Practicing verb: {specific_verb['verbo']} ({specific_verb.get('dutch', 'N/A')})")
-            print("Using all tenses and persons.")
+            print("Using all tenses; imperativo afirmativo only asks tú and vosotros.")
         else:
             tense_display = {
                 'random': 'Random tense',
@@ -494,7 +545,8 @@ def main():
                 'perfecto': 'Pretérito Perfecto',
                 'indefinido': 'Pretérito Indefinido',
                 'imperfecto': 'Pretérito Imperfecto',
-                'progresivo': 'Presente Progresivo'
+                'progresivo': 'Presente Progresivo',
+                'imperativo': 'Imperativo afirmativo (tú / vosotros)',
             }
             print(f"Tense mode: {tense_display[args.tense]}")
         

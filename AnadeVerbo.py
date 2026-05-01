@@ -20,6 +20,11 @@ ESTAR_PRESENT = ["estoy", "estás", "está", "estamos", "estáis", "están"]
 # Reflexive pronouns aligned with person order
 REFLEXIVE_PRONOUNS = ["me", "te", "se", "nos", "os", "se"]
 
+IMPERATIVO_AFIRMATIVO_SECTION_ID = "imperativo-afirmativo"
+# Labels in the affirmative-imperative table (non-reflexive vs reflexive)
+TÚ_LABELS = frozenset({"(tú)", "(te)"})
+VOSOTROS_LABELS = frozenset({"(vosotros/-as)", "(os)"})
+
 # Ensure stdout uses UTF-8 encoding (Python 3.7+)
 if hasattr(sys.stdout, 'reconfigure'):
     sys.stdout.reconfigure(encoding='utf-8')
@@ -283,6 +288,107 @@ def build_presente_progresivo(gerundio, reflexive):
     return [f"{estar} {gerundio}" for estar in ESTAR_PRESENT]
 
 
+def fetch_imperativo_from_site(verb):
+    """Query esfacil.eu for imperativo afirmativo (tú, vosotros). Returns dict or None."""
+    params = {"verb": verb, "option": "com_verb", "task": "conjugate"}
+    for verify in (True, False):
+        try:
+            resp = requests.get(BASE_URL, params=params, timeout=15, verify=verify)
+            resp.raise_for_status()
+        except requests.exceptions.SSLError:
+            continue
+        except requests.RequestException:
+            continue
+
+        forms = parse_imperativo_afirmativo(resp.text)
+        if forms:
+            return forms
+    return None
+
+
+def parse_imperativo_afirmativo(html):
+    """Parse imperativo afirmativo (tú and vosotros only) from conjugation page HTML."""
+    soup = BeautifulSoup(html, 'html.parser')
+    section = soup.find('h3', id=IMPERATIVO_AFIRMATIVO_SECTION_ID)
+    if not section:
+        return None
+
+    table = section.find_next('table')
+    if not table:
+        return None
+
+    tu_form = None
+    vosotros_form = None
+
+    for row in table.find_all('tr'):
+        th = row.find('th')
+        td = row.find('td')
+        if not th or not td:
+            continue
+
+        pronoun_span = th.find('span', class_='pronoun')
+        if pronoun_span:
+            label = pronoun_span.get_text(strip=True)
+        else:
+            label = th.get_text(strip=True)
+
+        conjugation_spans = td.find_all(
+            'span', class_=lambda x: x and x.startswith('conjugation-')
+        )
+        if not conjugation_spans:
+            continue
+        if len(conjugation_spans) == 1:
+            form = conjugation_spans[0].get_text(strip=True)
+        else:
+            form = td.get_text(' ', strip=True)
+
+        if not form:
+            continue
+
+        if label in TÚ_LABELS:
+            tu_form = form
+        elif label in VOSOTROS_LABELS:
+            vosotros_form = form
+
+    if tu_form and vosotros_form:
+        return {'tu': tu_form, 'vosotros': vosotros_form}
+    return None
+
+
+def imperativo_fetch_candidates(infinitive):
+    """
+    URL query order:
+    - Reflexive verbs: full infinitive first (site gives enclitic forms like lávate).
+    - Non-reflexive: stripped stem first, then full infinitive.
+    """
+    stripped = strip_reflexive_suffix(infinitive)
+    candidates = []
+    if is_reflexive(infinitive):
+        if infinitive:
+            candidates.append(infinitive)
+        if stripped and stripped != infinitive:
+            candidates.append(stripped)
+    else:
+        if stripped:
+            candidates.append(stripped)
+        if infinitive and infinitive != stripped:
+            candidates.append(infinitive)
+    return candidates
+
+
+def fetch_imperativo_afirmativo(infinitive):
+    """Return {'tu': ..., 'vosotros': ...} or None."""
+    seen = set()
+    for candidate in imperativo_fetch_candidates(infinitive):
+        if candidate in seen:
+            continue
+        seen.add(candidate)
+        forms = fetch_imperativo_from_site(candidate)
+        if forms:
+            return forms
+    return None
+
+
 def check_verb_exists(verb_data, verb):
     """
     Check if a verb already exists in the JSON data (case-sensitive).
@@ -402,6 +508,12 @@ def main():
         
         conjugations_data[json_key] = processed_conjugations
     
+    print("  - Getting imperativo-afirmativo...")
+    imperativo_afirmativo = fetch_imperativo_afirmativo(verb)
+    if not imperativo_afirmativo:
+        print("Error: Could not get imperativo afirmativo. Aborting.")
+        sys.exit(1)
+
     # Create the new verb entry
     new_entry = {
         "verbo": verb,
@@ -410,6 +522,7 @@ def main():
         "preterito-indefinido": conjugations_data["preterito-indefinido"],
         "preterito-imperfecto": conjugations_data["preterito-imperfecto"],
         "presente-progresivo": presente_progresivo,
+        "imperativo-afirmativo": imperativo_afirmativo,
         "dutch": dutch_translation
     }
     

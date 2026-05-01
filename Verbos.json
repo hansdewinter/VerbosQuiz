@@ -41,6 +41,10 @@
             "estáis desinfectando",
             "están desinfectando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "desinfecta",
+            "vosotros": "desinfectad"
+        },
         "dutch": "desinfecteren, ontsmetten"
     },
     {
@@ -85,6 +89,10 @@
             "estáis atacando",
             "están atacando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "ataca",
+            "vosotros": "atacad"
+        },
         "dutch": "aanvallen"
     },
     {
@@ -129,6 +137,10 @@
             "estáis chillando",
             "están chillando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "chilla",
+            "vosotros": "chillad"
+        },
         "dutch": "roepen, gillen"
     },
     {
@@ -173,6 +185,10 @@
             "estáis gritando",
             "están gritando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "grita",
+            "vosotros": "gritad"
+        },
         "dutch": "heel luid praten"
     },
     {
@@ -217,6 +233,10 @@
             "estáis ejecutando",
             "están ejecutando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "ejecuta",
+            "vosotros": "ejecutad"
+        },
         "dutch": "executeren, implementeren, uitvoeren"
     },
     {
@@ -261,6 +281,10 @@
             "estáis nombrando",
             "están nombrando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "nombra",
+            "vosotros": "nombrad"
+        },
         "dutch": "noemen, benoemen, aanstellen"
     },
     {
@@ -305,6 +329,10 @@
             "estáis liderando",
             "están liderando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "lidera",
+            "vosotros": "liderad"
+        },
         "dutch": "leiden, aanvoeren (synoniem van dirigir)"
     },
     {
@@ -349,6 +377,10 @@
             "estáis soliendo",
             "están soliendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "suele",
+            "vosotros": "soled"
+        },
         "dutch": "hulpwerkwoord om \"gewoon zijn te\" of \"plegen te\" te omschrijven. Steeds gevolhd door infinitief"
     },
     {
@@ -393,6 +425,10 @@
             "estáis destapando",
             "están destapando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "destapa",
+            "vosotros": "destapad"
+        },
         "dutch": "een fles ontkurken"
     },
     {
@@ -437,6 +473,10 @@
             "estáis aliñando",
             "están aliñando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "aliña",
+            "vosotros": "aliñad"
+        },
         "dutch": "kruiden, op smaak brengen"
     },
     {
@@ -481,6 +521,10 @@
             "estáis extendiendo",
             "están extendiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "extiende",
+            "vosotros": "extended"
+        },
         "dutch": "uitspreiden, uitrollen (pizza)"
     },
     {
@@ -525,6 +569,10 @@
             "estáis engordando",
             "están engordando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "engorda",
+            "vosotros": "engordad"
+        },
         "dutch": "verdikken"
     },
     {
@@ -569,6 +617,10 @@
             "os estáis conociendo",
             "se están conociendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "conócete",
+            "vosotros": "conoceos"
+        },
         "dutch": "elkaar (leren) kennen"
     },
     {
@@ -613,6 +665,10 @@
             "estáis exponiendo",
             "están exponiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "expón",
+            "vosotros": "exponed"
+        },
         "dutch": "uitleggen, uiteenzetten, toelichten, presenteren"
     },
     {
@@ -657,6 +713,10 @@
             "os estáis enterando",
             "se están enterando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "entérate",
+            "vosotros": "enteraos"
+        },
         "dutch": "vernemen, te weten komen"
     },
     {
@@ -701,6 +761,10 @@
             "os estáis aclarando",
             "se están aclarando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "aclárate",
+            "vosotros": "aclaraos"
+        },
         "dutch": "duidelijk worden, iets begrijpen, opklaren, helder worden n het hoofd"
     },
     {
@@ -745,6 +809,10 @@
             "estáis absorbiendo",
             "están absorbiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "absorbe",
+            "vosotros": "absorbed"
+        },
         "dutch": "absorberen"
     },
     {
@@ -789,6 +857,10 @@
             "estáis evaluando",
             "están evaluando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "evalúa",
+            "vosotros": "evaluad"
+        },
         "dutch": "evalueren"
     },
     {
@@ -833,6 +905,10 @@
             "estáis controlando",
             "están controlando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "controla",
+            "vosotros": "controlad"
+        },
         "dutch": "controleren"
     },
     {
@@ -877,6 +953,10 @@
             "estáis tardando",
             "están tardando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "tarda",
+            "vosotros": "tardad"
+        },
         "dutch": "tijd nodig hebben, er (een bepaalde tijd) over doen"
     },
     {
@@ -921,6 +1001,10 @@
             "estáis movilizando",
             "están movilizando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "moviliza",
+            "vosotros": "movilizad"
+        },
         "dutch": "mobiliseren"
     },
     {
@@ -965,6 +1049,10 @@
             "estáis ensayando",
             "están ensayando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "ensaya",
+            "vosotros": "ensayad"
+        },
         "dutch": "repeteren (voor een uitvoering)"
     },
     {
@@ -1009,6 +1097,10 @@
             "os estáis emocionando",
             "se están emocionando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "emociónate",
+            "vosotros": "emocionaos"
+        },
         "dutch": "opgewonden raken, emotioneel worden"
     },
     {
@@ -1053,6 +1145,10 @@
             "os estáis enfedando",
             "se están enfedando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "enfédate",
+            "vosotros": "enfedaos"
+        },
         "dutch": "boos worden"
     },
     {
@@ -1097,6 +1193,10 @@
             "estáis invitando",
             "están invitando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "invita",
+            "vosotros": "invitad"
+        },
         "dutch": "uitnodigen, inviteren"
     },
     {
@@ -1141,6 +1241,10 @@
             "estáis charlando",
             "están charlando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "charla",
+            "vosotros": "charlad"
+        },
         "dutch": "chatten, babbelen"
     },
     {
@@ -1185,6 +1289,10 @@
             "os estáis dirigiendo",
             "se están dirigiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "dirígete",
+            "vosotros": "dirigíos"
+        },
         "dutch": "zich richten tot, zich begeven naar"
     },
     {
@@ -1229,6 +1337,10 @@
             "estáis avanzando",
             "están avanzando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "avanza",
+            "vosotros": "avanzad"
+        },
         "dutch": "vooruitgaan, vooruitgang boeken"
     },
     {
@@ -1273,6 +1385,10 @@
             "estáis narrando",
             "están narrando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "narra",
+            "vosotros": "narrad"
+        },
         "dutch": "vertellen, verhalen, beschrijven (formeel)"
     },
     {
@@ -1317,6 +1433,10 @@
             "estáis desapareciendo",
             "están desapareciendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "desaparece",
+            "vosotros": "desapareced"
+        },
         "dutch": "verdwijnen"
     },
     {
@@ -1361,6 +1481,10 @@
             "os estáis acercando",
             "se están acercando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "acércate",
+            "vosotros": "acercaos"
+        },
         "dutch": "dichterbij komen, naderen"
     },
     {
@@ -1405,6 +1529,10 @@
             "estáis jurando",
             "están jurando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "jura",
+            "vosotros": "jurad"
+        },
         "dutch": "zweren, plechtig beloven"
     },
     {
@@ -1449,6 +1577,10 @@
             "estáis pisando",
             "están pisando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "pisa",
+            "vosotros": "pisad"
+        },
         "dutch": "op iets stappen, betreden"
     },
     {
@@ -1493,6 +1625,10 @@
             "os estáis uniendo",
             "se están uniendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "únete",
+            "vosotros": "uníos"
+        },
         "dutch": "lid worden van, aansluiten bij"
     },
     {
@@ -1537,6 +1673,10 @@
             "os estáis alzando",
             "se están alzando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "álzate",
+            "vosotros": "alzaos"
+        },
         "dutch": "in opstand komen"
     },
     {
@@ -1581,6 +1721,10 @@
             "os estáis haciendo",
             "se están haciendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "házte",
+            "vosotros": "haceos"
+        },
         "dutch": "worden (verandering van toestand of identiteit)"
     },
     {
@@ -1625,6 +1769,10 @@
             "estáis reestableciendo",
             "están reestableciendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "reestablece",
+            "vosotros": "reestableced"
+        },
         "dutch": "opnieuw invoeren, herstellen"
     },
     {
@@ -1669,6 +1817,10 @@
             "estáis renunciando",
             "están renunciando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "renuncia",
+            "vosotros": "renunciad"
+        },
         "dutch": "ontslag nemen, opgeven, aftreden"
     },
     {
@@ -1713,6 +1865,10 @@
             "estáis autorizando",
             "están autorizando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "autoriza",
+            "vosotros": "autorizad"
+        },
         "dutch": "authorizeren, machtigen"
     },
     {
@@ -1757,6 +1913,10 @@
             "estáis ordenando",
             "están ordenando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "ordena",
+            "vosotros": "ordenad"
+        },
         "dutch": "bestellen, ordenen, bevelen"
     },
     {
@@ -1801,6 +1961,10 @@
             "estáis derrotando",
             "están derrotando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "derrota",
+            "vosotros": "derrotad"
+        },
         "dutch": "overwinnen, verslaan"
     },
     {
@@ -1845,6 +2009,10 @@
             "estáis formando",
             "están formando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "forma",
+            "vosotros": "formad"
+        },
         "dutch": "vormen"
     },
     {
@@ -1889,6 +2057,10 @@
             "os estáis internando",
             "se están internando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "intérnate",
+            "vosotros": "internaos"
+        },
         "dutch": "binnendringen \"in\""
     },
     {
@@ -1933,6 +2105,10 @@
             "estáis asumiendo",
             "están asumiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "asume",
+            "vosotros": "asumid"
+        },
         "dutch": "aannemen, op zich nemen, accepteren"
     },
     {
@@ -1977,6 +2153,10 @@
             "os estáis subiendo",
             "se están subiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "súbete",
+            "vosotros": "subíos"
+        },
         "dutch": "ergens op klimmen, ergens opstappen"
     },
     {
@@ -2021,6 +2201,10 @@
             "estáis acojiendo",
             "están acojiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "acoje",
+            "vosotros": "acojed"
+        },
         "dutch": "iemand onderdak geven, onthalen, opnemen"
     },
     {
@@ -2065,6 +2249,10 @@
             "estáis cultivando",
             "están cultivando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "cultiva",
+            "vosotros": "cultivad"
+        },
         "dutch": "cultiveren, kweken"
     },
     {
@@ -2109,6 +2297,10 @@
             "estáis ilustrando",
             "están ilustrando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "ilustra",
+            "vosotros": "ilustrad"
+        },
         "dutch": "illustreren"
     },
     {
@@ -2153,6 +2345,10 @@
             "estáis atrayendo",
             "están atrayendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "atrae",
+            "vosotros": "atraed"
+        },
         "dutch": "aantrekken, lokken"
     },
     {
@@ -2197,6 +2393,10 @@
             "estáis emitiendo",
             "están emitiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "emite",
+            "vosotros": "emitid"
+        },
         "dutch": "uitzenden, uitreiken"
     },
     {
@@ -2241,6 +2441,10 @@
             "estáis legalizando",
             "están legalizando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "legaliza",
+            "vosotros": "legalizad"
+        },
         "dutch": "legaliseren"
     },
     {
@@ -2285,6 +2489,10 @@
             "estáis buceando",
             "están buceando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "bucea",
+            "vosotros": "bucead"
+        },
         "dutch": "duiken"
     },
     {
@@ -2329,6 +2537,10 @@
             "estáis amasando",
             "están amasando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "amasa",
+            "vosotros": "amasad"
+        },
         "dutch": "kneden"
     },
     {
@@ -2373,6 +2585,10 @@
             "estáis suavizando",
             "están suavizando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "suaviza",
+            "vosotros": "suavizad"
+        },
         "dutch": "verzachten, milderen"
     },
     {
@@ -2417,6 +2633,10 @@
             "estáis iluminando",
             "están iluminando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "ilumina",
+            "vosotros": "iluminad"
+        },
         "dutch": "verlichten, licht geven aan"
     },
     {
@@ -2461,6 +2681,10 @@
             "estáis respirando",
             "están respirando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "respira",
+            "vosotros": "respirad"
+        },
         "dutch": "ademhalen"
     },
     {
@@ -2505,6 +2729,10 @@
             "estáis afectando",
             "están afectando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "afecta",
+            "vosotros": "afectad"
+        },
         "dutch": "invloed hebben op, beïnvloeden"
     },
     {
@@ -2549,6 +2777,10 @@
             "estáis adelgazando",
             "están adelgazando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "adelgaza",
+            "vosotros": "adelgazad"
+        },
         "dutch": "afslanken, vermageren"
     },
     {
@@ -2593,6 +2825,10 @@
             "estáis calmando",
             "están calmando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "calma",
+            "vosotros": "calmad"
+        },
         "dutch": "kalmeren"
     },
     {
@@ -2637,6 +2873,10 @@
             "estáis tapando",
             "están tapando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "tapa",
+            "vosotros": "tapad"
+        },
         "dutch": "afdekken, iets blokkeren"
     },
     {
@@ -2681,6 +2921,10 @@
             "estáis masajeando",
             "están masajeando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "masajea",
+            "vosotros": "masajead"
+        },
         "dutch": "masseren"
     },
     {
@@ -2725,6 +2969,10 @@
             "estáis desarrollando",
             "están desarrollando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "desarrolla",
+            "vosotros": "desarrollad"
+        },
         "dutch": "ontwikkelen, uitwerken"
     },
     {
@@ -2769,6 +3017,10 @@
             "os estáis agachando",
             "se están agachando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "agáchate",
+            "vosotros": "agachaos"
+        },
         "dutch": "hurken, bukken"
     },
     {
@@ -2813,6 +3065,10 @@
             "estáis doblando",
             "están doblando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "dobla",
+            "vosotros": "doblad"
+        },
         "dutch": "vouwen, plooien, afbuigen"
     },
     {
@@ -2857,6 +3113,10 @@
             "estáis evitando",
             "están evitando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "evita",
+            "vosotros": "evitad"
+        },
         "dutch": "vermijden"
     },
     {
@@ -2901,6 +3161,10 @@
             "estáis envejeciendo",
             "están envejeciendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "envejece",
+            "vosotros": "envejeced"
+        },
         "dutch": "verouderen"
     },
     {
@@ -2945,6 +3209,10 @@
             "estáis resecando",
             "están resecando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "reseca",
+            "vosotros": "resecad"
+        },
         "dutch": "uitdrogen"
     },
     {
@@ -2989,6 +3257,10 @@
             "os estáis cubriendo",
             "se están cubriendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "cúbrete",
+            "vosotros": "cubríos"
+        },
         "dutch": "zich bedekken"
     },
     {
@@ -3033,6 +3305,10 @@
             "estáis protegiendo",
             "están protegiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "protege",
+            "vosotros": "proteged"
+        },
         "dutch": "beschermen"
     },
     {
@@ -3077,6 +3353,10 @@
             "os estáis hidratando",
             "se están hidratando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "hidrátate",
+            "vosotros": "hidrataos"
+        },
         "dutch": "zich hydrateren"
     },
     {
@@ -3121,6 +3401,10 @@
             "estáis fortaleciendo",
             "están fortaleciendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "fortalece",
+            "vosotros": "fortaleced"
+        },
         "dutch": "versterken, aansterken"
     },
     {
@@ -3165,6 +3449,10 @@
             "os estáis desmaquillando",
             "se están desmaquillando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "desmaquíllate",
+            "vosotros": "desmaquillaos"
+        },
         "dutch": "ontschminken"
     },
     {
@@ -3209,6 +3497,10 @@
             "os estáis preocupando",
             "se están preocupando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "preocúpate",
+            "vosotros": "preocupaos"
+        },
         "dutch": "zich zorgen maken om"
     },
     {
@@ -3253,6 +3545,10 @@
             "estáis previniendo",
             "están previniendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "prevén",
+            "vosotros": "prevenid"
+        },
         "dutch": "voorkomen"
     },
     {
@@ -3297,6 +3593,10 @@
             "estáis facilitando",
             "están facilitando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "facilita",
+            "vosotros": "facilitad"
+        },
         "dutch": "vergemakkelijken, mogelijk maken"
     },
     {
@@ -3341,6 +3641,10 @@
             "estáis combatiendo",
             "están combatiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "combate",
+            "vosotros": "combatid"
+        },
         "dutch": "vechten, strijden tegen (synoniem van luchar)"
     },
     {
@@ -3385,6 +3689,10 @@
             "os estáis enfriando",
             "se están enfriando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "enfríate",
+            "vosotros": "enfriaos"
+        },
         "dutch": "iets of iemand zelf afkoelen (uit zichzelf)"
     },
     {
@@ -3429,6 +3737,10 @@
             "estáis enfriando",
             "están enfriando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "enfría",
+            "vosotros": "enfriad"
+        },
         "dutch": "iets of iemand dat afkoelt (door iets of iemand anders)"
     },
     {
@@ -3473,6 +3785,10 @@
             "estáis colgando",
             "están colgando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "cuelga",
+            "vosotros": "colgad"
+        },
         "dutch": "hangen, ophangen"
     },
     {
@@ -3517,6 +3833,10 @@
             "estáis separando",
             "están separando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "separa",
+            "vosotros": "separad"
+        },
         "dutch": "scheiden, uit elkaar halen"
     },
     {
@@ -3561,6 +3881,10 @@
             "estáis durando",
             "están durando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "dura",
+            "vosotros": "durad"
+        },
         "dutch": "duren"
     },
     {
@@ -3605,6 +3929,10 @@
             "estáis guardando",
             "están guardando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "guarda",
+            "vosotros": "guardad"
+        },
         "dutch": "bewaren, opbergen"
     },
     {
@@ -3649,6 +3977,10 @@
             "estáis asando",
             "están asando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "asa",
+            "vosotros": "asad"
+        },
         "dutch": "grillen, roosteren, braden"
     },
     {
@@ -3693,6 +4025,10 @@
             "estáis congelando",
             "están congelando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "congela",
+            "vosotros": "congelad"
+        },
         "dutch": "invriezen, bevriezen"
     },
     {
@@ -3737,6 +4073,10 @@
             "estáis calentando",
             "están calentando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "calienta",
+            "vosotros": "calentad"
+        },
         "dutch": "opwarmen"
     },
     {
@@ -3781,6 +4121,10 @@
             "estáis licuando",
             "están licuando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "licúa",
+            "vosotros": "licuad"
+        },
         "dutch": "blenden, vloeibaar maken"
     },
     {
@@ -3825,6 +4169,10 @@
             "os estáis preparando",
             "se están preparando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "prepárate",
+            "vosotros": "preparaos"
+        },
         "dutch": "zich klaarmaken, voorbereiden"
     },
     {
@@ -3869,6 +4217,10 @@
             "estáis eliminando",
             "están eliminando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "elimina",
+            "vosotros": "eliminad"
+        },
         "dutch": "elimineren, verwijderen"
     },
     {
@@ -3913,6 +4265,10 @@
             "estáis purificando",
             "están purificando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "purifica",
+            "vosotros": "purificad"
+        },
         "dutch": "zuiveren, reinigen"
     },
     {
@@ -3957,6 +4313,10 @@
             "os estáis alimentando",
             "se están alimentando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "aliméntate",
+            "vosotros": "alimentaos"
+        },
         "dutch": "zich voederen"
     },
     {
@@ -4001,6 +4361,10 @@
             "estáis batiendo",
             "están batiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "bate",
+            "vosotros": "batid"
+        },
         "dutch": "(op)kloppen, mixen"
     },
     {
@@ -4045,6 +4409,10 @@
             "estáis echando",
             "están echando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "echa",
+            "vosotros": "echad"
+        },
         "dutch": "gooien, toevoegen"
     },
     {
@@ -4089,6 +4457,10 @@
             "estáis acompañando",
             "están acompañando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "acompaña",
+            "vosotros": "acompañad"
+        },
         "dutch": "vergezellen, begeleiden, serveren bij (eten)"
     },
     {
@@ -4133,6 +4505,10 @@
             "estáis aplastando",
             "están aplastando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "aplasta",
+            "vosotros": "aplastad"
+        },
         "dutch": "pletten, platdrukken, verpletteren"
     },
     {
@@ -4177,6 +4553,10 @@
             "estáis combinando",
             "están combinando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "combina",
+            "vosotros": "combinad"
+        },
         "dutch": "combineren"
     },
     {
@@ -4221,6 +4601,10 @@
             "estáis alimentando",
             "están alimentando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "alimenta",
+            "vosotros": "alimentad"
+        },
         "dutch": "voederen"
     },
     {
@@ -4265,6 +4649,10 @@
             "estáis consumiendo",
             "están consumiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "consume",
+            "vosotros": "consumid"
+        },
         "dutch": "consumeren"
     },
     {
@@ -4309,6 +4697,10 @@
             "estáis optando",
             "están optando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "opta",
+            "vosotros": "optad"
+        },
         "dutch": "opteren, kiezen voor"
     },
     {
@@ -4353,6 +4745,10 @@
             "estáis aprovechando",
             "están aprovechando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "aprovecha",
+            "vosotros": "aprovechad"
+        },
         "dutch": "profiteren van, benutten, gebruik maken van"
     },
     {
@@ -4397,6 +4793,10 @@
             "os estáis recuperando",
             "se están recuperando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "recupérate",
+            "vosotros": "recuperaos"
+        },
         "dutch": "herstellen, recupereren"
     },
     {
@@ -4441,6 +4841,10 @@
             "estáis pescando",
             "están pescando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "pesca",
+            "vosotros": "pescad"
+        },
         "dutch": "vissen"
     },
     {
@@ -4485,6 +4889,10 @@
             "estáis fundiendo",
             "están fundiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "funde",
+            "vosotros": "fundid"
+        },
         "dutch": "smelten"
     },
     {
@@ -4529,6 +4937,10 @@
             "estáis rodeando",
             "están rodeando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "rodea",
+            "vosotros": "rodead"
+        },
         "dutch": "omringen"
     },
     {
@@ -4573,6 +4985,10 @@
             "os estáis suicidando",
             "se están suicidando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "suicídate",
+            "vosotros": "suicidaos"
+        },
         "dutch": "zelfmoord plegen"
     },
     {
@@ -4617,6 +5033,10 @@
             "os estáis trasladando",
             "se están trasladando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "trasládate",
+            "vosotros": "trasladaos"
+        },
         "dutch": "zich overplaatsen (verhuizen maar dan voor werk)"
     },
     {
@@ -4661,6 +5081,10 @@
             "estáis llorando",
             "están llorando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "llora",
+            "vosotros": "llorad"
+        },
         "dutch": "huilen, wenen"
     },
     {
@@ -4705,6 +5129,10 @@
             "estáis adivinando",
             "están adivinando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "adivina",
+            "vosotros": "adivinad"
+        },
         "dutch": "raden"
     },
     {
@@ -4749,6 +5177,10 @@
             "os estáis apuntando",
             "se están apuntando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "apúntate",
+            "vosotros": "apuntaos"
+        },
         "dutch": "zich inschrijven, zich aanmelden"
     },
     {
@@ -4793,6 +5225,10 @@
             "estáis valorando",
             "están valorando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "valora",
+            "vosotros": "valorad"
+        },
         "dutch": "waarderen, beoordelen, evalueren"
     },
     {
@@ -4837,6 +5273,10 @@
             "estáis consultando",
             "están consultando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "consulta",
+            "vosotros": "consultad"
+        },
         "dutch": "raadplegen, consulteren"
     },
     {
@@ -4881,6 +5321,10 @@
             "estáis aconsejando",
             "están aconsejando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "aconseja",
+            "vosotros": "aconsejad"
+        },
         "dutch": "adviseren"
     },
     {
@@ -4925,6 +5369,10 @@
             "estáis ofreciendo",
             "están ofreciendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "ofrece",
+            "vosotros": "ofreced"
+        },
         "dutch": "aanbieden, voorstellen"
     },
     {
@@ -4969,6 +5417,10 @@
             "estáis proporcionando",
             "están proporcionando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "proporciona",
+            "vosotros": "proporcionad"
+        },
         "dutch": "iets verschaffen, voorzien van, iets leveren"
     },
     {
@@ -5013,6 +5465,10 @@
             "estáis redescubriendo",
             "están redescubriendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "redescubre",
+            "vosotros": "redescubrid"
+        },
         "dutch": "herontdekken"
     },
     {
@@ -5057,6 +5513,10 @@
             "estáis bordeando",
             "están bordeando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "bordea",
+            "vosotros": "bordead"
+        },
         "dutch": "langs (de rand) gaan, omheen lopen"
     },
     {
@@ -5101,6 +5561,10 @@
             "estáis atravesando",
             "están atravesando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "atraviesa",
+            "vosotros": "atravesad"
+        },
         "dutch": "doorkruisen, doorheen gaan, oversteken (letterlijk of figuurlijk)"
     },
     {
@@ -5145,6 +5609,10 @@
             "estáis destacando",
             "están destacando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "destaca",
+            "vosotros": "destacad"
+        },
         "dutch": "opvallen, uitblinken"
     },
     {
@@ -5189,6 +5657,10 @@
             "estáis ampliando",
             "están ampliando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "amplía",
+            "vosotros": "ampliad"
+        },
         "dutch": "vergroten, uitbreiden, verbreden (fysiek of figurlijk)"
     },
     {
@@ -5233,6 +5705,10 @@
             "estáis fundando",
             "están fundando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "funda",
+            "vosotros": "fundad"
+        },
         "dutch": "stichten, oprichten, vestigen"
     },
     {
@@ -5277,6 +5753,10 @@
             "estáis vigilando",
             "están vigilando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "vigila",
+            "vosotros": "vigilad"
+        },
         "dutch": "bewaken, in de gaten houden, opletten, toezicht houden op"
     },
     {
@@ -5321,6 +5801,10 @@
             "os estáis alegrando",
             "se están alegrando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "alégrate",
+            "vosotros": "alegraos"
+        },
         "dutch": "blij zijn, zich verheugen"
     },
     {
@@ -5365,6 +5849,10 @@
             "estáis agradeciendo",
             "están agradeciendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "agradece",
+            "vosotros": "agradeced"
+        },
         "dutch": "bedanken, dankbaar zijn, waarderen (formeel)"
     },
     {
@@ -5409,6 +5897,10 @@
             "os estáis declarando",
             "se están declarando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "declárate",
+            "vosotros": "declaraos"
+        },
         "dutch": "zijn/haar liefde verklaren"
     },
     {
@@ -5453,6 +5945,10 @@
             "estáis confesando",
             "están confesando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "confiesa",
+            "vosotros": "confesad"
+        },
         "dutch": "bekennen, opbiechten"
     },
     {
@@ -5497,6 +5993,10 @@
             "os estáis atreviendo",
             "se están atreviendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "atrévete",
+            "vosotros": "atreveos"
+        },
         "dutch": "durven, het aandurven"
     },
     {
@@ -5541,6 +6041,10 @@
             "estáis inspirando",
             "están inspirando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "inspira",
+            "vosotros": "inspirad"
+        },
         "dutch": "inspireren, inademen (medisch)"
     },
     {
@@ -5585,6 +6089,10 @@
             "os estáis callando",
             "se están callando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "cállate",
+            "vosotros": "callaos"
+        },
         "dutch": "zijn mond houden"
     },
     {
@@ -5629,6 +6137,10 @@
             "estáis golpeando",
             "están golpeando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "golpea",
+            "vosotros": "golpead"
+        },
         "dutch": "slaan, raken/treffen, hard kloppen"
     },
     {
@@ -5673,6 +6185,10 @@
             "estáis sujetando",
             "están sujetando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "sujeta",
+            "vosotros": "sujetad"
+        },
         "dutch": "vasthouden, bevestigen/vastmaken, in bedwang houden"
     },
     {
@@ -5717,6 +6233,10 @@
             "estáis decorando",
             "están decorando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "decora",
+            "vosotros": "decorad"
+        },
         "dutch": "inrichten, versieren"
     },
     {
@@ -5761,6 +6281,10 @@
             "os estáis interesando",
             "se están interesando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "interésate",
+            "vosotros": "interesaos"
+        },
         "dutch": "zich interesseren voor, belangstelling tonen voor"
     },
     {
@@ -5805,6 +6329,10 @@
             "estáis acercando",
             "están acercando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "acerca",
+            "vosotros": "acercad"
+        },
         "dutch": "inzoomen, iets of iemand dichterbij brengen"
     },
     {
@@ -5849,6 +6377,10 @@
             "os estáis durmiendo",
             "se están durmiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "duérmete",
+            "vosotros": "dormíos"
+        },
         "dutch": "zich verslapen"
     },
     {
@@ -5893,6 +6425,10 @@
             "estáis prestando",
             "están prestando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "presta",
+            "vosotros": "prestad"
+        },
         "dutch": "uitlenen"
     },
     {
@@ -5937,6 +6473,10 @@
             "estáis tratando",
             "están tratando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "trata",
+            "vosotros": "tratad"
+        },
         "dutch": "iemand behandelen"
     },
     {
@@ -5981,6 +6521,10 @@
             "estáis empujando",
             "están empujando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "empuja",
+            "vosotros": "empujad"
+        },
         "dutch": "duwen"
     },
     {
@@ -6025,6 +6569,10 @@
             "estáis adalantando",
             "están adalantando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "adalanta",
+            "vosotros": "adalantad"
+        },
         "dutch": "inhalen, vervroegen"
     },
     {
@@ -6069,6 +6617,10 @@
             "os estáis parando",
             "se están parando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "párate",
+            "vosotros": "paraos"
+        },
         "dutch": "blijven staan"
     },
     {
@@ -6113,6 +6665,10 @@
             "estáis interactuando",
             "están interactuando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "interactúa",
+            "vosotros": "interactuad"
+        },
         "dutch": "interageren, wisselwerking hebben"
     },
     {
@@ -6157,6 +6713,10 @@
             "os estáis relacionando",
             "se están relacionando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "relaciónate",
+            "vosotros": "relacionaos"
+        },
         "dutch": "contacten leggen met, omgaan met"
     },
     {
@@ -6201,6 +6761,10 @@
             "estáis besando",
             "están besando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "besa",
+            "vosotros": "besad"
+        },
         "dutch": "kussen"
     },
     {
@@ -6245,6 +6809,10 @@
             "os estáis encontrando",
             "se están encontrando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "encuéntrate",
+            "vosotros": "encontraos"
+        },
         "dutch": "iemand ontmoeten, zich op een plek bevinden"
     },
     {
@@ -6289,6 +6857,10 @@
             "estáis tuteando",
             "están tuteando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "tutea",
+            "vosotros": "tutead"
+        },
         "dutch": "tutoyeren"
     },
     {
@@ -6333,6 +6905,10 @@
             "os estáis disculpando",
             "se están disculpando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "discúlpate",
+            "vosotros": "disculpaos"
+        },
         "dutch": "zich verontschuldigen, de excuses aanbieden"
     },
     {
@@ -6377,6 +6953,10 @@
             "estáis ocupando",
             "están ocupando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "ocupa",
+            "vosotros": "ocupad"
+        },
         "dutch": "innemen, bezetten"
     },
     {
@@ -6421,6 +7001,10 @@
             "estáis fluyendo",
             "están fluyendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "fluye",
+            "vosotros": "fluid"
+        },
         "dutch": "vloeien, stromen"
     },
     {
@@ -6465,6 +7049,10 @@
             "estáis gastando",
             "están gastando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "gasta",
+            "vosotros": "gastad"
+        },
         "dutch": "uitgeven, besteden, verbruiken, verslijten"
     },
     {
@@ -6509,6 +7097,10 @@
             "estáis sufriendo",
             "están sufriendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "sufre",
+            "vosotros": "sufrid"
+        },
         "dutch": "lijden, afzien"
     },
     {
@@ -6553,6 +7145,10 @@
             "estáis ahorrando",
             "están ahorrando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "ahorra",
+            "vosotros": "ahorrad"
+        },
         "dutch": "sparen, besparen"
     },
     {
@@ -6597,6 +7193,10 @@
             "estáis entrando",
             "están entrando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "entra",
+            "vosotros": "entrad"
+        },
         "dutch": "binnenkomen, naar binnen gaan"
     },
     {
@@ -6641,6 +7241,10 @@
             "estáis confiando",
             "están confiando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "confía",
+            "vosotros": "confiad"
+        },
         "dutch": "vertrouwen"
     },
     {
@@ -6685,6 +7289,10 @@
             "estáis firmando",
             "están firmando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "firma",
+            "vosotros": "firmad"
+        },
         "dutch": "ondertekenen, tekenen"
     },
     {
@@ -6729,6 +7337,10 @@
             "estáis protagonizando",
             "están protagonizando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "protagoniza",
+            "vosotros": "protagonizad"
+        },
         "dutch": "de hoofdrol spelen/vervullen"
     },
     {
@@ -6773,6 +7385,10 @@
             "estáis chocando",
             "están chocando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "choca",
+            "vosotros": "chocad"
+        },
         "dutch": "botsen, choqueren, verbazen"
     },
     {
@@ -6817,6 +7433,10 @@
             "estáis contactando",
             "están contactando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "contacta",
+            "vosotros": "contactad"
+        },
         "dutch": "contacteren, contact opnemen"
     },
     {
@@ -6861,6 +7481,10 @@
             "estáis criticando",
             "están criticando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "critica",
+            "vosotros": "criticad"
+        },
         "dutch": "bekritiseren"
     },
     {
@@ -6905,6 +7529,10 @@
             "estáis presentando",
             "están presentando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "presenta",
+            "vosotros": "presentad"
+        },
         "dutch": "presenteren, voorstellen, indienen"
     },
     {
@@ -6949,6 +7577,10 @@
             "estáis soportando",
             "están soportando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "soporta",
+            "vosotros": "soportad"
+        },
         "dutch": "verdragen, uitstaan, dulden"
     },
     {
@@ -6993,6 +7625,10 @@
             "estáis pesando",
             "están pesando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "pesa",
+            "vosotros": "pesad"
+        },
         "dutch": "wegen"
     },
     {
@@ -7037,6 +7673,10 @@
             "estáis andando",
             "están andando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "anda",
+            "vosotros": "andad"
+        },
         "dutch": "lopen, te voet gaan, rondlopen, ergens zijn"
     },
     {
@@ -7081,6 +7721,10 @@
             "os estáis estrenando",
             "se están estrenando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "estrénate",
+            "vosotros": "estrenaos"
+        },
         "dutch": "voor het eerst gebruiken/dragen, in première gaan"
     },
     {
@@ -7125,6 +7769,10 @@
             "estáis introduciendo",
             "están introduciendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "introduce",
+            "vosotros": "introducid"
+        },
         "dutch": "invoeren, insteken, introduceren"
     },
     {
@@ -7169,6 +7817,10 @@
             "estáis siendo",
             "están siendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "sé",
+            "vosotros": "sed"
+        },
         "dutch": "zijn (constant)"
     },
     {
@@ -7213,6 +7865,10 @@
             "estáis estando",
             "están estando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "está",
+            "vosotros": "estad"
+        },
         "dutch": "zijn (variabel)"
     },
     {
@@ -7257,6 +7913,10 @@
             "estáis yendo",
             "están yendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "ve",
+            "vosotros": "id"
+        },
         "dutch": "gaan"
     },
     {
@@ -7301,6 +7961,10 @@
             "estáis escuchando",
             "están escuchando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "escucha",
+            "vosotros": "escuchad"
+        },
         "dutch": "luisteren"
     },
     {
@@ -7345,6 +8009,10 @@
             "estáis preguntando",
             "están preguntando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "pregunta",
+            "vosotros": "preguntad"
+        },
         "dutch": "vragen"
     },
     {
@@ -7389,6 +8057,10 @@
             "estáis leyendo",
             "están leyendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "lee",
+            "vosotros": "leed"
+        },
         "dutch": "lezen"
     },
     {
@@ -7433,6 +8105,10 @@
             "estáis hablando",
             "están hablando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "habla",
+            "vosotros": "hablad"
+        },
         "dutch": "praten"
     },
     {
@@ -7477,6 +8153,10 @@
             "estáis escribiendo",
             "están escribiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "escribe",
+            "vosotros": "escribid"
+        },
         "dutch": "schrijven"
     },
     {
@@ -7521,6 +8201,10 @@
             "estáis respondiendo",
             "están respondiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "responde",
+            "vosotros": "responded"
+        },
         "dutch": "antwoorden, reageren (vaak op brieven of emails - formeler)"
     },
     {
@@ -7565,6 +8249,10 @@
             "estáis comprendiendo",
             "están comprendiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "comprende",
+            "vosotros": "comprended"
+        },
         "dutch": "begrijpen (diepgaand, volledig begrijpen)"
     },
     {
@@ -7609,6 +8297,10 @@
             "estáis repitiendo",
             "están repitiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "repite",
+            "vosotros": "repetid"
+        },
         "dutch": "herhalen"
     },
     {
@@ -7653,6 +8345,10 @@
             "estáis bebiendo",
             "están bebiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "bebe",
+            "vosotros": "bebed"
+        },
         "dutch": "drinken"
     },
     {
@@ -7697,6 +8393,10 @@
             "estáis viviendo",
             "están viviendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "vive",
+            "vosotros": "vivid"
+        },
         "dutch": "leven"
     },
     {
@@ -7741,6 +8441,10 @@
             "estáis comiendo",
             "están comiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "come",
+            "vosotros": "comed"
+        },
         "dutch": "eten"
     },
     {
@@ -7785,6 +8489,10 @@
             "estáis necesitando",
             "están necesitando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "necesita",
+            "vosotros": "necesitad"
+        },
         "dutch": "nodig hebben"
     },
     {
@@ -7829,6 +8537,10 @@
             "estáis saludando",
             "están saludando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "saluda",
+            "vosotros": "saludad"
+        },
         "dutch": "groeten"
     },
     {
@@ -7873,6 +8585,10 @@
             "estáis trabajando",
             "están trabajando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "trabaja",
+            "vosotros": "trabajad"
+        },
         "dutch": "werken, acteren (in film)"
     },
     {
@@ -7917,6 +8633,10 @@
             "os estáis llamando",
             "se están llamando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "llámate",
+            "vosotros": "llamaos"
+        },
         "dutch": "heten"
     },
     {
@@ -7961,6 +8681,10 @@
             "estáis teniendo",
             "están teniendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "ten",
+            "vosotros": "tened"
+        },
         "dutch": "hebben"
     },
     {
@@ -8005,6 +8729,10 @@
             "os estáis dedicando",
             "se están dedicando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "dedícate",
+            "vosotros": "dedicaos"
+        },
         "dutch": "zich bezighouden met, zich toeleggen op"
     },
     {
@@ -8049,6 +8777,10 @@
             "estáis enseñando",
             "están enseñando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "enseña",
+            "vosotros": "enseñad"
+        },
         "dutch": "lesgeven, onderwijzen"
     },
     {
@@ -8093,6 +8825,10 @@
             "estáis estudiando",
             "están estudiando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "estudia",
+            "vosotros": "estudiad"
+        },
         "dutch": "studeren"
     },
     {
@@ -8137,6 +8873,10 @@
             "estáis subiendo",
             "están subiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "sube",
+            "vosotros": "subid"
+        },
         "dutch": "omhooggaan, naar boven gaan, stijgen, uploaden, instappen, aan boord gaan"
     },
     {
@@ -8181,6 +8921,10 @@
             "estáis aprendiendo",
             "están aprendiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "aprende",
+            "vosotros": "aprended"
+        },
         "dutch": "aanleren"
     },
     {
@@ -8225,6 +8969,10 @@
             "estáis corriendo",
             "están corriendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "corre",
+            "vosotros": "corred"
+        },
         "dutch": "rennen, hardlopen"
     },
     {
@@ -8269,6 +9017,10 @@
             "estáis entrenando",
             "están entrenando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "entrena",
+            "vosotros": "entrenad"
+        },
         "dutch": "trainen"
     },
     {
@@ -8313,6 +9065,10 @@
             "estáis cogiendo",
             "están cogiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "coge",
+            "vosotros": "coged"
+        },
         "dutch": "pakken, nemen"
     },
     {
@@ -8357,6 +9113,10 @@
             "estáis cambiando",
             "están cambiando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "cambia",
+            "vosotros": "cambiad"
+        },
         "dutch": "veranderen, wisselen, ruilen - zonder van identiteit te veranderen"
     },
     {
@@ -8401,6 +9161,10 @@
             "estáis pudiendo",
             "están pudiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "puede",
+            "vosotros": "poded"
+        },
         "dutch": "kunnen, mogen"
     },
     {
@@ -8445,6 +9209,10 @@
             "estáis sabiendo",
             "están sabiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "sabe",
+            "vosotros": "sabed"
+        },
         "dutch": "weten, kunnen"
     },
     {
@@ -8489,6 +9257,10 @@
             "estáis cantando",
             "están cantando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "canta",
+            "vosotros": "cantad"
+        },
         "dutch": "zingen"
     },
     {
@@ -8533,6 +9305,10 @@
             "estáis queriendo",
             "están queriendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "quiere",
+            "vosotros": "quered"
+        },
         "dutch": "willen"
     },
     {
@@ -8577,6 +9353,10 @@
             "estáis deletreando",
             "están deletreando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "deletrea",
+            "vosotros": "deletread"
+        },
         "dutch": "spellen"
     },
     {
@@ -8621,6 +9401,10 @@
             "estáis haciendo",
             "están haciendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "haz",
+            "vosotros": "haced"
+        },
         "dutch": "doen, maken"
     },
     {
@@ -8665,6 +9449,10 @@
             "estáis saliendo",
             "están saliendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "sal",
+            "vosotros": "salid"
+        },
         "dutch": "weggaan, uitgaan, vertrekken"
     },
     {
@@ -8709,6 +9497,10 @@
             "estáis viendo",
             "están viendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "ve",
+            "vosotros": "ved"
+        },
         "dutch": "zien"
     },
     {
@@ -8753,6 +9545,10 @@
             "estáis practicando",
             "están practicando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "practica",
+            "vosotros": "practicad"
+        },
         "dutch": "oefenen, beoefenen"
     },
     {
@@ -8797,6 +9593,10 @@
             "estáis visitando",
             "están visitando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "visita",
+            "vosotros": "visitad"
+        },
         "dutch": "bezoeken"
     },
     {
@@ -8841,6 +9641,10 @@
             "estáis jugando",
             "están jugando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "juega",
+            "vosotros": "jugad"
+        },
         "dutch": "spelen"
     },
     {
@@ -8885,6 +9689,10 @@
             "estáis conociendo",
             "están conociendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "conoce",
+            "vosotros": "conoced"
+        },
         "dutch": "kennen, leren kennen"
     },
     {
@@ -8929,6 +9737,10 @@
             "estáis desayunando",
             "están desayunando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "desayuna",
+            "vosotros": "desayunad"
+        },
         "dutch": "ontbijten"
     },
     {
@@ -8973,6 +9785,10 @@
             "estáis almorzando",
             "están almorzando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "almuerza",
+            "vosotros": "almorzad"
+        },
         "dutch": "lunchen"
     },
     {
@@ -9017,6 +9833,10 @@
             "estáis cenando",
             "están cenando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "cena",
+            "vosotros": "cenad"
+        },
         "dutch": "dineren"
     },
     {
@@ -9061,6 +9881,10 @@
             "estáis tocando",
             "están tocando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "toca",
+            "vosotros": "tocad"
+        },
         "dutch": "aanraken"
     },
     {
@@ -9105,6 +9929,10 @@
             "estáis bailando",
             "están bailando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "baila",
+            "vosotros": "bailad"
+        },
         "dutch": "dansen"
     },
     {
@@ -9149,6 +9977,10 @@
             "estáis llamando",
             "están llamando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "llama",
+            "vosotros": "llamad"
+        },
         "dutch": "bellen met"
     },
     {
@@ -9193,6 +10025,10 @@
             "estáis viajando",
             "están viajando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "viaja",
+            "vosotros": "viajad"
+        },
         "dutch": "reizen"
     },
     {
@@ -9237,6 +10073,10 @@
             "estáis comprando",
             "están comprando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "compra",
+            "vosotros": "comprad"
+        },
         "dutch": "kopen"
     },
     {
@@ -9281,6 +10121,10 @@
             "estáis cocinando",
             "están cocinando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "cocina",
+            "vosotros": "cocinad"
+        },
         "dutch": "koken"
     },
     {
@@ -9325,6 +10169,10 @@
             "estáis vendiendo",
             "están vendiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "vende",
+            "vosotros": "vended"
+        },
         "dutch": "verkopen"
     },
     {
@@ -9369,6 +10217,10 @@
             "estáis diciendo",
             "están diciendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "di",
+            "vosotros": "decid"
+        },
         "dutch": "zeggen, vertellen"
     },
     {
@@ -9413,6 +10265,10 @@
             "estáis paseando",
             "están paseando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "pasea",
+            "vosotros": "pasead"
+        },
         "dutch": "strollen"
     },
     {
@@ -9457,6 +10313,10 @@
             "estáis creyendo",
             "están creyendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "cree",
+            "vosotros": "creed"
+        },
         "dutch": "geloven, denken, menen"
     },
     {
@@ -9501,6 +10361,10 @@
             "estáis caminando",
             "están caminando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "camina",
+            "vosotros": "caminad"
+        },
         "dutch": "wandelen"
     },
     {
@@ -9545,6 +10409,10 @@
             "estáis callando",
             "están callando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "calla",
+            "vosotros": "callad"
+        },
         "dutch": "zwijgen, stil zijn"
     },
     {
@@ -9589,6 +10457,10 @@
             "estáis amando",
             "están amando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "ama",
+            "vosotros": "amad"
+        },
         "dutch": "houden van, liefhebben"
     },
     {
@@ -9633,6 +10505,10 @@
             "estáis entendiendo",
             "están entendiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "entiende",
+            "vosotros": "entended"
+        },
         "dutch": "begrijpen, verstaan (alledaags, practisch begrijpen)"
     },
     {
@@ -9677,6 +10553,10 @@
             "estáis chateando",
             "están chateando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "chatea",
+            "vosotros": "chatead"
+        },
         "dutch": "chatten"
     },
     {
@@ -9721,6 +10601,10 @@
             "estáis pasando",
             "están pasando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "pasa",
+            "vosotros": "pasad"
+        },
         "dutch": "voorbijgaan, passeren, gebeuren, langskomen"
     },
     {
@@ -9765,6 +10649,10 @@
             "estáis existiendo",
             "están existiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "existe",
+            "vosotros": "existid"
+        },
         "dutch": "bestaan"
     },
     {
@@ -9809,6 +10697,10 @@
             "estáis admitiendo",
             "están admitiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "admite",
+            "vosotros": "admitid"
+        },
         "dutch": "toegeven, erkennen, toelaten"
     },
     {
@@ -9853,6 +10745,10 @@
             "estáis describiendo",
             "están describiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "describe",
+            "vosotros": "describid"
+        },
         "dutch": "beschrijven"
     },
     {
@@ -9897,6 +10793,10 @@
             "estáis poniendo",
             "están poniendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "pon",
+            "vosotros": "poned"
+        },
         "dutch": "zetten, leggen, plaatsen, aandoen, opdienen"
     },
     {
@@ -9941,6 +10841,10 @@
             "estáis viniendo",
             "están viniendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "ven",
+            "vosotros": "venid"
+        },
         "dutch": "komen"
     },
     {
@@ -9985,6 +10889,10 @@
             "os estáis comunicando",
             "se están comunicando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "comunícate",
+            "vosotros": "comunicaos"
+        },
         "dutch": "communiceren"
     },
     {
@@ -10029,6 +10937,10 @@
             "estáis buscando",
             "están buscando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "busca",
+            "vosotros": "buscad"
+        },
         "dutch": "zoeken"
     },
     {
@@ -10073,6 +10985,10 @@
             "estáis mejorando",
             "están mejorando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "mejora",
+            "vosotros": "mejorad"
+        },
         "dutch": "verbeteren, beter worden"
     },
     {
@@ -10117,6 +11033,10 @@
             "estáis volviendo",
             "están volviendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "vuelve",
+            "vosotros": "volved"
+        },
         "dutch": "terugkeren, terugkomen, weer gaan doen (naar een vorige toestand)"
     },
     {
@@ -10161,6 +11081,10 @@
             "estáis llegando",
             "están llegando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "llega",
+            "vosotros": "llegad"
+        },
         "dutch": "aankomen, arriveren"
     },
     {
@@ -10205,6 +11129,10 @@
             "estáis nadando",
             "están nadando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "nada",
+            "vosotros": "nadad"
+        },
         "dutch": "zwemmen"
     },
     {
@@ -10249,6 +11177,10 @@
             "estáis tapeando",
             "están tapeando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "tapea",
+            "vosotros": "tapead"
+        },
         "dutch": "tapas eten"
     },
     {
@@ -10293,6 +11225,10 @@
             "estáis debiendo",
             "están debiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "debe",
+            "vosotros": "debed"
+        },
         "dutch": "moeten, verschuldigd zijn, moeten betalen"
     },
     {
@@ -10337,6 +11273,10 @@
             "estáis eligiendo",
             "están eligiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "elige",
+            "vosotros": "elegid"
+        },
         "dutch": "kiezen"
     },
     {
@@ -10381,6 +11321,10 @@
             "estáis conteniendo",
             "están conteniendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "contén",
+            "vosotros": "contened"
+        },
         "dutch": "bevatten (fysieke of chemische inhoud)"
     },
     {
@@ -10425,6 +11369,10 @@
             "estáis permitiendo",
             "están permitiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "permite",
+            "vosotros": "permitid"
+        },
         "dutch": "toestaan, toelaten"
     },
     {
@@ -10469,6 +11417,10 @@
             "estáis contestando",
             "están contestando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "contesta",
+            "vosotros": "contestad"
+        },
         "dutch": "antwoorden, beantwoorden (vooral bij vragen of aanspreken - alledaags)"
     },
     {
@@ -10513,6 +11465,10 @@
             "estáis ganando",
             "están ganando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "gana",
+            "vosotros": "ganad"
+        },
         "dutch": "winnen, verdienen"
     },
     {
@@ -10557,6 +11513,10 @@
             "estáis apareciendo",
             "están apareciendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "aparece",
+            "vosotros": "apareced"
+        },
         "dutch": "verschijnen, tevoorschijn komen"
     },
     {
@@ -10601,6 +11561,10 @@
             "estáis reposando",
             "están reposando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "reposa",
+            "vosotros": "reposad"
+        },
         "dutch": "rusten, laten rusten (fysiek)"
     },
     {
@@ -10645,6 +11609,10 @@
             "os estáis relajando",
             "se están relajando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "relájate",
+            "vosotros": "relajaos"
+        },
         "dutch": "ontspannen, zich ontspannen, relaxeren"
     },
     {
@@ -10689,6 +11657,10 @@
             "estáis limpiando",
             "están limpiando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "limpia",
+            "vosotros": "limpiad"
+        },
         "dutch": "schoonmaken, reinigen"
     },
     {
@@ -10733,6 +11705,10 @@
             "estáis marcando",
             "están marcando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "marca",
+            "vosotros": "marcad"
+        },
         "dutch": "markeren, aanduiden, scoren"
     },
     {
@@ -10777,6 +11753,10 @@
             "estáis sobreviviendo",
             "están sobreviviendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "sobrevive",
+            "vosotros": "sobrevivid"
+        },
         "dutch": "overleven"
     },
     {
@@ -10821,6 +11801,10 @@
             "estáis llevando",
             "están llevando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "lleva",
+            "vosotros": "llevad"
+        },
         "dutch": "dragen, bevatten, naar ergens wegbrengen of meenemen"
     },
     {
@@ -10865,6 +11849,10 @@
             "estáis disfrutando",
             "están disfrutando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "disfruta",
+            "vosotros": "disfrutad"
+        },
         "dutch": "genieten"
     },
     {
@@ -10909,6 +11897,10 @@
             "estáis empezando",
             "están empezando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "empieza",
+            "vosotros": "empezad"
+        },
         "dutch": "beginnen, starten (minder formeel)"
     },
     {
@@ -10953,6 +11945,10 @@
             "estáis comenzando",
             "están comenzando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "comienza",
+            "vosotros": "comenzad"
+        },
         "dutch": "beginnen, starten (formeler)"
     },
     {
@@ -10997,6 +11993,10 @@
             "estáis cerrando",
             "están cerrando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "cierra",
+            "vosotros": "cerrad"
+        },
         "dutch": "sluiten"
     },
     {
@@ -11041,6 +12041,10 @@
             "estáis secando",
             "están secando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "seca",
+            "vosotros": "secad"
+        },
         "dutch": "drogen"
     },
     {
@@ -11085,6 +12089,10 @@
             "estáis lavando",
             "están lavando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "lava",
+            "vosotros": "lavad"
+        },
         "dutch": "wassen"
     },
     {
@@ -11129,6 +12137,10 @@
             "os estáis lavando",
             "se están lavando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "lávate",
+            "vosotros": "lavaos"
+        },
         "dutch": "zich wassen"
     },
     {
@@ -11173,6 +12185,10 @@
             "estáis negando",
             "están negando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "niega",
+            "vosotros": "negad"
+        },
         "dutch": "een feit of beschuldiging ontkennen, een toestemming weigeren"
     },
     {
@@ -11217,6 +12233,10 @@
             "estáis prefiriendo",
             "están prefiriendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "prefiere",
+            "vosotros": "preferid"
+        },
         "dutch": "verkiezen, liever hebben, prefereren"
     },
     {
@@ -11261,6 +12281,10 @@
             "estáis ayudando",
             "están ayudando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "ayuda",
+            "vosotros": "ayudad"
+        },
         "dutch": "helpen"
     },
     {
@@ -11305,6 +12329,10 @@
             "estáis alquilando",
             "están alquilando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "alquila",
+            "vosotros": "alquilad"
+        },
         "dutch": "huren"
     },
     {
@@ -11349,6 +12377,10 @@
             "estáis conduciendo",
             "están conduciendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "conduce",
+            "vosotros": "conducid"
+        },
         "dutch": "rijden, besturen"
     },
     {
@@ -11393,6 +12425,10 @@
             "estáis deseando",
             "están deseando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "desea",
+            "vosotros": "desead"
+        },
         "dutch": "wensen"
     },
     {
@@ -11437,6 +12473,10 @@
             "estáis mirando",
             "están mirando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "mira",
+            "vosotros": "mirad"
+        },
         "dutch": "kijken, bekijken"
     },
     {
@@ -11481,6 +12521,10 @@
             "os estáis llevando",
             "se están llevando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "llévate",
+            "vosotros": "llevaos"
+        },
         "dutch": "meenemen"
     },
     {
@@ -11525,6 +12569,10 @@
             "estáis usando",
             "están usando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "usa",
+            "vosotros": "usad"
+        },
         "dutch": "gebruiken (alledaags)"
     },
     {
@@ -11569,6 +12617,10 @@
             "estáis comparando",
             "están comparando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "compara",
+            "vosotros": "comparad"
+        },
         "dutch": "vergelijken"
     },
     {
@@ -11613,6 +12665,10 @@
             "estáis rompiendo",
             "están rompiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "rompe",
+            "vosotros": "romped"
+        },
         "dutch": "stukmaken, breken"
     },
     {
@@ -11657,6 +12713,10 @@
             "os estáis sentando",
             "se están sentando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "siéntate",
+            "vosotros": "sentaos"
+        },
         "dutch": "gaan zitten, zitten"
     },
     {
@@ -11701,6 +12761,10 @@
             "estáis volando",
             "están volando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "vuela",
+            "vosotros": "volad"
+        },
         "dutch": "vliegen"
     },
     {
@@ -11745,6 +12809,10 @@
             "estáis dando",
             "están dando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "da",
+            "vosotros": "dad"
+        },
         "dutch": "geven"
     },
     {
@@ -11789,6 +12857,10 @@
             "estáis robando",
             "están robando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "roba",
+            "vosotros": "robad"
+        },
         "dutch": "stelen, roven"
     },
     {
@@ -11833,6 +12905,10 @@
             "os estáis olvidando",
             "se están olvidando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "olvídate",
+            "vosotros": "olvidaos"
+        },
         "dutch": "iets vergeten"
     },
     {
@@ -11877,6 +12953,10 @@
             "estáis olvidando",
             "están olvidando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "olvida",
+            "vosotros": "olvidad"
+        },
         "dutch": "vergeten"
     },
     {
@@ -11921,6 +13001,10 @@
             "estáis siguiendo",
             "están siguiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "sigue",
+            "vosotros": "seguid"
+        },
         "dutch": "volgen, doorgaan, blijven doen"
     },
     {
@@ -11965,6 +13049,10 @@
             "estáis esperando",
             "están esperando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "espera",
+            "vosotros": "esperad"
+        },
         "dutch": "wachten, hopen, verwachten"
     },
     {
@@ -12009,6 +13097,10 @@
             "estáis pareciendo",
             "están pareciendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "parece",
+            "vosotros": "pareced"
+        },
         "dutch": "lijken, schijnen (subjectieve indruk of mening)"
     },
     {
@@ -12053,6 +13145,10 @@
             "estáis pensando",
             "están pensando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "piensa",
+            "vosotros": "pensad"
+        },
         "dutch": "denken aan"
     },
     {
@@ -12097,6 +13193,10 @@
             "estáis esquiando",
             "están esquiando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "esquía",
+            "vosotros": "esquiad"
+        },
         "dutch": "skiën"
     },
     {
@@ -12141,6 +13241,10 @@
             "os estáis levantando",
             "se están levantando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "levántate",
+            "vosotros": "levantaos"
+        },
         "dutch": "opstaan"
     },
     {
@@ -12185,6 +13289,10 @@
             "os estáis sintiendo",
             "se están sintiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "siéntete",
+            "vosotros": "sentíos"
+        },
         "dutch": "zich voelen"
     },
     {
@@ -12229,6 +13337,10 @@
             "os estáis acostando",
             "se están acostando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "acuéstate",
+            "vosotros": "acostaos"
+        },
         "dutch": "gaan slapen"
     },
     {
@@ -12273,6 +13385,10 @@
             "estáis madrugando",
             "están madrugando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "madruga",
+            "vosotros": "madrugad"
+        },
         "dutch": "vroeg opstaan"
     },
     {
@@ -12317,6 +13433,10 @@
             "estáis odiando",
             "están odiando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "odia",
+            "vosotros": "odiad"
+        },
         "dutch": "haten"
     },
     {
@@ -12361,6 +13481,10 @@
             "estáis cuidando",
             "están cuidando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "cuida",
+            "vosotros": "cuidad"
+        },
         "dutch": "zorgen voor, verzorgen"
     },
     {
@@ -12405,6 +13529,10 @@
             "estáis fumando",
             "están fumando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "fuma",
+            "vosotros": "fumad"
+        },
         "dutch": "roken"
     },
     {
@@ -12449,6 +13577,10 @@
             "os estáis yendo",
             "se están yendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "vete",
+            "vosotros": "idos"
+        },
         "dutch": "weggaan, vertrekken"
     },
     {
@@ -12493,6 +13625,10 @@
             "estáis sirviendo",
             "están sirviendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "sirve",
+            "vosotros": "servid"
+        },
         "dutch": "serveren, opdienen, eten opscheppen"
     },
     {
@@ -12537,6 +13673,10 @@
             "estáis ocurriendo",
             "están ocurriendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "ocurre",
+            "vosotros": "ocurrid"
+        },
         "dutch": "gebeuren, plaatsvinden"
     },
     {
@@ -12581,6 +13721,10 @@
             "estáis descansando",
             "están descansando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "descansa",
+            "vosotros": "descansad"
+        },
         "dutch": "uitrusten (rust nemen, ontspannen)"
     },
     {
@@ -12625,6 +13769,10 @@
             "os estáis duchando",
             "se están duchando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "dúchate",
+            "vosotros": "duchaos"
+        },
         "dutch": "zich douchen"
     },
     {
@@ -12669,6 +13817,10 @@
             "estáis celebrando",
             "están celebrando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "celebra",
+            "vosotros": "celebrad"
+        },
         "dutch": "vieren"
     },
     {
@@ -12713,6 +13865,10 @@
             "estáis preparando",
             "están preparando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "prepara",
+            "vosotros": "preparad"
+        },
         "dutch": "voorbereiden, klaarmaken"
     },
     {
@@ -12757,6 +13913,10 @@
             "os estáis despertando",
             "se están despertando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "despiértate",
+            "vosotros": "despertaos"
+        },
         "dutch": "wakker worden"
     },
     {
@@ -12801,6 +13961,10 @@
             "os estáis vistiendo",
             "se están vistiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "vístete",
+            "vosotros": "vestíos"
+        },
         "dutch": "zich kleden in, zich aankleden in"
     },
     {
@@ -12845,6 +14009,10 @@
             "estáis animando",
             "están animando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "anima",
+            "vosotros": "animad"
+        },
         "dutch": "aanmoedigen, opvrolijken, bemoedigen"
     },
     {
@@ -12889,6 +14057,10 @@
             "os estáis reuniendo",
             "se están reuniendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "reúnete",
+            "vosotros": "reuníos"
+        },
         "dutch": "bijeenkomen, samenkomen, vergaderen"
     },
     {
@@ -12933,6 +14105,10 @@
             "estáis participando",
             "están participando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "participa",
+            "vosotros": "participad"
+        },
         "dutch": "deelnemen"
     },
     {
@@ -12977,6 +14153,10 @@
             "estáis adornando",
             "están adornando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "adorna",
+            "vosotros": "adornad"
+        },
         "dutch": "versieren"
     },
     {
@@ -13021,6 +14201,10 @@
             "estáis compartiendo",
             "están compartiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "comparte",
+            "vosotros": "compartid"
+        },
         "dutch": "delen"
     },
     {
@@ -13065,6 +14249,10 @@
             "estáis meditando",
             "están meditando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "medita",
+            "vosotros": "meditad"
+        },
         "dutch": "mediteren, overdenken"
     },
     {
@@ -13109,6 +14297,10 @@
             "estáis desconectando",
             "están desconectando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "desconecta",
+            "vosotros": "desconectad"
+        },
         "dutch": "ontspannen, loskomen, ontkoppelen"
     },
     {
@@ -13153,6 +14345,10 @@
             "estáis entregando",
             "están entregando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "entrega",
+            "vosotros": "entregad"
+        },
         "dutch": "afleveren, overhandigen, inleveren"
     },
     {
@@ -13197,6 +14393,10 @@
             "estáis quedando",
             "están quedando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "queda",
+            "vosotros": "quedad"
+        },
         "dutch": "afspreken met"
     },
     {
@@ -13241,6 +14441,10 @@
             "estáis durmiendo",
             "están durmiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "duerme",
+            "vosotros": "dormid"
+        },
         "dutch": "slapen"
     },
     {
@@ -13285,6 +14489,10 @@
             "estáis merendando",
             "están merendando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "merienda",
+            "vosotros": "merendad"
+        },
         "dutch": "snack of tussendoortje eten rond 16 uur"
     },
     {
@@ -13329,6 +14537,10 @@
             "estáis pidiendo",
             "están pidiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "pide",
+            "vosotros": "pedid"
+        },
         "dutch": "bestellen, vragen, verzoeken"
     },
     {
@@ -13373,6 +14585,10 @@
             "os estáis quedando",
             "se están quedando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "quédate",
+            "vosotros": "quedaos"
+        },
         "dutch": "thuisblijven, blijven in, verblijven in"
     },
     {
@@ -13417,6 +14633,10 @@
             "os estáis cuidando",
             "se están cuidando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "cuídate",
+            "vosotros": "cuidaos"
+        },
         "dutch": "voor jezelf zorgen, jezelf verzorgen, op jezelf letten"
     },
     {
@@ -13461,6 +14681,10 @@
             "estáis picando",
             "están picando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "pica",
+            "vosotros": "picad"
+        },
         "dutch": "hapjes eten, prikken, jeuken"
     },
     {
@@ -13505,6 +14729,10 @@
             "estáis proponiendo",
             "están proponiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "propón",
+            "vosotros": "proponed"
+        },
         "dutch": "voorstellen, een voorstel doen"
     },
     {
@@ -13549,6 +14777,10 @@
             "estáis justificando",
             "están justificando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "justifica",
+            "vosotros": "justificad"
+        },
         "dutch": "rechtvaardigen, verantwoorden, bewijzen"
     },
     {
@@ -13593,6 +14825,10 @@
             "estáis probando",
             "están probando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "prueba",
+            "vosotros": "probad"
+        },
         "dutch": "proberen, proeven, testen"
     },
     {
@@ -13637,6 +14873,10 @@
             "os estáis secando",
             "se están secando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "sécate",
+            "vosotros": "secaos"
+        },
         "dutch": "zich drogen"
     },
     {
@@ -13681,6 +14921,10 @@
             "os estáis bañando",
             "se están bañando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "báñate",
+            "vosotros": "bañaos"
+        },
         "dutch": "zich baden"
     },
     {
@@ -13725,6 +14969,10 @@
             "os estáis peinando",
             "se están peinando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "péinate",
+            "vosotros": "peinaos"
+        },
         "dutch": "zich kammen"
     },
     {
@@ -13769,6 +15017,10 @@
             "os estáis cepillando",
             "se están cepillando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "cepíllate",
+            "vosotros": "cepillaos"
+        },
         "dutch": "zich borstellen"
     },
     {
@@ -13813,6 +15065,10 @@
             "os estáis afeitando",
             "se están afeitando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "aféitate",
+            "vosotros": "afeitaos"
+        },
         "dutch": "zich scheren"
     },
     {
@@ -13857,6 +15113,10 @@
             "os estáis maquillando",
             "se están maquillando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "maquíllate",
+            "vosotros": "maquillaos"
+        },
         "dutch": "zich maquilleren"
     },
     {
@@ -13901,6 +15161,10 @@
             "estáis recordando",
             "están recordando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "recuerda",
+            "vosotros": "recordad"
+        },
         "dutch": "herinneren, zich herinneren, onthouden (neutraal, gebruikelijk)"
     },
     {
@@ -13945,6 +15209,10 @@
             "estáis terminando",
             "están terminando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "termina",
+            "vosotros": "terminad"
+        },
         "dutch": "beëindigen, afsluiten, voltooien (bewust afsluiten)"
     },
     {
@@ -13989,6 +15257,10 @@
             "estáis aceptando",
             "están aceptando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "acepta",
+            "vosotros": "aceptad"
+        },
         "dutch": "accepteren, aanvaarden"
     },
     {
@@ -14033,6 +15305,10 @@
             "estáis rechazando",
             "están rechazando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "rechaza",
+            "vosotros": "rechazad"
+        },
         "dutch": "een voorstel/aanbod/persoon afwijzen, weigeren, verwerpen"
     },
     {
@@ -14077,6 +15353,10 @@
             "estáis perdiendo",
             "están perdiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "pierde",
+            "vosotros": "perded"
+        },
         "dutch": "verliezen"
     },
     {
@@ -14121,6 +15401,10 @@
             "estáis recibiendo",
             "están recibiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "recibe",
+            "vosotros": "recibid"
+        },
         "dutch": "ontvangen"
     },
     {
@@ -14165,6 +15449,10 @@
             "estáis trayendo",
             "están trayendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "trae",
+            "vosotros": "traed"
+        },
         "dutch": "meebrengen, brengen (naar de spreker toe)"
     },
     {
@@ -14209,6 +15497,10 @@
             "estáis imaginando",
             "están imaginando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "imagina",
+            "vosotros": "imaginad"
+        },
         "dutch": "voorstellen, zich voorstellen, verbeelden"
     },
     {
@@ -14253,6 +15545,10 @@
             "estáis conectando",
             "están conectando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "conecta",
+            "vosotros": "conectad"
+        },
         "dutch": "verbinden, aansluiten, contact maken"
     },
     {
@@ -14297,6 +15593,10 @@
             "estáis reciclando",
             "están reciclando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "recicla",
+            "vosotros": "reciclad"
+        },
         "dutch": "recycleren"
     },
     {
@@ -14341,6 +15641,10 @@
             "estáis girando",
             "están girando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "gira",
+            "vosotros": "girad"
+        },
         "dutch": "draaien"
     },
     {
@@ -14385,6 +15689,10 @@
             "estáis regresando",
             "están regresando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "regresa",
+            "vosotros": "regresad"
+        },
         "dutch": "fysiek terugkeren, teruggaan, terugkomen naar een plaats"
     },
     {
@@ -14429,6 +15737,10 @@
             "estáis cociendo",
             "están cociendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "cuece",
+            "vosotros": "coced"
+        },
         "dutch": "in water koken, garen"
     },
     {
@@ -14473,6 +15785,10 @@
             "estáis hirviendo",
             "están hirviendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "hierve",
+            "vosotros": "hervid"
+        },
         "dutch": "water koken"
     },
     {
@@ -14517,6 +15833,10 @@
             "estáis recalentando",
             "están recalentando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "recalenta",
+            "vosotros": "recalentad"
+        },
         "dutch": "heropwarmen"
     },
     {
@@ -14561,6 +15881,10 @@
             "estáis sacando",
             "están sacando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "saca",
+            "vosotros": "sacad"
+        },
         "dutch": "uitnemen, eruit halen, naar buiten brengen, opslaan"
     },
     {
@@ -14605,6 +15929,10 @@
             "estáis tomando",
             "están tomando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "toma",
+            "vosotros": "tomad"
+        },
         "dutch": "nemen, drinken, innemen"
     },
     {
@@ -14649,6 +15977,10 @@
             "estáis dudando",
             "están dudando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "duda",
+            "vosotros": "dudad"
+        },
         "dutch": "twijfelen"
     },
     {
@@ -14693,6 +16025,10 @@
             "estáis anotando",
             "están anotando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "anota",
+            "vosotros": "anotad"
+        },
         "dutch": "noteren, iets opschrijven (formeel)"
     },
     {
@@ -14737,6 +16073,10 @@
             "estáis aprobando",
             "están aprobando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "aprueba",
+            "vosotros": "aprobad"
+        },
         "dutch": "goedkeuren, slagen voor een examen"
     },
     {
@@ -14781,6 +16121,10 @@
             "estáis dejando",
             "están dejando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "deja",
+            "vosotros": "dejad"
+        },
         "dutch": "achterlaten, laten, opgeven"
     },
     {
@@ -14825,6 +16169,10 @@
             "estáis levantando",
             "están levantando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "levanta",
+            "vosotros": "levantad"
+        },
         "dutch": "optillen, opheffen"
     },
     {
@@ -14869,6 +16217,10 @@
             "estáis atendiendo",
             "están atendiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "atiende",
+            "vosotros": "atended"
+        },
         "dutch": "bedienen, helpen, te woord staan"
     },
     {
@@ -14913,6 +16265,10 @@
             "os estáis casando",
             "se están casando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "cásate",
+            "vosotros": "casaos"
+        },
         "dutch": "trouwen met"
     },
     {
@@ -14957,6 +16313,10 @@
             "estáis colocando",
             "están colocando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "coloca",
+            "vosotros": "colocad"
+        },
         "dutch": "plaatsen, neerzetten"
     },
     {
@@ -15001,6 +16361,10 @@
             "estáis consistiendo",
             "están consistiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "consiste",
+            "vosotros": "consistid"
+        },
         "dutch": "bestaan uit"
     },
     {
@@ -15045,6 +16409,10 @@
             "estáis continuando",
             "están continuando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "continúa",
+            "vosotros": "continuad"
+        },
         "dutch": "verderzetten"
     },
     {
@@ -15089,6 +16457,10 @@
             "estáis confundiendo",
             "están confundiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "confunde",
+            "vosotros": "confundid"
+        },
         "dutch": "verwarren, in de war brengen"
     },
     {
@@ -15133,6 +16505,10 @@
             "estáis cosiendo",
             "están cosiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "cose",
+            "vosotros": "cosed"
+        },
         "dutch": "naaien"
     },
     {
@@ -15177,6 +16553,10 @@
             "estáis criando",
             "están criando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "cría",
+            "vosotros": "criad"
+        },
         "dutch": "opvoeden, grootbrengen, fokken"
     },
     {
@@ -15221,6 +16601,10 @@
             "estáis decidiendo",
             "están decidiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "decide",
+            "vosotros": "decidid"
+        },
         "dutch": "beslissen"
     },
     {
@@ -15265,6 +16649,10 @@
             "estáis definiendo",
             "están definiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "define",
+            "vosotros": "definid"
+        },
         "dutch": "definiëren"
     },
     {
@@ -15309,6 +16697,10 @@
             "estáis dibujando",
             "están dibujando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "dibuja",
+            "vosotros": "dibujad"
+        },
         "dutch": "tekenen"
     },
     {
@@ -15353,6 +16745,10 @@
             "estáis intentando",
             "están intentando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "intenta",
+            "vosotros": "intentad"
+        },
         "dutch": "proberen, een poging doen (moeite doen om iets te bereiken)"
     },
     {
@@ -15397,6 +16793,10 @@
             "estáis mintiendo",
             "están mintiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "miente",
+            "vosotros": "mentid"
+        },
         "dutch": "liegen"
     },
     {
@@ -15441,6 +16841,10 @@
             "estáis patinando",
             "están patinando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "patina",
+            "vosotros": "patinad"
+        },
         "dutch": "schaatsen"
     },
     {
@@ -15485,6 +16889,10 @@
             "estáis plantando",
             "están plantando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "planta",
+            "vosotros": "plantad"
+        },
         "dutch": "planten"
     },
     {
@@ -15529,6 +16937,10 @@
             "estáis quemando",
             "están quemando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "quema",
+            "vosotros": "quemad"
+        },
         "dutch": "verbranden, in brand steken"
     },
     {
@@ -15573,6 +16985,10 @@
             "estáis reparando",
             "están reparando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "repara",
+            "vosotros": "reparad"
+        },
         "dutch": "repareren, herstellen"
     },
     {
@@ -15617,6 +17033,10 @@
             "estáis añadiendo",
             "están añadiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "añade",
+            "vosotros": "añadid"
+        },
         "dutch": "toevoegen"
     },
     {
@@ -15661,6 +17081,10 @@
             "estáis regando",
             "están regando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "riega",
+            "vosotros": "regad"
+        },
         "dutch": "water geven"
     },
     {
@@ -15705,6 +17129,10 @@
             "estáis midiendo",
             "están midiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "mide",
+            "vosotros": "medid"
+        },
         "dutch": "meten"
     },
     {
@@ -15749,6 +17177,10 @@
             "estáis fregando",
             "están fregando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "friega",
+            "vosotros": "fregad"
+        },
         "dutch": "schrobben, dweilen, afwassen"
     },
     {
@@ -15793,6 +17225,10 @@
             "estáis huyendo",
             "están huyendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "huye",
+            "vosotros": "huid"
+        },
         "dutch": "wegvluchten"
     },
     {
@@ -15837,6 +17273,10 @@
             "estáis oyendo",
             "están oyendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "oye",
+            "vosotros": "oíd"
+        },
         "dutch": "horen"
     },
     {
@@ -15881,6 +17321,10 @@
             "estáis cruzando",
             "están cruzando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "cruza",
+            "vosotros": "cruzad"
+        },
         "dutch": "oversteken"
     },
     {
@@ -15925,6 +17369,10 @@
             "estáis abriendo",
             "están abriendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "abre",
+            "vosotros": "abrid"
+        },
         "dutch": "openen"
     },
     {
@@ -15969,6 +17417,10 @@
             "estáis mordiendo",
             "están mordiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "muerde",
+            "vosotros": "morded"
+        },
         "dutch": "bijten"
     },
     {
@@ -16013,6 +17465,10 @@
             "estáis oliendo",
             "están oliendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "huele",
+            "vosotros": "oled"
+        },
         "dutch": "ruiken"
     },
     {
@@ -16057,6 +17513,10 @@
             "estáis sonando",
             "están sonando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "suena",
+            "vosotros": "sonad"
+        },
         "dutch": "klinken, weerklinken"
     },
     {
@@ -16101,6 +17561,10 @@
             "estáis encontrando",
             "están encontrando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "encuentra",
+            "vosotros": "encontrad"
+        },
         "dutch": "vinden"
     },
     {
@@ -16145,6 +17609,10 @@
             "estáis traduciendo",
             "están traduciendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "traduce",
+            "vosotros": "traducid"
+        },
         "dutch": "vertalen"
     },
     {
@@ -16189,6 +17657,10 @@
             "estáis cortando",
             "están cortando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "corta",
+            "vosotros": "cortad"
+        },
         "dutch": "snijden, knippen"
     },
     {
@@ -16233,6 +17705,10 @@
             "estáis triturando",
             "están triturando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "tritura",
+            "vosotros": "triturad"
+        },
         "dutch": "vermalen, verpulveren, pureren"
     },
     {
@@ -16277,6 +17753,10 @@
             "estáis pelando",
             "están pelando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "pela",
+            "vosotros": "pelad"
+        },
         "dutch": "schillen, pellen"
     },
     {
@@ -16321,6 +17801,10 @@
             "estáis acabando",
             "están acabando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "acaba",
+            "vosotros": "acabad"
+        },
         "dutch": "eindigen, afronden, ophouden (op natuurlijke wijze)"
     },
     {
@@ -16365,6 +17849,10 @@
             "estáis pagando",
             "están pagando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "paga",
+            "vosotros": "pagad"
+        },
         "dutch": "betalen"
     },
     {
@@ -16409,6 +17897,10 @@
             "estáis respetando",
             "están respetando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "respeta",
+            "vosotros": "respetad"
+        },
         "dutch": "respecteren"
     },
     {
@@ -16453,6 +17945,10 @@
             "estáis rellenando",
             "están rellenando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "rellena",
+            "vosotros": "rellenad"
+        },
         "dutch": "invullen, opvullen, vullen"
     },
     {
@@ -16497,6 +17993,10 @@
             "estáis aparcando",
             "están aparcando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "aparca",
+            "vosotros": "aparcad"
+        },
         "dutch": "parkeren"
     },
     {
@@ -16541,6 +18041,10 @@
             "estáis riendo",
             "están riendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "ríe",
+            "vosotros": "reíd"
+        },
         "dutch": "lachen"
     },
     {
@@ -16585,6 +18089,10 @@
             "estáis mezclando",
             "están mezclando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "mezcla",
+            "vosotros": "mezclad"
+        },
         "dutch": "mengen"
     },
     {
@@ -16629,6 +18137,10 @@
             "estáis pintando",
             "están pintando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "pinta",
+            "vosotros": "pintad"
+        },
         "dutch": "schilderen"
     },
     {
@@ -16673,6 +18185,10 @@
             "estáis explicando",
             "están explicando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "explica",
+            "vosotros": "explicad"
+        },
         "dutch": "uitleggen"
     },
     {
@@ -16717,6 +18233,10 @@
             "estáis suponiendo",
             "están suponiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "supón",
+            "vosotros": "suponed"
+        },
         "dutch": "veronderstellen, aannemen"
     },
     {
@@ -16761,6 +18281,10 @@
             "estáis curando",
             "están curando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "cura",
+            "vosotros": "curad"
+        },
         "dutch": "iemand genezen, behandelen"
     },
     {
@@ -16805,6 +18329,10 @@
             "estáis sanando",
             "están sanando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "sana",
+            "vosotros": "sanad"
+        },
         "dutch": "helen"
     },
     {
@@ -16849,6 +18377,10 @@
             "estáis dependiendo",
             "están dependiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "depende",
+            "vosotros": "depended"
+        },
         "dutch": "afhangen van"
     },
     {
@@ -16893,6 +18425,10 @@
             "os estáis acordando",
             "se están acordando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "acuérdate",
+            "vosotros": "acordaos"
+        },
         "dutch": "zich iets herinneren (nadruk op het moment van herinneren)"
     },
     {
@@ -16937,6 +18473,10 @@
             "estáis apuntando",
             "están apuntando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "apunta",
+            "vosotros": "apuntad"
+        },
         "dutch": "opschrijven, noteren, richten (wapen/camera), inschrijven, aanwijzen (informeel)"
     },
     {
@@ -16981,6 +18521,10 @@
             "os estáis equivocando",
             "se están equivocando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "equivócate",
+            "vosotros": "equivocaos"
+        },
         "dutch": "zich vergissen van"
     },
     {
@@ -17025,6 +18569,10 @@
             "estáis montando",
             "están montando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "monta",
+            "vosotros": "montad"
+        },
         "dutch": "monteren, in elkaar zetten, rijden, iets opzetten"
     },
     {
@@ -17069,6 +18617,10 @@
             "estáis opinando",
             "están opinando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "opina",
+            "vosotros": "opinad"
+        },
         "dutch": "een mening hebben"
     },
     {
@@ -17113,6 +18665,10 @@
             "estáis organizando",
             "están organizando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "organiza",
+            "vosotros": "organizad"
+        },
         "dutch": "organiseren"
     },
     {
@@ -17157,6 +18713,10 @@
             "estáis enviando",
             "están enviando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "envía",
+            "vosotros": "enviad"
+        },
         "dutch": "verzenden"
     },
     {
@@ -17201,6 +18761,10 @@
             "estáis valiendo",
             "están valiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "vale",
+            "vosotros": "valed"
+        },
         "dutch": "waard zijn"
     },
     {
@@ -17245,6 +18809,10 @@
             "estáis cometiendo",
             "están cometiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "comete",
+            "vosotros": "cometed"
+        },
         "dutch": "plegen"
     },
     {
@@ -17289,6 +18857,10 @@
             "estáis memorizando",
             "están memorizando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "memoriza",
+            "vosotros": "memorizad"
+        },
         "dutch": "onthouden, memorizeren"
     },
     {
@@ -17333,6 +18905,10 @@
             "estáis dominando",
             "están dominando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "domina",
+            "vosotros": "dominad"
+        },
         "dutch": "domineren, beheersen"
     },
     {
@@ -17377,6 +18953,10 @@
             "os estáis aburriendo",
             "se están aburriendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "abúrrete",
+            "vosotros": "aburríos"
+        },
         "dutch": "zich vervelen"
     },
     {
@@ -17421,6 +19001,10 @@
             "estáis roncando",
             "están roncando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "ronca",
+            "vosotros": "roncad"
+        },
         "dutch": "snurken"
     },
     {
@@ -17465,6 +19049,10 @@
             "estáis ligando",
             "están ligando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "liga",
+            "vosotros": "ligad"
+        },
         "dutch": "flirten, versieren (romantisch of sexueel)"
     },
     {
@@ -17509,6 +19097,10 @@
             "estáis flirteando",
             "están flirteando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "flirtea",
+            "vosotros": "flirtead"
+        },
         "dutch": "flirten (speels en vrijblijvend)"
     },
     {
@@ -17553,6 +19145,10 @@
             "os estáis poniendo",
             "se están poniendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "ponte",
+            "vosotros": "poneos"
+        },
         "dutch": "kleding aantrekken, zich opstellen, worden"
     },
     {
@@ -17597,6 +19193,10 @@
             "estáis cayendo",
             "están cayendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "cae",
+            "vosotros": "caed"
+        },
         "dutch": "vallen"
     },
     {
@@ -17641,6 +19241,10 @@
             "os estáis cayendo",
             "se están cayendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "cáete",
+            "vosotros": "caeos"
+        },
         "dutch": "omvallen"
     },
     {
@@ -17685,6 +19289,10 @@
             "estáis cabiendo",
             "están cabiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "cabe",
+            "vosotros": "cabed"
+        },
         "dutch": "in iets passen"
     },
     {
@@ -17729,6 +19337,10 @@
             "estáis divirtiendo",
             "están divirtiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "divierte",
+            "vosotros": "divertid"
+        },
         "dutch": "amuseren, vermaken"
     },
     {
@@ -17773,6 +19385,10 @@
             "os estáis divirtiendo",
             "se están divirtiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "diviértete",
+            "vosotros": "divertíos"
+        },
         "dutch": "zich amuseren, plezier maken"
     },
     {
@@ -17817,6 +19433,10 @@
             "estáis encendiendo",
             "están encendiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "enciende",
+            "vosotros": "encended"
+        },
         "dutch": "aanzetten, aansteken"
     },
     {
@@ -17861,6 +19481,10 @@
             "estáis consiguiendo",
             "están consiguiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "consigue",
+            "vosotros": "conseguid"
+        },
         "dutch": "bereiken, lukken, voor elkaar krijgen (synoniem van lograr)"
     },
     {
@@ -17905,6 +19529,10 @@
             "os estáis despidiendo",
             "se están despidiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "despídete",
+            "vosotros": "despedíos"
+        },
         "dutch": "afscheid nemen"
     },
     {
@@ -17949,6 +19577,10 @@
             "estáis friendo",
             "están friendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "fríe",
+            "vosotros": "freíd"
+        },
         "dutch": "frituren"
     },
     {
@@ -17993,6 +19625,10 @@
             "estáis sonriendo",
             "están sonriendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "sonríe",
+            "vosotros": "sonreíd"
+        },
         "dutch": "glimlachen"
     },
     {
@@ -18037,6 +19673,10 @@
             "estáis doliendo",
             "están doliendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "duele",
+            "vosotros": "doled"
+        },
         "dutch": "pijn doen"
     },
     {
@@ -18081,6 +19721,10 @@
             "estáis mostrando",
             "están mostrando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "muestra",
+            "vosotros": "mostrad"
+        },
         "dutch": "laten zien, tonen"
     },
     {
@@ -18125,6 +19769,10 @@
             "estáis muriendo",
             "están muriendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "muere",
+            "vosotros": "morid"
+        },
         "dutch": "sterven"
     },
     {
@@ -18169,6 +19817,10 @@
             "os estáis pareciendo",
             "se están pareciendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "parécete",
+            "vosotros": "pareceos"
+        },
         "dutch": "lijken op iemand of iets"
     },
     {
@@ -18213,6 +19865,10 @@
             "estáis mereciendo",
             "están mereciendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "merece",
+            "vosotros": "mereced"
+        },
         "dutch": "verdienen (iets waard zijn)"
     },
     {
@@ -18257,6 +19913,10 @@
             "estáis bajando",
             "están bajando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "baja",
+            "vosotros": "bajad"
+        },
         "dutch": "naar beneden gaan, dalen, omlaag brengen, downloaden"
     },
     {
@@ -18301,6 +19961,10 @@
             "estáis relacionando",
             "están relacionando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "relaciona",
+            "vosotros": "relacionad"
+        },
         "dutch": "in verband brengen, relateren"
     },
     {
@@ -18345,6 +20009,10 @@
             "estáis planificando",
             "están planificando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "planifica",
+            "vosotros": "planificad"
+        },
         "dutch": "plannen"
     },
     {
@@ -18389,6 +20057,10 @@
             "estáis reteniendo",
             "están reteniendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "retén",
+            "vosotros": "retened"
+        },
         "dutch": "tegenhouden, vasthouden, onthouden"
     },
     {
@@ -18433,6 +20105,10 @@
             "estáis contando",
             "están contando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "cuenta",
+            "vosotros": "contad"
+        },
         "dutch": "tellen, vertellen (minder formeel, dagelijks gebruik)"
     },
     {
@@ -18477,6 +20153,10 @@
             "estáis experimentando",
             "están experimentando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "experimenta",
+            "vosotros": "experimentad"
+        },
         "dutch": "ervaren, ondervinden, experimenteren"
     },
     {
@@ -18521,6 +20201,10 @@
             "os estáis moviendo",
             "se están moviendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "muévete",
+            "vosotros": "moveos"
+        },
         "dutch": "zich verplaatsen"
     },
     {
@@ -18565,6 +20249,10 @@
             "estáis recortando",
             "están recortando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "recorta",
+            "vosotros": "recortad"
+        },
         "dutch": "uitsnijden, afknippen"
     },
     {
@@ -18609,6 +20297,10 @@
             "estáis reconstruyendo",
             "están reconstruyendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "reconstruye",
+            "vosotros": "reconstruid"
+        },
         "dutch": "herbouwen"
     },
     {
@@ -18653,6 +20345,10 @@
             "estáis reconociendo",
             "están reconociendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "reconoce",
+            "vosotros": "reconoced"
+        },
         "dutch": "herkennen, erkennen"
     },
     {
@@ -18697,6 +20393,10 @@
             "estáis descubriendo",
             "están descubriendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "descubre",
+            "vosotros": "descubrid"
+        },
         "dutch": "ontdekken"
     },
     {
@@ -18741,6 +20441,10 @@
             "os estáis tocando",
             "se están tocando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "tócate",
+            "vosotros": "tocaos"
+        },
         "dutch": "zich aanraken, elkaar aanraken"
     },
     {
@@ -18785,6 +20489,10 @@
             "estáis corrigiendo",
             "están corrigiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "corrige",
+            "vosotros": "corregid"
+        },
         "dutch": "corrigeren"
     },
     {
@@ -18829,6 +20537,10 @@
             "estáis juzgando",
             "están juzgando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "juzga",
+            "vosotros": "juzgad"
+        },
         "dutch": "oordelen"
     },
     {
@@ -18873,6 +20585,10 @@
             "estáis grabando",
             "están grabando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "graba",
+            "vosotros": "grabad"
+        },
         "dutch": "opnemen, vastleggen"
     },
     {
@@ -18917,6 +20633,10 @@
             "estáis utilizando",
             "están utilizando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "utiliza",
+            "vosotros": "utilizad"
+        },
         "dutch": "gebruiken (formeler en technischer)"
     },
     {
@@ -18961,6 +20681,10 @@
             "estáis pegando",
             "están pegando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "pega",
+            "vosotros": "pegad"
+        },
         "dutch": "lijmen, vastmaken"
     },
     {
@@ -19005,6 +20729,10 @@
             "estáis sorprendiendo",
             "están sorprendiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "sorprende",
+            "vosotros": "sorprended"
+        },
         "dutch": "verrassen"
     },
     {
@@ -19049,6 +20777,10 @@
             "os estáis abrazando",
             "se están abrazando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "abrázate",
+            "vosotros": "abrazaos"
+        },
         "dutch": "knuffelen"
     },
     {
@@ -19093,6 +20825,10 @@
             "estáis pronunciando",
             "están pronunciando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "pronuncia",
+            "vosotros": "pronunciad"
+        },
         "dutch": "uitspreken"
     },
     {
@@ -19137,6 +20873,10 @@
             "estáis compitiendo",
             "están compitiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "compite",
+            "vosotros": "competid"
+        },
         "dutch": "concurreren, strijden, competitie doen"
     },
     {
@@ -19181,6 +20921,10 @@
             "estáis soñando",
             "están soñando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "sueña",
+            "vosotros": "soñad"
+        },
         "dutch": "dromen van"
     },
     {
@@ -19225,6 +20969,10 @@
             "estáis recomendando",
             "están recomendando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "recomienda",
+            "vosotros": "recomendad"
+        },
         "dutch": "aanbevelen, aanraden"
     },
     {
@@ -19269,6 +21017,10 @@
             "estáis temblando",
             "están temblando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "tiembla",
+            "vosotros": "temblad"
+        },
         "dutch": "beven, trillen"
     },
     {
@@ -19313,6 +21065,10 @@
             "estáis enterrando",
             "están enterrando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "entierra",
+            "vosotros": "enterrad"
+        },
         "dutch": "begraven"
     },
     {
@@ -19357,6 +21113,10 @@
             "estáis helando",
             "están helando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "hiela",
+            "vosotros": "helad"
+        },
         "dutch": "bevriezen"
     },
     {
@@ -19401,6 +21161,10 @@
             "estáis manifestando",
             "están manifestando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "manifiesta",
+            "vosotros": "manifestad"
+        },
         "dutch": "uiten, tonen, verklaren"
     },
     {
@@ -19445,6 +21209,10 @@
             "estáis defendiendo",
             "están defendiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "defiende",
+            "vosotros": "defended"
+        },
         "dutch": "verdedigen"
     },
     {
@@ -19489,6 +21257,10 @@
             "estáis tendiendo",
             "están tendiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "tiende",
+            "vosotros": "tended"
+        },
         "dutch": "uittrekken, uitspreiden"
     },
     {
@@ -19533,6 +21305,10 @@
             "estáis advirtiendo",
             "están advirtiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "advierte",
+            "vosotros": "advertid"
+        },
         "dutch": "waarschuwen, attenderen"
     },
     {
@@ -19577,6 +21353,10 @@
             "estáis digiriendo",
             "están digiriendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "digiere",
+            "vosotros": "digerid"
+        },
         "dutch": "verteren, verwerken"
     },
     {
@@ -19621,6 +21401,10 @@
             "estáis sugiriendo",
             "están sugiriendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "sugiere",
+            "vosotros": "sugerid"
+        },
         "dutch": "voorstellen, aanbevelen, suggereren"
     },
     {
@@ -19665,6 +21449,10 @@
             "estáis convirtiendo",
             "están convirtiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "convierte",
+            "vosotros": "convertid"
+        },
         "dutch": "omzetten"
     },
     {
@@ -19709,6 +21497,10 @@
             "estáis consolando",
             "están consolando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "consuela",
+            "vosotros": "consolad"
+        },
         "dutch": "troosten"
     },
     {
@@ -19753,6 +21545,10 @@
             "estáis renovando",
             "están renovando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "renueva",
+            "vosotros": "renovad"
+        },
         "dutch": "vernieuwen, renoveren"
     },
     {
@@ -19797,6 +21593,10 @@
             "estáis soltando",
             "están soltando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "suelta",
+            "vosotros": "soltad"
+        },
         "dutch": "loslaten"
     },
     {
@@ -19841,6 +21641,10 @@
             "estáis tostando",
             "están tostando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "tuesta",
+            "vosotros": "tostad"
+        },
         "dutch": "toasten"
     },
     {
@@ -19885,6 +21689,10 @@
             "os estáis riñendo",
             "se están riñendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "réñete",
+            "vosotros": "reñíos"
+        },
         "dutch": "ruzie maken"
     },
     {
@@ -19929,6 +21737,10 @@
             "estáis proviniendo",
             "están proviniendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "provén",
+            "vosotros": "provenid"
+        },
         "dutch": "komen uit, voortkomen uit"
     },
     {
@@ -19973,6 +21785,10 @@
             "estáis comprobando",
             "están comprobando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "comprueba",
+            "vosotros": "comprobad"
+        },
         "dutch": "proberen, controleren, nagaan, bewijzen"
     },
     {
@@ -20017,6 +21833,10 @@
             "estáis produciendo",
             "están produciendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "produce",
+            "vosotros": "producid"
+        },
         "dutch": "produceren"
     },
     {
@@ -20061,6 +21881,10 @@
             "os estáis quejando",
             "se están quejando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "quéjate",
+            "vosotros": "quejaos"
+        },
         "dutch": "klagen, zeuren"
     },
     {
@@ -20105,6 +21929,10 @@
             "estáis incluyendo",
             "están incluyendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "incluye",
+            "vosotros": "incluid"
+        },
         "dutch": "inbegrepen zijn, insluiten, opnemen"
     },
     {
@@ -20149,6 +21977,10 @@
             "os estáis bloqueando",
             "se están bloqueando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "bloqueate",
+            "vosotros": "bloqueaos"
+        },
         "dutch": "blokkeren, vastlopen, verlamd raken"
     },
     {
@@ -20193,6 +22025,10 @@
             "os estáis jubilando",
             "se están jubilando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "jubílate",
+            "vosotros": "jubilaos"
+        },
         "dutch": "op pensioen gaan"
     },
     {
@@ -20237,6 +22073,10 @@
             "estáis subrayando",
             "están subrayando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "subraya",
+            "vosotros": "subrayad"
+        },
         "dutch": "onderstrepen"
     },
     {
@@ -20281,6 +22121,10 @@
             "estáis apreciando",
             "están apreciando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "aprecia",
+            "vosotros": "apreciad"
+        },
         "dutch": "waarderen, appreciëren"
     },
     {
@@ -20325,6 +22169,10 @@
             "estáis coincidiendo",
             "están coincidiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "coincide",
+            "vosotros": "coincidid"
+        },
         "dutch": "overeenkomen met, samenvallen"
     },
     {
@@ -20369,6 +22217,10 @@
             "estáis navegando",
             "están navegando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "navega",
+            "vosotros": "navegad"
+        },
         "dutch": "varen"
     },
     {
@@ -20413,6 +22265,10 @@
             "estáis cubriendo",
             "están cubriendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "cubre",
+            "vosotros": "cubrid"
+        },
         "dutch": "bedekken"
     },
     {
@@ -20457,6 +22313,10 @@
             "estáis resolviendo",
             "están resolviendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "resuelve",
+            "vosotros": "resolved"
+        },
         "dutch": "oplossen, besluiten"
     },
     {
@@ -20501,6 +22361,10 @@
             "estáis devolviendo",
             "están devolviendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "devuelve",
+            "vosotros": "devolved"
+        },
         "dutch": "teruggeven, terugbrengen"
     },
     {
@@ -20545,6 +22409,10 @@
             "estáis envolviendo",
             "están envolviendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "envuelve",
+            "vosotros": "envolved"
+        },
         "dutch": "inpakken, omhullen"
     },
     {
@@ -20589,6 +22457,10 @@
             "estáis disponiendo",
             "están disponiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "dispón",
+            "vosotros": "disponed"
+        },
         "dutch": "beschikken over, regelen, organiseren"
     },
     {
@@ -20633,6 +22505,10 @@
             "estáis imponiendo",
             "están imponiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "impón",
+            "vosotros": "imponed"
+        },
         "dutch": "opleggen, opdringen"
     },
     {
@@ -20677,6 +22553,10 @@
             "estáis previendo",
             "están previendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "prevé",
+            "vosotros": "preved"
+        },
         "dutch": "voorzien"
     },
     {
@@ -20721,6 +22601,10 @@
             "estáis componiendo",
             "están componiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "compón",
+            "vosotros": "componed"
+        },
         "dutch": "samenstellen"
     },
     {
@@ -20765,6 +22649,10 @@
             "os estáis convirtiendo",
             "se están convirtiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "conviértete",
+            "vosotros": "convertíos"
+        },
         "dutch": "veranderen in, worden - een nieuwe identiteit krijgen"
     },
     {
@@ -20809,6 +22697,10 @@
             "estáis escalando",
             "están escalando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "escala",
+            "vosotros": "escalad"
+        },
         "dutch": "beklimmen, opklimmen"
     },
     {
@@ -20853,6 +22745,10 @@
             "estáis luchando",
             "están luchando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "lucha",
+            "vosotros": "luchad"
+        },
         "dutch": "strijden, vechten tegen (synoniem van combatir)"
     },
     {
@@ -20897,6 +22793,10 @@
             "estáis regalando",
             "están regalando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "regala",
+            "vosotros": "regalad"
+        },
         "dutch": "kado geven"
     },
     {
@@ -20941,6 +22841,10 @@
             "estáis colaborando",
             "están colaborando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "colabora",
+            "vosotros": "colaborad"
+        },
         "dutch": "samenwerken"
     },
     {
@@ -20985,6 +22889,10 @@
             "estáis rodando",
             "están rodando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "rueda",
+            "vosotros": "rodad"
+        },
         "dutch": "film opnemen (professioneel)"
     },
     {
@@ -21029,6 +22937,10 @@
             "estáis creando",
             "están creando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "crea",
+            "vosotros": "cread"
+        },
         "dutch": "maken, creëren"
     },
     {
@@ -21073,6 +22985,10 @@
             "estáis filmando",
             "están filmando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "filma",
+            "vosotros": "filmad"
+        },
         "dutch": "filmen (algemeen - amateur)"
     },
     {
@@ -21117,6 +23033,10 @@
             "estáis dirigiendo",
             "están dirigiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "dirige",
+            "vosotros": "dirigid"
+        },
         "dutch": "leiden, besturen, richten (synoniem van liderar)"
     },
     {
@@ -21161,6 +23081,10 @@
             "os estáis celebrando",
             "se están celebrando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "celébrate",
+            "vosotros": "celebraos"
+        },
         "dutch": "gehouden worden, plaatsvinden, gevierd worden"
     },
     {
@@ -21205,6 +23129,10 @@
             "estáis inventando",
             "están inventando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "inventa",
+            "vosotros": "inventad"
+        },
         "dutch": "uitvinden"
     },
     {
@@ -21249,6 +23177,10 @@
             "os estáis filmando",
             "se están filmando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "fílmate",
+            "vosotros": "filmaos"
+        },
         "dutch": "gefilmd worden"
     },
     {
@@ -21293,6 +23225,10 @@
             "estáis obteniendo",
             "están obteniendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "obtén",
+            "vosotros": "obtened"
+        },
         "dutch": "verkrijgen, bemachtigen, krijgen"
     },
     {
@@ -21337,6 +23273,10 @@
             "estáis superando",
             "están superando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "supera",
+            "vosotros": "superad"
+        },
         "dutch": "overwinnen, overtreffen, te boven komen"
     },
     {
@@ -21381,6 +23321,10 @@
             "os estáis enamorando",
             "se están enamorando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "enamórate",
+            "vosotros": "enamoraos"
+        },
         "dutch": "verliefd worden op"
     },
     {
@@ -21425,6 +23369,10 @@
             "os estáis separando",
             "se están separando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "sepárate",
+            "vosotros": "separaos"
+        },
         "dutch": "zich scheiden van"
     },
     {
@@ -21469,6 +23417,10 @@
             "os estáis divorciando",
             "se están divorciando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "divorcíate",
+            "vosotros": "divorciaos"
+        },
         "dutch": "echtscheiden van"
     },
     {
@@ -21513,6 +23465,10 @@
             "os estáis mudando",
             "se están mudando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "múdate",
+            "vosotros": "mudaos"
+        },
         "dutch": "verhuizen (prive)"
     },
     {
@@ -21557,6 +23513,10 @@
             "estáis abandonando",
             "están abandonando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "abandona",
+            "vosotros": "abandonad"
+        },
         "dutch": "verlaten"
     },
     {
@@ -21601,6 +23561,10 @@
             "estáis recogiendo",
             "están recogiendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "recoge",
+            "vosotros": "recoged"
+        },
         "dutch": "oprapen, ophalen, inzamelen, net maken"
     },
     {
@@ -21645,6 +23609,10 @@
             "estáis barriendo",
             "están barriendo"
         ],
+        "imperativo-afirmativo": {
+            "tu": "barre",
+            "vosotros": "barred"
+        },
         "dutch": "vegen (met een bezem)"
     },
     {
@@ -21689,6 +23657,10 @@
             "estáis planchando",
             "están planchando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "plancha",
+            "vosotros": "planchad"
+        },
         "dutch": "strijken"
     },
     {
@@ -21733,6 +23705,10 @@
             "estáis logrando",
             "están logrando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "logra",
+            "vosotros": "lograd"
+        },
         "dutch": "bereiken, voor elkaar krijgen, slagen in (synoniem van conseguir)"
     },
     {
@@ -21777,6 +23753,10 @@
             "os estáis fijando",
             "se están fijando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "fíjate",
+            "vosotros": "fijaos"
+        },
         "dutch": "opmerken, op iets/iemand letten, aandacht besteden aan"
     },
     {
@@ -21821,6 +23801,10 @@
             "estáis apagando",
             "están apagando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "apaga",
+            "vosotros": "apagad"
+        },
         "dutch": "uitschakelen, blussen"
     },
     {
@@ -21865,6 +23849,10 @@
             "estáis actuando",
             "están actuando"
         ],
+        "imperativo-afirmativo": {
+            "tu": "actúa",
+            "vosotros": "actuad"
+        },
         "dutch": "acteren (op toneel)"
     }
 ]
