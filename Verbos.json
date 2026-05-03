@@ -1,5 +1,53 @@
 [
     {
+        "verbo": "acostumbrarse \"a\"",
+        "presente": [
+            "me acostumbro",
+            "te acostumbras",
+            "se acostumbra",
+            "nos acostumbramos",
+            "os acostumbráis",
+            "se acostumbran"
+        ],
+        "preterito-perfecto": [
+            "me he acostumbrado",
+            "te has acostumbrado",
+            "se ha acostumbrado",
+            "nos hemos acostumbrado",
+            "os habéis acostumbrado",
+            "se han acostumbrado"
+        ],
+        "preterito-indefinido": [
+            "me acostumbré",
+            "te acostumbraste",
+            "se acostumbró",
+            "nos acostumbramos",
+            "os acostumbrasteis",
+            "se acostumbraron"
+        ],
+        "preterito-imperfecto": [
+            "me acostumbraba",
+            "te acostumbrabas",
+            "se acostumbraba",
+            "nos acostumbrábamos",
+            "os acostumbrabais",
+            "se acostumbraban"
+        ],
+        "presente-progresivo": [
+            "me estoy acostumbrando",
+            "te estás acostumbrando",
+            "se está acostumbrando",
+            "nos estamos acostumbrando",
+            "os estáis acostumbrando",
+            "se están acostumbrando"
+        ],
+        "imperativo-afirmativo": {
+            "tu": "acostúmbrate",
+            "vosotros": "acostumbraos"
+        },
+        "dutch": "zich wennen aan iets, aanpassen aan iets"
+    },
+    {
         "verbo": "poderse \"hacer algo (infinitivo)\"",
         "presente": [
             "me podo",
@@ -41,10 +89,6 @@
             "os estáis pudiendo",
             "se están pudiendo"
         ],
-        "imperativo-afirmativo": {
-            "tu": "pódete",
-            "vosotros": "podeos"
-        },
         "dutch": "in staat zijn om (iets te doen)"
     },
     {
