@@ -1,5 +1,149 @@
 [
     {
+        "verbo": "sobreestimar",
+        "presente": [
+            "sobreestimo",
+            "sobreestimas",
+            "sobreestima",
+            "sobreestimamos",
+            "sobreestimáis",
+            "sobreestiman"
+        ],
+        "preterito-perfecto": [
+            "he sobreestimado",
+            "has sobreestimado",
+            "ha sobreestimado",
+            "hemos sobreestimado",
+            "habéis sobreestimado",
+            "han sobreestimado"
+        ],
+        "preterito-indefinido": [
+            "sobreestimé",
+            "sobreestimaste",
+            "sobreestimó",
+            "sobreestimamos",
+            "sobreestimasteis",
+            "sobreestimaron"
+        ],
+        "preterito-imperfecto": [
+            "sobreestimaba",
+            "sobreestimabas",
+            "sobreestimaba",
+            "sobreestimábamos",
+            "sobreestimabais",
+            "sobreestimaban"
+        ],
+        "presente-progresivo": [
+            "estoy sobreestimando",
+            "estás sobreestimando",
+            "está sobreestimando",
+            "estamos sobreestimando",
+            "estáis sobreestimando",
+            "están sobreestimando"
+        ],
+        "imperativo-afirmativo": {
+            "tu": "sobreestima",
+            "vosotros": "sobreestimad"
+        },
+        "dutch": "overschatten"
+    },
+    {
+        "verbo": "subestimar",
+        "presente": [
+            "subestimo",
+            "subestimas",
+            "subestima",
+            "subestimamos",
+            "subestimáis",
+            "subestiman"
+        ],
+        "preterito-perfecto": [
+            "he subestimado",
+            "has subestimado",
+            "ha subestimado",
+            "hemos subestimado",
+            "habéis subestimado",
+            "han subestimado"
+        ],
+        "preterito-indefinido": [
+            "subestimé",
+            "subestimaste",
+            "subestimó",
+            "subestimamos",
+            "subestimasteis",
+            "subestimaron"
+        ],
+        "preterito-imperfecto": [
+            "subestimaba",
+            "subestimabas",
+            "subestimaba",
+            "subestimábamos",
+            "subestimabais",
+            "subestimaban"
+        ],
+        "presente-progresivo": [
+            "estoy subestimando",
+            "estás subestimando",
+            "está subestimando",
+            "estamos subestimando",
+            "estáis subestimando",
+            "están subestimando"
+        ],
+        "imperativo-afirmativo": {
+            "tu": "subestima",
+            "vosotros": "subestimad"
+        },
+        "dutch": "onderschatten"
+    },
+    {
+        "verbo": "estimar",
+        "presente": [
+            "estimo",
+            "estimas",
+            "estima",
+            "estimamos",
+            "estimáis",
+            "estiman"
+        ],
+        "preterito-perfecto": [
+            "he estimado",
+            "has estimado",
+            "ha estimado",
+            "hemos estimado",
+            "habéis estimado",
+            "han estimado"
+        ],
+        "preterito-indefinido": [
+            "estimé",
+            "estimaste",
+            "estimó",
+            "estimamos",
+            "estimasteis",
+            "estimaron"
+        ],
+        "preterito-imperfecto": [
+            "estimaba",
+            "estimabas",
+            "estimaba",
+            "estimábamos",
+            "estimabais",
+            "estimaban"
+        ],
+        "presente-progresivo": [
+            "estoy estimando",
+            "estás estimando",
+            "está estimando",
+            "estamos estimando",
+            "estáis estimando",
+            "están estimando"
+        ],
+        "imperativo-afirmativo": {
+            "tu": "estima",
+            "vosotros": "estimad"
+        },
+        "dutch": "schatten, waarderen"
+    },
+    {
         "verbo": "acostumbrarse \"a\"",
         "presente": [
             "me acostumbro",
