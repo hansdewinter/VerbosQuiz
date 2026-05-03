@@ -1,5 +1,53 @@
 [
     {
+        "verbo": "poderse \"hacer algo (infinitivo)\"",
+        "presente": [
+            "me podo",
+            "te podes",
+            "se pode",
+            "nos podemos",
+            "os podéis",
+            "se poden"
+        ],
+        "preterito-perfecto": [
+            "me he podido",
+            "te has podido",
+            "se ha podido",
+            "nos hemos podido",
+            "os habéis podido",
+            "se han podido"
+        ],
+        "preterito-indefinido": [
+            "me podí",
+            "te podiste",
+            "se podió",
+            "nos podimos",
+            "os podisteis",
+            "se podieron"
+        ],
+        "preterito-imperfecto": [
+            "me podía",
+            "te podías",
+            "se podía",
+            "nos podíamos",
+            "os podíais",
+            "se podían"
+        ],
+        "presente-progresivo": [
+            "me estoy pudiendo",
+            "te estás pudiendo",
+            "se está pudiendo",
+            "nos estamos pudiendo",
+            "os estáis pudiendo",
+            "se están pudiendo"
+        ],
+        "imperativo-afirmativo": {
+            "tu": "pódete",
+            "vosotros": "podeos"
+        },
+        "dutch": "in staat zijn om (iets te doen)"
+    },
+    {
         "verbo": "desinfectar",
         "presente": [
             "desinfecto",
