@@ -1,5 +1,53 @@
 [
     {
+        "verbo": "depilarse",
+        "presente": [
+            "me depilo",
+            "te depilas",
+            "se depila",
+            "nos depilamos",
+            "os depiláis",
+            "se depilan"
+        ],
+        "preterito-perfecto": [
+            "me he depilado",
+            "te has depilado",
+            "se ha depilado",
+            "nos hemos depilado",
+            "os habéis depilado",
+            "se han depilado"
+        ],
+        "preterito-indefinido": [
+            "me depilé",
+            "te depilaste",
+            "se depiló",
+            "nos depilamos",
+            "os depilasteis",
+            "se depilaron"
+        ],
+        "preterito-imperfecto": [
+            "me depilaba",
+            "te depilabas",
+            "se depilaba",
+            "nos depilábamos",
+            "os depilabais",
+            "se depilaban"
+        ],
+        "presente-progresivo": [
+            "me estoy depilando",
+            "te estás depilando",
+            "se está depilando",
+            "nos estamos depilando",
+            "os estáis depilando",
+            "se están depilando"
+        ],
+        "imperativo-afirmativo": {
+            "tu": "depílate",
+            "vosotros": "depilaos"
+        },
+        "dutch": "zich ontharen, depileren"
+    },
+    {
         "verbo": "sobreestimar",
         "presente": [
             "sobreestimo",
