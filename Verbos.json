@@ -1,5 +1,149 @@
 [
     {
+        "verbo": "repostar",
+        "presente": [
+            "reposto",
+            "repostas",
+            "reposta",
+            "repostamos",
+            "repostáis",
+            "repostan"
+        ],
+        "preterito-perfecto": [
+            "he repostado",
+            "has repostado",
+            "ha repostado",
+            "hemos repostado",
+            "habéis repostado",
+            "han repostado"
+        ],
+        "preterito-indefinido": [
+            "reposté",
+            "repostaste",
+            "repostó",
+            "repostamos",
+            "repostasteis",
+            "repostaron"
+        ],
+        "preterito-imperfecto": [
+            "repostaba",
+            "repostabas",
+            "repostaba",
+            "repostábamos",
+            "repostabais",
+            "repostaban"
+        ],
+        "presente-progresivo": [
+            "estoy repostando",
+            "estás repostando",
+            "está repostando",
+            "estamos repostando",
+            "estáis repostando",
+            "están repostando"
+        ],
+        "imperativo-afirmativo": {
+            "tu": "reposta",
+            "vosotros": "repostad"
+        },
+        "dutch": "tanken"
+    },
+    {
+        "verbo": "apoyar",
+        "presente": [
+            "apoyo",
+            "apoyas",
+            "apoya",
+            "apoyamos",
+            "apoyáis",
+            "apoyan"
+        ],
+        "preterito-perfecto": [
+            "he apoyado",
+            "has apoyado",
+            "ha apoyado",
+            "hemos apoyado",
+            "habéis apoyado",
+            "han apoyado"
+        ],
+        "preterito-indefinido": [
+            "apoyé",
+            "apoyaste",
+            "apoyó",
+            "apoyamos",
+            "apoyasteis",
+            "apoyaron"
+        ],
+        "preterito-imperfecto": [
+            "apoyaba",
+            "apoyabas",
+            "apoyaba",
+            "apoyábamos",
+            "apoyabais",
+            "apoyaban"
+        ],
+        "presente-progresivo": [
+            "estoy apoyando",
+            "estás apoyando",
+            "está apoyando",
+            "estamos apoyando",
+            "estáis apoyando",
+            "están apoyando"
+        ],
+        "imperativo-afirmativo": {
+            "tu": "apoya",
+            "vosotros": "apoyad"
+        },
+        "dutch": "steunen, ondersteunen"
+    },
+    {
+        "verbo": "descargar",
+        "presente": [
+            "descargo",
+            "descargas",
+            "descarga",
+            "descargamos",
+            "descargáis",
+            "descargan"
+        ],
+        "preterito-perfecto": [
+            "he descargado",
+            "has descargado",
+            "ha descargado",
+            "hemos descargado",
+            "habéis descargado",
+            "han descargado"
+        ],
+        "preterito-indefinido": [
+            "descargué",
+            "descargaste",
+            "descargó",
+            "descargamos",
+            "descargasteis",
+            "descargaron"
+        ],
+        "preterito-imperfecto": [
+            "descargaba",
+            "descargabas",
+            "descargaba",
+            "descargábamos",
+            "descargabais",
+            "descargaban"
+        ],
+        "presente-progresivo": [
+            "estoy descargando",
+            "estás descargando",
+            "está descargando",
+            "estamos descargando",
+            "estáis descargando",
+            "están descargando"
+        ],
+        "imperativo-afirmativo": {
+            "tu": "descarga",
+            "vosotros": "descargad"
+        },
+        "dutch": "downloaden"
+    },
+    {
         "verbo": "depilarse",
         "presente": [
             "me depilo",
@@ -189,7 +333,7 @@
             "tu": "estima",
             "vosotros": "estimad"
         },
-        "dutch": "schatten, waarderen"
+        "dutch": "schatten, waarderen, inschatten"
     },
     {
         "verbo": "acostumbrarse \"a\"",
@@ -665,7 +809,7 @@
             "tu": "suele",
             "vosotros": "soled"
         },
-        "dutch": "hulpwerkwoord om \"gewoon zijn te\" of \"plegen te\" te omschrijven. Steeds gevolhd door infinitief"
+        "dutch": "hulpwerkwoord om \"gewoon zijn te\" of \"plegen te\" te omschrijven. Steeds gevolgd door infinitief"
     },
     {
         "verbo": "destapar",
@@ -1049,7 +1193,7 @@
             "tu": "aclárate",
             "vosotros": "aclaraos"
         },
-        "dutch": "duidelijk worden, iets begrijpen, opklaren, helder worden n het hoofd"
+        "dutch": "duidelijk worden, iets begrijpen, opklaren, helder worden in het hoofd"
     },
     {
         "verbo": "absorber",
