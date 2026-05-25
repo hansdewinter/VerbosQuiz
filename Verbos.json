@@ -1,5 +1,53 @@
 [
     {
+        "verbo": "castigar",
+        "presente": [
+            "castigo",
+            "castigas",
+            "castiga",
+            "castigamos",
+            "castigáis",
+            "castigan"
+        ],
+        "preterito-perfecto": [
+            "he castigado",
+            "has castigado",
+            "ha castigado",
+            "hemos castigado",
+            "habéis castigado",
+            "han castigado"
+        ],
+        "preterito-indefinido": [
+            "castigué",
+            "castigaste",
+            "castigó",
+            "castigamos",
+            "castigasteis",
+            "castigaron"
+        ],
+        "preterito-imperfecto": [
+            "castigaba",
+            "castigabas",
+            "castigaba",
+            "castigábamos",
+            "castigabais",
+            "castigaban"
+        ],
+        "presente-progresivo": [
+            "estoy castigando",
+            "estás castigando",
+            "está castigando",
+            "estamos castigando",
+            "estáis castigando",
+            "están castigando"
+        ],
+        "imperativo-afirmativo": {
+            "tu": "castiga",
+            "vosotros": "castigad"
+        },
+        "dutch": "straffen, bestraffen"
+    },
+    {
         "verbo": "repostar",
         "presente": [
             "reposto",
