@@ -1,5 +1,53 @@
 [
     {
+        "verbo": "aterrizar",
+        "presente": [
+            "aterrizo",
+            "aterrizas",
+            "aterriza",
+            "aterrizamos",
+            "aterrizáis",
+            "aterrizan"
+        ],
+        "preterito-perfecto": [
+            "he aterrizado",
+            "has aterrizado",
+            "ha aterrizado",
+            "hemos aterrizado",
+            "habéis aterrizado",
+            "han aterrizado"
+        ],
+        "preterito-indefinido": [
+            "aterricé",
+            "aterrizaste",
+            "aterrizó",
+            "aterrizamos",
+            "aterrizasteis",
+            "aterrizaron"
+        ],
+        "preterito-imperfecto": [
+            "aterrizaba",
+            "aterrizabas",
+            "aterrizaba",
+            "aterrizábamos",
+            "aterrizabais",
+            "aterrizaban"
+        ],
+        "presente-progresivo": [
+            "estoy aterrizando",
+            "estás aterrizando",
+            "está aterrizando",
+            "estamos aterrizando",
+            "estáis aterrizando",
+            "están aterrizando"
+        ],
+        "imperativo-afirmativo": {
+            "tu": "aterriza",
+            "vosotros": "aterrizad"
+        },
+        "dutch": "landen"
+    },
+    {
         "verbo": "castigar",
         "presente": [
             "castigo",
