@@ -39,6 +39,7 @@ TENSE_LABELS = {
     "preterito-perfecto": "Pretérito Perfecto",
     "preterito-indefinido": "Pretérito Indefinido",
     "preterito-imperfecto": "Pretérito Imperfecto",
+    "futuro-simple": "Futuro Simple",
     "presente-progresivo": "Presente Progresivo",
     "imperativo-afirmativo": "Imperativo afirmativo",
 }
@@ -81,8 +82,9 @@ def populate_sheet(ws: Worksheet, verb_entry: dict) -> None:
         ("C1", "Pretérito Perfecto"),
         ("D1", "Pretérito Indefinido"),
         ("E1", "Pretérito Imperfecto"),
-        ("F1", "Presente Progresivo"),
-        ("G1", "Imperativo afirmativo (tú / vosotros)"),
+        ("F1", "Futuro Simple"),
+        ("G1", "Presente Progresivo"),
+        ("H1", "Imperativo afirmativo (tú / vosotros)"),
     ]
     header_font = Font(bold=True)
     center = Alignment(horizontal="center")
@@ -108,7 +110,8 @@ def populate_sheet(ws: Worksheet, verb_entry: dict) -> None:
         ("preterito-perfecto", 3),  # column C
         ("preterito-indefinido", 4),  # column D
         ("preterito-imperfecto", 5),  # column E
-        ("presente-progresivo", 6),  # column F
+        ("futuro-simple", 6),  # column F
+        ("presente-progresivo", 7),  # column G
     ]
 
     for row_idx in range(6):  # rows 2-7 contain pronoun lines
@@ -121,10 +124,10 @@ def populate_sheet(ws: Worksheet, verb_entry: dict) -> None:
     imperativo = verb_entry.get("imperativo-afirmativo")
     if isinstance(imperativo, dict):
         # rows: 2=yo, 3=tú, 4=él…, 5=nosotros, 6=vosotros, 7=ellos…
-        ws.cell(row=3, column=7, value=imperativo.get("tu", ""))
-        ws.cell(row=6, column=7, value=imperativo.get("vosotros", ""))
+        ws.cell(row=3, column=8, value=imperativo.get("tu", ""))
+        ws.cell(row=6, column=8, value=imperativo.get("vosotros", ""))
 
-    widths = {"A": 18, "B": 18, "C": 22, "D": 22, "E": 22, "F": 22, "G": 26}
+    widths = {"A": 18, "B": 18, "C": 22, "D": 22, "E": 22, "F": 22, "G": 22, "H": 26}
     for col, width in widths.items():
         ws.column_dimensions[col].width = width
 
@@ -337,6 +340,7 @@ Examples:
   %(prog)s --tense=perfecto          # Practice Pretérito Perfecto only
   %(prog)s --tense=indefinido        # Practice Pretérito Indefinido only
   %(prog)s --tense=imperfecto        # Practice Pretérito Imperfecto only
+  %(prog)s --tense=futuro            # Practice Futuro Simple only
   %(prog)s --tense=progresivo        # Practice Presente Progresivo (estar + gerundio) only
   %(prog)s --tense=imperativo        # Practice imperativo afirmativo (tú and vosotros only)
   %(prog)s --verb=hablar             # Practice only 'hablar' with all tenses
@@ -354,11 +358,12 @@ Examples:
             'perfecto',
             'indefinido',
             'imperfecto',
+            'futuro',
             'progresivo',
             'imperativo',
         ],
         default='random',
-        help='Select tense mode: random (default), present, perfecto, indefinido, imperfecto, progresivo, or imperativo (tú/vosotros)'
+        help='Select tense mode: random (default), present, perfecto, indefinido, imperfecto, futuro, progresivo, or imperativo (tú/vosotros)'
     )
     
     parser.add_argument(
@@ -412,6 +417,7 @@ def run_quiz(verbs, tense_mode='random', specific_verb=None, show_dutch=False):
             "preterito-perfecto",
             "preterito-indefinido",
             "preterito-imperfecto",
+            "futuro-simple",
             "presente-progresivo",
             "imperativo-afirmativo",
         ]
@@ -434,6 +440,9 @@ def run_quiz(verbs, tense_mode='random', specific_verb=None, show_dutch=False):
     elif tense_mode == 'imperfecto':
         def get_tense():
             return "preterito-imperfecto"
+    elif tense_mode == 'futuro':
+        def get_tense():
+            return "futuro-simple"
     elif tense_mode == 'progresivo':
         def get_tense():
             return "presente-progresivo"
@@ -545,6 +554,7 @@ def main():
                 'perfecto': 'Pretérito Perfecto',
                 'indefinido': 'Pretérito Indefinido',
                 'imperfecto': 'Pretérito Imperfecto',
+                'futuro': 'Futuro Simple',
                 'progresivo': 'Presente Progresivo',
                 'imperativo': 'Imperativo afirmativo (tú / vosotros)',
             }

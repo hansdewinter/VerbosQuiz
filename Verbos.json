@@ -1,5 +1,173 @@
 [
     {
+        "verbo": "tramitar",
+        "presente": [
+            "tramito",
+            "tramitas",
+            "tramita",
+            "tramitamos",
+            "tramitáis",
+            "tramitan"
+        ],
+        "preterito-perfecto": [
+            "he tramitado",
+            "has tramitado",
+            "ha tramitado",
+            "hemos tramitado",
+            "habéis tramitado",
+            "han tramitado"
+        ],
+        "preterito-indefinido": [
+            "tramité",
+            "tramitaste",
+            "tramitó",
+            "tramitamos",
+            "tramitasteis",
+            "tramitaron"
+        ],
+        "preterito-imperfecto": [
+            "tramitaba",
+            "tramitabas",
+            "tramitaba",
+            "tramitábamos",
+            "tramitabais",
+            "tramitaban"
+        ],
+        "futuro-simple": [
+            "tramitaré",
+            "tramitarás",
+            "tramitará",
+            "tramitaremos",
+            "tramitaréis",
+            "tramitarán"
+        ],
+        "presente-progresivo": [
+            "estoy tramitando",
+            "estás tramitando",
+            "está tramitando",
+            "estamos tramitando",
+            "estáis tramitando",
+            "están tramitando"
+        ],
+        "imperativo-afirmativo": {
+            "tu": "tramita",
+            "vosotros": "tramitad"
+        },
+        "dutch": "administratief verwerken"
+    },
+    {
+        "verbo": "abordar",
+        "presente": [
+            "abordo",
+            "abordas",
+            "aborda",
+            "abordamos",
+            "abordáis",
+            "abordan"
+        ],
+        "preterito-perfecto": [
+            "he abordado",
+            "has abordado",
+            "ha abordado",
+            "hemos abordado",
+            "habéis abordado",
+            "han abordado"
+        ],
+        "preterito-indefinido": [
+            "abordé",
+            "abordaste",
+            "abordó",
+            "abordamos",
+            "abordasteis",
+            "abordaron"
+        ],
+        "preterito-imperfecto": [
+            "abordaba",
+            "abordabas",
+            "abordaba",
+            "abordábamos",
+            "abordabais",
+            "abordaban"
+        ],
+        "futuro-simple": [
+            "abordaré",
+            "abordarás",
+            "abordará",
+            "abordaremos",
+            "abordaréis",
+            "abordarán"
+        ],
+        "presente-progresivo": [
+            "estoy abordando",
+            "estás abordando",
+            "está abordando",
+            "estamos abordando",
+            "estáis abordando",
+            "están abordando"
+        ],
+        "imperativo-afirmativo": {
+            "tu": "aborda",
+            "vosotros": "abordad"
+        },
+        "dutch": "aan boord gaan"
+    },
+    {
+        "verbo": "vencer",
+        "presente": [
+            "venzo",
+            "vences",
+            "vence",
+            "vencemos",
+            "vencéis",
+            "vencen"
+        ],
+        "preterito-perfecto": [
+            "he vencido",
+            "has vencido",
+            "ha vencido",
+            "hemos vencido",
+            "habéis vencido",
+            "han vencido"
+        ],
+        "preterito-indefinido": [
+            "vencí",
+            "venciste",
+            "venció",
+            "vencimos",
+            "vencisteis",
+            "vencieron"
+        ],
+        "preterito-imperfecto": [
+            "vencía",
+            "vencías",
+            "vencía",
+            "vencíamos",
+            "vencíais",
+            "vencían"
+        ],
+        "futuro-simple": [
+            "venceré",
+            "vencerás",
+            "vencerá",
+            "venceremos",
+            "venceréis",
+            "vencerán"
+        ],
+        "presente-progresivo": [
+            "estoy venciendo",
+            "estás venciendo",
+            "está venciendo",
+            "estamos venciendo",
+            "estáis venciendo",
+            "están venciendo"
+        ],
+        "imperativo-afirmativo": {
+            "tu": "vence",
+            "vosotros": "venced"
+        },
+        "dutch": "vervallen"
+    },
+    {
         "verbo": "aterrizar",
         "presente": [
             "aterrizo",
@@ -32,6 +200,14 @@
             "aterrizábamos",
             "aterrizabais",
             "aterrizaban"
+        ],
+        "futuro-simple": [
+            "aterrizaré",
+            "aterrizarás",
+            "aterrizará",
+            "aterrizaremos",
+            "aterrizaréis",
+            "aterrizarán"
         ],
         "presente-progresivo": [
             "estoy aterrizando",
@@ -81,6 +257,14 @@
             "castigabais",
             "castigaban"
         ],
+        "futuro-simple": [
+            "castigaré",
+            "castigarás",
+            "castigará",
+            "castigaremos",
+            "castigaréis",
+            "castigarán"
+        ],
         "presente-progresivo": [
             "estoy castigando",
             "estás castigando",
@@ -128,6 +312,14 @@
             "repostábamos",
             "repostabais",
             "repostaban"
+        ],
+        "futuro-simple": [
+            "repostaré",
+            "repostarás",
+            "repostará",
+            "repostaremos",
+            "repostaréis",
+            "repostarán"
         ],
         "presente-progresivo": [
             "estoy repostando",
@@ -177,6 +369,14 @@
             "apoyabais",
             "apoyaban"
         ],
+        "futuro-simple": [
+            "apoyaré",
+            "apoyarás",
+            "apoyará",
+            "apoyaremos",
+            "apoyaréis",
+            "apoyarán"
+        ],
         "presente-progresivo": [
             "estoy apoyando",
             "estás apoyando",
@@ -224,6 +424,14 @@
             "descargábamos",
             "descargabais",
             "descargaban"
+        ],
+        "futuro-simple": [
+            "descargaré",
+            "descargarás",
+            "descargará",
+            "descargaremos",
+            "descargaréis",
+            "descargarán"
         ],
         "presente-progresivo": [
             "estoy descargando",
@@ -273,6 +481,14 @@
             "os depilabais",
             "se depilaban"
         ],
+        "futuro-simple": [
+            "me depilaré",
+            "te depilarás",
+            "se depilará",
+            "nos depilaremos",
+            "os depilaréis",
+            "se depilarán"
+        ],
         "presente-progresivo": [
             "me estoy depilando",
             "te estás depilando",
@@ -320,6 +536,14 @@
             "sobreestimábamos",
             "sobreestimabais",
             "sobreestimaban"
+        ],
+        "futuro-simple": [
+            "sobreestimaré",
+            "sobreestimarás",
+            "sobreestimará",
+            "sobreestimaremos",
+            "sobreestimaréis",
+            "sobreestimarán"
         ],
         "presente-progresivo": [
             "estoy sobreestimando",
@@ -369,6 +593,14 @@
             "subestimabais",
             "subestimaban"
         ],
+        "futuro-simple": [
+            "subestimaré",
+            "subestimarás",
+            "subestimará",
+            "subestimaremos",
+            "subestimaréis",
+            "subestimarán"
+        ],
         "presente-progresivo": [
             "estoy subestimando",
             "estás subestimando",
@@ -416,6 +648,14 @@
             "estimábamos",
             "estimabais",
             "estimaban"
+        ],
+        "futuro-simple": [
+            "estimaré",
+            "estimarás",
+            "estimará",
+            "estimaremos",
+            "estimaréis",
+            "estimarán"
         ],
         "presente-progresivo": [
             "estoy estimando",
@@ -465,6 +705,14 @@
             "os acostumbrabais",
             "se acostumbraban"
         ],
+        "futuro-simple": [
+            "me acostumbraré",
+            "te acostumbrarás",
+            "se acostumbrará",
+            "nos acostumbraremos",
+            "os acostumbraréis",
+            "se acostumbrarán"
+        ],
         "presente-progresivo": [
             "me estoy acostumbrando",
             "te estás acostumbrando",
@@ -513,6 +761,14 @@
             "os podíais",
             "se podían"
         ],
+        "futuro-simple": [
+            "me podré",
+            "te podrás",
+            "se podrá",
+            "nos podremos",
+            "os podréis",
+            "se podrán"
+        ],
         "presente-progresivo": [
             "me estoy pudiendo",
             "te estás pudiendo",
@@ -556,6 +812,14 @@
             "desinfectábamos",
             "desinfectabais",
             "desinfectaban"
+        ],
+        "futuro-simple": [
+            "desinfectaré",
+            "desinfectarás",
+            "desinfectará",
+            "desinfectaremos",
+            "desinfectaréis",
+            "desinfectarán"
         ],
         "presente-progresivo": [
             "estoy desinfectando",
@@ -605,6 +869,14 @@
             "atacabais",
             "atacaban"
         ],
+        "futuro-simple": [
+            "atacaré",
+            "atacarás",
+            "atacará",
+            "atacaremos",
+            "atacaréis",
+            "atacarán"
+        ],
         "presente-progresivo": [
             "estoy atacando",
             "estás atacando",
@@ -652,6 +924,14 @@
             "chillábamos",
             "chillabais",
             "chillaban"
+        ],
+        "futuro-simple": [
+            "chillaré",
+            "chillarás",
+            "chillará",
+            "chillaremos",
+            "chillaréis",
+            "chillarán"
         ],
         "presente-progresivo": [
             "estoy chillando",
@@ -701,6 +981,14 @@
             "gritabais",
             "gritaban"
         ],
+        "futuro-simple": [
+            "gritaré",
+            "gritarás",
+            "gritará",
+            "gritaremos",
+            "gritaréis",
+            "gritarán"
+        ],
         "presente-progresivo": [
             "estoy gritando",
             "estás gritando",
@@ -748,6 +1036,14 @@
             "ejecutábamos",
             "ejecutabais",
             "ejecutaban"
+        ],
+        "futuro-simple": [
+            "ejecutaré",
+            "ejecutarás",
+            "ejecutará",
+            "ejecutaremos",
+            "ejecutaréis",
+            "ejecutarán"
         ],
         "presente-progresivo": [
             "estoy ejecutando",
@@ -797,6 +1093,14 @@
             "nombrabais",
             "nombraban"
         ],
+        "futuro-simple": [
+            "nombraré",
+            "nombrarás",
+            "nombrará",
+            "nombraremos",
+            "nombraréis",
+            "nombrarán"
+        ],
         "presente-progresivo": [
             "estoy nombrando",
             "estás nombrando",
@@ -844,6 +1148,14 @@
             "liderábamos",
             "liderabais",
             "lideraban"
+        ],
+        "futuro-simple": [
+            "lideraré",
+            "liderarás",
+            "liderará",
+            "lideraremos",
+            "lideraréis",
+            "liderarán"
         ],
         "presente-progresivo": [
             "estoy liderando",
@@ -893,6 +1205,14 @@
             "solíais",
             "solían"
         ],
+        "futuro-simple": [
+            "soleré",
+            "solerás",
+            "solerá",
+            "soleremos",
+            "soleréis",
+            "solerán"
+        ],
         "presente-progresivo": [
             "estoy soliendo",
             "estás soliendo",
@@ -940,6 +1260,14 @@
             "destapábamos",
             "destapabais",
             "destapaban"
+        ],
+        "futuro-simple": [
+            "destaparé",
+            "destaparás",
+            "destapará",
+            "destaparemos",
+            "destaparéis",
+            "destaparán"
         ],
         "presente-progresivo": [
             "estoy destapando",
@@ -989,6 +1317,14 @@
             "aliñabais",
             "aliñaban"
         ],
+        "futuro-simple": [
+            "aliñaré",
+            "aliñarás",
+            "aliñará",
+            "aliñaremos",
+            "aliñaréis",
+            "aliñarán"
+        ],
         "presente-progresivo": [
             "estoy aliñando",
             "estás aliñando",
@@ -1036,6 +1372,14 @@
             "extendíamos",
             "extendíais",
             "extendían"
+        ],
+        "futuro-simple": [
+            "extenderé",
+            "extenderás",
+            "extenderá",
+            "extenderemos",
+            "extenderéis",
+            "extenderán"
         ],
         "presente-progresivo": [
             "estoy extendiendo",
@@ -1085,6 +1429,14 @@
             "engordabais",
             "engordaban"
         ],
+        "futuro-simple": [
+            "engordaré",
+            "engordarás",
+            "engordará",
+            "engordaremos",
+            "engordaréis",
+            "engordarán"
+        ],
         "presente-progresivo": [
             "estoy engordando",
             "estás engordando",
@@ -1132,6 +1484,14 @@
             "nos conocíamos",
             "os conocíais",
             "se conocían"
+        ],
+        "futuro-simple": [
+            "me conoceré",
+            "te conocerás",
+            "se conocerá",
+            "nos conoceremos",
+            "os conoceréis",
+            "se conocerán"
         ],
         "presente-progresivo": [
             "me estoy conociendo",
@@ -1181,6 +1541,14 @@
             "exponíais",
             "exponían"
         ],
+        "futuro-simple": [
+            "expondré",
+            "expondrás",
+            "expondrá",
+            "expondremos",
+            "expondréis",
+            "expondrán"
+        ],
         "presente-progresivo": [
             "estoy exponiendo",
             "estás exponiendo",
@@ -1228,6 +1596,14 @@
             "nos enterábamos",
             "os enterabais",
             "se enteraban"
+        ],
+        "futuro-simple": [
+            "me enteraré",
+            "te enterarás",
+            "se enterará",
+            "nos enteraremos",
+            "os enteraréis",
+            "se enterarán"
         ],
         "presente-progresivo": [
             "me estoy enterando",
@@ -1277,6 +1653,14 @@
             "os aclarabais",
             "se aclaraban"
         ],
+        "futuro-simple": [
+            "me aclararé",
+            "te aclararás",
+            "se aclarará",
+            "nos aclararemos",
+            "os aclararéis",
+            "se aclararán"
+        ],
         "presente-progresivo": [
             "me estoy aclarando",
             "te estás aclarando",
@@ -1324,6 +1708,14 @@
             "absorbíamos",
             "absorbíais",
             "absorbían"
+        ],
+        "futuro-simple": [
+            "absorberé",
+            "absorberás",
+            "absorberá",
+            "absorberemos",
+            "absorberéis",
+            "absorberán"
         ],
         "presente-progresivo": [
             "estoy absorbiendo",
@@ -1373,6 +1765,14 @@
             "evaluabais",
             "evaluaban"
         ],
+        "futuro-simple": [
+            "evaluaré",
+            "evaluarás",
+            "evaluará",
+            "evaluaremos",
+            "evaluaréis",
+            "evaluarán"
+        ],
         "presente-progresivo": [
             "estoy evaluando",
             "estás evaluando",
@@ -1420,6 +1820,14 @@
             "controlábamos",
             "controlabais",
             "controlaban"
+        ],
+        "futuro-simple": [
+            "controlaré",
+            "controlarás",
+            "controlará",
+            "controlaremos",
+            "controlaréis",
+            "controlarán"
         ],
         "presente-progresivo": [
             "estoy controlando",
@@ -1469,6 +1877,14 @@
             "tardabais",
             "tardaban"
         ],
+        "futuro-simple": [
+            "tardaré",
+            "tardarás",
+            "tardará",
+            "tardaremos",
+            "tardaréis",
+            "tardarán"
+        ],
         "presente-progresivo": [
             "estoy tardando",
             "estás tardando",
@@ -1516,6 +1932,14 @@
             "movilizábamos",
             "movilizabais",
             "movilizaban"
+        ],
+        "futuro-simple": [
+            "movilizaré",
+            "movilizarás",
+            "movilizará",
+            "movilizaremos",
+            "movilizaréis",
+            "movilizarán"
         ],
         "presente-progresivo": [
             "estoy movilizando",
@@ -1565,6 +1989,14 @@
             "ensayabais",
             "ensayaban"
         ],
+        "futuro-simple": [
+            "ensayaré",
+            "ensayarás",
+            "ensayará",
+            "ensayaremos",
+            "ensayaréis",
+            "ensayarán"
+        ],
         "presente-progresivo": [
             "estoy ensayando",
             "estás ensayando",
@@ -1612,6 +2044,14 @@
             "nos emocionábamos",
             "os emocionabais",
             "se emocionaban"
+        ],
+        "futuro-simple": [
+            "me emocionaré",
+            "te emocionarás",
+            "se emocionará",
+            "nos emocionaremos",
+            "os emocionaréis",
+            "se emocionarán"
         ],
         "presente-progresivo": [
             "me estoy emocionando",
@@ -1661,6 +2101,14 @@
             "os enfedabais",
             "se enfedaban"
         ],
+        "futuro-simple": [
+            "me enfedaré",
+            "te enfedarás",
+            "se enfedará",
+            "nos enfedaremos",
+            "os enfedaréis",
+            "se enfedarán"
+        ],
         "presente-progresivo": [
             "me estoy enfedando",
             "te estás enfedando",
@@ -1708,6 +2156,14 @@
             "invitábamos",
             "invitabais",
             "invitaban"
+        ],
+        "futuro-simple": [
+            "invitaré",
+            "invitarás",
+            "invitará",
+            "invitaremos",
+            "invitaréis",
+            "invitarán"
         ],
         "presente-progresivo": [
             "estoy invitando",
@@ -1757,6 +2213,14 @@
             "charlabais",
             "charlaban"
         ],
+        "futuro-simple": [
+            "charlaré",
+            "charlarás",
+            "charlará",
+            "charlaremos",
+            "charlaréis",
+            "charlarán"
+        ],
         "presente-progresivo": [
             "estoy charlando",
             "estás charlando",
@@ -1804,6 +2268,14 @@
             "nos dirigíamos",
             "os dirigíais",
             "se dirigían"
+        ],
+        "futuro-simple": [
+            "me dirigiré",
+            "te dirigirás",
+            "se dirigirá",
+            "nos dirigiremos",
+            "os dirigiréis",
+            "se dirigirán"
         ],
         "presente-progresivo": [
             "me estoy dirigiendo",
@@ -1853,6 +2325,14 @@
             "avanzabais",
             "avanzaban"
         ],
+        "futuro-simple": [
+            "avanzaré",
+            "avanzarás",
+            "avanzará",
+            "avanzaremos",
+            "avanzaréis",
+            "avanzarán"
+        ],
         "presente-progresivo": [
             "estoy avanzando",
             "estás avanzando",
@@ -1900,6 +2380,14 @@
             "narrábamos",
             "narrabais",
             "narraban"
+        ],
+        "futuro-simple": [
+            "narraré",
+            "narrarás",
+            "narrará",
+            "narraremos",
+            "narraréis",
+            "narrarán"
         ],
         "presente-progresivo": [
             "estoy narrando",
@@ -1949,6 +2437,14 @@
             "desaparecíais",
             "desaparecían"
         ],
+        "futuro-simple": [
+            "desapareceré",
+            "desaparecerás",
+            "desaparecerá",
+            "desapareceremos",
+            "desapareceréis",
+            "desaparecerán"
+        ],
         "presente-progresivo": [
             "estoy desapareciendo",
             "estás desapareciendo",
@@ -1996,6 +2492,14 @@
             "nos acercábamos",
             "os acercabais",
             "se acercaban"
+        ],
+        "futuro-simple": [
+            "me acercaré",
+            "te acercarás",
+            "se acercará",
+            "nos acercaremos",
+            "os acercaréis",
+            "se acercarán"
         ],
         "presente-progresivo": [
             "me estoy acercando",
@@ -2045,6 +2549,14 @@
             "jurabais",
             "juraban"
         ],
+        "futuro-simple": [
+            "juraré",
+            "jurarás",
+            "jurará",
+            "juraremos",
+            "juraréis",
+            "jurarán"
+        ],
         "presente-progresivo": [
             "estoy jurando",
             "estás jurando",
@@ -2092,6 +2604,14 @@
             "pisábamos",
             "pisabais",
             "pisaban"
+        ],
+        "futuro-simple": [
+            "pisaré",
+            "pisarás",
+            "pisará",
+            "pisaremos",
+            "pisaréis",
+            "pisarán"
         ],
         "presente-progresivo": [
             "estoy pisando",
@@ -2141,6 +2661,14 @@
             "os uníais",
             "se unían"
         ],
+        "futuro-simple": [
+            "me uniré",
+            "te unirás",
+            "se unirá",
+            "nos uniremos",
+            "os uniréis",
+            "se unirán"
+        ],
         "presente-progresivo": [
             "me estoy uniendo",
             "te estás uniendo",
@@ -2188,6 +2716,14 @@
             "nos alzábamos",
             "os alzabais",
             "se alzaban"
+        ],
+        "futuro-simple": [
+            "me alzaré",
+            "te alzarás",
+            "se alzará",
+            "nos alzaremos",
+            "os alzaréis",
+            "se alzarán"
         ],
         "presente-progresivo": [
             "me estoy alzando",
@@ -2237,6 +2773,14 @@
             "os hacíais",
             "se hacían"
         ],
+        "futuro-simple": [
+            "me haré",
+            "te harás",
+            "se hará",
+            "nos haremos",
+            "os haréis",
+            "se harán"
+        ],
         "presente-progresivo": [
             "me estoy haciendo",
             "te estás haciendo",
@@ -2284,6 +2828,14 @@
             "reestablecíamos",
             "reestablecíais",
             "reestablecían"
+        ],
+        "futuro-simple": [
+            "reestableceré",
+            "reestablecerás",
+            "reestablecerá",
+            "reestableceremos",
+            "reestableceréis",
+            "reestablecerán"
         ],
         "presente-progresivo": [
             "estoy reestableciendo",
@@ -2333,6 +2885,14 @@
             "renunciabais",
             "renunciaban"
         ],
+        "futuro-simple": [
+            "renunciaré",
+            "renunciarás",
+            "renunciará",
+            "renunciaremos",
+            "renunciaréis",
+            "renunciarán"
+        ],
         "presente-progresivo": [
             "estoy renunciando",
             "estás renunciando",
@@ -2380,6 +2940,14 @@
             "autorizábamos",
             "autorizabais",
             "autorizaban"
+        ],
+        "futuro-simple": [
+            "autorizaré",
+            "autorizarás",
+            "autorizará",
+            "autorizaremos",
+            "autorizaréis",
+            "autorizarán"
         ],
         "presente-progresivo": [
             "estoy autorizando",
@@ -2429,6 +2997,14 @@
             "ordenabais",
             "ordenaban"
         ],
+        "futuro-simple": [
+            "ordenaré",
+            "ordenarás",
+            "ordenará",
+            "ordenaremos",
+            "ordenaréis",
+            "ordenarán"
+        ],
         "presente-progresivo": [
             "estoy ordenando",
             "estás ordenando",
@@ -2476,6 +3052,14 @@
             "derrotábamos",
             "derrotabais",
             "derrotaban"
+        ],
+        "futuro-simple": [
+            "derrotaré",
+            "derrotarás",
+            "derrotará",
+            "derrotaremos",
+            "derrotaréis",
+            "derrotarán"
         ],
         "presente-progresivo": [
             "estoy derrotando",
@@ -2525,6 +3109,14 @@
             "formabais",
             "formaban"
         ],
+        "futuro-simple": [
+            "formaré",
+            "formarás",
+            "formará",
+            "formaremos",
+            "formaréis",
+            "formarán"
+        ],
         "presente-progresivo": [
             "estoy formando",
             "estás formando",
@@ -2572,6 +3164,14 @@
             "nos internábamos",
             "os internabais",
             "se internaban"
+        ],
+        "futuro-simple": [
+            "me internaré",
+            "te internarás",
+            "se internará",
+            "nos internaremos",
+            "os internaréis",
+            "se internarán"
         ],
         "presente-progresivo": [
             "me estoy internando",
@@ -2621,6 +3221,14 @@
             "asumíais",
             "asumían"
         ],
+        "futuro-simple": [
+            "asumiré",
+            "asumirás",
+            "asumirá",
+            "asumiremos",
+            "asumiréis",
+            "asumirán"
+        ],
         "presente-progresivo": [
             "estoy asumiendo",
             "estás asumiendo",
@@ -2668,6 +3276,14 @@
             "nos subíamos",
             "os subíais",
             "se subían"
+        ],
+        "futuro-simple": [
+            "me subiré",
+            "te subirás",
+            "se subirá",
+            "nos subiremos",
+            "os subiréis",
+            "se subirán"
         ],
         "presente-progresivo": [
             "me estoy subiendo",
@@ -2717,6 +3333,14 @@
             "acojíais",
             "acojían"
         ],
+        "futuro-simple": [
+            "acojeré",
+            "acojerás",
+            "acojerá",
+            "acojeremos",
+            "acojeréis",
+            "acojerán"
+        ],
         "presente-progresivo": [
             "estoy acojiendo",
             "estás acojiendo",
@@ -2764,6 +3388,14 @@
             "cultivábamos",
             "cultivabais",
             "cultivaban"
+        ],
+        "futuro-simple": [
+            "cultivaré",
+            "cultivarás",
+            "cultivará",
+            "cultivaremos",
+            "cultivaréis",
+            "cultivarán"
         ],
         "presente-progresivo": [
             "estoy cultivando",
@@ -2813,6 +3445,14 @@
             "ilustrabais",
             "ilustraban"
         ],
+        "futuro-simple": [
+            "ilustraré",
+            "ilustrarás",
+            "ilustrará",
+            "ilustraremos",
+            "ilustraréis",
+            "ilustrarán"
+        ],
         "presente-progresivo": [
             "estoy ilustrando",
             "estás ilustrando",
@@ -2860,6 +3500,14 @@
             "atraíamos",
             "atraíais",
             "atraían"
+        ],
+        "futuro-simple": [
+            "atraeré",
+            "atraerás",
+            "atraerá",
+            "atraeremos",
+            "atraeréis",
+            "atraerán"
         ],
         "presente-progresivo": [
             "estoy atrayendo",
@@ -2909,6 +3557,14 @@
             "emitíais",
             "emitían"
         ],
+        "futuro-simple": [
+            "emitiré",
+            "emitirás",
+            "emitirá",
+            "emitiremos",
+            "emitiréis",
+            "emitirán"
+        ],
         "presente-progresivo": [
             "estoy emitiendo",
             "estás emitiendo",
@@ -2956,6 +3612,14 @@
             "legalizábamos",
             "legalizabais",
             "legalizaban"
+        ],
+        "futuro-simple": [
+            "legalizaré",
+            "legalizarás",
+            "legalizará",
+            "legalizaremos",
+            "legalizaréis",
+            "legalizarán"
         ],
         "presente-progresivo": [
             "estoy legalizando",
@@ -3005,6 +3669,14 @@
             "buceabais",
             "buceaban"
         ],
+        "futuro-simple": [
+            "bucearé",
+            "bucearás",
+            "buceará",
+            "bucearemos",
+            "bucearéis",
+            "bucearán"
+        ],
         "presente-progresivo": [
             "estoy buceando",
             "estás buceando",
@@ -3052,6 +3724,14 @@
             "amasábamos",
             "amasabais",
             "amasaban"
+        ],
+        "futuro-simple": [
+            "amasaré",
+            "amasarás",
+            "amasará",
+            "amasaremos",
+            "amasaréis",
+            "amasarán"
         ],
         "presente-progresivo": [
             "estoy amasando",
@@ -3101,6 +3781,14 @@
             "suavizabais",
             "suavizaban"
         ],
+        "futuro-simple": [
+            "suavizaré",
+            "suavizarás",
+            "suavizará",
+            "suavizaremos",
+            "suavizaréis",
+            "suavizarán"
+        ],
         "presente-progresivo": [
             "estoy suavizando",
             "estás suavizando",
@@ -3148,6 +3836,14 @@
             "iluminábamos",
             "iluminabais",
             "iluminaban"
+        ],
+        "futuro-simple": [
+            "iluminaré",
+            "iluminarás",
+            "iluminará",
+            "iluminaremos",
+            "iluminaréis",
+            "iluminarán"
         ],
         "presente-progresivo": [
             "estoy iluminando",
@@ -3197,6 +3893,14 @@
             "respirabais",
             "respiraban"
         ],
+        "futuro-simple": [
+            "respiraré",
+            "respirarás",
+            "respirará",
+            "respiraremos",
+            "respiraréis",
+            "respirarán"
+        ],
         "presente-progresivo": [
             "estoy respirando",
             "estás respirando",
@@ -3244,6 +3948,14 @@
             "afectábamos",
             "afectabais",
             "afectaban"
+        ],
+        "futuro-simple": [
+            "afectaré",
+            "afectarás",
+            "afectará",
+            "afectaremos",
+            "afectaréis",
+            "afectarán"
         ],
         "presente-progresivo": [
             "estoy afectando",
@@ -3293,6 +4005,14 @@
             "adelgazabais",
             "adelgazaban"
         ],
+        "futuro-simple": [
+            "adelgazaré",
+            "adelgazarás",
+            "adelgazará",
+            "adelgazaremos",
+            "adelgazaréis",
+            "adelgazarán"
+        ],
         "presente-progresivo": [
             "estoy adelgazando",
             "estás adelgazando",
@@ -3340,6 +4060,14 @@
             "calmábamos",
             "calmabais",
             "calmaban"
+        ],
+        "futuro-simple": [
+            "calmaré",
+            "calmarás",
+            "calmará",
+            "calmaremos",
+            "calmaréis",
+            "calmarán"
         ],
         "presente-progresivo": [
             "estoy calmando",
@@ -3389,6 +4117,14 @@
             "tapabais",
             "tapaban"
         ],
+        "futuro-simple": [
+            "taparé",
+            "taparás",
+            "tapará",
+            "taparemos",
+            "taparéis",
+            "taparán"
+        ],
         "presente-progresivo": [
             "estoy tapando",
             "estás tapando",
@@ -3436,6 +4172,14 @@
             "masajeábamos",
             "masajeabais",
             "masajeaban"
+        ],
+        "futuro-simple": [
+            "masajearé",
+            "masajearás",
+            "masajeará",
+            "masajearemos",
+            "masajearéis",
+            "masajearán"
         ],
         "presente-progresivo": [
             "estoy masajeando",
@@ -3485,6 +4229,14 @@
             "desarrollabais",
             "desarrollaban"
         ],
+        "futuro-simple": [
+            "desarrollaré",
+            "desarrollarás",
+            "desarrollará",
+            "desarrollaremos",
+            "desarrollaréis",
+            "desarrollarán"
+        ],
         "presente-progresivo": [
             "estoy desarrollando",
             "estás desarrollando",
@@ -3532,6 +4284,14 @@
             "nos agachábamos",
             "os agachabais",
             "se agachaban"
+        ],
+        "futuro-simple": [
+            "me agacharé",
+            "te agacharás",
+            "se agachará",
+            "nos agacharemos",
+            "os agacharéis",
+            "se agacharán"
         ],
         "presente-progresivo": [
             "me estoy agachando",
@@ -3581,6 +4341,14 @@
             "doblabais",
             "doblaban"
         ],
+        "futuro-simple": [
+            "doblaré",
+            "doblarás",
+            "doblará",
+            "doblaremos",
+            "doblaréis",
+            "doblarán"
+        ],
         "presente-progresivo": [
             "estoy doblando",
             "estás doblando",
@@ -3628,6 +4396,14 @@
             "evitábamos",
             "evitabais",
             "evitaban"
+        ],
+        "futuro-simple": [
+            "evitaré",
+            "evitarás",
+            "evitará",
+            "evitaremos",
+            "evitaréis",
+            "evitarán"
         ],
         "presente-progresivo": [
             "estoy evitando",
@@ -3677,6 +4453,14 @@
             "envejecíais",
             "envejecían"
         ],
+        "futuro-simple": [
+            "envejeceré",
+            "envejecerás",
+            "envejecerá",
+            "envejeceremos",
+            "envejeceréis",
+            "envejecerán"
+        ],
         "presente-progresivo": [
             "estoy envejeciendo",
             "estás envejeciendo",
@@ -3724,6 +4508,14 @@
             "resecábamos",
             "resecabais",
             "resecaban"
+        ],
+        "futuro-simple": [
+            "resecaré",
+            "resecarás",
+            "resecará",
+            "resecaremos",
+            "resecaréis",
+            "resecarán"
         ],
         "presente-progresivo": [
             "estoy resecando",
@@ -3773,6 +4565,14 @@
             "os cubríais",
             "se cubrían"
         ],
+        "futuro-simple": [
+            "me cubriré",
+            "te cubrirás",
+            "se cubrirá",
+            "nos cubriremos",
+            "os cubriréis",
+            "se cubrirán"
+        ],
         "presente-progresivo": [
             "me estoy cubriendo",
             "te estás cubriendo",
@@ -3820,6 +4620,14 @@
             "protegíamos",
             "protegíais",
             "protegían"
+        ],
+        "futuro-simple": [
+            "protegeré",
+            "protegerás",
+            "protegerá",
+            "protegeremos",
+            "protegeréis",
+            "protegerán"
         ],
         "presente-progresivo": [
             "estoy protegiendo",
@@ -3869,6 +4677,14 @@
             "os hidratabais",
             "se hidrataban"
         ],
+        "futuro-simple": [
+            "me hidrataré",
+            "te hidratarás",
+            "se hidratará",
+            "nos hidrataremos",
+            "os hidrataréis",
+            "se hidratarán"
+        ],
         "presente-progresivo": [
             "me estoy hidratando",
             "te estás hidratando",
@@ -3916,6 +4732,14 @@
             "fortalecíamos",
             "fortalecíais",
             "fortalecían"
+        ],
+        "futuro-simple": [
+            "fortaleceré",
+            "fortalecerás",
+            "fortalecerá",
+            "fortaleceremos",
+            "fortaleceréis",
+            "fortalecerán"
         ],
         "presente-progresivo": [
             "estoy fortaleciendo",
@@ -3965,6 +4789,14 @@
             "os desmaquillabais",
             "se desmaquillaban"
         ],
+        "futuro-simple": [
+            "me desmaquillaré",
+            "te desmaquillarás",
+            "se desmaquillará",
+            "nos desmaquillaremos",
+            "os desmaquillaréis",
+            "se desmaquillarán"
+        ],
         "presente-progresivo": [
             "me estoy desmaquillando",
             "te estás desmaquillando",
@@ -4012,6 +4844,14 @@
             "nos preocupábamos",
             "os preocupabais",
             "se preocupaban"
+        ],
+        "futuro-simple": [
+            "me preocuparé",
+            "te preocuparás",
+            "se preocupará",
+            "nos preocuparemos",
+            "os preocuparéis",
+            "se preocuparán"
         ],
         "presente-progresivo": [
             "me estoy preocupando",
@@ -4061,6 +4901,14 @@
             "preveníais",
             "prevenían"
         ],
+        "futuro-simple": [
+            "prevendré",
+            "prevendrás",
+            "prevendrá",
+            "prevendremos",
+            "prevendréis",
+            "prevendrán"
+        ],
         "presente-progresivo": [
             "estoy previniendo",
             "estás previniendo",
@@ -4108,6 +4956,14 @@
             "facilitábamos",
             "facilitabais",
             "facilitaban"
+        ],
+        "futuro-simple": [
+            "facilitaré",
+            "facilitarás",
+            "facilitará",
+            "facilitaremos",
+            "facilitaréis",
+            "facilitarán"
         ],
         "presente-progresivo": [
             "estoy facilitando",
@@ -4157,6 +5013,14 @@
             "combatíais",
             "combatían"
         ],
+        "futuro-simple": [
+            "combatiré",
+            "combatirás",
+            "combatirá",
+            "combatiremos",
+            "combatiréis",
+            "combatirán"
+        ],
         "presente-progresivo": [
             "estoy combatiendo",
             "estás combatiendo",
@@ -4204,6 +5068,14 @@
             "nos enfriábamos",
             "os enfriabais",
             "se enfriaban"
+        ],
+        "futuro-simple": [
+            "me enfriaré",
+            "te enfriarás",
+            "se enfriará",
+            "nos enfriaremos",
+            "os enfriaréis",
+            "se enfriarán"
         ],
         "presente-progresivo": [
             "me estoy enfriando",
@@ -4253,6 +5125,14 @@
             "enfriabais",
             "enfriaban"
         ],
+        "futuro-simple": [
+            "enfriaré",
+            "enfriarás",
+            "enfriará",
+            "enfriaremos",
+            "enfriaréis",
+            "enfriarán"
+        ],
         "presente-progresivo": [
             "estoy enfriando",
             "estás enfriando",
@@ -4300,6 +5180,14 @@
             "colgábamos",
             "colgabais",
             "colgaban"
+        ],
+        "futuro-simple": [
+            "colgaré",
+            "colgarás",
+            "colgará",
+            "colgaremos",
+            "colgaréis",
+            "colgarán"
         ],
         "presente-progresivo": [
             "estoy colgando",
@@ -4349,6 +5237,14 @@
             "separabais",
             "separaban"
         ],
+        "futuro-simple": [
+            "separaré",
+            "separarás",
+            "separará",
+            "separaremos",
+            "separaréis",
+            "separarán"
+        ],
         "presente-progresivo": [
             "estoy separando",
             "estás separando",
@@ -4396,6 +5292,14 @@
             "durábamos",
             "durabais",
             "duraban"
+        ],
+        "futuro-simple": [
+            "duraré",
+            "durarás",
+            "durará",
+            "duraremos",
+            "duraréis",
+            "durarán"
         ],
         "presente-progresivo": [
             "estoy durando",
@@ -4445,6 +5349,14 @@
             "guardabais",
             "guardaban"
         ],
+        "futuro-simple": [
+            "guardaré",
+            "guardarás",
+            "guardará",
+            "guardaremos",
+            "guardaréis",
+            "guardarán"
+        ],
         "presente-progresivo": [
             "estoy guardando",
             "estás guardando",
@@ -4492,6 +5404,14 @@
             "asábamos",
             "asabais",
             "asaban"
+        ],
+        "futuro-simple": [
+            "asaré",
+            "asarás",
+            "asará",
+            "asaremos",
+            "asaréis",
+            "asarán"
         ],
         "presente-progresivo": [
             "estoy asando",
@@ -4541,6 +5461,14 @@
             "congelabais",
             "congelaban"
         ],
+        "futuro-simple": [
+            "congelaré",
+            "congelarás",
+            "congelará",
+            "congelaremos",
+            "congelaréis",
+            "congelarán"
+        ],
         "presente-progresivo": [
             "estoy congelando",
             "estás congelando",
@@ -4588,6 +5516,14 @@
             "calentábamos",
             "calentabais",
             "calentaban"
+        ],
+        "futuro-simple": [
+            "calentaré",
+            "calentarás",
+            "calentará",
+            "calentaremos",
+            "calentaréis",
+            "calentarán"
         ],
         "presente-progresivo": [
             "estoy calentando",
@@ -4637,6 +5573,14 @@
             "licuabais",
             "licuaban"
         ],
+        "futuro-simple": [
+            "licuaré",
+            "licuarás",
+            "licuará",
+            "licuaremos",
+            "licuaréis",
+            "licuarán"
+        ],
         "presente-progresivo": [
             "estoy licuando",
             "estás licuando",
@@ -4684,6 +5628,14 @@
             "nos preparábamos",
             "os preparabais",
             "se preparaban"
+        ],
+        "futuro-simple": [
+            "me prepararé",
+            "te prepararás",
+            "se preparará",
+            "nos prepararemos",
+            "os prepararéis",
+            "se prepararán"
         ],
         "presente-progresivo": [
             "me estoy preparando",
@@ -4733,6 +5685,14 @@
             "eliminabais",
             "eliminaban"
         ],
+        "futuro-simple": [
+            "eliminaré",
+            "eliminarás",
+            "eliminará",
+            "eliminaremos",
+            "eliminaréis",
+            "eliminarán"
+        ],
         "presente-progresivo": [
             "estoy eliminando",
             "estás eliminando",
@@ -4780,6 +5740,14 @@
             "purificábamos",
             "purificabais",
             "purificaban"
+        ],
+        "futuro-simple": [
+            "purificaré",
+            "purificarás",
+            "purificará",
+            "purificaremos",
+            "purificaréis",
+            "purificarán"
         ],
         "presente-progresivo": [
             "estoy purificando",
@@ -4829,6 +5797,14 @@
             "os alimentabais",
             "se alimentaban"
         ],
+        "futuro-simple": [
+            "me alimentaré",
+            "te alimentarás",
+            "se alimentará",
+            "nos alimentaremos",
+            "os alimentaréis",
+            "se alimentarán"
+        ],
         "presente-progresivo": [
             "me estoy alimentando",
             "te estás alimentando",
@@ -4876,6 +5852,14 @@
             "batíamos",
             "batíais",
             "batían"
+        ],
+        "futuro-simple": [
+            "batiré",
+            "batirás",
+            "batirá",
+            "batiremos",
+            "batiréis",
+            "batirán"
         ],
         "presente-progresivo": [
             "estoy batiendo",
@@ -4925,6 +5909,14 @@
             "echabais",
             "echaban"
         ],
+        "futuro-simple": [
+            "echaré",
+            "echarás",
+            "echará",
+            "echaremos",
+            "echaréis",
+            "echarán"
+        ],
         "presente-progresivo": [
             "estoy echando",
             "estás echando",
@@ -4972,6 +5964,14 @@
             "acompañábamos",
             "acompañabais",
             "acompañaban"
+        ],
+        "futuro-simple": [
+            "acompañaré",
+            "acompañarás",
+            "acompañará",
+            "acompañaremos",
+            "acompañaréis",
+            "acompañarán"
         ],
         "presente-progresivo": [
             "estoy acompañando",
@@ -5021,6 +6021,14 @@
             "aplastabais",
             "aplastaban"
         ],
+        "futuro-simple": [
+            "aplastaré",
+            "aplastarás",
+            "aplastará",
+            "aplastaremos",
+            "aplastaréis",
+            "aplastarán"
+        ],
         "presente-progresivo": [
             "estoy aplastando",
             "estás aplastando",
@@ -5068,6 +6076,14 @@
             "combinábamos",
             "combinabais",
             "combinaban"
+        ],
+        "futuro-simple": [
+            "combinaré",
+            "combinarás",
+            "combinará",
+            "combinaremos",
+            "combinaréis",
+            "combinarán"
         ],
         "presente-progresivo": [
             "estoy combinando",
@@ -5117,6 +6133,14 @@
             "alimentabais",
             "alimentaban"
         ],
+        "futuro-simple": [
+            "alimentaré",
+            "alimentarás",
+            "alimentará",
+            "alimentaremos",
+            "alimentaréis",
+            "alimentarán"
+        ],
         "presente-progresivo": [
             "estoy alimentando",
             "estás alimentando",
@@ -5164,6 +6188,14 @@
             "consumíamos",
             "consumíais",
             "consumían"
+        ],
+        "futuro-simple": [
+            "consumiré",
+            "consumirás",
+            "consumirá",
+            "consumiremos",
+            "consumiréis",
+            "consumirán"
         ],
         "presente-progresivo": [
             "estoy consumiendo",
@@ -5213,6 +6245,14 @@
             "optabais",
             "optaban"
         ],
+        "futuro-simple": [
+            "optaré",
+            "optarás",
+            "optará",
+            "optaremos",
+            "optaréis",
+            "optarán"
+        ],
         "presente-progresivo": [
             "estoy optando",
             "estás optando",
@@ -5260,6 +6300,14 @@
             "aprovechábamos",
             "aprovechabais",
             "aprovechaban"
+        ],
+        "futuro-simple": [
+            "aprovecharé",
+            "aprovecharás",
+            "aprovechará",
+            "aprovecharemos",
+            "aprovecharéis",
+            "aprovecharán"
         ],
         "presente-progresivo": [
             "estoy aprovechando",
@@ -5309,6 +6357,14 @@
             "os recuperabais",
             "se recuperaban"
         ],
+        "futuro-simple": [
+            "me recuperaré",
+            "te recuperarás",
+            "se recuperará",
+            "nos recuperaremos",
+            "os recuperaréis",
+            "se recuperarán"
+        ],
         "presente-progresivo": [
             "me estoy recuperando",
             "te estás recuperando",
@@ -5356,6 +6412,14 @@
             "pescábamos",
             "pescabais",
             "pescaban"
+        ],
+        "futuro-simple": [
+            "pescaré",
+            "pescarás",
+            "pescará",
+            "pescaremos",
+            "pescaréis",
+            "pescarán"
         ],
         "presente-progresivo": [
             "estoy pescando",
@@ -5405,6 +6469,14 @@
             "fundíais",
             "fundían"
         ],
+        "futuro-simple": [
+            "fundiré",
+            "fundirás",
+            "fundirá",
+            "fundiremos",
+            "fundiréis",
+            "fundirán"
+        ],
         "presente-progresivo": [
             "estoy fundiendo",
             "estás fundiendo",
@@ -5452,6 +6524,14 @@
             "rodeábamos",
             "rodeabais",
             "rodeaban"
+        ],
+        "futuro-simple": [
+            "rodearé",
+            "rodearás",
+            "rodeará",
+            "rodearemos",
+            "rodearéis",
+            "rodearán"
         ],
         "presente-progresivo": [
             "estoy rodeando",
@@ -5501,6 +6581,14 @@
             "os suicidabais",
             "se suicidaban"
         ],
+        "futuro-simple": [
+            "me suicidaré",
+            "te suicidarás",
+            "se suicidará",
+            "nos suicidaremos",
+            "os suicidaréis",
+            "se suicidarán"
+        ],
         "presente-progresivo": [
             "me estoy suicidando",
             "te estás suicidando",
@@ -5548,6 +6636,14 @@
             "nos trasladábamos",
             "os trasladabais",
             "se trasladaban"
+        ],
+        "futuro-simple": [
+            "me trasladaré",
+            "te trasladarás",
+            "se trasladará",
+            "nos trasladaremos",
+            "os trasladaréis",
+            "se trasladarán"
         ],
         "presente-progresivo": [
             "me estoy trasladando",
@@ -5597,6 +6693,14 @@
             "llorabais",
             "lloraban"
         ],
+        "futuro-simple": [
+            "lloraré",
+            "llorarás",
+            "llorará",
+            "lloraremos",
+            "lloraréis",
+            "llorarán"
+        ],
         "presente-progresivo": [
             "estoy llorando",
             "estás llorando",
@@ -5644,6 +6748,14 @@
             "adivinábamos",
             "adivinabais",
             "adivinaban"
+        ],
+        "futuro-simple": [
+            "adivinaré",
+            "adivinarás",
+            "adivinará",
+            "adivinaremos",
+            "adivinaréis",
+            "adivinarán"
         ],
         "presente-progresivo": [
             "estoy adivinando",
@@ -5693,6 +6805,14 @@
             "os apuntabais",
             "se apuntaban"
         ],
+        "futuro-simple": [
+            "me apuntaré",
+            "te apuntarás",
+            "se apuntará",
+            "nos apuntaremos",
+            "os apuntaréis",
+            "se apuntarán"
+        ],
         "presente-progresivo": [
             "me estoy apuntando",
             "te estás apuntando",
@@ -5740,6 +6860,14 @@
             "valorábamos",
             "valorabais",
             "valoraban"
+        ],
+        "futuro-simple": [
+            "valoraré",
+            "valorarás",
+            "valorará",
+            "valoraremos",
+            "valoraréis",
+            "valorarán"
         ],
         "presente-progresivo": [
             "estoy valorando",
@@ -5789,6 +6917,14 @@
             "consultabais",
             "consultaban"
         ],
+        "futuro-simple": [
+            "consultaré",
+            "consultarás",
+            "consultará",
+            "consultaremos",
+            "consultaréis",
+            "consultarán"
+        ],
         "presente-progresivo": [
             "estoy consultando",
             "estás consultando",
@@ -5836,6 +6972,14 @@
             "aconsejábamos",
             "aconsejabais",
             "aconsejaban"
+        ],
+        "futuro-simple": [
+            "aconsejaré",
+            "aconsejarás",
+            "aconsejará",
+            "aconsejaremos",
+            "aconsejaréis",
+            "aconsejarán"
         ],
         "presente-progresivo": [
             "estoy aconsejando",
@@ -5885,6 +7029,14 @@
             "ofrecíais",
             "ofrecían"
         ],
+        "futuro-simple": [
+            "ofreceré",
+            "ofrecerás",
+            "ofrecerá",
+            "ofreceremos",
+            "ofreceréis",
+            "ofrecerán"
+        ],
         "presente-progresivo": [
             "estoy ofreciendo",
             "estás ofreciendo",
@@ -5932,6 +7084,14 @@
             "proporcionábamos",
             "proporcionabais",
             "proporcionaban"
+        ],
+        "futuro-simple": [
+            "proporcionaré",
+            "proporcionarás",
+            "proporcionará",
+            "proporcionaremos",
+            "proporcionaréis",
+            "proporcionarán"
         ],
         "presente-progresivo": [
             "estoy proporcionando",
@@ -5981,6 +7141,14 @@
             "redescubríais",
             "redescubrían"
         ],
+        "futuro-simple": [
+            "redescubriré",
+            "redescubrirás",
+            "redescubrirá",
+            "redescubriremos",
+            "redescubriréis",
+            "redescubrirán"
+        ],
         "presente-progresivo": [
             "estoy redescubriendo",
             "estás redescubriendo",
@@ -6028,6 +7196,14 @@
             "bordeábamos",
             "bordeabais",
             "bordeaban"
+        ],
+        "futuro-simple": [
+            "bordearé",
+            "bordearás",
+            "bordeará",
+            "bordearemos",
+            "bordearéis",
+            "bordearán"
         ],
         "presente-progresivo": [
             "estoy bordeando",
@@ -6077,6 +7253,14 @@
             "atravesabais",
             "atravesaban"
         ],
+        "futuro-simple": [
+            "atravesaré",
+            "atravesarás",
+            "atravesará",
+            "atravesaremos",
+            "atravesaréis",
+            "atravesarán"
+        ],
         "presente-progresivo": [
             "estoy atravesando",
             "estás atravesando",
@@ -6124,6 +7308,14 @@
             "destacábamos",
             "destacabais",
             "destacaban"
+        ],
+        "futuro-simple": [
+            "destacaré",
+            "destacarás",
+            "destacará",
+            "destacaremos",
+            "destacaréis",
+            "destacarán"
         ],
         "presente-progresivo": [
             "estoy destacando",
@@ -6173,6 +7365,14 @@
             "ampliabais",
             "ampliaban"
         ],
+        "futuro-simple": [
+            "ampliaré",
+            "ampliarás",
+            "ampliará",
+            "ampliaremos",
+            "ampliaréis",
+            "ampliarán"
+        ],
         "presente-progresivo": [
             "estoy ampliando",
             "estás ampliando",
@@ -6220,6 +7420,14 @@
             "fundábamos",
             "fundabais",
             "fundaban"
+        ],
+        "futuro-simple": [
+            "fundaré",
+            "fundarás",
+            "fundará",
+            "fundaremos",
+            "fundaréis",
+            "fundarán"
         ],
         "presente-progresivo": [
             "estoy fundando",
@@ -6269,6 +7477,14 @@
             "vigilabais",
             "vigilaban"
         ],
+        "futuro-simple": [
+            "vigilaré",
+            "vigilarás",
+            "vigilará",
+            "vigilaremos",
+            "vigilaréis",
+            "vigilarán"
+        ],
         "presente-progresivo": [
             "estoy vigilando",
             "estás vigilando",
@@ -6316,6 +7532,14 @@
             "nos alegrábamos",
             "os alegrabais",
             "se alegraban"
+        ],
+        "futuro-simple": [
+            "me alegraré",
+            "te alegrarás",
+            "se alegrará",
+            "nos alegraremos",
+            "os alegraréis",
+            "se alegrarán"
         ],
         "presente-progresivo": [
             "me estoy alegrando",
@@ -6365,6 +7589,14 @@
             "agradecíais",
             "agradecían"
         ],
+        "futuro-simple": [
+            "agradeceré",
+            "agradecerás",
+            "agradecerá",
+            "agradeceremos",
+            "agradeceréis",
+            "agradecerán"
+        ],
         "presente-progresivo": [
             "estoy agradeciendo",
             "estás agradeciendo",
@@ -6412,6 +7644,14 @@
             "nos declarábamos",
             "os declarabais",
             "se declaraban"
+        ],
+        "futuro-simple": [
+            "me declararé",
+            "te declararás",
+            "se declarará",
+            "nos declararemos",
+            "os declararéis",
+            "se declararán"
         ],
         "presente-progresivo": [
             "me estoy declarando",
@@ -6461,6 +7701,14 @@
             "confesabais",
             "confesaban"
         ],
+        "futuro-simple": [
+            "confesaré",
+            "confesarás",
+            "confesará",
+            "confesaremos",
+            "confesaréis",
+            "confesarán"
+        ],
         "presente-progresivo": [
             "estoy confesando",
             "estás confesando",
@@ -6508,6 +7756,14 @@
             "nos atrevíamos",
             "os atrevíais",
             "se atrevían"
+        ],
+        "futuro-simple": [
+            "me atreveré",
+            "te atreverás",
+            "se atreverá",
+            "nos atreveremos",
+            "os atreveréis",
+            "se atreverán"
         ],
         "presente-progresivo": [
             "me estoy atreviendo",
@@ -6557,6 +7813,14 @@
             "inspirabais",
             "inspiraban"
         ],
+        "futuro-simple": [
+            "inspiraré",
+            "inspirarás",
+            "inspirará",
+            "inspiraremos",
+            "inspiraréis",
+            "inspirarán"
+        ],
         "presente-progresivo": [
             "estoy inspirando",
             "estás inspirando",
@@ -6604,6 +7868,14 @@
             "nos callábamos",
             "os callabais",
             "se callaban"
+        ],
+        "futuro-simple": [
+            "me callaré",
+            "te callarás",
+            "se callará",
+            "nos callaremos",
+            "os callaréis",
+            "se callarán"
         ],
         "presente-progresivo": [
             "me estoy callando",
@@ -6653,6 +7925,14 @@
             "golpeabais",
             "golpeaban"
         ],
+        "futuro-simple": [
+            "golpearé",
+            "golpearás",
+            "golpeará",
+            "golpearemos",
+            "golpearéis",
+            "golpearán"
+        ],
         "presente-progresivo": [
             "estoy golpeando",
             "estás golpeando",
@@ -6700,6 +7980,14 @@
             "sujetábamos",
             "sujetabais",
             "sujetaban"
+        ],
+        "futuro-simple": [
+            "sujetaré",
+            "sujetarás",
+            "sujetará",
+            "sujetaremos",
+            "sujetaréis",
+            "sujetarán"
         ],
         "presente-progresivo": [
             "estoy sujetando",
@@ -6749,6 +8037,14 @@
             "decorabais",
             "decoraban"
         ],
+        "futuro-simple": [
+            "decoraré",
+            "decorarás",
+            "decorará",
+            "decoraremos",
+            "decoraréis",
+            "decorarán"
+        ],
         "presente-progresivo": [
             "estoy decorando",
             "estás decorando",
@@ -6796,6 +8092,14 @@
             "nos interesábamos",
             "os interesabais",
             "se interesaban"
+        ],
+        "futuro-simple": [
+            "me interesaré",
+            "te interesarás",
+            "se interesará",
+            "nos interesaremos",
+            "os interesaréis",
+            "se interesarán"
         ],
         "presente-progresivo": [
             "me estoy interesando",
@@ -6845,6 +8149,14 @@
             "acercabais",
             "acercaban"
         ],
+        "futuro-simple": [
+            "acercaré",
+            "acercarás",
+            "acercará",
+            "acercaremos",
+            "acercaréis",
+            "acercarán"
+        ],
         "presente-progresivo": [
             "estoy acercando",
             "estás acercando",
@@ -6892,6 +8204,14 @@
             "nos dormíamos",
             "os dormíais",
             "se dormían"
+        ],
+        "futuro-simple": [
+            "me dormiré",
+            "te dormirás",
+            "se dormirá",
+            "nos dormiremos",
+            "os dormiréis",
+            "se dormirán"
         ],
         "presente-progresivo": [
             "me estoy durmiendo",
@@ -6941,6 +8261,14 @@
             "prestabais",
             "prestaban"
         ],
+        "futuro-simple": [
+            "prestaré",
+            "prestarás",
+            "prestará",
+            "prestaremos",
+            "prestaréis",
+            "prestarán"
+        ],
         "presente-progresivo": [
             "estoy prestando",
             "estás prestando",
@@ -6988,6 +8316,14 @@
             "tratábamos",
             "tratabais",
             "trataban"
+        ],
+        "futuro-simple": [
+            "trataré",
+            "tratarás",
+            "tratará",
+            "trataremos",
+            "trataréis",
+            "tratarán"
         ],
         "presente-progresivo": [
             "estoy tratando",
@@ -7037,6 +8373,14 @@
             "empujabais",
             "empujaban"
         ],
+        "futuro-simple": [
+            "empujaré",
+            "empujarás",
+            "empujará",
+            "empujaremos",
+            "empujaréis",
+            "empujarán"
+        ],
         "presente-progresivo": [
             "estoy empujando",
             "estás empujando",
@@ -7084,6 +8428,14 @@
             "adalantábamos",
             "adalantabais",
             "adalantaban"
+        ],
+        "futuro-simple": [
+            "adalantaré",
+            "adalantarás",
+            "adalantará",
+            "adalantaremos",
+            "adalantaréis",
+            "adalantarán"
         ],
         "presente-progresivo": [
             "estoy adalantando",
@@ -7133,6 +8485,14 @@
             "os parabais",
             "se paraban"
         ],
+        "futuro-simple": [
+            "me pararé",
+            "te pararás",
+            "se parará",
+            "nos pararemos",
+            "os pararéis",
+            "se pararán"
+        ],
         "presente-progresivo": [
             "me estoy parando",
             "te estás parando",
@@ -7180,6 +8540,14 @@
             "interactuábamos",
             "interactuabais",
             "interactuaban"
+        ],
+        "futuro-simple": [
+            "interactuaré",
+            "interactuarás",
+            "interactuará",
+            "interactuaremos",
+            "interactuaréis",
+            "interactuarán"
         ],
         "presente-progresivo": [
             "estoy interactuando",
@@ -7229,6 +8597,14 @@
             "os relacionabais",
             "se relacionaban"
         ],
+        "futuro-simple": [
+            "me relacionaré",
+            "te relacionarás",
+            "se relacionará",
+            "nos relacionaremos",
+            "os relacionaréis",
+            "se relacionarán"
+        ],
         "presente-progresivo": [
             "me estoy relacionando",
             "te estás relacionando",
@@ -7276,6 +8652,14 @@
             "besábamos",
             "besabais",
             "besaban"
+        ],
+        "futuro-simple": [
+            "besaré",
+            "besarás",
+            "besará",
+            "besaremos",
+            "besaréis",
+            "besarán"
         ],
         "presente-progresivo": [
             "estoy besando",
@@ -7325,6 +8709,14 @@
             "os encontrabais",
             "se encontraban"
         ],
+        "futuro-simple": [
+            "me encontraré",
+            "te encontrarás",
+            "se encontrará",
+            "nos encontraremos",
+            "os encontraréis",
+            "se encontrarán"
+        ],
         "presente-progresivo": [
             "me estoy encontrando",
             "te estás encontrando",
@@ -7372,6 +8764,14 @@
             "tuteábamos",
             "tuteabais",
             "tuteaban"
+        ],
+        "futuro-simple": [
+            "tutearé",
+            "tutearás",
+            "tuteará",
+            "tutearemos",
+            "tutearéis",
+            "tutearán"
         ],
         "presente-progresivo": [
             "estoy tuteando",
@@ -7421,6 +8821,14 @@
             "os disculpabais",
             "se disculpaban"
         ],
+        "futuro-simple": [
+            "me disculparé",
+            "te disculparás",
+            "se disculpará",
+            "nos disculparemos",
+            "os disculparéis",
+            "se disculparán"
+        ],
         "presente-progresivo": [
             "me estoy disculpando",
             "te estás disculpando",
@@ -7468,6 +8876,14 @@
             "ocupábamos",
             "ocupabais",
             "ocupaban"
+        ],
+        "futuro-simple": [
+            "ocuparé",
+            "ocuparás",
+            "ocupará",
+            "ocuparemos",
+            "ocuparéis",
+            "ocuparán"
         ],
         "presente-progresivo": [
             "estoy ocupando",
@@ -7517,6 +8933,14 @@
             "fluíais",
             "fluían"
         ],
+        "futuro-simple": [
+            "fluiré",
+            "fluirás",
+            "fluirá",
+            "fluiremos",
+            "fluiréis",
+            "fluirán"
+        ],
         "presente-progresivo": [
             "estoy fluyendo",
             "estás fluyendo",
@@ -7564,6 +8988,14 @@
             "gastábamos",
             "gastabais",
             "gastaban"
+        ],
+        "futuro-simple": [
+            "gastaré",
+            "gastarás",
+            "gastará",
+            "gastaremos",
+            "gastaréis",
+            "gastarán"
         ],
         "presente-progresivo": [
             "estoy gastando",
@@ -7613,6 +9045,14 @@
             "sufríais",
             "sufrían"
         ],
+        "futuro-simple": [
+            "sufriré",
+            "sufrirás",
+            "sufrirá",
+            "sufriremos",
+            "sufriréis",
+            "sufrirán"
+        ],
         "presente-progresivo": [
             "estoy sufriendo",
             "estás sufriendo",
@@ -7660,6 +9100,14 @@
             "ahorrábamos",
             "ahorrabais",
             "ahorraban"
+        ],
+        "futuro-simple": [
+            "ahorraré",
+            "ahorrarás",
+            "ahorrará",
+            "ahorraremos",
+            "ahorraréis",
+            "ahorrarán"
         ],
         "presente-progresivo": [
             "estoy ahorrando",
@@ -7709,6 +9157,14 @@
             "entrabais",
             "entraban"
         ],
+        "futuro-simple": [
+            "entraré",
+            "entrarás",
+            "entrará",
+            "entraremos",
+            "entraréis",
+            "entrarán"
+        ],
         "presente-progresivo": [
             "estoy entrando",
             "estás entrando",
@@ -7756,6 +9212,14 @@
             "confiábamos",
             "confiabais",
             "confiaban"
+        ],
+        "futuro-simple": [
+            "confiaré",
+            "confiarás",
+            "confiará",
+            "confiaremos",
+            "confiaréis",
+            "confiarán"
         ],
         "presente-progresivo": [
             "estoy confiando",
@@ -7805,6 +9269,14 @@
             "firmabais",
             "firmaban"
         ],
+        "futuro-simple": [
+            "firmaré",
+            "firmarás",
+            "firmará",
+            "firmaremos",
+            "firmaréis",
+            "firmarán"
+        ],
         "presente-progresivo": [
             "estoy firmando",
             "estás firmando",
@@ -7852,6 +9324,14 @@
             "protagonizábamos",
             "protagonizabais",
             "protagonizaban"
+        ],
+        "futuro-simple": [
+            "protagonizaré",
+            "protagonizarás",
+            "protagonizará",
+            "protagonizaremos",
+            "protagonizaréis",
+            "protagonizarán"
         ],
         "presente-progresivo": [
             "estoy protagonizando",
@@ -7901,6 +9381,14 @@
             "chocabais",
             "chocaban"
         ],
+        "futuro-simple": [
+            "chocaré",
+            "chocarás",
+            "chocará",
+            "chocaremos",
+            "chocaréis",
+            "chocarán"
+        ],
         "presente-progresivo": [
             "estoy chocando",
             "estás chocando",
@@ -7948,6 +9436,14 @@
             "contactábamos",
             "contactabais",
             "contactaban"
+        ],
+        "futuro-simple": [
+            "contactaré",
+            "contactarás",
+            "contactará",
+            "contactaremos",
+            "contactaréis",
+            "contactarán"
         ],
         "presente-progresivo": [
             "estoy contactando",
@@ -7997,6 +9493,14 @@
             "criticabais",
             "criticaban"
         ],
+        "futuro-simple": [
+            "criticaré",
+            "criticarás",
+            "criticará",
+            "criticaremos",
+            "criticaréis",
+            "criticarán"
+        ],
         "presente-progresivo": [
             "estoy criticando",
             "estás criticando",
@@ -8044,6 +9548,14 @@
             "presentábamos",
             "presentabais",
             "presentaban"
+        ],
+        "futuro-simple": [
+            "presentaré",
+            "presentarás",
+            "presentará",
+            "presentaremos",
+            "presentaréis",
+            "presentarán"
         ],
         "presente-progresivo": [
             "estoy presentando",
@@ -8093,6 +9605,14 @@
             "soportabais",
             "soportaban"
         ],
+        "futuro-simple": [
+            "soportaré",
+            "soportarás",
+            "soportará",
+            "soportaremos",
+            "soportaréis",
+            "soportarán"
+        ],
         "presente-progresivo": [
             "estoy soportando",
             "estás soportando",
@@ -8140,6 +9660,14 @@
             "pesábamos",
             "pesabais",
             "pesaban"
+        ],
+        "futuro-simple": [
+            "pesaré",
+            "pesarás",
+            "pesará",
+            "pesaremos",
+            "pesaréis",
+            "pesarán"
         ],
         "presente-progresivo": [
             "estoy pesando",
@@ -8189,6 +9717,14 @@
             "andabais",
             "andaban"
         ],
+        "futuro-simple": [
+            "andaré",
+            "andarás",
+            "andará",
+            "andaremos",
+            "andaréis",
+            "andarán"
+        ],
         "presente-progresivo": [
             "estoy andando",
             "estás andando",
@@ -8236,6 +9772,14 @@
             "nos estrenábamos",
             "os estrenabais",
             "se estrenaban"
+        ],
+        "futuro-simple": [
+            "me estrenaré",
+            "te estrenarás",
+            "se estrenará",
+            "nos estrenaremos",
+            "os estrenaréis",
+            "se estrenarán"
         ],
         "presente-progresivo": [
             "me estoy estrenando",
@@ -8285,6 +9829,14 @@
             "introducíais",
             "introducían"
         ],
+        "futuro-simple": [
+            "introduciré",
+            "introducirás",
+            "introducirá",
+            "introduciremos",
+            "introduciréis",
+            "introducirán"
+        ],
         "presente-progresivo": [
             "estoy introduciendo",
             "estás introduciendo",
@@ -8332,6 +9884,14 @@
             "éramos",
             "erais",
             "eran"
+        ],
+        "futuro-simple": [
+            "seré",
+            "serás",
+            "será",
+            "seremos",
+            "seréis",
+            "serán"
         ],
         "presente-progresivo": [
             "estoy siendo",
@@ -8381,6 +9941,14 @@
             "estabais",
             "estaban"
         ],
+        "futuro-simple": [
+            "estaré",
+            "estarás",
+            "estará",
+            "estaremos",
+            "estaréis",
+            "estarán"
+        ],
         "presente-progresivo": [
             "estoy estando",
             "estás estando",
@@ -8428,6 +9996,14 @@
             "íbamos",
             "ibais",
             "iban"
+        ],
+        "futuro-simple": [
+            "iré",
+            "irás",
+            "irá",
+            "iremos",
+            "iréis",
+            "irán"
         ],
         "presente-progresivo": [
             "estoy yendo",
@@ -8477,6 +10053,14 @@
             "escuchabais",
             "escuchaban"
         ],
+        "futuro-simple": [
+            "escucharé",
+            "escucharás",
+            "escuchará",
+            "escucharemos",
+            "escucharéis",
+            "escucharán"
+        ],
         "presente-progresivo": [
             "estoy escuchando",
             "estás escuchando",
@@ -8524,6 +10108,14 @@
             "preguntábamos",
             "preguntabais",
             "preguntaban"
+        ],
+        "futuro-simple": [
+            "preguntaré",
+            "preguntarás",
+            "preguntará",
+            "preguntaremos",
+            "preguntaréis",
+            "preguntarán"
         ],
         "presente-progresivo": [
             "estoy preguntando",
@@ -8573,6 +10165,14 @@
             "leíais",
             "leían"
         ],
+        "futuro-simple": [
+            "leeré",
+            "leerás",
+            "leerá",
+            "leeremos",
+            "leeréis",
+            "leerán"
+        ],
         "presente-progresivo": [
             "estoy leyendo",
             "estás leyendo",
@@ -8620,6 +10220,14 @@
             "hablábamos",
             "hablabais",
             "hablaban"
+        ],
+        "futuro-simple": [
+            "hablaré",
+            "hablarás",
+            "hablará",
+            "hablaremos",
+            "hablaréis",
+            "hablarán"
         ],
         "presente-progresivo": [
             "estoy hablando",
@@ -8669,6 +10277,14 @@
             "escribíais",
             "escribían"
         ],
+        "futuro-simple": [
+            "escribiré",
+            "escribirás",
+            "escribirá",
+            "escribiremos",
+            "escribiréis",
+            "escribirán"
+        ],
         "presente-progresivo": [
             "estoy escribiendo",
             "estás escribiendo",
@@ -8716,6 +10332,14 @@
             "respondíamos",
             "respondíais",
             "respondían"
+        ],
+        "futuro-simple": [
+            "responderé",
+            "responderás",
+            "responderá",
+            "responderemos",
+            "responderéis",
+            "responderán"
         ],
         "presente-progresivo": [
             "estoy respondiendo",
@@ -8765,6 +10389,14 @@
             "comprendíais",
             "comprendían"
         ],
+        "futuro-simple": [
+            "comprenderé",
+            "comprenderás",
+            "comprenderá",
+            "comprenderemos",
+            "comprenderéis",
+            "comprenderán"
+        ],
         "presente-progresivo": [
             "estoy comprendiendo",
             "estás comprendiendo",
@@ -8812,6 +10444,14 @@
             "repetíamos",
             "repetíais",
             "repetían"
+        ],
+        "futuro-simple": [
+            "repetiré",
+            "repetirás",
+            "repetirá",
+            "repetiremos",
+            "repetiréis",
+            "repetirán"
         ],
         "presente-progresivo": [
             "estoy repitiendo",
@@ -8861,6 +10501,14 @@
             "bebíais",
             "bebían"
         ],
+        "futuro-simple": [
+            "beberé",
+            "beberás",
+            "beberá",
+            "beberemos",
+            "beberéis",
+            "beberán"
+        ],
         "presente-progresivo": [
             "estoy bebiendo",
             "estás bebiendo",
@@ -8908,6 +10556,14 @@
             "vivíamos",
             "vivíais",
             "vivían"
+        ],
+        "futuro-simple": [
+            "viviré",
+            "vivirás",
+            "vivirá",
+            "viviremos",
+            "viviréis",
+            "vivirán"
         ],
         "presente-progresivo": [
             "estoy viviendo",
@@ -8957,6 +10613,14 @@
             "comíais",
             "comían"
         ],
+        "futuro-simple": [
+            "comeré",
+            "comerás",
+            "comerá",
+            "comeremos",
+            "comeréis",
+            "comerán"
+        ],
         "presente-progresivo": [
             "estoy comiendo",
             "estás comiendo",
@@ -9004,6 +10668,14 @@
             "necesitábamos",
             "necesitabais",
             "necesitaban"
+        ],
+        "futuro-simple": [
+            "necesitaré",
+            "necesitarás",
+            "necesitará",
+            "necesitaremos",
+            "necesitaréis",
+            "necesitarán"
         ],
         "presente-progresivo": [
             "estoy necesitando",
@@ -9053,6 +10725,14 @@
             "saludabais",
             "saludaban"
         ],
+        "futuro-simple": [
+            "saludaré",
+            "saludarás",
+            "saludará",
+            "saludaremos",
+            "saludaréis",
+            "saludarán"
+        ],
         "presente-progresivo": [
             "estoy saludando",
             "estás saludando",
@@ -9100,6 +10780,14 @@
             "trabajábamos",
             "trabajabais",
             "trabajaban"
+        ],
+        "futuro-simple": [
+            "trabajaré",
+            "trabajarás",
+            "trabajará",
+            "trabajaremos",
+            "trabajaréis",
+            "trabajarán"
         ],
         "presente-progresivo": [
             "estoy trabajando",
@@ -9149,6 +10837,14 @@
             "os llamabais",
             "se llamaban"
         ],
+        "futuro-simple": [
+            "me llamaré",
+            "te llamarás",
+            "se llamará",
+            "nos llamaremos",
+            "os llamaréis",
+            "se llamarán"
+        ],
         "presente-progresivo": [
             "me estoy llamando",
             "te estás llamando",
@@ -9196,6 +10892,14 @@
             "teníamos",
             "teníais",
             "tenían"
+        ],
+        "futuro-simple": [
+            "tendré",
+            "tendrás",
+            "tendrá",
+            "tendremos",
+            "tendréis",
+            "tendrán"
         ],
         "presente-progresivo": [
             "estoy teniendo",
@@ -9245,6 +10949,14 @@
             "os dedicabais",
             "se dedicaban"
         ],
+        "futuro-simple": [
+            "me dedicaré",
+            "te dedicarás",
+            "se dedicará",
+            "nos dedicaremos",
+            "os dedicaréis",
+            "se dedicarán"
+        ],
         "presente-progresivo": [
             "me estoy dedicando",
             "te estás dedicando",
@@ -9292,6 +11004,14 @@
             "enseñábamos",
             "enseñabais",
             "enseñaban"
+        ],
+        "futuro-simple": [
+            "enseñaré",
+            "enseñarás",
+            "enseñará",
+            "enseñaremos",
+            "enseñaréis",
+            "enseñarán"
         ],
         "presente-progresivo": [
             "estoy enseñando",
@@ -9341,6 +11061,14 @@
             "estudiabais",
             "estudiaban"
         ],
+        "futuro-simple": [
+            "estudiaré",
+            "estudiarás",
+            "estudiará",
+            "estudiaremos",
+            "estudiaréis",
+            "estudiarán"
+        ],
         "presente-progresivo": [
             "estoy estudiando",
             "estás estudiando",
@@ -9388,6 +11116,14 @@
             "subíamos",
             "subíais",
             "subían"
+        ],
+        "futuro-simple": [
+            "subiré",
+            "subirás",
+            "subirá",
+            "subiremos",
+            "subiréis",
+            "subirán"
         ],
         "presente-progresivo": [
             "estoy subiendo",
@@ -9437,6 +11173,14 @@
             "aprendíais",
             "aprendían"
         ],
+        "futuro-simple": [
+            "aprenderé",
+            "aprenderás",
+            "aprenderá",
+            "aprenderemos",
+            "aprenderéis",
+            "aprenderán"
+        ],
         "presente-progresivo": [
             "estoy aprendiendo",
             "estás aprendiendo",
@@ -9484,6 +11228,14 @@
             "corríamos",
             "corríais",
             "corrían"
+        ],
+        "futuro-simple": [
+            "correré",
+            "correrás",
+            "correrá",
+            "correremos",
+            "correréis",
+            "correrán"
         ],
         "presente-progresivo": [
             "estoy corriendo",
@@ -9533,6 +11285,14 @@
             "entrenabais",
             "entrenaban"
         ],
+        "futuro-simple": [
+            "entrenaré",
+            "entrenarás",
+            "entrenará",
+            "entrenaremos",
+            "entrenaréis",
+            "entrenarán"
+        ],
         "presente-progresivo": [
             "estoy entrenando",
             "estás entrenando",
@@ -9580,6 +11340,14 @@
             "cogíamos",
             "cogíais",
             "cogían"
+        ],
+        "futuro-simple": [
+            "cogeré",
+            "cogerás",
+            "cogerá",
+            "cogeremos",
+            "cogeréis",
+            "cogerán"
         ],
         "presente-progresivo": [
             "estoy cogiendo",
@@ -9629,6 +11397,14 @@
             "cambiabais",
             "cambiaban"
         ],
+        "futuro-simple": [
+            "cambiaré",
+            "cambiarás",
+            "cambiará",
+            "cambiaremos",
+            "cambiaréis",
+            "cambiarán"
+        ],
         "presente-progresivo": [
             "estoy cambiando",
             "estás cambiando",
@@ -9676,6 +11452,14 @@
             "podíamos",
             "podíais",
             "podían"
+        ],
+        "futuro-simple": [
+            "podré",
+            "podrás",
+            "podrá",
+            "podremos",
+            "podréis",
+            "podrán"
         ],
         "presente-progresivo": [
             "estoy pudiendo",
@@ -9725,6 +11509,14 @@
             "sabíais",
             "sabían"
         ],
+        "futuro-simple": [
+            "sabré",
+            "sabrás",
+            "sabrá",
+            "sabremos",
+            "sabréis",
+            "sabrán"
+        ],
         "presente-progresivo": [
             "estoy sabiendo",
             "estás sabiendo",
@@ -9772,6 +11564,14 @@
             "cantábamos",
             "cantabais",
             "cantaban"
+        ],
+        "futuro-simple": [
+            "cantaré",
+            "cantarás",
+            "cantará",
+            "cantaremos",
+            "cantaréis",
+            "cantarán"
         ],
         "presente-progresivo": [
             "estoy cantando",
@@ -9821,6 +11621,14 @@
             "queríais",
             "querían"
         ],
+        "futuro-simple": [
+            "querré",
+            "querrás",
+            "querrá",
+            "querremos",
+            "querréis",
+            "querrán"
+        ],
         "presente-progresivo": [
             "estoy queriendo",
             "estás queriendo",
@@ -9868,6 +11676,14 @@
             "deletreábamos",
             "deletreabais",
             "deletreaban"
+        ],
+        "futuro-simple": [
+            "deletrearé",
+            "deletrearás",
+            "deletreará",
+            "deletrearemos",
+            "deletrearéis",
+            "deletrearán"
         ],
         "presente-progresivo": [
             "estoy deletreando",
@@ -9917,6 +11733,14 @@
             "hacíais",
             "hacían"
         ],
+        "futuro-simple": [
+            "haré",
+            "harás",
+            "hará",
+            "haremos",
+            "haréis",
+            "harán"
+        ],
         "presente-progresivo": [
             "estoy haciendo",
             "estás haciendo",
@@ -9964,6 +11788,14 @@
             "salíamos",
             "salíais",
             "salían"
+        ],
+        "futuro-simple": [
+            "saldré",
+            "saldrás",
+            "saldrá",
+            "saldremos",
+            "saldréis",
+            "saldrán"
         ],
         "presente-progresivo": [
             "estoy saliendo",
@@ -10013,6 +11845,14 @@
             "veíais",
             "veían"
         ],
+        "futuro-simple": [
+            "veré",
+            "verás",
+            "verá",
+            "veremos",
+            "veréis",
+            "verán"
+        ],
         "presente-progresivo": [
             "estoy viendo",
             "estás viendo",
@@ -10060,6 +11900,14 @@
             "practicábamos",
             "practicabais",
             "practicaban"
+        ],
+        "futuro-simple": [
+            "practicaré",
+            "practicarás",
+            "practicará",
+            "practicaremos",
+            "practicaréis",
+            "practicarán"
         ],
         "presente-progresivo": [
             "estoy practicando",
@@ -10109,6 +11957,14 @@
             "visitabais",
             "visitaban"
         ],
+        "futuro-simple": [
+            "visitaré",
+            "visitarás",
+            "visitará",
+            "visitaremos",
+            "visitaréis",
+            "visitarán"
+        ],
         "presente-progresivo": [
             "estoy visitando",
             "estás visitando",
@@ -10156,6 +12012,14 @@
             "jugábamos",
             "jugabais",
             "jugaban"
+        ],
+        "futuro-simple": [
+            "jugaré",
+            "jugarás",
+            "jugará",
+            "jugaremos",
+            "jugaréis",
+            "jugarán"
         ],
         "presente-progresivo": [
             "estoy jugando",
@@ -10205,6 +12069,14 @@
             "conocíais",
             "conocían"
         ],
+        "futuro-simple": [
+            "conoceré",
+            "conocerás",
+            "conocerá",
+            "conoceremos",
+            "conoceréis",
+            "conocerán"
+        ],
         "presente-progresivo": [
             "estoy conociendo",
             "estás conociendo",
@@ -10252,6 +12124,14 @@
             "desayunábamos",
             "desayunabais",
             "desayunaban"
+        ],
+        "futuro-simple": [
+            "desayunaré",
+            "desayunarás",
+            "desayunará",
+            "desayunaremos",
+            "desayunaréis",
+            "desayunarán"
         ],
         "presente-progresivo": [
             "estoy desayunando",
@@ -10301,6 +12181,14 @@
             "almorzabais",
             "almorzaban"
         ],
+        "futuro-simple": [
+            "almorzaré",
+            "almorzarás",
+            "almorzará",
+            "almorzaremos",
+            "almorzaréis",
+            "almorzarán"
+        ],
         "presente-progresivo": [
             "estoy almorzando",
             "estás almorzando",
@@ -10348,6 +12236,14 @@
             "cenábamos",
             "cenabais",
             "cenaban"
+        ],
+        "futuro-simple": [
+            "cenaré",
+            "cenarás",
+            "cenará",
+            "cenaremos",
+            "cenaréis",
+            "cenarán"
         ],
         "presente-progresivo": [
             "estoy cenando",
@@ -10397,6 +12293,14 @@
             "tocabais",
             "tocaban"
         ],
+        "futuro-simple": [
+            "tocaré",
+            "tocarás",
+            "tocará",
+            "tocaremos",
+            "tocaréis",
+            "tocarán"
+        ],
         "presente-progresivo": [
             "estoy tocando",
             "estás tocando",
@@ -10444,6 +12348,14 @@
             "bailábamos",
             "bailabais",
             "bailaban"
+        ],
+        "futuro-simple": [
+            "bailaré",
+            "bailarás",
+            "bailará",
+            "bailaremos",
+            "bailaréis",
+            "bailarán"
         ],
         "presente-progresivo": [
             "estoy bailando",
@@ -10493,6 +12405,14 @@
             "llamabais",
             "llamaban"
         ],
+        "futuro-simple": [
+            "llamaré",
+            "llamarás",
+            "llamará",
+            "llamaremos",
+            "llamaréis",
+            "llamarán"
+        ],
         "presente-progresivo": [
             "estoy llamando",
             "estás llamando",
@@ -10540,6 +12460,14 @@
             "viajábamos",
             "viajabais",
             "viajaban"
+        ],
+        "futuro-simple": [
+            "viajaré",
+            "viajarás",
+            "viajará",
+            "viajaremos",
+            "viajaréis",
+            "viajarán"
         ],
         "presente-progresivo": [
             "estoy viajando",
@@ -10589,6 +12517,14 @@
             "comprabais",
             "compraban"
         ],
+        "futuro-simple": [
+            "compraré",
+            "comprarás",
+            "comprará",
+            "compraremos",
+            "compraréis",
+            "comprarán"
+        ],
         "presente-progresivo": [
             "estoy comprando",
             "estás comprando",
@@ -10636,6 +12572,14 @@
             "cocinábamos",
             "cocinabais",
             "cocinaban"
+        ],
+        "futuro-simple": [
+            "cocinaré",
+            "cocinarás",
+            "cocinará",
+            "cocinaremos",
+            "cocinaréis",
+            "cocinarán"
         ],
         "presente-progresivo": [
             "estoy cocinando",
@@ -10685,6 +12629,14 @@
             "vendíais",
             "vendían"
         ],
+        "futuro-simple": [
+            "venderé",
+            "venderás",
+            "venderá",
+            "venderemos",
+            "venderéis",
+            "venderán"
+        ],
         "presente-progresivo": [
             "estoy vendiendo",
             "estás vendiendo",
@@ -10732,6 +12684,14 @@
             "decíamos",
             "decíais",
             "decían"
+        ],
+        "futuro-simple": [
+            "diré",
+            "dirás",
+            "dirá",
+            "diremos",
+            "diréis",
+            "dirán"
         ],
         "presente-progresivo": [
             "estoy diciendo",
@@ -10781,6 +12741,14 @@
             "paseabais",
             "paseaban"
         ],
+        "futuro-simple": [
+            "pasearé",
+            "pasearás",
+            "paseará",
+            "pasearemos",
+            "pasearéis",
+            "pasearán"
+        ],
         "presente-progresivo": [
             "estoy paseando",
             "estás paseando",
@@ -10828,6 +12796,14 @@
             "creíamos",
             "creíais",
             "creían"
+        ],
+        "futuro-simple": [
+            "creeré",
+            "creerás",
+            "creerá",
+            "creeremos",
+            "creeréis",
+            "creerán"
         ],
         "presente-progresivo": [
             "estoy creyendo",
@@ -10877,6 +12853,14 @@
             "caminabais",
             "caminaban"
         ],
+        "futuro-simple": [
+            "caminaré",
+            "caminarás",
+            "caminará",
+            "caminaremos",
+            "caminaréis",
+            "caminarán"
+        ],
         "presente-progresivo": [
             "estoy caminando",
             "estás caminando",
@@ -10924,6 +12908,14 @@
             "callábamos",
             "callabais",
             "callaban"
+        ],
+        "futuro-simple": [
+            "callaré",
+            "callarás",
+            "callará",
+            "callaremos",
+            "callaréis",
+            "callarán"
         ],
         "presente-progresivo": [
             "estoy callando",
@@ -10973,6 +12965,14 @@
             "amabais",
             "amaban"
         ],
+        "futuro-simple": [
+            "amaré",
+            "amarás",
+            "amará",
+            "amaremos",
+            "amaréis",
+            "amarán"
+        ],
         "presente-progresivo": [
             "estoy amando",
             "estás amando",
@@ -11020,6 +13020,14 @@
             "entendíamos",
             "entendíais",
             "entendían"
+        ],
+        "futuro-simple": [
+            "entenderé",
+            "entenderás",
+            "entenderá",
+            "entenderemos",
+            "entenderéis",
+            "entenderán"
         ],
         "presente-progresivo": [
             "estoy entendiendo",
@@ -11069,6 +13077,14 @@
             "chateabais",
             "chateaban"
         ],
+        "futuro-simple": [
+            "chatearé",
+            "chatearás",
+            "chateará",
+            "chatearemos",
+            "chatearéis",
+            "chatearán"
+        ],
         "presente-progresivo": [
             "estoy chateando",
             "estás chateando",
@@ -11116,6 +13132,14 @@
             "pasábamos",
             "pasabais",
             "pasaban"
+        ],
+        "futuro-simple": [
+            "pasaré",
+            "pasarás",
+            "pasará",
+            "pasaremos",
+            "pasaréis",
+            "pasarán"
         ],
         "presente-progresivo": [
             "estoy pasando",
@@ -11165,6 +13189,14 @@
             "existíais",
             "existían"
         ],
+        "futuro-simple": [
+            "existiré",
+            "existirás",
+            "existirá",
+            "existiremos",
+            "existiréis",
+            "existirán"
+        ],
         "presente-progresivo": [
             "estoy existiendo",
             "estás existiendo",
@@ -11212,6 +13244,14 @@
             "admitíamos",
             "admitíais",
             "admitían"
+        ],
+        "futuro-simple": [
+            "admitiré",
+            "admitirás",
+            "admitirá",
+            "admitiremos",
+            "admitiréis",
+            "admitirán"
         ],
         "presente-progresivo": [
             "estoy admitiendo",
@@ -11261,6 +13301,14 @@
             "describíais",
             "describían"
         ],
+        "futuro-simple": [
+            "describiré",
+            "describirás",
+            "describirá",
+            "describiremos",
+            "describiréis",
+            "describirán"
+        ],
         "presente-progresivo": [
             "estoy describiendo",
             "estás describiendo",
@@ -11308,6 +13356,14 @@
             "poníamos",
             "poníais",
             "ponían"
+        ],
+        "futuro-simple": [
+            "pondré",
+            "pondrás",
+            "pondrá",
+            "pondremos",
+            "pondréis",
+            "pondrán"
         ],
         "presente-progresivo": [
             "estoy poniendo",
@@ -11357,6 +13413,14 @@
             "veníais",
             "venían"
         ],
+        "futuro-simple": [
+            "vendré",
+            "vendrás",
+            "vendrá",
+            "vendremos",
+            "vendréis",
+            "vendrán"
+        ],
         "presente-progresivo": [
             "estoy viniendo",
             "estás viniendo",
@@ -11404,6 +13468,14 @@
             "nos comunicábamos",
             "os comunicabais",
             "se comunicaban"
+        ],
+        "futuro-simple": [
+            "me comunicaré",
+            "te comunicarás",
+            "se comunicará",
+            "nos comunicaremos",
+            "os comunicaréis",
+            "se comunicarán"
         ],
         "presente-progresivo": [
             "me estoy comunicando",
@@ -11453,6 +13525,14 @@
             "buscabais",
             "buscaban"
         ],
+        "futuro-simple": [
+            "buscaré",
+            "buscarás",
+            "buscará",
+            "buscaremos",
+            "buscaréis",
+            "buscarán"
+        ],
         "presente-progresivo": [
             "estoy buscando",
             "estás buscando",
@@ -11500,6 +13580,14 @@
             "mejorábamos",
             "mejorabais",
             "mejoraban"
+        ],
+        "futuro-simple": [
+            "mejoraré",
+            "mejorarás",
+            "mejorará",
+            "mejoraremos",
+            "mejoraréis",
+            "mejorarán"
         ],
         "presente-progresivo": [
             "estoy mejorando",
@@ -11549,6 +13637,14 @@
             "volvíais",
             "volvían"
         ],
+        "futuro-simple": [
+            "volveré",
+            "volverás",
+            "volverá",
+            "volveremos",
+            "volveréis",
+            "volverán"
+        ],
         "presente-progresivo": [
             "estoy volviendo",
             "estás volviendo",
@@ -11596,6 +13692,14 @@
             "llegábamos",
             "llegabais",
             "llegaban"
+        ],
+        "futuro-simple": [
+            "llegaré",
+            "llegarás",
+            "llegará",
+            "llegaremos",
+            "llegaréis",
+            "llegarán"
         ],
         "presente-progresivo": [
             "estoy llegando",
@@ -11645,6 +13749,14 @@
             "nadabais",
             "nadaban"
         ],
+        "futuro-simple": [
+            "nadaré",
+            "nadarás",
+            "nadará",
+            "nadaremos",
+            "nadaréis",
+            "nadarán"
+        ],
         "presente-progresivo": [
             "estoy nadando",
             "estás nadando",
@@ -11692,6 +13804,14 @@
             "tapeábamos",
             "tapeabais",
             "tapeaban"
+        ],
+        "futuro-simple": [
+            "tapearé",
+            "tapearás",
+            "tapeará",
+            "tapearemos",
+            "tapearéis",
+            "tapearán"
         ],
         "presente-progresivo": [
             "estoy tapeando",
@@ -11741,6 +13861,14 @@
             "debíais",
             "debían"
         ],
+        "futuro-simple": [
+            "deberé",
+            "deberás",
+            "deberá",
+            "deberemos",
+            "deberéis",
+            "deberán"
+        ],
         "presente-progresivo": [
             "estoy debiendo",
             "estás debiendo",
@@ -11788,6 +13916,14 @@
             "elegíamos",
             "elegíais",
             "elegían"
+        ],
+        "futuro-simple": [
+            "elegiré",
+            "elegirás",
+            "elegirá",
+            "elegiremos",
+            "elegiréis",
+            "elegirán"
         ],
         "presente-progresivo": [
             "estoy eligiendo",
@@ -11837,6 +13973,14 @@
             "conteníais",
             "contenían"
         ],
+        "futuro-simple": [
+            "contendré",
+            "contendrás",
+            "contendrá",
+            "contendremos",
+            "contendréis",
+            "contendrán"
+        ],
         "presente-progresivo": [
             "estoy conteniendo",
             "estás conteniendo",
@@ -11884,6 +14028,14 @@
             "permitíamos",
             "permitíais",
             "permitían"
+        ],
+        "futuro-simple": [
+            "permitiré",
+            "permitirás",
+            "permitirá",
+            "permitiremos",
+            "permitiréis",
+            "permitirán"
         ],
         "presente-progresivo": [
             "estoy permitiendo",
@@ -11933,6 +14085,14 @@
             "contestabais",
             "contestaban"
         ],
+        "futuro-simple": [
+            "contestaré",
+            "contestarás",
+            "contestará",
+            "contestaremos",
+            "contestaréis",
+            "contestarán"
+        ],
         "presente-progresivo": [
             "estoy contestando",
             "estás contestando",
@@ -11980,6 +14140,14 @@
             "ganábamos",
             "ganabais",
             "ganaban"
+        ],
+        "futuro-simple": [
+            "ganaré",
+            "ganarás",
+            "ganará",
+            "ganaremos",
+            "ganaréis",
+            "ganarán"
         ],
         "presente-progresivo": [
             "estoy ganando",
@@ -12029,6 +14197,14 @@
             "aparecíais",
             "aparecían"
         ],
+        "futuro-simple": [
+            "apareceré",
+            "aparecerás",
+            "aparecerá",
+            "apareceremos",
+            "apareceréis",
+            "aparecerán"
+        ],
         "presente-progresivo": [
             "estoy apareciendo",
             "estás apareciendo",
@@ -12076,6 +14252,14 @@
             "reposábamos",
             "reposabais",
             "reposaban"
+        ],
+        "futuro-simple": [
+            "reposaré",
+            "reposarás",
+            "reposará",
+            "reposaremos",
+            "reposaréis",
+            "reposarán"
         ],
         "presente-progresivo": [
             "estoy reposando",
@@ -12125,6 +14309,14 @@
             "os relajabais",
             "se relajaban"
         ],
+        "futuro-simple": [
+            "me relajaré",
+            "te relajarás",
+            "se relajará",
+            "nos relajaremos",
+            "os relajaréis",
+            "se relajarán"
+        ],
         "presente-progresivo": [
             "me estoy relajando",
             "te estás relajando",
@@ -12172,6 +14364,14 @@
             "limpiábamos",
             "limpiabais",
             "limpiaban"
+        ],
+        "futuro-simple": [
+            "limpiaré",
+            "limpiarás",
+            "limpiará",
+            "limpiaremos",
+            "limpiaréis",
+            "limpiarán"
         ],
         "presente-progresivo": [
             "estoy limpiando",
@@ -12221,6 +14421,14 @@
             "marcabais",
             "marcaban"
         ],
+        "futuro-simple": [
+            "marcaré",
+            "marcarás",
+            "marcará",
+            "marcaremos",
+            "marcaréis",
+            "marcarán"
+        ],
         "presente-progresivo": [
             "estoy marcando",
             "estás marcando",
@@ -12268,6 +14476,14 @@
             "sobrevivíamos",
             "sobrevivíais",
             "sobrevivían"
+        ],
+        "futuro-simple": [
+            "sobreviviré",
+            "sobrevivirás",
+            "sobrevivirá",
+            "sobreviviremos",
+            "sobreviviréis",
+            "sobrevivirán"
         ],
         "presente-progresivo": [
             "estoy sobreviviendo",
@@ -12317,6 +14533,14 @@
             "llevabais",
             "llevaban"
         ],
+        "futuro-simple": [
+            "llevaré",
+            "llevarás",
+            "llevará",
+            "llevaremos",
+            "llevaréis",
+            "llevarán"
+        ],
         "presente-progresivo": [
             "estoy llevando",
             "estás llevando",
@@ -12364,6 +14588,14 @@
             "disfrutábamos",
             "disfrutabais",
             "disfrutaban"
+        ],
+        "futuro-simple": [
+            "disfrutaré",
+            "disfrutarás",
+            "disfrutará",
+            "disfrutaremos",
+            "disfrutaréis",
+            "disfrutarán"
         ],
         "presente-progresivo": [
             "estoy disfrutando",
@@ -12413,6 +14645,14 @@
             "empezabais",
             "empezaban"
         ],
+        "futuro-simple": [
+            "empezaré",
+            "empezarás",
+            "empezará",
+            "empezaremos",
+            "empezaréis",
+            "empezarán"
+        ],
         "presente-progresivo": [
             "estoy empezando",
             "estás empezando",
@@ -12460,6 +14700,14 @@
             "comenzábamos",
             "comenzabais",
             "comenzaban"
+        ],
+        "futuro-simple": [
+            "comenzaré",
+            "comenzarás",
+            "comenzará",
+            "comenzaremos",
+            "comenzaréis",
+            "comenzarán"
         ],
         "presente-progresivo": [
             "estoy comenzando",
@@ -12509,6 +14757,14 @@
             "cerrabais",
             "cerraban"
         ],
+        "futuro-simple": [
+            "cerraré",
+            "cerrarás",
+            "cerrará",
+            "cerraremos",
+            "cerraréis",
+            "cerrarán"
+        ],
         "presente-progresivo": [
             "estoy cerrando",
             "estás cerrando",
@@ -12556,6 +14812,14 @@
             "secábamos",
             "secabais",
             "secaban"
+        ],
+        "futuro-simple": [
+            "secaré",
+            "secarás",
+            "secará",
+            "secaremos",
+            "secaréis",
+            "secarán"
         ],
         "presente-progresivo": [
             "estoy secando",
@@ -12605,6 +14869,14 @@
             "lavabais",
             "lavaban"
         ],
+        "futuro-simple": [
+            "lavaré",
+            "lavarás",
+            "lavará",
+            "lavaremos",
+            "lavaréis",
+            "lavarán"
+        ],
         "presente-progresivo": [
             "estoy lavando",
             "estás lavando",
@@ -12652,6 +14924,14 @@
             "nos lavábamos",
             "os lavabais",
             "se lavaban"
+        ],
+        "futuro-simple": [
+            "me lavaré",
+            "te lavarás",
+            "se lavará",
+            "nos lavaremos",
+            "os lavaréis",
+            "se lavarán"
         ],
         "presente-progresivo": [
             "me estoy lavando",
@@ -12701,6 +14981,14 @@
             "negabais",
             "negaban"
         ],
+        "futuro-simple": [
+            "negaré",
+            "negarás",
+            "negará",
+            "negaremos",
+            "negaréis",
+            "negarán"
+        ],
         "presente-progresivo": [
             "estoy negando",
             "estás negando",
@@ -12748,6 +15036,14 @@
             "preferíamos",
             "preferíais",
             "preferían"
+        ],
+        "futuro-simple": [
+            "preferiré",
+            "preferirás",
+            "preferirá",
+            "preferiremos",
+            "preferiréis",
+            "preferirán"
         ],
         "presente-progresivo": [
             "estoy prefiriendo",
@@ -12797,6 +15093,14 @@
             "ayudabais",
             "ayudaban"
         ],
+        "futuro-simple": [
+            "ayudaré",
+            "ayudarás",
+            "ayudará",
+            "ayudaremos",
+            "ayudaréis",
+            "ayudarán"
+        ],
         "presente-progresivo": [
             "estoy ayudando",
             "estás ayudando",
@@ -12844,6 +15148,14 @@
             "alquilábamos",
             "alquilabais",
             "alquilaban"
+        ],
+        "futuro-simple": [
+            "alquilaré",
+            "alquilarás",
+            "alquilará",
+            "alquilaremos",
+            "alquilaréis",
+            "alquilarán"
         ],
         "presente-progresivo": [
             "estoy alquilando",
@@ -12893,6 +15205,14 @@
             "conducíais",
             "conducían"
         ],
+        "futuro-simple": [
+            "conduciré",
+            "conducirás",
+            "conducirá",
+            "conduciremos",
+            "conduciréis",
+            "conducirán"
+        ],
         "presente-progresivo": [
             "estoy conduciendo",
             "estás conduciendo",
@@ -12940,6 +15260,14 @@
             "deseábamos",
             "deseabais",
             "deseaban"
+        ],
+        "futuro-simple": [
+            "desearé",
+            "desearás",
+            "deseará",
+            "desearemos",
+            "desearéis",
+            "desearán"
         ],
         "presente-progresivo": [
             "estoy deseando",
@@ -12989,6 +15317,14 @@
             "mirabais",
             "miraban"
         ],
+        "futuro-simple": [
+            "miraré",
+            "mirarás",
+            "mirará",
+            "miraremos",
+            "miraréis",
+            "mirarán"
+        ],
         "presente-progresivo": [
             "estoy mirando",
             "estás mirando",
@@ -13036,6 +15372,14 @@
             "nos llevábamos",
             "os llevabais",
             "se llevaban"
+        ],
+        "futuro-simple": [
+            "me llevaré",
+            "te llevarás",
+            "se llevará",
+            "nos llevaremos",
+            "os llevaréis",
+            "se llevarán"
         ],
         "presente-progresivo": [
             "me estoy llevando",
@@ -13085,6 +15429,14 @@
             "usabais",
             "usaban"
         ],
+        "futuro-simple": [
+            "usaré",
+            "usarás",
+            "usará",
+            "usaremos",
+            "usaréis",
+            "usarán"
+        ],
         "presente-progresivo": [
             "estoy usando",
             "estás usando",
@@ -13132,6 +15484,14 @@
             "comparábamos",
             "comparabais",
             "comparaban"
+        ],
+        "futuro-simple": [
+            "compararé",
+            "compararás",
+            "comparará",
+            "compararemos",
+            "compararéis",
+            "compararán"
         ],
         "presente-progresivo": [
             "estoy comparando",
@@ -13181,6 +15541,14 @@
             "rompíais",
             "rompían"
         ],
+        "futuro-simple": [
+            "romperé",
+            "romperás",
+            "romperá",
+            "romperemos",
+            "romperéis",
+            "romperán"
+        ],
         "presente-progresivo": [
             "estoy rompiendo",
             "estás rompiendo",
@@ -13228,6 +15596,14 @@
             "nos sentábamos",
             "os sentabais",
             "se sentaban"
+        ],
+        "futuro-simple": [
+            "me sentaré",
+            "te sentarás",
+            "se sentará",
+            "nos sentaremos",
+            "os sentaréis",
+            "se sentarán"
         ],
         "presente-progresivo": [
             "me estoy sentando",
@@ -13277,6 +15653,14 @@
             "volabais",
             "volaban"
         ],
+        "futuro-simple": [
+            "volaré",
+            "volarás",
+            "volará",
+            "volaremos",
+            "volaréis",
+            "volarán"
+        ],
         "presente-progresivo": [
             "estoy volando",
             "estás volando",
@@ -13324,6 +15708,14 @@
             "dábamos",
             "dabais",
             "daban"
+        ],
+        "futuro-simple": [
+            "daré",
+            "darás",
+            "dará",
+            "daremos",
+            "daréis",
+            "darán"
         ],
         "presente-progresivo": [
             "estoy dando",
@@ -13373,6 +15765,14 @@
             "robabais",
             "robaban"
         ],
+        "futuro-simple": [
+            "robaré",
+            "robarás",
+            "robará",
+            "robaremos",
+            "robaréis",
+            "robarán"
+        ],
         "presente-progresivo": [
             "estoy robando",
             "estás robando",
@@ -13420,6 +15820,14 @@
             "nos olvidábamos",
             "os olvidabais",
             "se olvidaban"
+        ],
+        "futuro-simple": [
+            "me olvidaré",
+            "te olvidarás",
+            "se olvidará",
+            "nos olvidaremos",
+            "os olvidaréis",
+            "se olvidarán"
         ],
         "presente-progresivo": [
             "me estoy olvidando",
@@ -13469,6 +15877,14 @@
             "olvidabais",
             "olvidaban"
         ],
+        "futuro-simple": [
+            "olvidaré",
+            "olvidarás",
+            "olvidará",
+            "olvidaremos",
+            "olvidaréis",
+            "olvidarán"
+        ],
         "presente-progresivo": [
             "estoy olvidando",
             "estás olvidando",
@@ -13516,6 +15932,14 @@
             "seguíamos",
             "seguíais",
             "seguían"
+        ],
+        "futuro-simple": [
+            "seguiré",
+            "seguirás",
+            "seguirá",
+            "seguiremos",
+            "seguiréis",
+            "seguirán"
         ],
         "presente-progresivo": [
             "estoy siguiendo",
@@ -13565,6 +15989,14 @@
             "esperabais",
             "esperaban"
         ],
+        "futuro-simple": [
+            "esperaré",
+            "esperarás",
+            "esperará",
+            "esperaremos",
+            "esperaréis",
+            "esperarán"
+        ],
         "presente-progresivo": [
             "estoy esperando",
             "estás esperando",
@@ -13612,6 +16044,14 @@
             "parecíamos",
             "parecíais",
             "parecían"
+        ],
+        "futuro-simple": [
+            "pareceré",
+            "parecerás",
+            "parecerá",
+            "pareceremos",
+            "pareceréis",
+            "parecerán"
         ],
         "presente-progresivo": [
             "estoy pareciendo",
@@ -13661,6 +16101,14 @@
             "pensabais",
             "pensaban"
         ],
+        "futuro-simple": [
+            "pensaré",
+            "pensarás",
+            "pensará",
+            "pensaremos",
+            "pensaréis",
+            "pensarán"
+        ],
         "presente-progresivo": [
             "estoy pensando",
             "estás pensando",
@@ -13708,6 +16156,14 @@
             "esquiábamos",
             "esquiabais",
             "esquiaban"
+        ],
+        "futuro-simple": [
+            "esquiaré",
+            "esquiarás",
+            "esquiará",
+            "esquiaremos",
+            "esquiaréis",
+            "esquiarán"
         ],
         "presente-progresivo": [
             "estoy esquiando",
@@ -13757,6 +16213,14 @@
             "os levantabais",
             "se levantaban"
         ],
+        "futuro-simple": [
+            "me levantaré",
+            "te levantarás",
+            "se levantará",
+            "nos levantaremos",
+            "os levantaréis",
+            "se levantarán"
+        ],
         "presente-progresivo": [
             "me estoy levantando",
             "te estás levantando",
@@ -13804,6 +16268,14 @@
             "nos sentíamos",
             "os sentíais",
             "se sentían"
+        ],
+        "futuro-simple": [
+            "me sentiré",
+            "te sentirás",
+            "se sentirá",
+            "nos sentiremos",
+            "os sentiréis",
+            "se sentirán"
         ],
         "presente-progresivo": [
             "me estoy sintiendo",
@@ -13853,6 +16325,14 @@
             "os acostabais",
             "se acostaban"
         ],
+        "futuro-simple": [
+            "me acostaré",
+            "te acostarás",
+            "se acostará",
+            "nos acostaremos",
+            "os acostaréis",
+            "se acostarán"
+        ],
         "presente-progresivo": [
             "me estoy acostando",
             "te estás acostando",
@@ -13900,6 +16380,14 @@
             "madrugábamos",
             "madrugabais",
             "madrugaban"
+        ],
+        "futuro-simple": [
+            "madrugaré",
+            "madrugarás",
+            "madrugará",
+            "madrugaremos",
+            "madrugaréis",
+            "madrugarán"
         ],
         "presente-progresivo": [
             "estoy madrugando",
@@ -13949,6 +16437,14 @@
             "odiabais",
             "odiaban"
         ],
+        "futuro-simple": [
+            "odiaré",
+            "odiarás",
+            "odiará",
+            "odiaremos",
+            "odiaréis",
+            "odiarán"
+        ],
         "presente-progresivo": [
             "estoy odiando",
             "estás odiando",
@@ -13996,6 +16492,14 @@
             "cuidábamos",
             "cuidabais",
             "cuidaban"
+        ],
+        "futuro-simple": [
+            "cuidaré",
+            "cuidarás",
+            "cuidará",
+            "cuidaremos",
+            "cuidaréis",
+            "cuidarán"
         ],
         "presente-progresivo": [
             "estoy cuidando",
@@ -14045,6 +16549,14 @@
             "fumabais",
             "fumaban"
         ],
+        "futuro-simple": [
+            "fumaré",
+            "fumarás",
+            "fumará",
+            "fumaremos",
+            "fumaréis",
+            "fumarán"
+        ],
         "presente-progresivo": [
             "estoy fumando",
             "estás fumando",
@@ -14092,6 +16604,14 @@
             "nos íbamos",
             "os ibais",
             "se iban"
+        ],
+        "futuro-simple": [
+            "me iré",
+            "te irás",
+            "se irá",
+            "nos iremos",
+            "os iréis",
+            "se irán"
         ],
         "presente-progresivo": [
             "me estoy yendo",
@@ -14141,6 +16661,14 @@
             "servíais",
             "servían"
         ],
+        "futuro-simple": [
+            "serviré",
+            "servirás",
+            "servirá",
+            "serviremos",
+            "serviréis",
+            "servirán"
+        ],
         "presente-progresivo": [
             "estoy sirviendo",
             "estás sirviendo",
@@ -14188,6 +16716,14 @@
             "ocurríamos",
             "ocurríais",
             "ocurrían"
+        ],
+        "futuro-simple": [
+            "ocurriré",
+            "ocurrirás",
+            "ocurrirá",
+            "ocurriremos",
+            "ocurriréis",
+            "ocurrirán"
         ],
         "presente-progresivo": [
             "estoy ocurriendo",
@@ -14237,6 +16773,14 @@
             "descansabais",
             "descansaban"
         ],
+        "futuro-simple": [
+            "descansaré",
+            "descansarás",
+            "descansará",
+            "descansaremos",
+            "descansaréis",
+            "descansarán"
+        ],
         "presente-progresivo": [
             "estoy descansando",
             "estás descansando",
@@ -14284,6 +16828,14 @@
             "nos duchábamos",
             "os duchabais",
             "se duchaban"
+        ],
+        "futuro-simple": [
+            "me ducharé",
+            "te ducharás",
+            "se duchará",
+            "nos ducharemos",
+            "os ducharéis",
+            "se ducharán"
         ],
         "presente-progresivo": [
             "me estoy duchando",
@@ -14333,6 +16885,14 @@
             "celebrabais",
             "celebraban"
         ],
+        "futuro-simple": [
+            "celebraré",
+            "celebrarás",
+            "celebrará",
+            "celebraremos",
+            "celebraréis",
+            "celebrarán"
+        ],
         "presente-progresivo": [
             "estoy celebrando",
             "estás celebrando",
@@ -14380,6 +16940,14 @@
             "preparábamos",
             "preparabais",
             "preparaban"
+        ],
+        "futuro-simple": [
+            "prepararé",
+            "prepararás",
+            "preparará",
+            "prepararemos",
+            "prepararéis",
+            "prepararán"
         ],
         "presente-progresivo": [
             "estoy preparando",
@@ -14429,6 +16997,14 @@
             "os despertabais",
             "se despertaban"
         ],
+        "futuro-simple": [
+            "me despertaré",
+            "te despertarás",
+            "se despertará",
+            "nos despertaremos",
+            "os despertaréis",
+            "se despertarán"
+        ],
         "presente-progresivo": [
             "me estoy despertando",
             "te estás despertando",
@@ -14476,6 +17052,14 @@
             "nos vestíamos",
             "os vestíais",
             "se vestían"
+        ],
+        "futuro-simple": [
+            "me vestiré",
+            "te vestirás",
+            "se vestirá",
+            "nos vestiremos",
+            "os vestiréis",
+            "se vestirán"
         ],
         "presente-progresivo": [
             "me estoy vistiendo",
@@ -14525,6 +17109,14 @@
             "animabais",
             "animaban"
         ],
+        "futuro-simple": [
+            "animaré",
+            "animarás",
+            "animará",
+            "animaremos",
+            "animaréis",
+            "animarán"
+        ],
         "presente-progresivo": [
             "estoy animando",
             "estás animando",
@@ -14572,6 +17164,14 @@
             "nos reuníamos",
             "os reuníais",
             "se reunían"
+        ],
+        "futuro-simple": [
+            "me reuniré",
+            "te reunirás",
+            "se reunirá",
+            "nos reuniremos",
+            "os reuniréis",
+            "se reunirán"
         ],
         "presente-progresivo": [
             "me estoy reuniendo",
@@ -14621,6 +17221,14 @@
             "participabais",
             "participaban"
         ],
+        "futuro-simple": [
+            "participaré",
+            "participarás",
+            "participará",
+            "participaremos",
+            "participaréis",
+            "participarán"
+        ],
         "presente-progresivo": [
             "estoy participando",
             "estás participando",
@@ -14668,6 +17276,14 @@
             "adornábamos",
             "adornabais",
             "adornaban"
+        ],
+        "futuro-simple": [
+            "adornaré",
+            "adornarás",
+            "adornará",
+            "adornaremos",
+            "adornaréis",
+            "adornarán"
         ],
         "presente-progresivo": [
             "estoy adornando",
@@ -14717,6 +17333,14 @@
             "compartíais",
             "compartían"
         ],
+        "futuro-simple": [
+            "compartiré",
+            "compartirás",
+            "compartirá",
+            "compartiremos",
+            "compartiréis",
+            "compartirán"
+        ],
         "presente-progresivo": [
             "estoy compartiendo",
             "estás compartiendo",
@@ -14764,6 +17388,14 @@
             "meditábamos",
             "meditabais",
             "meditaban"
+        ],
+        "futuro-simple": [
+            "meditaré",
+            "meditarás",
+            "meditará",
+            "meditaremos",
+            "meditaréis",
+            "meditarán"
         ],
         "presente-progresivo": [
             "estoy meditando",
@@ -14813,6 +17445,14 @@
             "desconectabais",
             "desconectaban"
         ],
+        "futuro-simple": [
+            "desconectaré",
+            "desconectarás",
+            "desconectará",
+            "desconectaremos",
+            "desconectaréis",
+            "desconectarán"
+        ],
         "presente-progresivo": [
             "estoy desconectando",
             "estás desconectando",
@@ -14860,6 +17500,14 @@
             "entregábamos",
             "entregabais",
             "entregaban"
+        ],
+        "futuro-simple": [
+            "entregaré",
+            "entregarás",
+            "entregará",
+            "entregaremos",
+            "entregaréis",
+            "entregarán"
         ],
         "presente-progresivo": [
             "estoy entregando",
@@ -14909,6 +17557,14 @@
             "quedabais",
             "quedaban"
         ],
+        "futuro-simple": [
+            "quedaré",
+            "quedarás",
+            "quedará",
+            "quedaremos",
+            "quedaréis",
+            "quedarán"
+        ],
         "presente-progresivo": [
             "estoy quedando",
             "estás quedando",
@@ -14956,6 +17612,14 @@
             "dormíamos",
             "dormíais",
             "dormían"
+        ],
+        "futuro-simple": [
+            "dormiré",
+            "dormirás",
+            "dormirá",
+            "dormiremos",
+            "dormiréis",
+            "dormirán"
         ],
         "presente-progresivo": [
             "estoy durmiendo",
@@ -15005,6 +17669,14 @@
             "merendabais",
             "merendaban"
         ],
+        "futuro-simple": [
+            "merendaré",
+            "merendarás",
+            "merendará",
+            "merendaremos",
+            "merendaréis",
+            "merendarán"
+        ],
         "presente-progresivo": [
             "estoy merendando",
             "estás merendando",
@@ -15052,6 +17724,14 @@
             "pedíamos",
             "pedíais",
             "pedían"
+        ],
+        "futuro-simple": [
+            "pediré",
+            "pedirás",
+            "pedirá",
+            "pediremos",
+            "pediréis",
+            "pedirán"
         ],
         "presente-progresivo": [
             "estoy pidiendo",
@@ -15101,6 +17781,14 @@
             "os quedabais",
             "se quedaban"
         ],
+        "futuro-simple": [
+            "me quedaré",
+            "te quedarás",
+            "se quedará",
+            "nos quedaremos",
+            "os quedaréis",
+            "se quedarán"
+        ],
         "presente-progresivo": [
             "me estoy quedando",
             "te estás quedando",
@@ -15148,6 +17836,14 @@
             "nos cuidábamos",
             "os cuidabais",
             "se cuidaban"
+        ],
+        "futuro-simple": [
+            "me cuidaré",
+            "te cuidarás",
+            "se cuidará",
+            "nos cuidaremos",
+            "os cuidaréis",
+            "se cuidarán"
         ],
         "presente-progresivo": [
             "me estoy cuidando",
@@ -15197,6 +17893,14 @@
             "picabais",
             "picaban"
         ],
+        "futuro-simple": [
+            "picaré",
+            "picarás",
+            "picará",
+            "picaremos",
+            "picaréis",
+            "picarán"
+        ],
         "presente-progresivo": [
             "estoy picando",
             "estás picando",
@@ -15244,6 +17948,14 @@
             "proponíamos",
             "proponíais",
             "proponían"
+        ],
+        "futuro-simple": [
+            "propondré",
+            "propondrás",
+            "propondrá",
+            "propondremos",
+            "propondréis",
+            "propondrán"
         ],
         "presente-progresivo": [
             "estoy proponiendo",
@@ -15293,6 +18005,14 @@
             "justificabais",
             "justificaban"
         ],
+        "futuro-simple": [
+            "justificaré",
+            "justificarás",
+            "justificará",
+            "justificaremos",
+            "justificaréis",
+            "justificarán"
+        ],
         "presente-progresivo": [
             "estoy justificando",
             "estás justificando",
@@ -15340,6 +18060,14 @@
             "probábamos",
             "probabais",
             "probaban"
+        ],
+        "futuro-simple": [
+            "probaré",
+            "probarás",
+            "probará",
+            "probaremos",
+            "probaréis",
+            "probarán"
         ],
         "presente-progresivo": [
             "estoy probando",
@@ -15389,6 +18117,14 @@
             "os secabais",
             "se secaban"
         ],
+        "futuro-simple": [
+            "me secaré",
+            "te secarás",
+            "se secará",
+            "nos secaremos",
+            "os secaréis",
+            "se secarán"
+        ],
         "presente-progresivo": [
             "me estoy secando",
             "te estás secando",
@@ -15436,6 +18172,14 @@
             "nos bañábamos",
             "os bañabais",
             "se bañaban"
+        ],
+        "futuro-simple": [
+            "me bañaré",
+            "te bañarás",
+            "se bañará",
+            "nos bañaremos",
+            "os bañaréis",
+            "se bañarán"
         ],
         "presente-progresivo": [
             "me estoy bañando",
@@ -15485,6 +18229,14 @@
             "os peinabais",
             "se peinaban"
         ],
+        "futuro-simple": [
+            "me peinaré",
+            "te peinarás",
+            "se peinará",
+            "nos peinaremos",
+            "os peinaréis",
+            "se peinarán"
+        ],
         "presente-progresivo": [
             "me estoy peinando",
             "te estás peinando",
@@ -15532,6 +18284,14 @@
             "nos cepillábamos",
             "os cepillabais",
             "se cepillaban"
+        ],
+        "futuro-simple": [
+            "me cepillaré",
+            "te cepillarás",
+            "se cepillará",
+            "nos cepillaremos",
+            "os cepillaréis",
+            "se cepillarán"
         ],
         "presente-progresivo": [
             "me estoy cepillando",
@@ -15581,6 +18341,14 @@
             "os afeitabais",
             "se afeitaban"
         ],
+        "futuro-simple": [
+            "me afeitaré",
+            "te afeitarás",
+            "se afeitará",
+            "nos afeitaremos",
+            "os afeitaréis",
+            "se afeitarán"
+        ],
         "presente-progresivo": [
             "me estoy afeitando",
             "te estás afeitando",
@@ -15628,6 +18396,14 @@
             "nos maquillábamos",
             "os maquillabais",
             "se maquillaban"
+        ],
+        "futuro-simple": [
+            "me maquillaré",
+            "te maquillarás",
+            "se maquillará",
+            "nos maquillaremos",
+            "os maquillaréis",
+            "se maquillarán"
         ],
         "presente-progresivo": [
             "me estoy maquillando",
@@ -15677,6 +18453,14 @@
             "recordabais",
             "recordaban"
         ],
+        "futuro-simple": [
+            "recordaré",
+            "recordarás",
+            "recordará",
+            "recordaremos",
+            "recordaréis",
+            "recordarán"
+        ],
         "presente-progresivo": [
             "estoy recordando",
             "estás recordando",
@@ -15724,6 +18508,14 @@
             "terminábamos",
             "terminabais",
             "terminaban"
+        ],
+        "futuro-simple": [
+            "terminaré",
+            "terminarás",
+            "terminará",
+            "terminaremos",
+            "terminaréis",
+            "terminarán"
         ],
         "presente-progresivo": [
             "estoy terminando",
@@ -15773,6 +18565,14 @@
             "aceptabais",
             "aceptaban"
         ],
+        "futuro-simple": [
+            "aceptaré",
+            "aceptarás",
+            "aceptará",
+            "aceptaremos",
+            "aceptaréis",
+            "aceptarán"
+        ],
         "presente-progresivo": [
             "estoy aceptando",
             "estás aceptando",
@@ -15820,6 +18620,14 @@
             "rechazábamos",
             "rechazabais",
             "rechazaban"
+        ],
+        "futuro-simple": [
+            "rechazaré",
+            "rechazarás",
+            "rechazará",
+            "rechazaremos",
+            "rechazaréis",
+            "rechazarán"
         ],
         "presente-progresivo": [
             "estoy rechazando",
@@ -15869,6 +18677,14 @@
             "perdíais",
             "perdían"
         ],
+        "futuro-simple": [
+            "perderé",
+            "perderás",
+            "perderá",
+            "perderemos",
+            "perderéis",
+            "perderán"
+        ],
         "presente-progresivo": [
             "estoy perdiendo",
             "estás perdiendo",
@@ -15916,6 +18732,14 @@
             "recibíamos",
             "recibíais",
             "recibían"
+        ],
+        "futuro-simple": [
+            "recibiré",
+            "recibirás",
+            "recibirá",
+            "recibiremos",
+            "recibiréis",
+            "recibirán"
         ],
         "presente-progresivo": [
             "estoy recibiendo",
@@ -15965,6 +18789,14 @@
             "traíais",
             "traían"
         ],
+        "futuro-simple": [
+            "traeré",
+            "traerás",
+            "traerá",
+            "traeremos",
+            "traeréis",
+            "traerán"
+        ],
         "presente-progresivo": [
             "estoy trayendo",
             "estás trayendo",
@@ -16012,6 +18844,14 @@
             "imaginábamos",
             "imaginabais",
             "imaginaban"
+        ],
+        "futuro-simple": [
+            "imaginaré",
+            "imaginarás",
+            "imaginará",
+            "imaginaremos",
+            "imaginaréis",
+            "imaginarán"
         ],
         "presente-progresivo": [
             "estoy imaginando",
@@ -16061,6 +18901,14 @@
             "conectabais",
             "conectaban"
         ],
+        "futuro-simple": [
+            "conectaré",
+            "conectarás",
+            "conectará",
+            "conectaremos",
+            "conectaréis",
+            "conectarán"
+        ],
         "presente-progresivo": [
             "estoy conectando",
             "estás conectando",
@@ -16108,6 +18956,14 @@
             "reciclábamos",
             "reciclabais",
             "reciclaban"
+        ],
+        "futuro-simple": [
+            "reciclaré",
+            "reciclarás",
+            "reciclará",
+            "reciclaremos",
+            "reciclaréis",
+            "reciclarán"
         ],
         "presente-progresivo": [
             "estoy reciclando",
@@ -16157,6 +19013,14 @@
             "girabais",
             "giraban"
         ],
+        "futuro-simple": [
+            "giraré",
+            "girarás",
+            "girará",
+            "giraremos",
+            "giraréis",
+            "girarán"
+        ],
         "presente-progresivo": [
             "estoy girando",
             "estás girando",
@@ -16204,6 +19068,14 @@
             "regresábamos",
             "regresabais",
             "regresaban"
+        ],
+        "futuro-simple": [
+            "regresaré",
+            "regresarás",
+            "regresará",
+            "regresaremos",
+            "regresaréis",
+            "regresarán"
         ],
         "presente-progresivo": [
             "estoy regresando",
@@ -16253,6 +19125,14 @@
             "cocíais",
             "cocían"
         ],
+        "futuro-simple": [
+            "coceré",
+            "cocerás",
+            "cocerá",
+            "coceremos",
+            "coceréis",
+            "cocerán"
+        ],
         "presente-progresivo": [
             "estoy cociendo",
             "estás cociendo",
@@ -16300,6 +19180,14 @@
             "hervíamos",
             "hervíais",
             "hervían"
+        ],
+        "futuro-simple": [
+            "herviré",
+            "hervirás",
+            "hervirá",
+            "herviremos",
+            "herviréis",
+            "hervirán"
         ],
         "presente-progresivo": [
             "estoy hirviendo",
@@ -16349,6 +19237,14 @@
             "recalentabais",
             "recalentaban"
         ],
+        "futuro-simple": [
+            "recalentaré",
+            "recalentarás",
+            "recalentará",
+            "recalentaremos",
+            "recalentaréis",
+            "recalentarán"
+        ],
         "presente-progresivo": [
             "estoy recalentando",
             "estás recalentando",
@@ -16396,6 +19292,14 @@
             "sacábamos",
             "sacabais",
             "sacaban"
+        ],
+        "futuro-simple": [
+            "sacaré",
+            "sacarás",
+            "sacará",
+            "sacaremos",
+            "sacaréis",
+            "sacarán"
         ],
         "presente-progresivo": [
             "estoy sacando",
@@ -16445,6 +19349,14 @@
             "tomabais",
             "tomaban"
         ],
+        "futuro-simple": [
+            "tomaré",
+            "tomarás",
+            "tomará",
+            "tomaremos",
+            "tomaréis",
+            "tomarán"
+        ],
         "presente-progresivo": [
             "estoy tomando",
             "estás tomando",
@@ -16492,6 +19404,14 @@
             "dudábamos",
             "dudabais",
             "dudaban"
+        ],
+        "futuro-simple": [
+            "dudaré",
+            "dudarás",
+            "dudará",
+            "dudaremos",
+            "dudaréis",
+            "dudarán"
         ],
         "presente-progresivo": [
             "estoy dudando",
@@ -16541,6 +19461,14 @@
             "anotabais",
             "anotaban"
         ],
+        "futuro-simple": [
+            "anotaré",
+            "anotarás",
+            "anotará",
+            "anotaremos",
+            "anotaréis",
+            "anotarán"
+        ],
         "presente-progresivo": [
             "estoy anotando",
             "estás anotando",
@@ -16588,6 +19516,14 @@
             "aprobábamos",
             "aprobabais",
             "aprobaban"
+        ],
+        "futuro-simple": [
+            "aprobaré",
+            "aprobarás",
+            "aprobará",
+            "aprobaremos",
+            "aprobaréis",
+            "aprobarán"
         ],
         "presente-progresivo": [
             "estoy aprobando",
@@ -16637,6 +19573,14 @@
             "dejabais",
             "dejaban"
         ],
+        "futuro-simple": [
+            "dejaré",
+            "dejarás",
+            "dejará",
+            "dejaremos",
+            "dejaréis",
+            "dejarán"
+        ],
         "presente-progresivo": [
             "estoy dejando",
             "estás dejando",
@@ -16684,6 +19628,14 @@
             "levantábamos",
             "levantabais",
             "levantaban"
+        ],
+        "futuro-simple": [
+            "levantaré",
+            "levantarás",
+            "levantará",
+            "levantaremos",
+            "levantaréis",
+            "levantarán"
         ],
         "presente-progresivo": [
             "estoy levantando",
@@ -16733,6 +19685,14 @@
             "atendíais",
             "atendían"
         ],
+        "futuro-simple": [
+            "atenderé",
+            "atenderás",
+            "atenderá",
+            "atenderemos",
+            "atenderéis",
+            "atenderán"
+        ],
         "presente-progresivo": [
             "estoy atendiendo",
             "estás atendiendo",
@@ -16780,6 +19740,14 @@
             "nos casábamos",
             "os casabais",
             "se casaban"
+        ],
+        "futuro-simple": [
+            "me casaré",
+            "te casarás",
+            "se casará",
+            "nos casaremos",
+            "os casaréis",
+            "se casarán"
         ],
         "presente-progresivo": [
             "me estoy casando",
@@ -16829,6 +19797,14 @@
             "colocabais",
             "colocaban"
         ],
+        "futuro-simple": [
+            "colocaré",
+            "colocarás",
+            "colocará",
+            "colocaremos",
+            "colocaréis",
+            "colocarán"
+        ],
         "presente-progresivo": [
             "estoy colocando",
             "estás colocando",
@@ -16876,6 +19852,14 @@
             "consistíamos",
             "consistíais",
             "consistían"
+        ],
+        "futuro-simple": [
+            "consistiré",
+            "consistirás",
+            "consistirá",
+            "consistiremos",
+            "consistiréis",
+            "consistirán"
         ],
         "presente-progresivo": [
             "estoy consistiendo",
@@ -16925,6 +19909,14 @@
             "continuabais",
             "continuaban"
         ],
+        "futuro-simple": [
+            "continuaré",
+            "continuarás",
+            "continuará",
+            "continuaremos",
+            "continuaréis",
+            "continuarán"
+        ],
         "presente-progresivo": [
             "estoy continuando",
             "estás continuando",
@@ -16972,6 +19964,14 @@
             "confundíamos",
             "confundíais",
             "confundían"
+        ],
+        "futuro-simple": [
+            "confundiré",
+            "confundirás",
+            "confundirá",
+            "confundiremos",
+            "confundiréis",
+            "confundirán"
         ],
         "presente-progresivo": [
             "estoy confundiendo",
@@ -17021,6 +20021,14 @@
             "cosíais",
             "cosían"
         ],
+        "futuro-simple": [
+            "coseré",
+            "coserás",
+            "coserá",
+            "coseremos",
+            "coseréis",
+            "coserán"
+        ],
         "presente-progresivo": [
             "estoy cosiendo",
             "estás cosiendo",
@@ -17068,6 +20076,14 @@
             "criábamos",
             "criabais",
             "criaban"
+        ],
+        "futuro-simple": [
+            "criaré",
+            "criarás",
+            "criará",
+            "criaremos",
+            "criaréis",
+            "criarán"
         ],
         "presente-progresivo": [
             "estoy criando",
@@ -17117,6 +20133,14 @@
             "decidíais",
             "decidían"
         ],
+        "futuro-simple": [
+            "decidiré",
+            "decidirás",
+            "decidirá",
+            "decidiremos",
+            "decidiréis",
+            "decidirán"
+        ],
         "presente-progresivo": [
             "estoy decidiendo",
             "estás decidiendo",
@@ -17164,6 +20188,14 @@
             "definíamos",
             "definíais",
             "definían"
+        ],
+        "futuro-simple": [
+            "definiré",
+            "definirás",
+            "definirá",
+            "definiremos",
+            "definiréis",
+            "definirán"
         ],
         "presente-progresivo": [
             "estoy definiendo",
@@ -17213,6 +20245,14 @@
             "dibujabais",
             "dibujaban"
         ],
+        "futuro-simple": [
+            "dibujaré",
+            "dibujarás",
+            "dibujará",
+            "dibujaremos",
+            "dibujaréis",
+            "dibujarán"
+        ],
         "presente-progresivo": [
             "estoy dibujando",
             "estás dibujando",
@@ -17260,6 +20300,14 @@
             "intentábamos",
             "intentabais",
             "intentaban"
+        ],
+        "futuro-simple": [
+            "intentaré",
+            "intentarás",
+            "intentará",
+            "intentaremos",
+            "intentaréis",
+            "intentarán"
         ],
         "presente-progresivo": [
             "estoy intentando",
@@ -17309,6 +20357,14 @@
             "mentíais",
             "mentían"
         ],
+        "futuro-simple": [
+            "mentiré",
+            "mentirás",
+            "mentirá",
+            "mentiremos",
+            "mentiréis",
+            "mentirán"
+        ],
         "presente-progresivo": [
             "estoy mintiendo",
             "estás mintiendo",
@@ -17356,6 +20412,14 @@
             "patinábamos",
             "patinabais",
             "patinaban"
+        ],
+        "futuro-simple": [
+            "patinaré",
+            "patinarás",
+            "patinará",
+            "patinaremos",
+            "patinaréis",
+            "patinarán"
         ],
         "presente-progresivo": [
             "estoy patinando",
@@ -17405,6 +20469,14 @@
             "plantabais",
             "plantaban"
         ],
+        "futuro-simple": [
+            "plantaré",
+            "plantarás",
+            "plantará",
+            "plantaremos",
+            "plantaréis",
+            "plantarán"
+        ],
         "presente-progresivo": [
             "estoy plantando",
             "estás plantando",
@@ -17452,6 +20524,14 @@
             "quemábamos",
             "quemabais",
             "quemaban"
+        ],
+        "futuro-simple": [
+            "quemaré",
+            "quemarás",
+            "quemará",
+            "quemaremos",
+            "quemaréis",
+            "quemarán"
         ],
         "presente-progresivo": [
             "estoy quemando",
@@ -17501,6 +20581,14 @@
             "reparabais",
             "reparaban"
         ],
+        "futuro-simple": [
+            "repararé",
+            "repararás",
+            "reparará",
+            "repararemos",
+            "repararéis",
+            "repararán"
+        ],
         "presente-progresivo": [
             "estoy reparando",
             "estás reparando",
@@ -17548,6 +20636,14 @@
             "añadíamos",
             "añadíais",
             "añadían"
+        ],
+        "futuro-simple": [
+            "añadiré",
+            "añadirás",
+            "añadirá",
+            "añadiremos",
+            "añadiréis",
+            "añadirán"
         ],
         "presente-progresivo": [
             "estoy añadiendo",
@@ -17597,6 +20693,14 @@
             "regabais",
             "regaban"
         ],
+        "futuro-simple": [
+            "regaré",
+            "regarás",
+            "regará",
+            "regaremos",
+            "regaréis",
+            "regarán"
+        ],
         "presente-progresivo": [
             "estoy regando",
             "estás regando",
@@ -17644,6 +20748,14 @@
             "medíamos",
             "medíais",
             "medían"
+        ],
+        "futuro-simple": [
+            "mediré",
+            "medirás",
+            "medirá",
+            "mediremos",
+            "mediréis",
+            "medirán"
         ],
         "presente-progresivo": [
             "estoy midiendo",
@@ -17693,6 +20805,14 @@
             "fregabais",
             "fregaban"
         ],
+        "futuro-simple": [
+            "fregaré",
+            "fregarás",
+            "fregará",
+            "fregaremos",
+            "fregaréis",
+            "fregarán"
+        ],
         "presente-progresivo": [
             "estoy fregando",
             "estás fregando",
@@ -17740,6 +20860,14 @@
             "huíamos",
             "huíais",
             "huían"
+        ],
+        "futuro-simple": [
+            "huiré",
+            "huirás",
+            "huirá",
+            "huiremos",
+            "huiréis",
+            "huirán"
         ],
         "presente-progresivo": [
             "estoy huyendo",
@@ -17789,6 +20917,14 @@
             "oíais",
             "oían"
         ],
+        "futuro-simple": [
+            "oiré",
+            "oirás",
+            "oirá",
+            "oiremos",
+            "oiréis",
+            "oirán"
+        ],
         "presente-progresivo": [
             "estoy oyendo",
             "estás oyendo",
@@ -17836,6 +20972,14 @@
             "cruzábamos",
             "cruzabais",
             "cruzaban"
+        ],
+        "futuro-simple": [
+            "cruzaré",
+            "cruzarás",
+            "cruzará",
+            "cruzaremos",
+            "cruzaréis",
+            "cruzarán"
         ],
         "presente-progresivo": [
             "estoy cruzando",
@@ -17885,6 +21029,14 @@
             "abríais",
             "abrían"
         ],
+        "futuro-simple": [
+            "abriré",
+            "abrirás",
+            "abrirá",
+            "abriremos",
+            "abriréis",
+            "abrirán"
+        ],
         "presente-progresivo": [
             "estoy abriendo",
             "estás abriendo",
@@ -17932,6 +21084,14 @@
             "mordíamos",
             "mordíais",
             "mordían"
+        ],
+        "futuro-simple": [
+            "morderé",
+            "morderás",
+            "morderá",
+            "morderemos",
+            "morderéis",
+            "morderán"
         ],
         "presente-progresivo": [
             "estoy mordiendo",
@@ -17981,6 +21141,14 @@
             "olíais",
             "olían"
         ],
+        "futuro-simple": [
+            "oleré",
+            "olerás",
+            "olerá",
+            "oleremos",
+            "oleréis",
+            "olerán"
+        ],
         "presente-progresivo": [
             "estoy oliendo",
             "estás oliendo",
@@ -18028,6 +21196,14 @@
             "sonábamos",
             "sonabais",
             "sonaban"
+        ],
+        "futuro-simple": [
+            "sonaré",
+            "sonarás",
+            "sonará",
+            "sonaremos",
+            "sonaréis",
+            "sonarán"
         ],
         "presente-progresivo": [
             "estoy sonando",
@@ -18077,6 +21253,14 @@
             "encontrabais",
             "encontraban"
         ],
+        "futuro-simple": [
+            "encontraré",
+            "encontrarás",
+            "encontrará",
+            "encontraremos",
+            "encontraréis",
+            "encontrarán"
+        ],
         "presente-progresivo": [
             "estoy encontrando",
             "estás encontrando",
@@ -18124,6 +21308,14 @@
             "traducíamos",
             "traducíais",
             "traducían"
+        ],
+        "futuro-simple": [
+            "traduciré",
+            "traducirás",
+            "traducirá",
+            "traduciremos",
+            "traduciréis",
+            "traducirán"
         ],
         "presente-progresivo": [
             "estoy traduciendo",
@@ -18173,6 +21365,14 @@
             "cortabais",
             "cortaban"
         ],
+        "futuro-simple": [
+            "cortaré",
+            "cortarás",
+            "cortará",
+            "cortaremos",
+            "cortaréis",
+            "cortarán"
+        ],
         "presente-progresivo": [
             "estoy cortando",
             "estás cortando",
@@ -18220,6 +21420,14 @@
             "triturábamos",
             "triturabais",
             "trituraban"
+        ],
+        "futuro-simple": [
+            "trituraré",
+            "triturarás",
+            "triturará",
+            "trituraremos",
+            "trituraréis",
+            "triturarán"
         ],
         "presente-progresivo": [
             "estoy triturando",
@@ -18269,6 +21477,14 @@
             "pelabais",
             "pelaban"
         ],
+        "futuro-simple": [
+            "pelaré",
+            "pelarás",
+            "pelará",
+            "pelaremos",
+            "pelaréis",
+            "pelarán"
+        ],
         "presente-progresivo": [
             "estoy pelando",
             "estás pelando",
@@ -18316,6 +21532,14 @@
             "acabábamos",
             "acababais",
             "acababan"
+        ],
+        "futuro-simple": [
+            "acabaré",
+            "acabarás",
+            "acabará",
+            "acabaremos",
+            "acabaréis",
+            "acabarán"
         ],
         "presente-progresivo": [
             "estoy acabando",
@@ -18365,6 +21589,14 @@
             "pagabais",
             "pagaban"
         ],
+        "futuro-simple": [
+            "pagaré",
+            "pagarás",
+            "pagará",
+            "pagaremos",
+            "pagaréis",
+            "pagarán"
+        ],
         "presente-progresivo": [
             "estoy pagando",
             "estás pagando",
@@ -18412,6 +21644,14 @@
             "respetábamos",
             "respetabais",
             "respetaban"
+        ],
+        "futuro-simple": [
+            "respetaré",
+            "respetarás",
+            "respetará",
+            "respetaremos",
+            "respetaréis",
+            "respetarán"
         ],
         "presente-progresivo": [
             "estoy respetando",
@@ -18461,6 +21701,14 @@
             "rellenabais",
             "rellenaban"
         ],
+        "futuro-simple": [
+            "rellenaré",
+            "rellenarás",
+            "rellenará",
+            "rellenaremos",
+            "rellenaréis",
+            "rellenarán"
+        ],
         "presente-progresivo": [
             "estoy rellenando",
             "estás rellenando",
@@ -18508,6 +21756,14 @@
             "aparcábamos",
             "aparcabais",
             "aparcaban"
+        ],
+        "futuro-simple": [
+            "aparcaré",
+            "aparcarás",
+            "aparcará",
+            "aparcaremos",
+            "aparcaréis",
+            "aparcarán"
         ],
         "presente-progresivo": [
             "estoy aparcando",
@@ -18557,6 +21813,14 @@
             "reíais",
             "reían"
         ],
+        "futuro-simple": [
+            "reiré",
+            "reirás",
+            "reirá",
+            "reiremos",
+            "reiréis",
+            "reirán"
+        ],
         "presente-progresivo": [
             "estoy riendo",
             "estás riendo",
@@ -18604,6 +21868,14 @@
             "mezclábamos",
             "mezclabais",
             "mezclaban"
+        ],
+        "futuro-simple": [
+            "mezclaré",
+            "mezclarás",
+            "mezclará",
+            "mezclaremos",
+            "mezclaréis",
+            "mezclarán"
         ],
         "presente-progresivo": [
             "estoy mezclando",
@@ -18653,6 +21925,14 @@
             "pintabais",
             "pintaban"
         ],
+        "futuro-simple": [
+            "pintaré",
+            "pintarás",
+            "pintará",
+            "pintaremos",
+            "pintaréis",
+            "pintarán"
+        ],
         "presente-progresivo": [
             "estoy pintando",
             "estás pintando",
@@ -18700,6 +21980,14 @@
             "explicábamos",
             "explicabais",
             "explicaban"
+        ],
+        "futuro-simple": [
+            "explicaré",
+            "explicarás",
+            "explicará",
+            "explicaremos",
+            "explicaréis",
+            "explicarán"
         ],
         "presente-progresivo": [
             "estoy explicando",
@@ -18749,6 +22037,14 @@
             "suponíais",
             "suponían"
         ],
+        "futuro-simple": [
+            "supondré",
+            "supondrás",
+            "supondrá",
+            "supondremos",
+            "supondréis",
+            "supondrán"
+        ],
         "presente-progresivo": [
             "estoy suponiendo",
             "estás suponiendo",
@@ -18796,6 +22092,14 @@
             "curábamos",
             "curabais",
             "curaban"
+        ],
+        "futuro-simple": [
+            "curaré",
+            "curarás",
+            "curará",
+            "curaremos",
+            "curaréis",
+            "curarán"
         ],
         "presente-progresivo": [
             "estoy curando",
@@ -18845,6 +22149,14 @@
             "sanabais",
             "sanaban"
         ],
+        "futuro-simple": [
+            "sanaré",
+            "sanarás",
+            "sanará",
+            "sanaremos",
+            "sanaréis",
+            "sanarán"
+        ],
         "presente-progresivo": [
             "estoy sanando",
             "estás sanando",
@@ -18892,6 +22204,14 @@
             "dependíamos",
             "dependíais",
             "dependían"
+        ],
+        "futuro-simple": [
+            "dependeré",
+            "dependerás",
+            "dependerá",
+            "dependeremos",
+            "dependeréis",
+            "dependerán"
         ],
         "presente-progresivo": [
             "estoy dependiendo",
@@ -18941,6 +22261,14 @@
             "os acordabais",
             "se acordaban"
         ],
+        "futuro-simple": [
+            "me acordaré",
+            "te acordarás",
+            "se acordará",
+            "nos acordaremos",
+            "os acordaréis",
+            "se acordarán"
+        ],
         "presente-progresivo": [
             "me estoy acordando",
             "te estás acordando",
@@ -18988,6 +22316,14 @@
             "apuntábamos",
             "apuntabais",
             "apuntaban"
+        ],
+        "futuro-simple": [
+            "apuntaré",
+            "apuntarás",
+            "apuntará",
+            "apuntaremos",
+            "apuntaréis",
+            "apuntarán"
         ],
         "presente-progresivo": [
             "estoy apuntando",
@@ -19037,6 +22373,14 @@
             "os equivocabais",
             "se equivocaban"
         ],
+        "futuro-simple": [
+            "me equivocaré",
+            "te equivocarás",
+            "se equivocará",
+            "nos equivocaremos",
+            "os equivocaréis",
+            "se equivocarán"
+        ],
         "presente-progresivo": [
             "me estoy equivocando",
             "te estás equivocando",
@@ -19084,6 +22428,14 @@
             "montábamos",
             "montabais",
             "montaban"
+        ],
+        "futuro-simple": [
+            "montaré",
+            "montarás",
+            "montará",
+            "montaremos",
+            "montaréis",
+            "montarán"
         ],
         "presente-progresivo": [
             "estoy montando",
@@ -19133,6 +22485,14 @@
             "opinabais",
             "opinaban"
         ],
+        "futuro-simple": [
+            "opinaré",
+            "opinarás",
+            "opinará",
+            "opinaremos",
+            "opinaréis",
+            "opinarán"
+        ],
         "presente-progresivo": [
             "estoy opinando",
             "estás opinando",
@@ -19180,6 +22540,14 @@
             "organizábamos",
             "organizabais",
             "organizaban"
+        ],
+        "futuro-simple": [
+            "organizaré",
+            "organizarás",
+            "organizará",
+            "organizaremos",
+            "organizaréis",
+            "organizarán"
         ],
         "presente-progresivo": [
             "estoy organizando",
@@ -19229,6 +22597,14 @@
             "enviabais",
             "enviaban"
         ],
+        "futuro-simple": [
+            "enviaré",
+            "enviarás",
+            "enviará",
+            "enviaremos",
+            "enviaréis",
+            "enviarán"
+        ],
         "presente-progresivo": [
             "estoy enviando",
             "estás enviando",
@@ -19276,6 +22652,14 @@
             "valíamos",
             "valíais",
             "valían"
+        ],
+        "futuro-simple": [
+            "valdré",
+            "valdrás",
+            "valdrá",
+            "valdremos",
+            "valdréis",
+            "valdrán"
         ],
         "presente-progresivo": [
             "estoy valiendo",
@@ -19325,6 +22709,14 @@
             "cometíais",
             "cometían"
         ],
+        "futuro-simple": [
+            "cometeré",
+            "cometerás",
+            "cometerá",
+            "cometeremos",
+            "cometeréis",
+            "cometerán"
+        ],
         "presente-progresivo": [
             "estoy cometiendo",
             "estás cometiendo",
@@ -19372,6 +22764,14 @@
             "memorizábamos",
             "memorizabais",
             "memorizaban"
+        ],
+        "futuro-simple": [
+            "memorizaré",
+            "memorizarás",
+            "memorizará",
+            "memorizaremos",
+            "memorizaréis",
+            "memorizarán"
         ],
         "presente-progresivo": [
             "estoy memorizando",
@@ -19421,6 +22821,14 @@
             "dominabais",
             "dominaban"
         ],
+        "futuro-simple": [
+            "dominaré",
+            "dominarás",
+            "dominará",
+            "dominaremos",
+            "dominaréis",
+            "dominarán"
+        ],
         "presente-progresivo": [
             "estoy dominando",
             "estás dominando",
@@ -19468,6 +22876,14 @@
             "nos aburríamos",
             "os aburríais",
             "se aburrían"
+        ],
+        "futuro-simple": [
+            "me aburriré",
+            "te aburrirás",
+            "se aburrirá",
+            "nos aburriremos",
+            "os aburriréis",
+            "se aburrirán"
         ],
         "presente-progresivo": [
             "me estoy aburriendo",
@@ -19517,6 +22933,14 @@
             "roncabais",
             "roncaban"
         ],
+        "futuro-simple": [
+            "roncaré",
+            "roncarás",
+            "roncará",
+            "roncaremos",
+            "roncaréis",
+            "roncarán"
+        ],
         "presente-progresivo": [
             "estoy roncando",
             "estás roncando",
@@ -19564,6 +22988,14 @@
             "ligábamos",
             "ligabais",
             "ligaban"
+        ],
+        "futuro-simple": [
+            "ligaré",
+            "ligarás",
+            "ligará",
+            "ligaremos",
+            "ligaréis",
+            "ligarán"
         ],
         "presente-progresivo": [
             "estoy ligando",
@@ -19613,6 +23045,14 @@
             "flirteabais",
             "flirteaban"
         ],
+        "futuro-simple": [
+            "flirtearé",
+            "flirtearás",
+            "flirteará",
+            "flirtearemos",
+            "flirtearéis",
+            "flirtearán"
+        ],
         "presente-progresivo": [
             "estoy flirteando",
             "estás flirteando",
@@ -19660,6 +23100,14 @@
             "nos poníamos",
             "os poníais",
             "se ponían"
+        ],
+        "futuro-simple": [
+            "me pondré",
+            "te pondrás",
+            "se pondrá",
+            "nos pondremos",
+            "os pondréis",
+            "se pondrán"
         ],
         "presente-progresivo": [
             "me estoy poniendo",
@@ -19709,6 +23157,14 @@
             "caíais",
             "caían"
         ],
+        "futuro-simple": [
+            "caeré",
+            "caerás",
+            "caerá",
+            "caeremos",
+            "caeréis",
+            "caerán"
+        ],
         "presente-progresivo": [
             "estoy cayendo",
             "estás cayendo",
@@ -19756,6 +23212,14 @@
             "nos caíamos",
             "os caíais",
             "se caían"
+        ],
+        "futuro-simple": [
+            "me caeré",
+            "te caerás",
+            "se caerá",
+            "nos caeremos",
+            "os caeréis",
+            "se caerán"
         ],
         "presente-progresivo": [
             "me estoy cayendo",
@@ -19805,6 +23269,14 @@
             "cabíais",
             "cabían"
         ],
+        "futuro-simple": [
+            "cabré",
+            "cabrás",
+            "cabrá",
+            "cabremos",
+            "cabréis",
+            "cabrán"
+        ],
         "presente-progresivo": [
             "estoy cabiendo",
             "estás cabiendo",
@@ -19852,6 +23324,14 @@
             "divertíamos",
             "divertíais",
             "divertían"
+        ],
+        "futuro-simple": [
+            "divertiré",
+            "divertirás",
+            "divertirá",
+            "divertiremos",
+            "divertiréis",
+            "divertirán"
         ],
         "presente-progresivo": [
             "estoy divirtiendo",
@@ -19901,6 +23381,14 @@
             "os divertíais",
             "se divertían"
         ],
+        "futuro-simple": [
+            "me divertiré",
+            "te divertirás",
+            "se divertirá",
+            "nos divertiremos",
+            "os divertiréis",
+            "se divertirán"
+        ],
         "presente-progresivo": [
             "me estoy divirtiendo",
             "te estás divirtiendo",
@@ -19948,6 +23436,14 @@
             "encendíamos",
             "encendíais",
             "encendían"
+        ],
+        "futuro-simple": [
+            "encenderé",
+            "encenderás",
+            "encenderá",
+            "encenderemos",
+            "encenderéis",
+            "encenderán"
         ],
         "presente-progresivo": [
             "estoy encendiendo",
@@ -19997,6 +23493,14 @@
             "conseguíais",
             "conseguían"
         ],
+        "futuro-simple": [
+            "conseguiré",
+            "conseguirás",
+            "conseguirá",
+            "conseguiremos",
+            "conseguiréis",
+            "conseguirán"
+        ],
         "presente-progresivo": [
             "estoy consiguiendo",
             "estás consiguiendo",
@@ -20044,6 +23548,14 @@
             "nos despedíamos",
             "os despedíais",
             "se despedían"
+        ],
+        "futuro-simple": [
+            "me despediré",
+            "te despedirás",
+            "se despedirá",
+            "nos despediremos",
+            "os despediréis",
+            "se despedirán"
         ],
         "presente-progresivo": [
             "me estoy despidiendo",
@@ -20093,6 +23605,14 @@
             "freíais",
             "freían"
         ],
+        "futuro-simple": [
+            "freiré",
+            "freirás",
+            "freirá",
+            "freiremos",
+            "freiréis",
+            "freirán"
+        ],
         "presente-progresivo": [
             "estoy friendo",
             "estás friendo",
@@ -20140,6 +23660,14 @@
             "sonreíamos",
             "sonreíais",
             "sonreían"
+        ],
+        "futuro-simple": [
+            "sonreiré",
+            "sonreirás",
+            "sonreirá",
+            "sonreiremos",
+            "sonreiréis",
+            "sonreirán"
         ],
         "presente-progresivo": [
             "estoy sonriendo",
@@ -20189,6 +23717,14 @@
             "dolíais",
             "dolían"
         ],
+        "futuro-simple": [
+            "doleré",
+            "dolerás",
+            "dolerá",
+            "doleremos",
+            "doleréis",
+            "dolerán"
+        ],
         "presente-progresivo": [
             "estoy doliendo",
             "estás doliendo",
@@ -20236,6 +23772,14 @@
             "mostrábamos",
             "mostrabais",
             "mostraban"
+        ],
+        "futuro-simple": [
+            "mostraré",
+            "mostrarás",
+            "mostrará",
+            "mostraremos",
+            "mostraréis",
+            "mostrarán"
         ],
         "presente-progresivo": [
             "estoy mostrando",
@@ -20285,6 +23829,14 @@
             "moríais",
             "morían"
         ],
+        "futuro-simple": [
+            "moriré",
+            "morirás",
+            "morirá",
+            "moriremos",
+            "moriréis",
+            "morirán"
+        ],
         "presente-progresivo": [
             "estoy muriendo",
             "estás muriendo",
@@ -20332,6 +23884,14 @@
             "nos parecíamos",
             "os parecíais",
             "se parecían"
+        ],
+        "futuro-simple": [
+            "me pareceré",
+            "te parecerás",
+            "se parecerá",
+            "nos pareceremos",
+            "os pareceréis",
+            "se parecerán"
         ],
         "presente-progresivo": [
             "me estoy pareciendo",
@@ -20381,6 +23941,14 @@
             "merecíais",
             "merecían"
         ],
+        "futuro-simple": [
+            "mereceré",
+            "merecerás",
+            "merecerá",
+            "mereceremos",
+            "mereceréis",
+            "merecerán"
+        ],
         "presente-progresivo": [
             "estoy mereciendo",
             "estás mereciendo",
@@ -20428,6 +23996,14 @@
             "bajábamos",
             "bajabais",
             "bajaban"
+        ],
+        "futuro-simple": [
+            "bajaré",
+            "bajarás",
+            "bajará",
+            "bajaremos",
+            "bajaréis",
+            "bajarán"
         ],
         "presente-progresivo": [
             "estoy bajando",
@@ -20477,6 +24053,14 @@
             "relacionabais",
             "relacionaban"
         ],
+        "futuro-simple": [
+            "relacionaré",
+            "relacionarás",
+            "relacionará",
+            "relacionaremos",
+            "relacionaréis",
+            "relacionarán"
+        ],
         "presente-progresivo": [
             "estoy relacionando",
             "estás relacionando",
@@ -20524,6 +24108,14 @@
             "planificábamos",
             "planificabais",
             "planificaban"
+        ],
+        "futuro-simple": [
+            "planificaré",
+            "planificarás",
+            "planificará",
+            "planificaremos",
+            "planificaréis",
+            "planificarán"
         ],
         "presente-progresivo": [
             "estoy planificando",
@@ -20573,6 +24165,14 @@
             "reteníais",
             "retenían"
         ],
+        "futuro-simple": [
+            "retendré",
+            "retendrás",
+            "retendrá",
+            "retendremos",
+            "retendréis",
+            "retendrán"
+        ],
         "presente-progresivo": [
             "estoy reteniendo",
             "estás reteniendo",
@@ -20620,6 +24220,14 @@
             "contábamos",
             "contabais",
             "contaban"
+        ],
+        "futuro-simple": [
+            "contaré",
+            "contarás",
+            "contará",
+            "contaremos",
+            "contaréis",
+            "contarán"
         ],
         "presente-progresivo": [
             "estoy contando",
@@ -20669,6 +24277,14 @@
             "experimentabais",
             "experimentaban"
         ],
+        "futuro-simple": [
+            "experimentaré",
+            "experimentarás",
+            "experimentará",
+            "experimentaremos",
+            "experimentaréis",
+            "experimentarán"
+        ],
         "presente-progresivo": [
             "estoy experimentando",
             "estás experimentando",
@@ -20716,6 +24332,14 @@
             "nos movíamos",
             "os movíais",
             "se movían"
+        ],
+        "futuro-simple": [
+            "me moveré",
+            "te moverás",
+            "se moverá",
+            "nos moveremos",
+            "os moveréis",
+            "se moverán"
         ],
         "presente-progresivo": [
             "me estoy moviendo",
@@ -20765,6 +24389,14 @@
             "recortabais",
             "recortaban"
         ],
+        "futuro-simple": [
+            "recortaré",
+            "recortarás",
+            "recortará",
+            "recortaremos",
+            "recortaréis",
+            "recortarán"
+        ],
         "presente-progresivo": [
             "estoy recortando",
             "estás recortando",
@@ -20812,6 +24444,14 @@
             "reconstruíamos",
             "reconstruíais",
             "reconstruían"
+        ],
+        "futuro-simple": [
+            "reconstruiré",
+            "reconstruirás",
+            "reconstruirá",
+            "reconstruiremos",
+            "reconstruiréis",
+            "reconstruirán"
         ],
         "presente-progresivo": [
             "estoy reconstruyendo",
@@ -20861,6 +24501,14 @@
             "reconocíais",
             "reconocían"
         ],
+        "futuro-simple": [
+            "reconoceré",
+            "reconocerás",
+            "reconocerá",
+            "reconoceremos",
+            "reconoceréis",
+            "reconocerán"
+        ],
         "presente-progresivo": [
             "estoy reconociendo",
             "estás reconociendo",
@@ -20908,6 +24556,14 @@
             "descubríamos",
             "descubríais",
             "descubrían"
+        ],
+        "futuro-simple": [
+            "descubriré",
+            "descubrirás",
+            "descubrirá",
+            "descubriremos",
+            "descubriréis",
+            "descubrirán"
         ],
         "presente-progresivo": [
             "estoy descubriendo",
@@ -20957,6 +24613,14 @@
             "os tocabais",
             "se tocaban"
         ],
+        "futuro-simple": [
+            "me tocaré",
+            "te tocarás",
+            "se tocará",
+            "nos tocaremos",
+            "os tocaréis",
+            "se tocarán"
+        ],
         "presente-progresivo": [
             "me estoy tocando",
             "te estás tocando",
@@ -21004,6 +24668,14 @@
             "corregíamos",
             "corregíais",
             "corregían"
+        ],
+        "futuro-simple": [
+            "corregiré",
+            "corregirás",
+            "corregirá",
+            "corregiremos",
+            "corregiréis",
+            "corregirán"
         ],
         "presente-progresivo": [
             "estoy corrigiendo",
@@ -21053,6 +24725,14 @@
             "juzgabais",
             "juzgaban"
         ],
+        "futuro-simple": [
+            "juzgaré",
+            "juzgarás",
+            "juzgará",
+            "juzgaremos",
+            "juzgaréis",
+            "juzgarán"
+        ],
         "presente-progresivo": [
             "estoy juzgando",
             "estás juzgando",
@@ -21100,6 +24780,14 @@
             "grabábamos",
             "grababais",
             "grababan"
+        ],
+        "futuro-simple": [
+            "grabaré",
+            "grabarás",
+            "grabará",
+            "grabaremos",
+            "grabaréis",
+            "grabarán"
         ],
         "presente-progresivo": [
             "estoy grabando",
@@ -21149,6 +24837,14 @@
             "utilizabais",
             "utilizaban"
         ],
+        "futuro-simple": [
+            "utilizaré",
+            "utilizarás",
+            "utilizará",
+            "utilizaremos",
+            "utilizaréis",
+            "utilizarán"
+        ],
         "presente-progresivo": [
             "estoy utilizando",
             "estás utilizando",
@@ -21196,6 +24892,14 @@
             "pegábamos",
             "pegabais",
             "pegaban"
+        ],
+        "futuro-simple": [
+            "pegaré",
+            "pegarás",
+            "pegará",
+            "pegaremos",
+            "pegaréis",
+            "pegarán"
         ],
         "presente-progresivo": [
             "estoy pegando",
@@ -21245,6 +24949,14 @@
             "sorprendíais",
             "sorprendían"
         ],
+        "futuro-simple": [
+            "sorprenderé",
+            "sorprenderás",
+            "sorprenderá",
+            "sorprenderemos",
+            "sorprenderéis",
+            "sorprenderán"
+        ],
         "presente-progresivo": [
             "estoy sorprendiendo",
             "estás sorprendiendo",
@@ -21292,6 +25004,14 @@
             "nos abrazábamos",
             "os abrazabais",
             "se abrazaban"
+        ],
+        "futuro-simple": [
+            "me abrazaré",
+            "te abrazarás",
+            "se abrazará",
+            "nos abrazaremos",
+            "os abrazaréis",
+            "se abrazarán"
         ],
         "presente-progresivo": [
             "me estoy abrazando",
@@ -21341,6 +25061,14 @@
             "pronunciabais",
             "pronunciaban"
         ],
+        "futuro-simple": [
+            "pronunciaré",
+            "pronunciarás",
+            "pronunciará",
+            "pronunciaremos",
+            "pronunciaréis",
+            "pronunciarán"
+        ],
         "presente-progresivo": [
             "estoy pronunciando",
             "estás pronunciando",
@@ -21388,6 +25116,14 @@
             "competíamos",
             "competíais",
             "competían"
+        ],
+        "futuro-simple": [
+            "competiré",
+            "competirás",
+            "competirá",
+            "competiremos",
+            "competiréis",
+            "competirán"
         ],
         "presente-progresivo": [
             "estoy compitiendo",
@@ -21437,6 +25173,14 @@
             "soñabais",
             "soñaban"
         ],
+        "futuro-simple": [
+            "soñaré",
+            "soñarás",
+            "soñará",
+            "soñaremos",
+            "soñaréis",
+            "soñarán"
+        ],
         "presente-progresivo": [
             "estoy soñando",
             "estás soñando",
@@ -21484,6 +25228,14 @@
             "recomendábamos",
             "recomendabais",
             "recomendaban"
+        ],
+        "futuro-simple": [
+            "recomendaré",
+            "recomendarás",
+            "recomendará",
+            "recomendaremos",
+            "recomendaréis",
+            "recomendarán"
         ],
         "presente-progresivo": [
             "estoy recomendando",
@@ -21533,6 +25285,14 @@
             "temblabais",
             "temblaban"
         ],
+        "futuro-simple": [
+            "temblaré",
+            "temblarás",
+            "temblará",
+            "temblaremos",
+            "temblaréis",
+            "temblarán"
+        ],
         "presente-progresivo": [
             "estoy temblando",
             "estás temblando",
@@ -21580,6 +25340,14 @@
             "enterrábamos",
             "enterrabais",
             "enterraban"
+        ],
+        "futuro-simple": [
+            "enterraré",
+            "enterrarás",
+            "enterrará",
+            "enterraremos",
+            "enterraréis",
+            "enterrarán"
         ],
         "presente-progresivo": [
             "estoy enterrando",
@@ -21629,6 +25397,14 @@
             "helabais",
             "helaban"
         ],
+        "futuro-simple": [
+            "helaré",
+            "helarás",
+            "helará",
+            "helaremos",
+            "helaréis",
+            "helarán"
+        ],
         "presente-progresivo": [
             "estoy helando",
             "estás helando",
@@ -21676,6 +25452,14 @@
             "manifestábamos",
             "manifestabais",
             "manifestaban"
+        ],
+        "futuro-simple": [
+            "manifestaré",
+            "manifestarás",
+            "manifestará",
+            "manifestaremos",
+            "manifestaréis",
+            "manifestarán"
         ],
         "presente-progresivo": [
             "estoy manifestando",
@@ -21725,6 +25509,14 @@
             "defendíais",
             "defendían"
         ],
+        "futuro-simple": [
+            "defenderé",
+            "defenderás",
+            "defenderá",
+            "defenderemos",
+            "defenderéis",
+            "defenderán"
+        ],
         "presente-progresivo": [
             "estoy defendiendo",
             "estás defendiendo",
@@ -21772,6 +25564,14 @@
             "tendíamos",
             "tendíais",
             "tendían"
+        ],
+        "futuro-simple": [
+            "tenderé",
+            "tenderás",
+            "tenderá",
+            "tenderemos",
+            "tenderéis",
+            "tenderán"
         ],
         "presente-progresivo": [
             "estoy tendiendo",
@@ -21821,6 +25621,14 @@
             "advertíais",
             "advertían"
         ],
+        "futuro-simple": [
+            "advertiré",
+            "advertirás",
+            "advertirá",
+            "advertiremos",
+            "advertiréis",
+            "advertirán"
+        ],
         "presente-progresivo": [
             "estoy advirtiendo",
             "estás advirtiendo",
@@ -21868,6 +25676,14 @@
             "digeríamos",
             "digeríais",
             "digerían"
+        ],
+        "futuro-simple": [
+            "digeriré",
+            "digerirás",
+            "digerirá",
+            "digeriremos",
+            "digeriréis",
+            "digerirán"
         ],
         "presente-progresivo": [
             "estoy digiriendo",
@@ -21917,6 +25733,14 @@
             "sugeríais",
             "sugerían"
         ],
+        "futuro-simple": [
+            "sugeriré",
+            "sugerirás",
+            "sugerirá",
+            "sugeriremos",
+            "sugeriréis",
+            "sugerirán"
+        ],
         "presente-progresivo": [
             "estoy sugiriendo",
             "estás sugiriendo",
@@ -21964,6 +25788,14 @@
             "convertíamos",
             "convertíais",
             "convertían"
+        ],
+        "futuro-simple": [
+            "convertiré",
+            "convertirás",
+            "convertirá",
+            "convertiremos",
+            "convertiréis",
+            "convertirán"
         ],
         "presente-progresivo": [
             "estoy convirtiendo",
@@ -22013,6 +25845,14 @@
             "consolabais",
             "consolaban"
         ],
+        "futuro-simple": [
+            "consolaré",
+            "consolarás",
+            "consolará",
+            "consolaremos",
+            "consolaréis",
+            "consolarán"
+        ],
         "presente-progresivo": [
             "estoy consolando",
             "estás consolando",
@@ -22060,6 +25900,14 @@
             "renovábamos",
             "renovabais",
             "renovaban"
+        ],
+        "futuro-simple": [
+            "renovaré",
+            "renovarás",
+            "renovará",
+            "renovaremos",
+            "renovaréis",
+            "renovarán"
         ],
         "presente-progresivo": [
             "estoy renovando",
@@ -22109,6 +25957,14 @@
             "soltabais",
             "soltaban"
         ],
+        "futuro-simple": [
+            "soltaré",
+            "soltarás",
+            "soltará",
+            "soltaremos",
+            "soltaréis",
+            "soltarán"
+        ],
         "presente-progresivo": [
             "estoy soltando",
             "estás soltando",
@@ -22156,6 +26012,14 @@
             "tostábamos",
             "tostabais",
             "tostaban"
+        ],
+        "futuro-simple": [
+            "tostaré",
+            "tostarás",
+            "tostará",
+            "tostaremos",
+            "tostaréis",
+            "tostarán"
         ],
         "presente-progresivo": [
             "estoy tostando",
@@ -22205,6 +26069,14 @@
             "os reñíais",
             "se reñían"
         ],
+        "futuro-simple": [
+            "me reñiré",
+            "te reñirás",
+            "se reñirá",
+            "nos reñiremos",
+            "os reñiréis",
+            "se reñirán"
+        ],
         "presente-progresivo": [
             "me estoy riñendo",
             "te estás riñendo",
@@ -22252,6 +26124,14 @@
             "proveníamos",
             "proveníais",
             "provenían"
+        ],
+        "futuro-simple": [
+            "provendré",
+            "provendrás",
+            "provendrá",
+            "provendremos",
+            "provendréis",
+            "provendrán"
         ],
         "presente-progresivo": [
             "estoy proviniendo",
@@ -22301,6 +26181,14 @@
             "comprobabais",
             "comprobaban"
         ],
+        "futuro-simple": [
+            "comprobaré",
+            "comprobarás",
+            "comprobará",
+            "comprobaremos",
+            "comprobaréis",
+            "comprobarán"
+        ],
         "presente-progresivo": [
             "estoy comprobando",
             "estás comprobando",
@@ -22348,6 +26236,14 @@
             "producíamos",
             "producíais",
             "producían"
+        ],
+        "futuro-simple": [
+            "produciré",
+            "producirás",
+            "producirá",
+            "produciremos",
+            "produciréis",
+            "producirán"
         ],
         "presente-progresivo": [
             "estoy produciendo",
@@ -22397,6 +26293,14 @@
             "os quejabais",
             "se quejaban"
         ],
+        "futuro-simple": [
+            "me quejaré",
+            "te quejarás",
+            "se quejará",
+            "nos quejaremos",
+            "os quejaréis",
+            "se quejarán"
+        ],
         "presente-progresivo": [
             "me estoy quejando",
             "te estás quejando",
@@ -22444,6 +26348,14 @@
             "incluíamos",
             "incluíais",
             "incluían"
+        ],
+        "futuro-simple": [
+            "incluiré",
+            "incluirás",
+            "incluirá",
+            "incluiremos",
+            "incluiréis",
+            "incluirán"
         ],
         "presente-progresivo": [
             "estoy incluyendo",
@@ -22493,6 +26405,14 @@
             "os bloqueabais",
             "se bloqueaban"
         ],
+        "futuro-simple": [
+            "me bloquearé",
+            "te bloquearás",
+            "se bloqueará",
+            "nos bloquearemos",
+            "os bloquearéis",
+            "se bloquearán"
+        ],
         "presente-progresivo": [
             "me estoy bloqueando",
             "te estás bloqueando",
@@ -22540,6 +26460,14 @@
             "nos jubilábamos",
             "os jubilabais",
             "se jubilaban"
+        ],
+        "futuro-simple": [
+            "me jubilaré",
+            "te jubilarás",
+            "se jubilará",
+            "nos jubilaremos",
+            "os jubilaréis",
+            "se jubilarán"
         ],
         "presente-progresivo": [
             "me estoy jubilando",
@@ -22589,6 +26517,14 @@
             "subrayabais",
             "subrayaban"
         ],
+        "futuro-simple": [
+            "subrayaré",
+            "subrayarás",
+            "subrayará",
+            "subrayaremos",
+            "subrayaréis",
+            "subrayarán"
+        ],
         "presente-progresivo": [
             "estoy subrayando",
             "estás subrayando",
@@ -22636,6 +26572,14 @@
             "apreciábamos",
             "apreciabais",
             "apreciaban"
+        ],
+        "futuro-simple": [
+            "apreciaré",
+            "apreciarás",
+            "apreciará",
+            "apreciaremos",
+            "apreciaréis",
+            "apreciarán"
         ],
         "presente-progresivo": [
             "estoy apreciando",
@@ -22685,6 +26629,14 @@
             "coincidíais",
             "coincidían"
         ],
+        "futuro-simple": [
+            "coincidiré",
+            "coincidirás",
+            "coincidirá",
+            "coincidiremos",
+            "coincidiréis",
+            "coincidirán"
+        ],
         "presente-progresivo": [
             "estoy coincidiendo",
             "estás coincidiendo",
@@ -22732,6 +26684,14 @@
             "navegábamos",
             "navegabais",
             "navegaban"
+        ],
+        "futuro-simple": [
+            "navegaré",
+            "navegarás",
+            "navegará",
+            "navegaremos",
+            "navegaréis",
+            "navegarán"
         ],
         "presente-progresivo": [
             "estoy navegando",
@@ -22781,6 +26741,14 @@
             "cubríais",
             "cubrían"
         ],
+        "futuro-simple": [
+            "cubriré",
+            "cubrirás",
+            "cubrirá",
+            "cubriremos",
+            "cubriréis",
+            "cubrirán"
+        ],
         "presente-progresivo": [
             "estoy cubriendo",
             "estás cubriendo",
@@ -22828,6 +26796,14 @@
             "resolvíamos",
             "resolvíais",
             "resolvían"
+        ],
+        "futuro-simple": [
+            "resolveré",
+            "resolverás",
+            "resolverá",
+            "resolveremos",
+            "resolveréis",
+            "resolverán"
         ],
         "presente-progresivo": [
             "estoy resolviendo",
@@ -22877,6 +26853,14 @@
             "devolvíais",
             "devolvían"
         ],
+        "futuro-simple": [
+            "devolveré",
+            "devolverás",
+            "devolverá",
+            "devolveremos",
+            "devolveréis",
+            "devolverán"
+        ],
         "presente-progresivo": [
             "estoy devolviendo",
             "estás devolviendo",
@@ -22924,6 +26908,14 @@
             "envolvíamos",
             "envolvíais",
             "envolvían"
+        ],
+        "futuro-simple": [
+            "envolveré",
+            "envolverás",
+            "envolverá",
+            "envolveremos",
+            "envolveréis",
+            "envolverán"
         ],
         "presente-progresivo": [
             "estoy envolviendo",
@@ -22973,6 +26965,14 @@
             "disponíais",
             "disponían"
         ],
+        "futuro-simple": [
+            "dispondré",
+            "dispondrás",
+            "dispondrá",
+            "dispondremos",
+            "dispondréis",
+            "dispondrán"
+        ],
         "presente-progresivo": [
             "estoy disponiendo",
             "estás disponiendo",
@@ -23020,6 +27020,14 @@
             "imponíamos",
             "imponíais",
             "imponían"
+        ],
+        "futuro-simple": [
+            "impondré",
+            "impondrás",
+            "impondrá",
+            "impondremos",
+            "impondréis",
+            "impondrán"
         ],
         "presente-progresivo": [
             "estoy imponiendo",
@@ -23069,6 +27077,14 @@
             "preveíais",
             "preveían"
         ],
+        "futuro-simple": [
+            "preveré",
+            "preverás",
+            "preverá",
+            "preveremos",
+            "preveréis",
+            "preverán"
+        ],
         "presente-progresivo": [
             "estoy previendo",
             "estás previendo",
@@ -23116,6 +27132,14 @@
             "componíamos",
             "componíais",
             "componían"
+        ],
+        "futuro-simple": [
+            "compondré",
+            "compondrás",
+            "compondrá",
+            "compondremos",
+            "compondréis",
+            "compondrán"
         ],
         "presente-progresivo": [
             "estoy componiendo",
@@ -23165,6 +27189,14 @@
             "os convertíais",
             "se convertían"
         ],
+        "futuro-simple": [
+            "me convertiré",
+            "te convertirás",
+            "se convertirá",
+            "nos convertiremos",
+            "os convertiréis",
+            "se convertirán"
+        ],
         "presente-progresivo": [
             "me estoy convirtiendo",
             "te estás convirtiendo",
@@ -23212,6 +27244,14 @@
             "escalábamos",
             "escalabais",
             "escalaban"
+        ],
+        "futuro-simple": [
+            "escalaré",
+            "escalarás",
+            "escalará",
+            "escalaremos",
+            "escalaréis",
+            "escalarán"
         ],
         "presente-progresivo": [
             "estoy escalando",
@@ -23261,6 +27301,14 @@
             "luchabais",
             "luchaban"
         ],
+        "futuro-simple": [
+            "lucharé",
+            "lucharás",
+            "luchará",
+            "lucharemos",
+            "lucharéis",
+            "lucharán"
+        ],
         "presente-progresivo": [
             "estoy luchando",
             "estás luchando",
@@ -23308,6 +27356,14 @@
             "regalábamos",
             "regalabais",
             "regalaban"
+        ],
+        "futuro-simple": [
+            "regalaré",
+            "regalarás",
+            "regalará",
+            "regalaremos",
+            "regalaréis",
+            "regalarán"
         ],
         "presente-progresivo": [
             "estoy regalando",
@@ -23357,6 +27413,14 @@
             "colaborabais",
             "colaboraban"
         ],
+        "futuro-simple": [
+            "colaboraré",
+            "colaborarás",
+            "colaborará",
+            "colaboraremos",
+            "colaboraréis",
+            "colaborarán"
+        ],
         "presente-progresivo": [
             "estoy colaborando",
             "estás colaborando",
@@ -23404,6 +27468,14 @@
             "rodábamos",
             "rodabais",
             "rodaban"
+        ],
+        "futuro-simple": [
+            "rodaré",
+            "rodarás",
+            "rodará",
+            "rodaremos",
+            "rodaréis",
+            "rodarán"
         ],
         "presente-progresivo": [
             "estoy rodando",
@@ -23453,6 +27525,14 @@
             "creabais",
             "creaban"
         ],
+        "futuro-simple": [
+            "crearé",
+            "crearás",
+            "creará",
+            "crearemos",
+            "crearéis",
+            "crearán"
+        ],
         "presente-progresivo": [
             "estoy creando",
             "estás creando",
@@ -23500,6 +27580,14 @@
             "filmábamos",
             "filmabais",
             "filmaban"
+        ],
+        "futuro-simple": [
+            "filmaré",
+            "filmarás",
+            "filmará",
+            "filmaremos",
+            "filmaréis",
+            "filmarán"
         ],
         "presente-progresivo": [
             "estoy filmando",
@@ -23549,6 +27637,14 @@
             "dirigíais",
             "dirigían"
         ],
+        "futuro-simple": [
+            "dirigiré",
+            "dirigirás",
+            "dirigirá",
+            "dirigiremos",
+            "dirigiréis",
+            "dirigirán"
+        ],
         "presente-progresivo": [
             "estoy dirigiendo",
             "estás dirigiendo",
@@ -23596,6 +27692,14 @@
             "nos celebrábamos",
             "os celebrabais",
             "se celebraban"
+        ],
+        "futuro-simple": [
+            "me celebraré",
+            "te celebrarás",
+            "se celebrará",
+            "nos celebraremos",
+            "os celebraréis",
+            "se celebrarán"
         ],
         "presente-progresivo": [
             "me estoy celebrando",
@@ -23645,6 +27749,14 @@
             "inventabais",
             "inventaban"
         ],
+        "futuro-simple": [
+            "inventaré",
+            "inventarás",
+            "inventará",
+            "inventaremos",
+            "inventaréis",
+            "inventarán"
+        ],
         "presente-progresivo": [
             "estoy inventando",
             "estás inventando",
@@ -23692,6 +27804,14 @@
             "nos filmábamos",
             "os filmabais",
             "se filmaban"
+        ],
+        "futuro-simple": [
+            "me filmaré",
+            "te filmarás",
+            "se filmará",
+            "nos filmaremos",
+            "os filmaréis",
+            "se filmarán"
         ],
         "presente-progresivo": [
             "me estoy filmando",
@@ -23741,6 +27861,14 @@
             "obteníais",
             "obtenían"
         ],
+        "futuro-simple": [
+            "obtendré",
+            "obtendrás",
+            "obtendrá",
+            "obtendremos",
+            "obtendréis",
+            "obtendrán"
+        ],
         "presente-progresivo": [
             "estoy obteniendo",
             "estás obteniendo",
@@ -23788,6 +27916,14 @@
             "superábamos",
             "superabais",
             "superaban"
+        ],
+        "futuro-simple": [
+            "superaré",
+            "superarás",
+            "superará",
+            "superaremos",
+            "superaréis",
+            "superarán"
         ],
         "presente-progresivo": [
             "estoy superando",
@@ -23837,6 +27973,14 @@
             "os enamorabais",
             "se enamoraban"
         ],
+        "futuro-simple": [
+            "me enamoraré",
+            "te enamorarás",
+            "se enamorará",
+            "nos enamoraremos",
+            "os enamoraréis",
+            "se enamorarán"
+        ],
         "presente-progresivo": [
             "me estoy enamorando",
             "te estás enamorando",
@@ -23884,6 +28028,14 @@
             "nos separábamos",
             "os separabais",
             "se separaban"
+        ],
+        "futuro-simple": [
+            "me separaré",
+            "te separarás",
+            "se separará",
+            "nos separaremos",
+            "os separaréis",
+            "se separarán"
         ],
         "presente-progresivo": [
             "me estoy separando",
@@ -23933,6 +28085,14 @@
             "os divorciabais",
             "se divorciaban"
         ],
+        "futuro-simple": [
+            "me divorciaré",
+            "te divorciarás",
+            "se divorciará",
+            "nos divorciaremos",
+            "os divorciaréis",
+            "se divorciarán"
+        ],
         "presente-progresivo": [
             "me estoy divorciando",
             "te estás divorciando",
@@ -23980,6 +28140,14 @@
             "nos mudábamos",
             "os mudabais",
             "se mudaban"
+        ],
+        "futuro-simple": [
+            "me mudaré",
+            "te mudarás",
+            "se mudará",
+            "nos mudaremos",
+            "os mudaréis",
+            "se mudarán"
         ],
         "presente-progresivo": [
             "me estoy mudando",
@@ -24029,6 +28197,14 @@
             "abandonabais",
             "abandonaban"
         ],
+        "futuro-simple": [
+            "abandonaré",
+            "abandonarás",
+            "abandonará",
+            "abandonaremos",
+            "abandonaréis",
+            "abandonarán"
+        ],
         "presente-progresivo": [
             "estoy abandonando",
             "estás abandonando",
@@ -24076,6 +28252,14 @@
             "recogíamos",
             "recogíais",
             "recogían"
+        ],
+        "futuro-simple": [
+            "recogeré",
+            "recogerás",
+            "recogerá",
+            "recogeremos",
+            "recogeréis",
+            "recogerán"
         ],
         "presente-progresivo": [
             "estoy recogiendo",
@@ -24125,6 +28309,14 @@
             "barríais",
             "barrían"
         ],
+        "futuro-simple": [
+            "barreré",
+            "barrerás",
+            "barrerá",
+            "barreremos",
+            "barreréis",
+            "barrerán"
+        ],
         "presente-progresivo": [
             "estoy barriendo",
             "estás barriendo",
@@ -24172,6 +28364,14 @@
             "planchábamos",
             "planchabais",
             "planchaban"
+        ],
+        "futuro-simple": [
+            "plancharé",
+            "plancharás",
+            "planchará",
+            "plancharemos",
+            "plancharéis",
+            "plancharán"
         ],
         "presente-progresivo": [
             "estoy planchando",
@@ -24221,6 +28421,14 @@
             "lograbais",
             "lograban"
         ],
+        "futuro-simple": [
+            "lograré",
+            "lograrás",
+            "logrará",
+            "lograremos",
+            "lograréis",
+            "lograrán"
+        ],
         "presente-progresivo": [
             "estoy logrando",
             "estás logrando",
@@ -24268,6 +28476,14 @@
             "nos fijábamos",
             "os fijabais",
             "se fijaban"
+        ],
+        "futuro-simple": [
+            "me fijaré",
+            "te fijarás",
+            "se fijará",
+            "nos fijaremos",
+            "os fijaréis",
+            "se fijarán"
         ],
         "presente-progresivo": [
             "me estoy fijando",
@@ -24317,6 +28533,14 @@
             "apagabais",
             "apagaban"
         ],
+        "futuro-simple": [
+            "apagaré",
+            "apagarás",
+            "apagará",
+            "apagaremos",
+            "apagaréis",
+            "apagarán"
+        ],
         "presente-progresivo": [
             "estoy apagando",
             "estás apagando",
@@ -24364,6 +28588,14 @@
             "actuábamos",
             "actuabais",
             "actuaban"
+        ],
+        "futuro-simple": [
+            "actuaré",
+            "actuarás",
+            "actuará",
+            "actuaremos",
+            "actuaréis",
+            "actuarán"
         ],
         "presente-progresivo": [
             "estoy actuando",
