@@ -16,7 +16,7 @@ from openpyxl import Workbook
 from openpyxl.styles import Alignment, Font
 from openpyxl.worksheet.worksheet import Worksheet
 
-APP_VERSION = "1.1.0"
+APP_VERSION = "1.2.0"
 
 # ANSI color codes
 GREEN = '\033[92m'
@@ -235,6 +235,71 @@ def normalize_string(s):
     return unicodedata.normalize('NFC', s.lower().strip())
 
 
+REFLEXIVE_PRONOUNS = ("nos", "os", "me", "te", "se")
+ESTAR_FORMS = frozenset({"estoy", "estás", "está", "estamos", "estáis", "están"})
+
+
+def strip_accents(text: str) -> str:
+    """Remove diacritics to allow accent-insensitive comparisons."""
+    normalized = unicodedata.normalize("NFD", text)
+    return "".join(ch for ch in normalized if not unicodedata.combining(ch))
+
+
+ESTAR_FORMS_NORMALIZED = frozenset(strip_accents(f) for f in ESTAR_FORMS)
+
+
+def detach_reflexive_pronoun(word: str) -> tuple[str, str | None]:
+    """Strip a trailing reflexive pronoun from a gerund token."""
+    lowered = word.lower()
+    for pronoun in REFLEXIVE_PRONOUNS:
+        if lowered.endswith(pronoun):
+            return word[: -len(pronoun)], pronoun
+    return word, None
+
+
+def parse_presente_progresivo(answer: str) -> tuple[str, str, str] | None:
+    """
+    Parse a reflexive presente progresivo answer into (pronoun, estar, gerund).
+    Accepts prefix form (se están enfermando) or suffix form (están enfermándose).
+    """
+    parts = normalize_string(answer).split()
+    if len(parts) == 3:
+        pronoun, estar, gerund = parts
+        if pronoun in REFLEXIVE_PRONOUNS and strip_accents(estar) in ESTAR_FORMS_NORMALIZED:
+            return pronoun, strip_accents(estar), strip_accents(gerund)
+    elif len(parts) == 2:
+        estar, gerund_with_pronoun = parts
+        if strip_accents(estar) in ESTAR_FORMS_NORMALIZED:
+            gerund, pronoun = detach_reflexive_pronoun(gerund_with_pronoun)
+            if pronoun is not None:
+                return pronoun, strip_accents(estar), strip_accents(gerund)
+    return None
+
+
+def answers_match(correct: str, user: str, tense: str) -> bool:
+    """Compare answers; accept both reflexive pronoun placements in presente progresivo."""
+    if normalize_string(correct) == normalize_string(user):
+        return True
+    if tense == "presente-progresivo":
+        parsed_correct = parse_presente_progresivo(correct)
+        parsed_user = parse_presente_progresivo(user)
+        if parsed_correct and parsed_user:
+            return parsed_correct == parsed_user
+    return False
+
+
+def feedback_reference(correct: str, user: str, tense: str) -> str:
+    """Pick the best reference string for color-coded feedback."""
+    if normalize_string(correct) == normalize_string(user):
+        return correct
+    if tense == "presente-progresivo":
+        parsed_correct = parse_presente_progresivo(correct)
+        parsed_user = parse_presente_progresivo(user)
+        if parsed_correct and parsed_user and parsed_correct == parsed_user:
+            return user
+    return correct
+
+
 def compare_answers(correct, user_input):
     """
     Compare two strings character by character and return color-coded result for the correct answer.
@@ -313,13 +378,20 @@ def ask_question(verb, tense, person_label, correct_answer, show_dutch=False):
 
         break
     
-    is_correct = normalize_string(correct_answer) == normalize_string(user_answer)
+    is_correct = answers_match(correct_answer, user_answer, tense)
+    reference = feedback_reference(correct_answer, user_answer, tense)
 
     print(
-        f"\nCorrect answer ({verb_name}): {compare_answers(correct_answer, user_answer)}"
+        f"\nCorrect answer ({verb_name}): {compare_answers(reference, user_answer)}"
     )
     print(f"Your answer:    {user_answer}")
-    
+    if (
+        is_correct
+        and tense == "presente-progresivo"
+        and normalize_string(correct_answer) != normalize_string(user_answer)
+    ):
+        print(f"Also accepted: {correct_answer}")
+
     if is_correct:
         print(f"{GREEN}✓ Correct!{RESET}")
     else:
