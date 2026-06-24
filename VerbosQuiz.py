@@ -18,7 +18,7 @@ from openpyxl.worksheet.worksheet import Worksheet
 
 APP_VERSION = "1.3.0"
 
-ERROR_POOL_CHANCE = 0.7
+ERROR_POOL_CHANCE = 0.3
 ERROR_STATS_FILE = "VerbosErrores.json"
 
 # ANSI color codes
@@ -258,22 +258,41 @@ def verb_struggle_score(stats: dict, verb_name: str) -> int:
     return entry.get("errors", 0) + entry.get("hints", 0)
 
 
+def _prune_verb_entry(stats: dict, norm: str) -> None:
+    """Remove a verb from stats when it has no remaining errors or hints."""
+    entry = stats["verbs"].get(norm)
+    if entry and entry.get("errors", 0) <= 0 and entry.get("hints", 0) <= 0:
+        del stats["verbs"][norm]
+
+
 def record_question_result(
     stats: dict, verb_name: str, is_correct: bool, used_hint: bool
-) -> None:
-    """Increment error/hint counters for verbs the user struggled with."""
-    if is_correct and not used_hint:
-        return
-
+) -> bool:
+    """Update error/hint counters. Returns True if stats were changed."""
     norm = normalize_verb(verb_name)
     if not norm:
-        return
+        return False
+
+    if is_correct and not used_hint:
+        if norm not in stats.get("verbs", {}):
+            return False
+        entry = stats["verbs"][norm]
+        if entry.get("errors", 0) > 0:
+            entry["errors"] -= 1
+        elif entry.get("hints", 0) > 0:
+            entry["hints"] -= 1
+        _prune_verb_entry(stats, norm)
+        return True
 
     entry = stats["verbs"].setdefault(norm, {"errors": 0, "hints": 0})
+    changed = False
     if not is_correct:
         entry["errors"] = entry.get("errors", 0) + 1
+        changed = True
     if used_hint:
         entry["hints"] = entry.get("hints", 0) + 1
+        changed = True
+    return changed
 
 
 def build_error_pool(verbs: list, stats: dict) -> list:
@@ -282,7 +301,7 @@ def build_error_pool(verbs: list, stats: dict) -> list:
 
 
 def pick_weighted_verb(verbs: list, stats: dict) -> dict:
-    """Pick a verb, favouring those with past errors/hints (70% from error pool)."""
+    """Pick a verb, favouring those with past errors/hints (30% from error pool)."""
     error_pool = build_error_pool(verbs, stats)
     if not error_pool:
         return random.choice(verbs)
@@ -687,10 +706,9 @@ def run_quiz(
                     correct_answers += 1
                 else:
                     incorrect_verbs.add(verb_name)
-                if not is_correct or used_hint:
-                    record_question_result(
-                        error_stats, verb_name, is_correct, used_hint
-                    )
+                if record_question_result(
+                    error_stats, verb_name, is_correct, used_hint
+                ):
                     save_error_stats(error_stats_path, error_stats)
                     session_updated_verbs.add(normalize_verb(verb_name))
                 percentage = (correct_answers / total_questions * 100) if total_questions > 0 else 0
@@ -779,7 +797,7 @@ def main():
                 if pool_size > 0:
                     print(
                         f"Practicing with focus on {pool_size} verbs you have "
-                        f"struggled with before (70% weighted).\n"
+                        f"struggled with before (30% weighted).\n"
                     )
 
         run_quiz(

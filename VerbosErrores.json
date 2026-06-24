@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "verbs": {
+    "merecer": {
+      "errors": 1,
+      "hints": 1
+    },
+    "narrar": {
+      "errors": 0,
+      "hints": 1
+    },
+    "descansar": {
+      "errors": 0,
+      "hints": 1
+    }
+  }
+}
