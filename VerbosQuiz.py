@@ -16,7 +16,10 @@ from openpyxl import Workbook
 from openpyxl.styles import Alignment, Font
 from openpyxl.worksheet.worksheet import Worksheet
 
-APP_VERSION = "1.2.0"
+APP_VERSION = "1.3.0"
+
+ERROR_POOL_CHANCE = 0.7
+ERROR_STATS_FILE = "VerbosErrores.json"
 
 # ANSI color codes
 GREEN = '\033[92m'
@@ -212,6 +215,85 @@ def get_random_verb(verbs):
     return random.choice(verbs)
 
 
+def empty_error_stats() -> dict:
+    """Return a fresh error-stats document."""
+    return {"version": 1, "verbs": {}}
+
+
+def load_error_stats(path: Path) -> dict:
+    """Load persistent error/hint counts; return empty stats if missing or invalid."""
+    if not path.exists():
+        return empty_error_stats()
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+    except (OSError, json.JSONDecodeError) as e:
+        print(f"Warning: Could not read {path}: {e}. Starting fresh.")
+        return empty_error_stats()
+
+    if not isinstance(data, dict):
+        print(f"Warning: Invalid format in {path}, starting fresh.")
+        return empty_error_stats()
+
+    verbs = data.get("verbs", {})
+    if not isinstance(verbs, dict):
+        print(f"Warning: Invalid format in {path}, starting fresh.")
+        return empty_error_stats()
+
+    return {"version": data.get("version", 1), "verbs": verbs}
+
+
+def save_error_stats(path: Path, stats: dict) -> None:
+    """Write error/hint counts to disk."""
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(stats, f, ensure_ascii=False, indent=2)
+        f.write("\n")
+
+
+def verb_struggle_score(stats: dict, verb_name: str) -> int:
+    """Return total errors + hints recorded for a verb."""
+    norm = normalize_verb(verb_name)
+    entry = stats.get("verbs", {}).get(norm, {})
+    return entry.get("errors", 0) + entry.get("hints", 0)
+
+
+def record_question_result(
+    stats: dict, verb_name: str, is_correct: bool, used_hint: bool
+) -> None:
+    """Increment error/hint counters for verbs the user struggled with."""
+    if is_correct and not used_hint:
+        return
+
+    norm = normalize_verb(verb_name)
+    if not norm:
+        return
+
+    entry = stats["verbs"].setdefault(norm, {"errors": 0, "hints": 0})
+    if not is_correct:
+        entry["errors"] = entry.get("errors", 0) + 1
+    if used_hint:
+        entry["hints"] = entry.get("hints", 0) + 1
+
+
+def build_error_pool(verbs: list, stats: dict) -> list:
+    """Return verbs with at least one recorded error or hint."""
+    return [v for v in verbs if verb_struggle_score(stats, v["verbo"]) > 0]
+
+
+def pick_weighted_verb(verbs: list, stats: dict) -> dict:
+    """Pick a verb, favouring those with past errors/hints (70% from error pool)."""
+    error_pool = build_error_pool(verbs, stats)
+    if not error_pool:
+        return random.choice(verbs)
+
+    if random.random() < ERROR_POOL_CHANCE:
+        weights = [1 + verb_struggle_score(stats, v["verbo"]) for v in error_pool]
+        return random.choices(error_pool, weights=weights, k=1)[0]
+
+    return random.choice(verbs)
+
+
 def find_verb(verbs, verb_name):
     """
     Find a verb by name (case-insensitive, normalized).
@@ -355,7 +437,8 @@ def print_incorrect_summary(usage_counts, incorrect_verbs):
 
 def ask_question(verb, tense, person_label, correct_answer, show_dutch=False):
     """
-    Ask a conjugation question and return True if correct, False otherwise.
+    Ask a conjugation question.
+    Returns (is_correct, used_hint).
     """
     verb_name = verb['verbo']
     dutch_translation = verb['dutch']
@@ -365,7 +448,8 @@ def ask_question(verb, tense, person_label, correct_answer, show_dutch=False):
 
     print("\n" + "=" * 60)
     print(f"Conjugate '{display_name}' in '{tense_label}':")
-    
+
+    used_hint = False
     while True:
         try:
             user_answer = input(f"{person_label}: ").strip()
@@ -373,11 +457,12 @@ def ask_question(verb, tense, person_label, correct_answer, show_dutch=False):
             raise
 
         if show_dutch and user_answer == '?':
+            used_hint = True
             print(f"Hint: the Spanish verb is '{verb_name}'")
             continue
 
         break
-    
+
     is_correct = answers_match(correct_answer, user_answer, tense)
     reference = feedback_reference(correct_answer, user_answer, tense)
 
@@ -396,8 +481,8 @@ def ask_question(verb, tense, person_label, correct_answer, show_dutch=False):
         print(f"{GREEN}✓ Correct!{RESET}")
     else:
         print(f"{RED}✗ Incorrect{RESET}")
-    
-    return is_correct
+
+    return is_correct, used_hint
 
 
 def parse_arguments():
@@ -461,13 +546,50 @@ Examples:
     return parser.parse_args()
 
 
-def run_quiz(verbs, tense_mode='random', specific_verb=None, show_dutch=False):
+def _print_quiz_exit_summary(
+    total_questions,
+    correct_answers,
+    usage_counts,
+    incorrect_verbs,
+    verbs,
+    output_path,
+    error_stats_path,
+    session_updated_verbs,
+):
+    """Print final score, usage summaries, and export session errors."""
+    print("=" * 60)
+    if total_questions > 0:
+        percentage = (correct_answers / total_questions * 100)
+        print(f"Final Score: {correct_answers}/{total_questions} ({percentage:.1f}%)")
+    else:
+        print("No questions answered.")
+    print("=" * 60)
+    print_usage_summary(usage_counts)
+    print_incorrect_summary(usage_counts, incorrect_verbs)
+    export_incorrect_verbs_excel(incorrect_verbs, verbs, output_path)
+    if session_updated_verbs:
+        print(
+            f"\nUpdated {len(session_updated_verbs)} verb(s) in {error_stats_path.name}."
+        )
+
+
+def run_quiz(
+    verbs,
+    tense_mode='random',
+    specific_verb=None,
+    show_dutch=False,
+    error_stats=None,
+):
     """Main quiz loop."""
     if specific_verb is not None:
         verb_list = [specific_verb]
         tense_mode = 'random'
     else:
         verb_list = verbs
+
+    error_stats_path = Path(__file__).resolve().parent / ERROR_STATS_FILE
+    if error_stats is None:
+        error_stats = load_error_stats(error_stats_path)
 
     has_imperativo_data = any(
         isinstance(v.get("imperativo-afirmativo"), dict)
@@ -526,11 +648,16 @@ def run_quiz(verbs, tense_mode='random', specific_verb=None, show_dutch=False):
     correct_answers = 0
     usage_counts = {}
     incorrect_verbs = set()
+    session_updated_verbs = set()
     output_path = Path(__file__).resolve().parent / "VerbosErrores.xlsx"
-    
+    use_weighted_selection = show_dutch and specific_verb is None
+
     try:
         while True:
-            verb = get_random_verb(verb_list)
+            if use_weighted_selection:
+                verb = pick_weighted_verb(verb_list, error_stats)
+            else:
+                verb = get_random_verb(verb_list)
             verb_name = verb['verbo']
             tense = get_tense()
 
@@ -551,7 +678,7 @@ def run_quiz(verbs, tense_mode='random', specific_verb=None, show_dutch=False):
                 correct_answer = forms[person_index]
 
             try:
-                is_correct = ask_question(
+                is_correct, used_hint = ask_question(
                     verb, tense, person_label, correct_answer, show_dutch
                 )
                 usage_counts[verb_name] = usage_counts.get(verb_name, 0) + 1
@@ -560,6 +687,12 @@ def run_quiz(verbs, tense_mode='random', specific_verb=None, show_dutch=False):
                     correct_answers += 1
                 else:
                     incorrect_verbs.add(verb_name)
+                if not is_correct or used_hint:
+                    record_question_result(
+                        error_stats, verb_name, is_correct, used_hint
+                    )
+                    save_error_stats(error_stats_path, error_stats)
+                    session_updated_verbs.add(normalize_verb(verb_name))
                 percentage = (correct_answers / total_questions * 100) if total_questions > 0 else 0
                 print(f"\n{GREEN}Score: {correct_answers}/{total_questions} ({percentage:.1f}%){RESET}\n")
             except (EOFError, KeyboardInterrupt):
@@ -568,30 +701,29 @@ def run_quiz(verbs, tense_mode='random', specific_verb=None, show_dutch=False):
     except KeyboardInterrupt:
         print("\n")
         print("Quiz interrupted by user")
-        print("=" * 60)
-        if total_questions > 0:
-            percentage = (correct_answers / total_questions * 100)
-            print(f"Final Score: {correct_answers}/{total_questions} ({percentage:.1f}%)")
-        else:
-            print("No questions answered.")
-        print("=" * 60)
-        print_usage_summary(usage_counts)
-        print_incorrect_summary(usage_counts, incorrect_verbs)
-        export_incorrect_verbs_excel(incorrect_verbs, verbs, output_path)
+        _print_quiz_exit_summary(
+            total_questions,
+            correct_answers,
+            usage_counts,
+            incorrect_verbs,
+            verbs,
+            output_path,
+            error_stats_path,
+            session_updated_verbs,
+        )
         sys.exit(0)
     except EOFError:
-        print("\n\n" + "=" * 60)
-        print("Quiz ended")
-        print("=" * 60)
-        if total_questions > 0:
-            percentage = (correct_answers / total_questions * 100)
-            print(f"Final Score: {correct_answers}/{total_questions} ({percentage:.1f}%)")
-        else:
-            print("No questions answered.")
-        print("=" * 60)
-        print_usage_summary(usage_counts)
-        print_incorrect_summary(usage_counts, incorrect_verbs)
-        export_incorrect_verbs_excel(incorrect_verbs, verbs, output_path)
+        print("\n\nQuiz ended")
+        _print_quiz_exit_summary(
+            total_questions,
+            correct_answers,
+            usage_counts,
+            incorrect_verbs,
+            verbs,
+            output_path,
+            error_stats_path,
+            session_updated_verbs,
+        )
         sys.exit(0)
 
 
@@ -637,10 +769,26 @@ def main():
             "then the letter (e.g., ' + a = á). An umlaut is entered with the \" character.\n"
             "You can also paste accented characters.\n"
         )
+        error_stats_path = Path(__file__).resolve().parent / ERROR_STATS_FILE
+        error_stats = load_error_stats(error_stats_path)
+
         if args.dutch:
             print("Tip: Enter '?' to reveal the Spanish verb before answering.\n")
-        
-        run_quiz(verbs, args.tense, specific_verb, args.dutch)
+            if not args.verb:
+                pool_size = len(build_error_pool(verbs, error_stats))
+                if pool_size > 0:
+                    print(
+                        f"Practicing with focus on {pool_size} verbs you have "
+                        f"struggled with before (70% weighted).\n"
+                    )
+
+        run_quiz(
+            verbs,
+            args.tense,
+            specific_verb,
+            args.dutch,
+            error_stats=error_stats,
+        )
     except Exception as e:
         print(f"\nUnexpected error: {e}")
         sys.exit(1)
