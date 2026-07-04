@@ -47,6 +47,18 @@ TENSE_LABELS = {
     "imperativo-afirmativo": "Imperativo afirmativo",
 }
 
+FOCUS_TENSE_WEIGHTS = {
+    "presente": 0.20,
+    "preterito-indefinido": 0.25,
+    "preterito-imperfecto": 0.25,
+}
+OTHER_TENSES_TOTAL_WEIGHT = 0.30
+OTHER_RANDOM_TENSES = [
+    "preterito-perfecto",
+    "futuro-simple",
+    "presente-progresivo",
+    "imperativo-afirmativo",
+]
 
 def capitalize_first(text: str) -> str:
     """Capitalize only the first character, leaving the rest intact."""
@@ -329,6 +341,20 @@ def get_random_person():
     """Return random person index and label."""
     index = random.randint(0, 5)
     return index, PERSONS[index]
+
+
+def pick_random_tense(has_imperativo_data: bool) -> str:
+    """Pick a tense with weighted probabilities in random mode."""
+    other_tenses = OTHER_RANDOM_TENSES
+    if not has_imperativo_data:
+        other_tenses = [t for t in other_tenses if t != "imperativo-afirmativo"]
+
+    tenses = list(FOCUS_TENSE_WEIGHTS.keys()) + other_tenses
+    other_weight = OTHER_TENSES_TOTAL_WEIGHT / len(other_tenses)
+    weights = [FOCUS_TENSE_WEIGHTS[t] for t in FOCUS_TENSE_WEIGHTS] + [
+        other_weight
+    ] * len(other_tenses)
+    return random.choices(tenses, weights=weights, k=1)[0]
 
 
 def normalize_string(s):
@@ -625,22 +651,8 @@ def run_quiz(
         sys.exit(1)
 
     if tense_mode == 'random':
-        random_tenses = [
-            "presente",
-            "preterito-perfecto",
-            "preterito-indefinido",
-            "preterito-imperfecto",
-            "futuro-simple",
-            "presente-progresivo",
-            "imperativo-afirmativo",
-        ]
-        if not has_imperativo_data:
-            random_tenses = [
-                t for t in random_tenses if t != "imperativo-afirmativo"
-            ]
-
         def get_tense():
-            return random.choice(random_tenses)
+            return pick_random_tense(has_imperativo_data)
     elif tense_mode == 'present':
         def get_tense():
             return "presente"
@@ -771,7 +783,10 @@ def main():
             print("Using all tenses; imperativo afirmativo only asks tú and vosotros.")
         else:
             tense_display = {
-                'random': 'Random tense',
+                'random': (
+                    'Random tense (weighted: present 20%, '
+                    'indefinido/imperfecto 25% each)'
+                ),
                 'present': 'Present tense',
                 'perfecto': 'Pretérito Perfecto',
                 'indefinido': 'Pretérito Indefinido',

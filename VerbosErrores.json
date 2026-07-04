@@ -1,15 +1,111 @@
 {
   "version": 1,
   "verbs": {
-    "merecer": {
+    "sonreír": {
+      "errors": 2,
+      "hints": 0
+    },
+    "exponer": {
       "errors": 1,
       "hints": 1
     },
-    "narrar": {
+    "hacerse": {
+      "errors": 2,
+      "hints": 1
+    },
+    "poderse": {
+      "errors": 2,
+      "hints": 1
+    },
+    "atraer": {
+      "errors": 4,
+      "hints": 0
+    },
+    "convertirse": {
+      "errors": 1,
+      "hints": 0
+    },
+    "enterarse": {
       "errors": 0,
       "hints": 1
     },
+    "atender": {
+      "errors": 1,
+      "hints": 1
+    },
+    "provenir": {
+      "errors": 0,
+      "hints": 1
+    },
+    "imaginar": {
+      "errors": 0,
+      "hints": 1
+    },
+    "acercar": {
+      "errors": 2,
+      "hints": 0
+    },
+    "despedirse": {
+      "errors": 1,
+      "hints": 0
+    },
+    "irse": {
+      "errors": 1,
+      "hints": 1
+    },
+    "fumar": {
+      "errors": 1,
+      "hints": 0
+    },
     "descansar": {
+      "errors": 1,
+      "hints": 0
+    },
+    "estar": {
+      "errors": 1,
+      "hints": 0
+    },
+    "agradecer": {
+      "errors": 2,
+      "hints": 0
+    },
+    "reunirse": {
+      "errors": 1,
+      "hints": 0
+    },
+    "enfriar": {
+      "errors": 1,
+      "hints": 0
+    },
+    "adalantar": {
+      "errors": 1,
+      "hints": 0
+    },
+    "retener": {
+      "errors": 0,
+      "hints": 1
+    },
+    "relacionarse": {
+      "errors": 1,
+      "hints": 0
+    },
+    "suavizar": {
+      "errors": 1,
+      "hints": 0
+    },
+    "tender": {
+      "errors": 0,
+      "hints": 1
+    },
+    "volver": {
+      "errors": 0,
+      "hints": 1
+    },
+    "valer": {
+      "errors": 1,
+      "hints": 0
+    },
+    "derrotar": {
       "errors": 0,
       "hints": 1
     }
