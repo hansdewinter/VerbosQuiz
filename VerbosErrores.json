@@ -2,112 +2,112 @@
   "version": 1,
   "verbs": {
     "sonreír": {
-      "errors": 2,
+      "errors": 1,
       "hints": 0
     },
-    "exponer": {
-      "errors": 1,
+    "atender": {
+      "errors": 0,
       "hints": 1
     },
-    "hacerse": {
-      "errors": 2,
-      "hints": 1
-    },
-    "poderse": {
-      "errors": 2,
-      "hints": 1
-    },
-    "atraer": {
+    "despedirse": {
       "errors": 4,
       "hints": 0
     },
-    "convertirse": {
-      "errors": 1,
-      "hints": 0
-    },
-    "enterarse": {
-      "errors": 0,
-      "hints": 1
-    },
-    "atender": {
-      "errors": 1,
-      "hints": 1
-    },
-    "provenir": {
-      "errors": 0,
-      "hints": 1
-    },
-    "imaginar": {
-      "errors": 0,
-      "hints": 1
-    },
-    "acercar": {
-      "errors": 2,
-      "hints": 0
-    },
-    "despedirse": {
-      "errors": 1,
-      "hints": 0
-    },
     "irse": {
-      "errors": 1,
+      "errors": 0,
       "hints": 1
     },
-    "fumar": {
+    "retener": {
+      "errors": 2,
+      "hints": 2
+    },
+    "relacionarse": {
+      "errors": 3,
+      "hints": 0
+    },
+    "valer": {
       "errors": 1,
+      "hints": 0
+    },
+    "reposar": {
+      "errors": 2,
+      "hints": 2
+    },
+    "tender": {
+      "errors": 3,
+      "hints": 0
+    },
+    "caerse": {
+      "errors": 3,
       "hints": 0
     },
     "descansar": {
       "errors": 1,
       "hints": 0
     },
-    "estar": {
+    "vencer": {
+      "errors": 0,
+      "hints": 2
+    },
+    "atreverse": {
       "errors": 1,
       "hints": 0
     },
-    "agradecer": {
+    "criticar": {
+      "errors": 1,
+      "hints": 0
+    },
+    "abordar": {
+      "errors": 1,
+      "hints": 0
+    },
+    "regresar": {
       "errors": 2,
       "hints": 0
     },
-    "reunirse": {
+    "conseguir": {
       "errors": 1,
       "hints": 0
     },
-    "enfriar": {
-      "errors": 1,
-      "hints": 0
-    },
-    "adalantar": {
-      "errors": 1,
-      "hints": 0
-    },
-    "retener": {
+    "aplastar": {
       "errors": 0,
       "hints": 1
     },
-    "relacionarse": {
+    "poner": {
       "errors": 1,
       "hints": 0
     },
-    "suavizar": {
+    "convertir": {
       "errors": 1,
       "hints": 0
     },
-    "tender": {
-      "errors": 0,
-      "hints": 1
-    },
-    "volver": {
-      "errors": 0,
-      "hints": 1
-    },
-    "valer": {
+    "recuperarse": {
       "errors": 1,
       "hints": 0
     },
-    "derrotar": {
+    "desarrollar": {
+      "errors": 1,
+      "hints": 0
+    },
+    "entregar": {
       "errors": 0,
       "hints": 1
+    },
+    "sentarse": {
+      "errors": 1,
+      "hints": 0
+    },
+    "caer": {
+      "errors": 1,
+      "hints": 0
+    },
+    "presentar": {
+      "errors": 0,
+      "hints": 1
+    },
+    "disponer": {
+      "errors": 1,
+      "hints": 0
     }
   }
 }
