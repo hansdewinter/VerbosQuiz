@@ -1,5 +1,61 @@
 [
     {
+        "verbo": "brindar",
+        "presente": [
+            "brindo",
+            "brindas",
+            "brinda",
+            "brindamos",
+            "brindáis",
+            "brindan"
+        ],
+        "preterito-perfecto": [
+            "he brindado",
+            "has brindado",
+            "ha brindado",
+            "hemos brindado",
+            "habéis brindado",
+            "han brindado"
+        ],
+        "preterito-indefinido": [
+            "brindé",
+            "brindaste",
+            "brindó",
+            "brindamos",
+            "brindasteis",
+            "brindaron"
+        ],
+        "preterito-imperfecto": [
+            "brindaba",
+            "brindabas",
+            "brindaba",
+            "brindábamos",
+            "brindabais",
+            "brindaban"
+        ],
+        "futuro-simple": [
+            "brindaré",
+            "brindarás",
+            "brindará",
+            "brindaremos",
+            "brindaréis",
+            "brindarán"
+        ],
+        "presente-progresivo": [
+            "estoy brindando",
+            "estás brindando",
+            "está brindando",
+            "estamos brindando",
+            "estáis brindando",
+            "están brindando"
+        ],
+        "imperativo-afirmativo": {
+            "tu": "brinda",
+            "vosotros": "brindad"
+        },
+        "dutch": "toasten (\"salud\")"
+    },
+    {
         "verbo": "tramitar",
         "presente": [
             "tramito",
