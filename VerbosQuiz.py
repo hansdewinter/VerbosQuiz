@@ -48,11 +48,11 @@ TENSE_LABELS = {
 }
 
 FOCUS_TENSE_WEIGHTS = {
-    "presente": 0.20,
+    "presente": 0.25,
     "preterito-indefinido": 0.25,
     "preterito-imperfecto": 0.25,
 }
-OTHER_TENSES_TOTAL_WEIGHT = 0.30
+OTHER_TENSES_TOTAL_WEIGHT = 0.25
 OTHER_RANDOM_TENSES = [
     "preterito-perfecto",
     "futuro-simple",
