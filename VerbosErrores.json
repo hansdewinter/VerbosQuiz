@@ -1,111 +1,23 @@
 {
   "version": 1,
   "verbs": {
-    "sonreír": {
+    "estimar": {
       "errors": 1,
-      "hints": 0
-    },
-    "atender": {
-      "errors": 0,
-      "hints": 1
-    },
-    "despedirse": {
-      "errors": 4,
       "hints": 0
     },
     "irse": {
-      "errors": 0,
+      "errors": 2,
+      "hints": 0
+    },
+    "enfriarse": {
+      "errors": 1,
+      "hints": 0
+    },
+    "castigar": {
+      "errors": 1,
       "hints": 1
-    },
-    "retener": {
-      "errors": 2,
-      "hints": 2
-    },
-    "relacionarse": {
-      "errors": 3,
-      "hints": 0
-    },
-    "valer": {
-      "errors": 1,
-      "hints": 0
-    },
-    "reposar": {
-      "errors": 2,
-      "hints": 2
-    },
-    "tender": {
-      "errors": 3,
-      "hints": 0
-    },
-    "caerse": {
-      "errors": 3,
-      "hints": 0
-    },
-    "descansar": {
-      "errors": 1,
-      "hints": 0
-    },
-    "vencer": {
-      "errors": 0,
-      "hints": 2
-    },
-    "atreverse": {
-      "errors": 1,
-      "hints": 0
-    },
-    "criticar": {
-      "errors": 1,
-      "hints": 0
-    },
-    "abordar": {
-      "errors": 1,
-      "hints": 0
     },
     "regresar": {
-      "errors": 2,
-      "hints": 0
-    },
-    "conseguir": {
-      "errors": 1,
-      "hints": 0
-    },
-    "aplastar": {
-      "errors": 0,
-      "hints": 1
-    },
-    "poner": {
-      "errors": 1,
-      "hints": 0
-    },
-    "convertir": {
-      "errors": 1,
-      "hints": 0
-    },
-    "recuperarse": {
-      "errors": 1,
-      "hints": 0
-    },
-    "desarrollar": {
-      "errors": 1,
-      "hints": 0
-    },
-    "entregar": {
-      "errors": 0,
-      "hints": 1
-    },
-    "sentarse": {
-      "errors": 1,
-      "hints": 0
-    },
-    "caer": {
-      "errors": 1,
-      "hints": 0
-    },
-    "presentar": {
-      "errors": 0,
-      "hints": 1
-    },
-    "disponer": {
       "errors": 1,
       "hints": 0
     }
