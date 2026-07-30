@@ -1,24 +1,8 @@
 {
   "version": 1,
   "verbs": {
-    "estimar": {
-      "errors": 1,
-      "hints": 0
-    },
-    "irse": {
+    "reñirse": {
       "errors": 2,
-      "hints": 0
-    },
-    "enfriarse": {
-      "errors": 1,
-      "hints": 0
-    },
-    "castigar": {
-      "errors": 1,
-      "hints": 1
-    },
-    "regresar": {
-      "errors": 1,
       "hints": 0
     }
   }
