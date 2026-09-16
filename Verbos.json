@@ -1,5 +1,61 @@
 [
     {
+        "verbo": "teclear",
+        "presente": [
+            "tecleo",
+            "tecleas",
+            "teclea",
+            "tecleamos",
+            "tecleáis",
+            "teclean"
+        ],
+        "preterito-perfecto": [
+            "he tecleado",
+            "has tecleado",
+            "ha tecleado",
+            "hemos tecleado",
+            "habéis tecleado",
+            "han tecleado"
+        ],
+        "preterito-indefinido": [
+            "tecleé",
+            "tecleaste",
+            "tecleó",
+            "tecleamos",
+            "tecleasteis",
+            "teclearon"
+        ],
+        "preterito-imperfecto": [
+            "tecleaba",
+            "tecleabas",
+            "tecleaba",
+            "tecleábamos",
+            "tecleabais",
+            "tecleaban"
+        ],
+        "futuro-simple": [
+            "teclearé",
+            "teclearás",
+            "tecleará",
+            "teclearemos",
+            "teclearéis",
+            "teclearán"
+        ],
+        "presente-progresivo": [
+            "estoy tecleando",
+            "estás tecleando",
+            "está tecleando",
+            "estamos tecleando",
+            "estáis tecleando",
+            "están tecleando"
+        ],
+        "imperativo-afirmativo": {
+            "tu": "teclea",
+            "vosotros": "teclead"
+        },
+        "dutch": "typen"
+    },
+    {
         "verbo": "brindar",
         "presente": [
             "brindo",
