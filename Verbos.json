@@ -1,5 +1,1405 @@
 [
     {
+        "verbo": "socializar",
+        "presente": [
+            "socializo",
+            "socializas",
+            "socializa",
+            "socializamos",
+            "socializáis",
+            "socializan"
+        ],
+        "preterito-perfecto": [
+            "he socializado",
+            "has socializado",
+            "ha socializado",
+            "hemos socializado",
+            "habéis socializado",
+            "han socializado"
+        ],
+        "preterito-indefinido": [
+            "socialicé",
+            "socializaste",
+            "socializó",
+            "socializamos",
+            "socializasteis",
+            "socializaron"
+        ],
+        "preterito-imperfecto": [
+            "socializaba",
+            "socializabas",
+            "socializaba",
+            "socializábamos",
+            "socializabais",
+            "socializaban"
+        ],
+        "futuro-simple": [
+            "socializaré",
+            "socializarás",
+            "socializará",
+            "socializaremos",
+            "socializaréis",
+            "socializarán"
+        ],
+        "presente-progresivo": [
+            "estoy socializando",
+            "estás socializando",
+            "está socializando",
+            "estamos socializando",
+            "estáis socializando",
+            "están socializando"
+        ],
+        "imperativo-afirmativo": {
+            "tu": "socializa",
+            "vosotros": "socializad"
+        },
+        "dutch": "socialiseren"
+    },
+    {
+        "verbo": "enriquecer",
+        "presente": [
+            "enriquezco",
+            "enriqueces",
+            "enriquece",
+            "enriquecemos",
+            "enriquecéis",
+            "enriquecen"
+        ],
+        "preterito-perfecto": [
+            "he enriquecido",
+            "has enriquecido",
+            "ha enriquecido",
+            "hemos enriquecido",
+            "habéis enriquecido",
+            "han enriquecido"
+        ],
+        "preterito-indefinido": [
+            "enriquecí",
+            "enriqueciste",
+            "enriqueció",
+            "enriquecimos",
+            "enriquecisteis",
+            "enriquecieron"
+        ],
+        "preterito-imperfecto": [
+            "enriquecía",
+            "enriquecías",
+            "enriquecía",
+            "enriquecíamos",
+            "enriquecíais",
+            "enriquecían"
+        ],
+        "futuro-simple": [
+            "enriqueceré",
+            "enriquecerás",
+            "enriquecerá",
+            "enriqueceremos",
+            "enriqueceréis",
+            "enriquecerán"
+        ],
+        "presente-progresivo": [
+            "estoy enriqueciendo",
+            "estás enriqueciendo",
+            "está enriqueciendo",
+            "estamos enriqueciendo",
+            "estáis enriqueciendo",
+            "están enriqueciendo"
+        ],
+        "imperativo-afirmativo": {
+            "tu": "enriquece",
+            "vosotros": "enriqueced"
+        },
+        "dutch": "verrijken"
+    },
+    {
+        "verbo": "relativizar",
+        "presente": [
+            "relativizo",
+            "relativizas",
+            "relativiza",
+            "relativizamos",
+            "relativizáis",
+            "relativizan"
+        ],
+        "preterito-perfecto": [
+            "he relativizado",
+            "has relativizado",
+            "ha relativizado",
+            "hemos relativizado",
+            "habéis relativizado",
+            "han relativizado"
+        ],
+        "preterito-indefinido": [
+            "relativicé",
+            "relativizaste",
+            "relativizó",
+            "relativizamos",
+            "relativizasteis",
+            "relativizaron"
+        ],
+        "preterito-imperfecto": [
+            "relativizaba",
+            "relativizabas",
+            "relativizaba",
+            "relativizábamos",
+            "relativizabais",
+            "relativizaban"
+        ],
+        "futuro-simple": [
+            "relativizaré",
+            "relativizarás",
+            "relativizará",
+            "relativizaremos",
+            "relativizaréis",
+            "relativizarán"
+        ],
+        "presente-progresivo": [
+            "estoy relativizando",
+            "estás relativizando",
+            "está relativizando",
+            "estamos relativizando",
+            "estáis relativizando",
+            "están relativizando"
+        ],
+        "imperativo-afirmativo": {
+            "tu": "relativiza",
+            "vosotros": "relativizad"
+        },
+        "dutch": "relativeren, in perspectief plaatsen"
+    },
+    {
+        "verbo": "multar",
+        "presente": [
+            "multo",
+            "multas",
+            "multa",
+            "multamos",
+            "multáis",
+            "multan"
+        ],
+        "preterito-perfecto": [
+            "he multado",
+            "has multado",
+            "ha multado",
+            "hemos multado",
+            "habéis multado",
+            "han multado"
+        ],
+        "preterito-indefinido": [
+            "multé",
+            "multaste",
+            "multó",
+            "multamos",
+            "multasteis",
+            "multaron"
+        ],
+        "preterito-imperfecto": [
+            "multaba",
+            "multabas",
+            "multaba",
+            "multábamos",
+            "multabais",
+            "multaban"
+        ],
+        "futuro-simple": [
+            "multaré",
+            "multarás",
+            "multará",
+            "multaremos",
+            "multaréis",
+            "multarán"
+        ],
+        "presente-progresivo": [
+            "estoy multando",
+            "estás multando",
+            "está multando",
+            "estamos multando",
+            "estáis multando",
+            "están multando"
+        ],
+        "imperativo-afirmativo": {
+            "tu": "multa",
+            "vosotros": "multad"
+        },
+        "dutch": "beboeten, een boete geven"
+    },
+    {
+        "verbo": "considerar",
+        "presente": [
+            "considero",
+            "consideras",
+            "considera",
+            "consideramos",
+            "consideráis",
+            "consideran"
+        ],
+        "preterito-perfecto": [
+            "he considerado",
+            "has considerado",
+            "ha considerado",
+            "hemos considerado",
+            "habéis considerado",
+            "han considerado"
+        ],
+        "preterito-indefinido": [
+            "consideré",
+            "consideraste",
+            "consideró",
+            "consideramos",
+            "considerasteis",
+            "consideraron"
+        ],
+        "preterito-imperfecto": [
+            "consideraba",
+            "considerabas",
+            "consideraba",
+            "considerábamos",
+            "considerabais",
+            "consideraban"
+        ],
+        "futuro-simple": [
+            "consideraré",
+            "considerarás",
+            "considerará",
+            "consideraremos",
+            "consideraréis",
+            "considerarán"
+        ],
+        "presente-progresivo": [
+            "estoy considerando",
+            "estás considerando",
+            "está considerando",
+            "estamos considerando",
+            "estáis considerando",
+            "están considerando"
+        ],
+        "imperativo-afirmativo": {
+            "tu": "considera",
+            "vosotros": "considerad"
+        },
+        "dutch": "in overweging nemen, overwegen"
+    },
+    {
+        "verbo": "entrevistar",
+        "presente": [
+            "entrevisto",
+            "entrevistas",
+            "entrevista",
+            "entrevistamos",
+            "entrevistáis",
+            "entrevistan"
+        ],
+        "preterito-perfecto": [
+            "he entrevistado",
+            "has entrevistado",
+            "ha entrevistado",
+            "hemos entrevistado",
+            "habéis entrevistado",
+            "han entrevistado"
+        ],
+        "preterito-indefinido": [
+            "entrevisté",
+            "entrevistaste",
+            "entrevistó",
+            "entrevistamos",
+            "entrevistasteis",
+            "entrevistaron"
+        ],
+        "preterito-imperfecto": [
+            "entrevistaba",
+            "entrevistabas",
+            "entrevistaba",
+            "entrevistábamos",
+            "entrevistabais",
+            "entrevistaban"
+        ],
+        "futuro-simple": [
+            "entrevistaré",
+            "entrevistarás",
+            "entrevistará",
+            "entrevistaremos",
+            "entrevistaréis",
+            "entrevistarán"
+        ],
+        "presente-progresivo": [
+            "estoy entrevistando",
+            "estás entrevistando",
+            "está entrevistando",
+            "estamos entrevistando",
+            "estáis entrevistando",
+            "están entrevistando"
+        ],
+        "imperativo-afirmativo": {
+            "tu": "entrevista",
+            "vosotros": "entrevistad"
+        },
+        "dutch": "interviewen, ondervragen"
+    },
+    {
+        "verbo": "equivaler",
+        "presente": [
+            "equivalgo",
+            "equivales",
+            "equivale",
+            "equivalemos",
+            "equivaléis",
+            "equivalen"
+        ],
+        "preterito-perfecto": [
+            "he equivalido",
+            "has equivalido",
+            "ha equivalido",
+            "hemos equivalido",
+            "habéis equivalido",
+            "han equivalido"
+        ],
+        "preterito-indefinido": [
+            "equivalí",
+            "equivaliste",
+            "equivalió",
+            "equivalimos",
+            "equivalisteis",
+            "equivalieron"
+        ],
+        "preterito-imperfecto": [
+            "equivalía",
+            "equivalías",
+            "equivalía",
+            "equivalíamos",
+            "equivalíais",
+            "equivalían"
+        ],
+        "futuro-simple": [
+            "equivaldré",
+            "equivaldrás",
+            "equivaldrá",
+            "equivaldremos",
+            "equivaldréis",
+            "equivaldrán"
+        ],
+        "presente-progresivo": [
+            "estoy equivaliendo",
+            "estás equivaliendo",
+            "está equivaliendo",
+            "estamos equivaliendo",
+            "estáis equivaliendo",
+            "están equivaliendo"
+        ],
+        "imperativo-afirmativo": {
+            "tu": "equivale",
+            "vosotros": "equivaled"
+        },
+        "dutch": "gelijkstaan aan, overeenkomen met, equivalent zijn aan"
+    },
+    {
+        "verbo": "especificar",
+        "presente": [
+            "especifico",
+            "especificas",
+            "especifica",
+            "especificamos",
+            "especificáis",
+            "especifican"
+        ],
+        "preterito-perfecto": [
+            "he especificado",
+            "has especificado",
+            "ha especificado",
+            "hemos especificado",
+            "habéis especificado",
+            "han especificado"
+        ],
+        "preterito-indefinido": [
+            "especifiqué",
+            "especificaste",
+            "especificó",
+            "especificamos",
+            "especificasteis",
+            "especificaron"
+        ],
+        "preterito-imperfecto": [
+            "especificaba",
+            "especificabas",
+            "especificaba",
+            "especificábamos",
+            "especificabais",
+            "especificaban"
+        ],
+        "futuro-simple": [
+            "especificaré",
+            "especificarás",
+            "especificará",
+            "especificaremos",
+            "especificaréis",
+            "especificarán"
+        ],
+        "presente-progresivo": [
+            "estoy especificando",
+            "estás especificando",
+            "está especificando",
+            "estamos especificando",
+            "estáis especificando",
+            "están especificando"
+        ],
+        "imperativo-afirmativo": {
+            "tu": "especifica",
+            "vosotros": "especificad"
+        },
+        "dutch": "specificeren, nader aangeven, duidelijk vermelden"
+    },
+    {
+        "verbo": "derivar",
+        "presente": [
+            "derivo",
+            "derivas",
+            "deriva",
+            "derivamos",
+            "deriváis",
+            "derivan"
+        ],
+        "preterito-perfecto": [
+            "he derivado",
+            "has derivado",
+            "ha derivado",
+            "hemos derivado",
+            "habéis derivado",
+            "han derivado"
+        ],
+        "preterito-indefinido": [
+            "derivé",
+            "derivaste",
+            "derivó",
+            "derivamos",
+            "derivasteis",
+            "derivaron"
+        ],
+        "preterito-imperfecto": [
+            "derivaba",
+            "derivabas",
+            "derivaba",
+            "derivábamos",
+            "derivabais",
+            "derivaban"
+        ],
+        "futuro-simple": [
+            "derivaré",
+            "derivarás",
+            "derivará",
+            "derivaremos",
+            "derivaréis",
+            "derivarán"
+        ],
+        "presente-progresivo": [
+            "estoy derivando",
+            "estás derivando",
+            "está derivando",
+            "estamos derivando",
+            "estáis derivando",
+            "están derivando"
+        ],
+        "imperativo-afirmativo": {
+            "tu": "deriva",
+            "vosotros": "derivad"
+        },
+        "dutch": "afleiden, voortkomen uit, doorverwijzen"
+    },
+    {
+        "verbo": "arreglarse",
+        "presente": [
+            "me arreglo",
+            "te arreglas",
+            "se arregla",
+            "nos arreglamos",
+            "os arregláis",
+            "se arreglan"
+        ],
+        "preterito-perfecto": [
+            "me he arreglado",
+            "te has arreglado",
+            "se ha arreglado",
+            "nos hemos arreglado",
+            "os habéis arreglado",
+            "se han arreglado"
+        ],
+        "preterito-indefinido": [
+            "me arreglé",
+            "te arreglaste",
+            "se arregló",
+            "nos arreglamos",
+            "os arreglasteis",
+            "se arreglaron"
+        ],
+        "preterito-imperfecto": [
+            "me arreglaba",
+            "te arreglabas",
+            "se arreglaba",
+            "nos arreglábamos",
+            "os arreglabais",
+            "se arreglaban"
+        ],
+        "futuro-simple": [
+            "me arreglaré",
+            "te arreglarás",
+            "se arreglará",
+            "nos arreglaremos",
+            "os arreglaréis",
+            "se arreglarán"
+        ],
+        "presente-progresivo": [
+            "me estoy arreglando",
+            "te estás arreglando",
+            "se está arreglando",
+            "nos estamos arreglando",
+            "os estáis arreglando",
+            "se están arreglando"
+        ],
+        "imperativo-afirmativo": {
+            "tu": "arréglate",
+            "vosotros": "arreglaos"
+        },
+        "dutch": "zich opmaken, zich klaarmaken, zich verzorgen, zich netjes aankleden"
+    },
+    {
+        "verbo": "arreglar",
+        "presente": [
+            "arreglo",
+            "arreglas",
+            "arregla",
+            "arreglamos",
+            "arregláis",
+            "arreglan"
+        ],
+        "preterito-perfecto": [
+            "he arreglado",
+            "has arreglado",
+            "ha arreglado",
+            "hemos arreglado",
+            "habéis arreglado",
+            "han arreglado"
+        ],
+        "preterito-indefinido": [
+            "arreglé",
+            "arreglaste",
+            "arregló",
+            "arreglamos",
+            "arreglasteis",
+            "arreglaron"
+        ],
+        "preterito-imperfecto": [
+            "arreglaba",
+            "arreglabas",
+            "arreglaba",
+            "arreglábamos",
+            "arreglabais",
+            "arreglaban"
+        ],
+        "futuro-simple": [
+            "arreglaré",
+            "arreglarás",
+            "arreglará",
+            "arreglaremos",
+            "arreglaréis",
+            "arreglarán"
+        ],
+        "presente-progresivo": [
+            "estoy arreglando",
+            "estás arreglando",
+            "está arreglando",
+            "estamos arreglando",
+            "estáis arreglando",
+            "están arreglando"
+        ],
+        "imperativo-afirmativo": {
+            "tu": "arregla",
+            "vosotros": "arreglad"
+        },
+        "dutch": "repareren, herstellen, in orde maken, regelen"
+    },
+    {
+        "verbo": "obligar",
+        "presente": [
+            "obligo",
+            "obligas",
+            "obliga",
+            "obligamos",
+            "obligáis",
+            "obligan"
+        ],
+        "preterito-perfecto": [
+            "he obligado",
+            "has obligado",
+            "ha obligado",
+            "hemos obligado",
+            "habéis obligado",
+            "han obligado"
+        ],
+        "preterito-indefinido": [
+            "obligué",
+            "obligaste",
+            "obligó",
+            "obligamos",
+            "obligasteis",
+            "obligaron"
+        ],
+        "preterito-imperfecto": [
+            "obligaba",
+            "obligabas",
+            "obligaba",
+            "obligábamos",
+            "obligabais",
+            "obligaban"
+        ],
+        "futuro-simple": [
+            "obligaré",
+            "obligarás",
+            "obligará",
+            "obligaremos",
+            "obligaréis",
+            "obligarán"
+        ],
+        "presente-progresivo": [
+            "estoy obligando",
+            "estás obligando",
+            "está obligando",
+            "estamos obligando",
+            "estáis obligando",
+            "están obligando"
+        ],
+        "imperativo-afirmativo": {
+            "tu": "obliga",
+            "vosotros": "obligad"
+        },
+        "dutch": "verplichten, dwingen"
+    },
+    {
+        "verbo": "mascar",
+        "presente": [
+            "masco",
+            "mascas",
+            "masca",
+            "mascamos",
+            "mascáis",
+            "mascan"
+        ],
+        "preterito-perfecto": [
+            "he mascado",
+            "has mascado",
+            "ha mascado",
+            "hemos mascado",
+            "habéis mascado",
+            "han mascado"
+        ],
+        "preterito-indefinido": [
+            "masqué",
+            "mascaste",
+            "mascó",
+            "mascamos",
+            "mascasteis",
+            "mascaron"
+        ],
+        "preterito-imperfecto": [
+            "mascaba",
+            "mascabas",
+            "mascaba",
+            "mascábamos",
+            "mascabais",
+            "mascaban"
+        ],
+        "futuro-simple": [
+            "mascaré",
+            "mascarás",
+            "mascará",
+            "mascaremos",
+            "mascaréis",
+            "mascarán"
+        ],
+        "presente-progresivo": [
+            "estoy mascando",
+            "estás mascando",
+            "está mascando",
+            "estamos mascando",
+            "estáis mascando",
+            "están mascando"
+        ],
+        "imperativo-afirmativo": {
+            "tu": "masca",
+            "vosotros": "mascad"
+        },
+        "dutch": "kauwen"
+    },
+    {
+        "verbo": "acampar",
+        "presente": [
+            "acampo",
+            "acampas",
+            "acampa",
+            "acampamos",
+            "acampáis",
+            "acampan"
+        ],
+        "preterito-perfecto": [
+            "he acampado",
+            "has acampado",
+            "ha acampado",
+            "hemos acampado",
+            "habéis acampado",
+            "han acampado"
+        ],
+        "preterito-indefinido": [
+            "acampé",
+            "acampaste",
+            "acampó",
+            "acampamos",
+            "acampasteis",
+            "acamparon"
+        ],
+        "preterito-imperfecto": [
+            "acampaba",
+            "acampabas",
+            "acampaba",
+            "acampábamos",
+            "acampabais",
+            "acampaban"
+        ],
+        "futuro-simple": [
+            "acamparé",
+            "acamparás",
+            "acampará",
+            "acamparemos",
+            "acamparéis",
+            "acamparán"
+        ],
+        "presente-progresivo": [
+            "estoy acampando",
+            "estás acampando",
+            "está acampando",
+            "estamos acampando",
+            "estáis acampando",
+            "están acampando"
+        ],
+        "imperativo-afirmativo": {
+            "tu": "acampa",
+            "vosotros": "acampad"
+        },
+        "dutch": "kamperen"
+    },
+    {
+        "verbo": "acceder",
+        "presente": [
+            "accedo",
+            "accedes",
+            "accede",
+            "accedemos",
+            "accedéis",
+            "acceden"
+        ],
+        "preterito-perfecto": [
+            "he accedido",
+            "has accedido",
+            "ha accedido",
+            "hemos accedido",
+            "habéis accedido",
+            "han accedido"
+        ],
+        "preterito-indefinido": [
+            "accedí",
+            "accediste",
+            "accedió",
+            "accedimos",
+            "accedisteis",
+            "accedieron"
+        ],
+        "preterito-imperfecto": [
+            "accedía",
+            "accedías",
+            "accedía",
+            "accedíamos",
+            "accedíais",
+            "accedían"
+        ],
+        "futuro-simple": [
+            "accederé",
+            "accederás",
+            "accederá",
+            "accederemos",
+            "accederéis",
+            "accederán"
+        ],
+        "presente-progresivo": [
+            "estoy accediendo",
+            "estás accediendo",
+            "está accediendo",
+            "estamos accediendo",
+            "estáis accediendo",
+            "están accediendo"
+        ],
+        "imperativo-afirmativo": {
+            "tu": "accede",
+            "vosotros": "acceded"
+        },
+        "dutch": "toegang krijgen, binnengaan, toegang hebben, instemmen"
+    },
+    {
+        "verbo": "instalar",
+        "presente": [
+            "instalo",
+            "instalas",
+            "instala",
+            "instalamos",
+            "instaláis",
+            "instalan"
+        ],
+        "preterito-perfecto": [
+            "he instalado",
+            "has instalado",
+            "ha instalado",
+            "hemos instalado",
+            "habéis instalado",
+            "han instalado"
+        ],
+        "preterito-indefinido": [
+            "instalé",
+            "instalaste",
+            "instaló",
+            "instalamos",
+            "instalasteis",
+            "instalaron"
+        ],
+        "preterito-imperfecto": [
+            "instalaba",
+            "instalabas",
+            "instalaba",
+            "instalábamos",
+            "instalabais",
+            "instalaban"
+        ],
+        "futuro-simple": [
+            "instalaré",
+            "instalarás",
+            "instalará",
+            "instalaremos",
+            "instalaréis",
+            "instalarán"
+        ],
+        "presente-progresivo": [
+            "estoy instalando",
+            "estás instalando",
+            "está instalando",
+            "estamos instalando",
+            "estáis instalando",
+            "están instalando"
+        ],
+        "imperativo-afirmativo": {
+            "tu": "instala",
+            "vosotros": "instalad"
+        },
+        "dutch": "installeren"
+    },
+    {
+        "verbo": "elogiar",
+        "presente": [
+            "elogio",
+            "elogias",
+            "elogia",
+            "elogiamos",
+            "elogiáis",
+            "elogian"
+        ],
+        "preterito-perfecto": [
+            "he elogiado",
+            "has elogiado",
+            "ha elogiado",
+            "hemos elogiado",
+            "habéis elogiado",
+            "han elogiado"
+        ],
+        "preterito-indefinido": [
+            "elogié",
+            "elogiaste",
+            "elogió",
+            "elogiamos",
+            "elogiasteis",
+            "elogiaron"
+        ],
+        "preterito-imperfecto": [
+            "elogiaba",
+            "elogiabas",
+            "elogiaba",
+            "elogiábamos",
+            "elogiabais",
+            "elogiaban"
+        ],
+        "futuro-simple": [
+            "elogiaré",
+            "elogiarás",
+            "elogiará",
+            "elogiaremos",
+            "elogiaréis",
+            "elogiarán"
+        ],
+        "presente-progresivo": [
+            "estoy elogiando",
+            "estás elogiando",
+            "está elogiando",
+            "estamos elogiando",
+            "estáis elogiando",
+            "están elogiando"
+        ],
+        "imperativo-afirmativo": {
+            "tu": "elogia",
+            "vosotros": "elogiad"
+        },
+        "dutch": "prijzen, loven, complimenteren"
+    },
+    {
+        "verbo": "cobrar",
+        "presente": [
+            "cobro",
+            "cobras",
+            "cobra",
+            "cobramos",
+            "cobráis",
+            "cobran"
+        ],
+        "preterito-perfecto": [
+            "he cobrado",
+            "has cobrado",
+            "ha cobrado",
+            "hemos cobrado",
+            "habéis cobrado",
+            "han cobrado"
+        ],
+        "preterito-indefinido": [
+            "cobré",
+            "cobraste",
+            "cobró",
+            "cobramos",
+            "cobrasteis",
+            "cobraron"
+        ],
+        "preterito-imperfecto": [
+            "cobraba",
+            "cobrabas",
+            "cobraba",
+            "cobrábamos",
+            "cobrabais",
+            "cobraban"
+        ],
+        "futuro-simple": [
+            "cobraré",
+            "cobrarás",
+            "cobrará",
+            "cobraremos",
+            "cobraréis",
+            "cobrarán"
+        ],
+        "presente-progresivo": [
+            "estoy cobrando",
+            "estás cobrando",
+            "está cobrando",
+            "estamos cobrando",
+            "estáis cobrando",
+            "están cobrando"
+        ],
+        "imperativo-afirmativo": {
+            "tu": "cobra",
+            "vosotros": "cobrad"
+        },
+        "dutch": "innen, betaald krijgen, aanrekenen, incasseren"
+    },
+    {
+        "verbo": "inclinarse",
+        "presente": [
+            "me inclino",
+            "te inclinas",
+            "se inclina",
+            "nos inclinamos",
+            "os inclináis",
+            "se inclinan"
+        ],
+        "preterito-perfecto": [
+            "me he inclinado",
+            "te has inclinado",
+            "se ha inclinado",
+            "nos hemos inclinado",
+            "os habéis inclinado",
+            "se han inclinado"
+        ],
+        "preterito-indefinido": [
+            "me incliné",
+            "te inclinaste",
+            "se inclinó",
+            "nos inclinamos",
+            "os inclinasteis",
+            "se inclinaron"
+        ],
+        "preterito-imperfecto": [
+            "me inclinaba",
+            "te inclinabas",
+            "se inclinaba",
+            "nos inclinábamos",
+            "os inclinabais",
+            "se inclinaban"
+        ],
+        "futuro-simple": [
+            "me inclinaré",
+            "te inclinarás",
+            "se inclinará",
+            "nos inclinaremos",
+            "os inclinaréis",
+            "se inclinarán"
+        ],
+        "presente-progresivo": [
+            "me estoy inclinando",
+            "te estás inclinando",
+            "se está inclinando",
+            "nos estamos inclinando",
+            "os estáis inclinando",
+            "se están inclinando"
+        ],
+        "imperativo-afirmativo": {
+            "tu": "inclínate",
+            "vosotros": "inclinaos"
+        },
+        "dutch": "zich buigen, zich vooroverbuigen, neigen naar"
+    },
+    {
+        "verbo": "mensajearse",
+        "presente": [
+            "me mensajeo",
+            "te mensajeas",
+            "se mensajea",
+            "nos mensajeamos",
+            "os mensajeáis",
+            "se mensajean"
+        ],
+        "preterito-perfecto": [
+            "me he mensajeado",
+            "te has mensajeado",
+            "se ha mensajeado",
+            "nos hemos mensajeado",
+            "os habéis mensajeado",
+            "se han mensajeado"
+        ],
+        "preterito-indefinido": [
+            "me mensajeé",
+            "te mensajeaste",
+            "se mensajeó",
+            "nos mensajeamos",
+            "os mensajeasteis",
+            "se mensajearon"
+        ],
+        "preterito-imperfecto": [
+            "me mensajeaba",
+            "te mensajeabas",
+            "se mensajeaba",
+            "nos mensajeábamos",
+            "os mensajeabais",
+            "se mensajeaban"
+        ],
+        "futuro-simple": [
+            "me mensajearé",
+            "te mensajearás",
+            "se mensajeará",
+            "nos mensajearemos",
+            "os mensajearéis",
+            "se mensajearán"
+        ],
+        "presente-progresivo": [
+            "me estoy mensajeando",
+            "te estás mensajeando",
+            "se está mensajeando",
+            "nos estamos mensajeando",
+            "os estáis mensajeando",
+            "se están mensajeando"
+        ],
+        "imperativo-afirmativo": {
+            "tu": "mensajeate",
+            "vosotros": "mensajeaos"
+        },
+        "dutch": "elkaar berichten, berichtjes naar elkaar sturen"
+    },
+    {
+        "verbo": "juntarse",
+        "presente": [
+            "me junto",
+            "te juntas",
+            "se junta",
+            "nos juntamos",
+            "os juntáis",
+            "se juntan"
+        ],
+        "preterito-perfecto": [
+            "me he juntado",
+            "te has juntado",
+            "se ha juntado",
+            "nos hemos juntado",
+            "os habéis juntado",
+            "se han juntado"
+        ],
+        "preterito-indefinido": [
+            "me junté",
+            "te juntaste",
+            "se juntó",
+            "nos juntamos",
+            "os juntasteis",
+            "se juntaron"
+        ],
+        "preterito-imperfecto": [
+            "me juntaba",
+            "te juntabas",
+            "se juntaba",
+            "nos juntábamos",
+            "os juntabais",
+            "se juntaban"
+        ],
+        "futuro-simple": [
+            "me juntaré",
+            "te juntarás",
+            "se juntará",
+            "nos juntaremos",
+            "os juntaréis",
+            "se juntarán"
+        ],
+        "presente-progresivo": [
+            "me estoy juntando",
+            "te estás juntando",
+            "se está juntando",
+            "nos estamos juntando",
+            "os estáis juntando",
+            "se están juntando"
+        ],
+        "imperativo-afirmativo": {
+            "tu": "júntate",
+            "vosotros": "juntaos"
+        },
+        "dutch": "samenkomen, bij elkaar komen, afspreken"
+    },
+    {
+        "verbo": "sostener",
+        "presente": [
+            "sostengo",
+            "sostienes",
+            "sostiene",
+            "sostenemos",
+            "sostenéis",
+            "sostienen"
+        ],
+        "preterito-perfecto": [
+            "he sostenido",
+            "has sostenido",
+            "ha sostenido",
+            "hemos sostenido",
+            "habéis sostenido",
+            "han sostenido"
+        ],
+        "preterito-indefinido": [
+            "sostuve",
+            "sostuviste",
+            "sostuvo",
+            "sostuvimos",
+            "sostuvisteis",
+            "sostuvieron"
+        ],
+        "preterito-imperfecto": [
+            "sostenía",
+            "sostenías",
+            "sostenía",
+            "sosteníamos",
+            "sosteníais",
+            "sostenían"
+        ],
+        "futuro-simple": [
+            "sostendré",
+            "sostendrás",
+            "sostendrá",
+            "sostendremos",
+            "sostendréis",
+            "sostendrán"
+        ],
+        "presente-progresivo": [
+            "estoy sosteniendo",
+            "estás sosteniendo",
+            "está sosteniendo",
+            "estamos sosteniendo",
+            "estáis sosteniendo",
+            "están sosteniendo"
+        ],
+        "imperativo-afirmativo": {
+            "tu": "sostén",
+            "vosotros": "sostened"
+        },
+        "dutch": "ondersteunen, volhouden, vasthouden, beweren"
+    },
+    {
+        "verbo": "insistir",
+        "presente": [
+            "insisto",
+            "insistes",
+            "insiste",
+            "insistimos",
+            "insistís",
+            "insisten"
+        ],
+        "preterito-perfecto": [
+            "he insistido",
+            "has insistido",
+            "ha insistido",
+            "hemos insistido",
+            "habéis insistido",
+            "han insistido"
+        ],
+        "preterito-indefinido": [
+            "insistí",
+            "insististe",
+            "insistió",
+            "insistimos",
+            "insististeis",
+            "insistieron"
+        ],
+        "preterito-imperfecto": [
+            "insistía",
+            "insistías",
+            "insistía",
+            "insistíamos",
+            "insistíais",
+            "insistían"
+        ],
+        "futuro-simple": [
+            "insistiré",
+            "insistirás",
+            "insistirá",
+            "insistiremos",
+            "insistiréis",
+            "insistirán"
+        ],
+        "presente-progresivo": [
+            "estoy insistiendo",
+            "estás insistiendo",
+            "está insistiendo",
+            "estamos insistiendo",
+            "estáis insistiendo",
+            "están insistiendo"
+        ],
+        "imperativo-afirmativo": {
+            "tu": "insiste",
+            "vosotros": "insistid"
+        },
+        "dutch": "aandringen"
+    },
+    {
+        "verbo": "conversar",
+        "presente": [
+            "converso",
+            "conversas",
+            "conversa",
+            "conversamos",
+            "conversáis",
+            "conversan"
+        ],
+        "preterito-perfecto": [
+            "he conversado",
+            "has conversado",
+            "ha conversado",
+            "hemos conversado",
+            "habéis conversado",
+            "han conversado"
+        ],
+        "preterito-indefinido": [
+            "conversé",
+            "conversaste",
+            "conversó",
+            "conversamos",
+            "conversasteis",
+            "conversaron"
+        ],
+        "preterito-imperfecto": [
+            "conversaba",
+            "conversabas",
+            "conversaba",
+            "conversábamos",
+            "conversabais",
+            "conversaban"
+        ],
+        "futuro-simple": [
+            "conversaré",
+            "conversarás",
+            "conversará",
+            "conversaremos",
+            "conversaréis",
+            "conversarán"
+        ],
+        "presente-progresivo": [
+            "estoy conversando",
+            "estás conversando",
+            "está conversando",
+            "estamos conversando",
+            "estáis conversando",
+            "están conversando"
+        ],
+        "imperativo-afirmativo": {
+            "tu": "conversa",
+            "vosotros": "conversad"
+        },
+        "dutch": "converseren, een gesprek voeren"
+    },
+    {
+        "verbo": "circular",
+        "presente": [
+            "circulo",
+            "circulas",
+            "circula",
+            "circulamos",
+            "circuláis",
+            "circulan"
+        ],
+        "preterito-perfecto": [
+            "he circulado",
+            "has circulado",
+            "ha circulado",
+            "hemos circulado",
+            "habéis circulado",
+            "han circulado"
+        ],
+        "preterito-indefinido": [
+            "circulé",
+            "circulaste",
+            "circuló",
+            "circulamos",
+            "circulasteis",
+            "circularon"
+        ],
+        "preterito-imperfecto": [
+            "circulaba",
+            "circulabas",
+            "circulaba",
+            "circulábamos",
+            "circulabais",
+            "circulaban"
+        ],
+        "futuro-simple": [
+            "circularé",
+            "circularás",
+            "circulará",
+            "circularemos",
+            "circularéis",
+            "circularán"
+        ],
+        "presente-progresivo": [
+            "estoy circulando",
+            "estás circulando",
+            "está circulando",
+            "estamos circulando",
+            "estáis circulando",
+            "están circulando"
+        ],
+        "imperativo-afirmativo": {
+            "tu": "circula",
+            "vosotros": "circulad"
+        },
+        "dutch": "circuleren"
+    },
+    {
         "verbo": "teclear",
         "presente": [
             "tecleo",
@@ -6993,7 +8393,7 @@
             "tu": "valora",
             "vosotros": "valorad"
         },
-        "dutch": "waarderen of op waarde schattenn"
+        "dutch": "waarderen of op waarde schatten"
     },
     {
         "verbo": "consultar",
