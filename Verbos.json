@@ -1,5 +1,61 @@
 [
     {
+        "verbo": "cumplir \"años\"",
+        "presente": [
+            "cumplo",
+            "cumples",
+            "cumple",
+            "cumplimos",
+            "cumplís",
+            "cumplen"
+        ],
+        "preterito-perfecto": [
+            "he cumplido",
+            "has cumplido",
+            "ha cumplido",
+            "hemos cumplido",
+            "habéis cumplido",
+            "han cumplido"
+        ],
+        "preterito-indefinido": [
+            "cumplí",
+            "cumpliste",
+            "cumplió",
+            "cumplimos",
+            "cumplisteis",
+            "cumplieron"
+        ],
+        "preterito-imperfecto": [
+            "cumplía",
+            "cumplías",
+            "cumplía",
+            "cumplíamos",
+            "cumplíais",
+            "cumplían"
+        ],
+        "futuro-simple": [
+            "cumpliré",
+            "cumplirás",
+            "cumplirá",
+            "cumpliremos",
+            "cumpliréis",
+            "cumplirán"
+        ],
+        "presente-progresivo": [
+            "estoy cumpliendo",
+            "estás cumpliendo",
+            "está cumpliendo",
+            "estamos cumpliendo",
+            "estáis cumpliendo",
+            "están cumpliendo"
+        ],
+        "imperativo-afirmativo": {
+            "tu": "cumple",
+            "vosotros": "cumplid"
+        },
+        "dutch": "verjaren"
+    },
+    {
         "verbo": "socializar",
         "presente": [
             "socializo",
