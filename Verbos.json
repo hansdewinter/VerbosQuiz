@@ -1,5 +1,61 @@
 [
     {
+        "verbo": "tumbarse",
+        "presente": [
+            "me tumbo",
+            "te tumbas",
+            "se tumba",
+            "nos tumbamos",
+            "os tumbáis",
+            "se tumban"
+        ],
+        "preterito-perfecto": [
+            "me he tumbado",
+            "te has tumbado",
+            "se ha tumbado",
+            "nos hemos tumbado",
+            "os habéis tumbado",
+            "se han tumbado"
+        ],
+        "preterito-indefinido": [
+            "me tumbé",
+            "te tumbaste",
+            "se tumbó",
+            "nos tumbamos",
+            "os tumbasteis",
+            "se tumbaron"
+        ],
+        "preterito-imperfecto": [
+            "me tumbaba",
+            "te tumbabas",
+            "se tumbaba",
+            "nos tumbábamos",
+            "os tumbabais",
+            "se tumbaban"
+        ],
+        "futuro-simple": [
+            "me tumbaré",
+            "te tumbarás",
+            "se tumbará",
+            "nos tumbaremos",
+            "os tumbaréis",
+            "se tumbarán"
+        ],
+        "presente-progresivo": [
+            "me estoy tumbando",
+            "te estás tumbando",
+            "se está tumbando",
+            "nos estamos tumbando",
+            "os estáis tumbando",
+            "se están tumbando"
+        ],
+        "imperativo-afirmativo": {
+            "tu": "túmbate",
+            "vosotros": "tumbaos"
+        },
+        "dutch": "gaan liggen"
+    },
+    {
         "verbo": "cumplir \"años\"",
         "presente": [
             "cumplo",
