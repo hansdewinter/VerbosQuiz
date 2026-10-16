@@ -1,5 +1,61 @@
 [
     {
+        "verbo": "pelearse",
+        "presente": [
+            "me peleo",
+            "te peleas",
+            "se pelea",
+            "nos peleamos",
+            "os peleáis",
+            "se pelean"
+        ],
+        "preterito-perfecto": [
+            "me he peleado",
+            "te has peleado",
+            "se ha peleado",
+            "nos hemos peleado",
+            "os habéis peleado",
+            "se han peleado"
+        ],
+        "preterito-indefinido": [
+            "me peleé",
+            "te peleaste",
+            "se peleó",
+            "nos peleamos",
+            "os peleasteis",
+            "se pelearon"
+        ],
+        "preterito-imperfecto": [
+            "me peleaba",
+            "te peleabas",
+            "se peleaba",
+            "nos peleábamos",
+            "os peleabais",
+            "se peleaban"
+        ],
+        "futuro-simple": [
+            "me pelearé",
+            "te pelearás",
+            "se peleará",
+            "nos pelearemos",
+            "os pelearéis",
+            "se pelearán"
+        ],
+        "presente-progresivo": [
+            "me estoy peleando",
+            "te estás peleando",
+            "se está peleando",
+            "nos estamos peleando",
+            "os estáis peleando",
+            "se están peleando"
+        ],
+        "imperativo-afirmativo": {
+            "tu": "peleate",
+            "vosotros": "peleaos"
+        },
+        "dutch": "ruzie maken, vechten (meer gebruikelijk dan reñirse)"
+    },
+    {
         "verbo": "tumbarse",
         "presente": [
             "me tumbo",
@@ -1008,7 +1064,7 @@
         "dutch": "installeren"
     },
     {
-        "verbo": "elogiar",
+        "verbo": "elogiar \"algo\" o \"a alguien\"",
         "presente": [
             "elogio",
             "elogias",
@@ -1061,7 +1117,7 @@
             "tu": "elogia",
             "vosotros": "elogiad"
         },
-        "dutch": "prijzen, loven, complimenteren"
+        "dutch": "prijzen, loven, complimenteren, bestoeffen"
     },
     {
         "verbo": "cobrar",
@@ -27713,7 +27769,7 @@
             "tu": "ríñete",
             "vosotros": "reñíos"
         },
-        "dutch": "ruzie maken"
+        "dutch": "ruzie maken, bekvechten (minder gebruikelijk dan pelearse)"
     },
     {
         "verbo": "provenir",
