@@ -6,13 +6,23 @@ import os
 import sys
 import re
 import unicodedata
+from pathlib import Path
+
 import requests
 from bs4 import BeautifulSoup
 import deepl
 
 
 JSON_FILE = "/Users/hans/Repository/hansdewinter/Spaans/Verbos.json"
-os.environ['DEEPL_API_KEY'] = '3f709804-413d-48ca-aa5c-ce0691c38bfc:fx'
+
+_ENV_FILE = Path(__file__).resolve().parent / ".env"
+if _ENV_FILE.exists():
+    for _line in _ENV_FILE.read_text(encoding="utf-8").splitlines():
+        _line = _line.strip()
+        if not _line or _line.startswith("#") or "=" not in _line:
+            continue
+        _key, _, _value = _line.partition("=")
+        os.environ.setdefault(_key.strip(), _value.strip())
 
 BASE_URL = "https://www.esfacil.eu/nl/werkwoorden/vervoeging.html"
 # Present tense of "estar"
