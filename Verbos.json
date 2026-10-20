@@ -1,5 +1,61 @@
 [
     {
+        "verbo": "hornear",
+        "presente": [
+            "horneo",
+            "horneas",
+            "hornea",
+            "horneamos",
+            "horneáis",
+            "hornean"
+        ],
+        "preterito-perfecto": [
+            "he horneado",
+            "has horneado",
+            "ha horneado",
+            "hemos horneado",
+            "habéis horneado",
+            "han horneado"
+        ],
+        "preterito-indefinido": [
+            "horneé",
+            "horneaste",
+            "horneó",
+            "horneamos",
+            "horneasteis",
+            "hornearon"
+        ],
+        "preterito-imperfecto": [
+            "horneaba",
+            "horneabas",
+            "horneaba",
+            "horneábamos",
+            "horneabais",
+            "horneaban"
+        ],
+        "futuro-simple": [
+            "hornearé",
+            "hornearás",
+            "horneará",
+            "hornearemos",
+            "hornearéis",
+            "hornearán"
+        ],
+        "presente-progresivo": [
+            "estoy horneando",
+            "estás horneando",
+            "está horneando",
+            "estamos horneando",
+            "estáis horneando",
+            "están horneando"
+        ],
+        "imperativo-afirmativo": {
+            "tu": "hornea",
+            "vosotros": "hornead"
+        },
+        "dutch": "bakken (in de oven)"
+    },
+    {
         "verbo": "pelearse",
         "presente": [
             "me peleo",
