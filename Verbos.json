@@ -1,5 +1,61 @@
 [
     {
+        "verbo": "molestar",
+        "presente": [
+            "molesto",
+            "molestas",
+            "molesta",
+            "molestamos",
+            "molestáis",
+            "molestan"
+        ],
+        "preterito-perfecto": [
+            "he molestado",
+            "has molestado",
+            "ha molestado",
+            "hemos molestado",
+            "habéis molestado",
+            "han molestado"
+        ],
+        "preterito-indefinido": [
+            "molesté",
+            "molestaste",
+            "molestó",
+            "molestamos",
+            "molestasteis",
+            "molestaron"
+        ],
+        "preterito-imperfecto": [
+            "molestaba",
+            "molestabas",
+            "molestaba",
+            "molestábamos",
+            "molestabais",
+            "molestaban"
+        ],
+        "futuro-simple": [
+            "molestaré",
+            "molestarás",
+            "molestará",
+            "molestaremos",
+            "molestaréis",
+            "molestarán"
+        ],
+        "presente-progresivo": [
+            "estoy molestando",
+            "estás molestando",
+            "está molestando",
+            "estamos molestando",
+            "estáis molestando",
+            "están molestando"
+        ],
+        "imperativo-afirmativo": {
+            "tu": "molesta",
+            "vosotros": "molestad"
+        },
+        "dutch": "lastigvallen"
+    },
+    {
         "verbo": "hornear",
         "presente": [
             "horneo",

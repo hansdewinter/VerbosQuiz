@@ -1,4 +1,9 @@
 {
   "version": 1,
-  "verbs": {}
+  "verbs": {
+    "acceder": {
+      "errors": 1,
+      "hints": 0
+    }
+  }
 }
