@@ -1,5 +1,61 @@
 [
     {
+        "verbo": "resfriarse",
+        "presente": [
+            "me resfrío",
+            "te resfrías",
+            "se resfría",
+            "nos resfriamos",
+            "os resfriáis",
+            "se resfrían"
+        ],
+        "preterito-perfecto": [
+            "me he resfriado",
+            "te has resfriado",
+            "se ha resfriado",
+            "nos hemos resfriado",
+            "os habéis resfriado",
+            "se han resfriado"
+        ],
+        "preterito-indefinido": [
+            "me resfrié",
+            "te resfriaste",
+            "se resfrió",
+            "nos resfriamos",
+            "os resfriasteis",
+            "se resfriaron"
+        ],
+        "preterito-imperfecto": [
+            "me resfriaba",
+            "te resfriabas",
+            "se resfriaba",
+            "nos resfriábamos",
+            "os resfriabais",
+            "se resfriaban"
+        ],
+        "futuro-simple": [
+            "me resfriaré",
+            "te resfriarás",
+            "se resfriará",
+            "nos resfriaremos",
+            "os resfriaréis",
+            "se resfriarán"
+        ],
+        "presente-progresivo": [
+            "me estoy resfriando",
+            "te estás resfriando",
+            "se está resfriando",
+            "nos estamos resfriando",
+            "os estáis resfriando",
+            "se están resfriando"
+        ],
+        "imperativo-afirmativo": {
+            "tu": "resfríate",
+            "vosotros": "resfriaos"
+        },
+        "dutch": "verkouden worden"
+    },
+    {
         "verbo": "molestar",
         "presente": [
             "molesto",
@@ -6881,7 +6937,7 @@
             "tu": "enfríate",
             "vosotros": "enfriaos"
         },
-        "dutch": "iets of iemand zelf afkoelen (uit zichzelf)"
+        "dutch": "afkoelen, zonder te vermelden wie of wat darvoor zorgt"
     },
     {
         "verbo": "enfriar",
@@ -6937,7 +6993,7 @@
             "tu": "enfría",
             "vosotros": "enfriad"
         },
-        "dutch": "iets of iemand dat afkoelt (door iets of iemand anders)"
+        "dutch": "afkoelen, door iets of iemand"
     },
     {
         "verbo": "colgar",
