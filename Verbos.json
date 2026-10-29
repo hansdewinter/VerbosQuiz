@@ -1,5 +1,61 @@
 [
     {
+        "verbo": "regatear",
+        "presente": [
+            "regateo",
+            "regateas",
+            "regatea",
+            "regateamos",
+            "regateáis",
+            "regatean"
+        ],
+        "preterito-perfecto": [
+            "he regateado",
+            "has regateado",
+            "ha regateado",
+            "hemos regateado",
+            "habéis regateado",
+            "han regateado"
+        ],
+        "preterito-indefinido": [
+            "regateé",
+            "regateaste",
+            "regateó",
+            "regateamos",
+            "regateasteis",
+            "regatearon"
+        ],
+        "preterito-imperfecto": [
+            "regateaba",
+            "regateabas",
+            "regateaba",
+            "regateábamos",
+            "regateabais",
+            "regateaban"
+        ],
+        "futuro-simple": [
+            "regatearé",
+            "regatearás",
+            "regateará",
+            "regatearemos",
+            "regatearéis",
+            "regatearán"
+        ],
+        "presente-progresivo": [
+            "estoy regateando",
+            "estás regateando",
+            "está regateando",
+            "estamos regateando",
+            "estáis regateando",
+            "están regateando"
+        ],
+        "imperativo-afirmativo": {
+            "tu": "regatea",
+            "vosotros": "regatead"
+        },
+        "dutch": "afdingen, afbieden"
+    },
+    {
         "verbo": "resfriarse",
         "presente": [
             "me resfrío",
