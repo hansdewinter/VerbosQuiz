@@ -6,8 +6,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 A personal Spanish-learning toolkit: two interactive CLI quizzes plus a set of
 one-off scraper/enrichment scripts that build and maintain the verb/vocabulary
-data files. There is no package structure, build step, or test suite — each
-`.py` file at the repo root is a standalone script run directly with `python3`.
+data files, plus a Claude Code skill for a conversational drill. There is no
+package structure, build step, or test suite — each `.py` file at the repo
+root is a standalone script run directly with `python3`.
 
 ## Running the quizzes
 
@@ -25,6 +26,19 @@ python3 PalabrasQuiz.py -a                 # add a new Dutch/Spanish word pair, 
 Dependencies: `pip install -r requirements.txt` (requests, beautifulsoup4, deepl —
 only needed for the data-enrichment scripts; the quizzes themselves have no
 third-party dependencies beyond `openpyxl`, used by `VerbosQuiz.py` to export errors).
+
+## Claude Code skill
+
+`.claude/skills/spaanse-werkwoorden/SKILL.md` — a conversational (non-script)
+drill: Claude shows a Dutch sentence and the user translates it to Spanish,
+inferring the correct tense/conjugation from context (no tense is ever named
+outright). Invoked as `/spaanse-werkwoorden` (optionally with a tense name
+and/or a count, e.g. `/spaanse-werkwoorden imperfecto 10`; defaults to a
+random mix of 30). It samples verbs live from `Verbos.json` at session start
+(via an inline `python3` snippet, not a separate data file), so verbs added to
+`Verbos.json` later are automatically available. Target level: A2. To extend
+the pool, just add the verb to `Verbos.json` (via `AnadeVerbo.py`, see below)
+— the skill itself has no verb list to maintain.
 
 ## Data model
 
