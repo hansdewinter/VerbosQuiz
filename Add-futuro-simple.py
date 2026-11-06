@@ -23,6 +23,7 @@ OUTPUT_FIELD_ORDER = [
     "futuro-simple",
     "presente-progresivo",
     "imperativo-afirmativo",
+    "imperativo-negativo",
     "dutch",
 ]
 

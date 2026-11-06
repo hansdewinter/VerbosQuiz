@@ -47,9 +47,12 @@ the pool, just add the verb to `Verbos.json` (via `AnadeVerbo.py`, see below)
   six-form conjugation arrays for `presente`, `preterito-perfecto`,
   `preterito-indefinido`, `preterito-imperfecto`, `futuro-simple`,
   `presente-progresivo` (in person order yo/tú/él-ella-usted/nosotros/vosotros/ellos),
-  an `imperativo-afirmativo` dict with only `tu` and `vosotros` keys (imperative
-  has no first-person form), and a `dutch` translation. Reflexive verbs (infinitive
-  ends in `-se`) embed the reflexive pronoun in each conjugated form.
+  an `imperativo-afirmativo` dict and an `imperativo-negativo` dict, each with
+  `tú`, `usted`, `vosotros`, and `ustedes` keys (no yo or nosotros form), and a
+  `dutch` translation. Reflexive verbs (infinitive ends in `-se`) embed the
+  reflexive pronoun in each conjugated form. Affirmative imperatives attach it
+  (`lávate`); negative imperatives store the full phrase, with `no` and a
+  proclitic pronoun (`no hables`, `no te laves`).
 - `Palabras.json` — flat array of `{"dutch": ..., "spanish": ...}` pairs used by
   `PalabrasQuiz.py`. Multiple accepted translations are written as `/`- or
   `;`-separated variants inside one string value.
@@ -77,7 +80,7 @@ a library:
   prints the new entry, asks for y/n confirmation, then inserts it at the start
   of `Verbos.json` and rewrites the file in place.
 - `Add-futuro-simple.py`, `Add-preterito-imperfecto.py`,
-  `Add-imperativo-afirmativo.py` — batch-backfill one additional tense/field
+  `Add-imperativo.py` — batch-backfill one additional tense/field
   onto every entry in an input JSON file, writing a *new* output file
   (`--input`/`--output` flags; never overwrite `Verbos.json` directly). Used
   historically to migrate the dataset forward as new fields were added.

@@ -45,7 +45,11 @@ TENSE_LABELS = {
     "futuro-simple": "Futuro Simple",
     "presente-progresivo": "Presente Progresivo",
     "imperativo-afirmativo": "Imperativo afirmativo",
+    "imperativo-negativo": "Imperativo negativo",
 }
+
+IMPERATIVO_SLOTS = ("tú", "usted", "vosotros", "ustedes")
+IMPERATIVE_TENSES = ("imperativo-afirmativo", "imperativo-negativo")
 
 FOCUS_TENSE_WEIGHTS = {
     "presente": 0.25,
@@ -58,6 +62,7 @@ OTHER_RANDOM_TENSES = [
     "futuro-simple",
     "presente-progresivo",
     "imperativo-afirmativo",
+    "imperativo-negativo",
 ]
 
 def capitalize_first(text: str) -> str:
@@ -99,7 +104,8 @@ def populate_sheet(ws: Worksheet, verb_entry: dict) -> None:
         ("E1", "Pretérito Imperfecto"),
         ("F1", "Futuro Simple"),
         ("G1", "Presente Progresivo"),
-        ("H1", "Imperativo afirmativo (tú / vosotros)"),
+        ("H1", "Imperativo afirmativo"),
+        ("I1", "Imperativo negativo"),
     ]
     header_font = Font(bold=True)
     center = Alignment(horizontal="center")
@@ -136,13 +142,17 @@ def populate_sheet(ws: Worksheet, verb_entry: dict) -> None:
             value = forms[row_idx] if row_idx < len(forms) else ""
             ws.cell(row=excel_row, column=col, value=value)
 
-    imperativo = verb_entry.get("imperativo-afirmativo")
-    if isinstance(imperativo, dict):
-        # rows: 2=yo, 3=tú, 4=él…, 5=nosotros, 6=vosotros, 7=ellos…
-        ws.cell(row=3, column=8, value=imperativo.get("tu", ""))
-        ws.cell(row=6, column=8, value=imperativo.get("vosotros", ""))
+    # rows: 2=yo, 3=tú, 4=él/ella/usted, 5=nosotros, 6=vosotros, 7=ellos/ellas/ustedes
+    for key, column in (("imperativo-afirmativo", 8), ("imperativo-negativo", 9)):
+        imperativo = verb_entry.get(key)
+        if not isinstance(imperativo, dict):
+            continue
+        ws.cell(row=3, column=column, value=imperativo.get("tú", ""))
+        ws.cell(row=4, column=column, value=imperativo.get("usted", ""))
+        ws.cell(row=6, column=column, value=imperativo.get("vosotros", ""))
+        ws.cell(row=7, column=column, value=imperativo.get("ustedes", ""))
 
-    widths = {"A": 18, "B": 18, "C": 22, "D": 22, "E": 22, "F": 22, "G": 22, "H": 26}
+    widths = {"A": 18, "B": 18, "C": 22, "D": 22, "E": 22, "F": 22, "G": 22, "H": 26, "I": 28}
     for col, width in widths.items():
         ws.column_dimensions[col].width = width
 
@@ -343,11 +353,22 @@ def get_random_person():
     return index, PERSONS[index]
 
 
-def pick_random_tense(has_imperativo_data: bool) -> str:
+def has_imperative(verb: dict, tense: str) -> bool:
+    """True when this verb has all four stored imperative persons."""
+    forms = verb.get(tense)
+    return isinstance(forms, dict) and all(forms.get(slot) for slot in IMPERATIVO_SLOTS)
+
+
+def pick_random_tense(verb_list) -> str:
     """Pick a tense with weighted probabilities in random mode."""
-    other_tenses = OTHER_RANDOM_TENSES
-    if not has_imperativo_data:
-        other_tenses = [t for t in other_tenses if t != "imperativo-afirmativo"]
+    other_tenses = [
+        tense
+        for tense in OTHER_RANDOM_TENSES
+        if (
+            tense not in IMPERATIVE_TENSES
+            or any(has_imperative(verb, tense) for verb in verb_list)
+        )
+    ]
 
     tenses = list(FOCUS_TENSE_WEIGHTS.keys()) + other_tenses
     other_weight = OTHER_TENSES_TOTAL_WEIGHT / len(other_tenses)
@@ -544,7 +565,8 @@ Examples:
   %(prog)s --tense=imperfecto        # Practice Pretérito Imperfecto only
   %(prog)s --tense=futuro            # Practice Futuro Simple only
   %(prog)s --tense=progresivo        # Practice Presente Progresivo (estar + gerundio) only
-  %(prog)s --tense=imperativo        # Practice imperativo afirmativo (tú and vosotros only)
+  %(prog)s --tense=imperativo        # Practice imperativo afirmativo (tú, usted, vosotros, ustedes)
+  %(prog)s --tense=imperativo-negativo  # Practice imperativo negativo (tú, usted, vosotros, ustedes)
   %(prog)s --verb=hablar             # Practice only 'hablar' with all tenses
   %(prog)s --verb=ser                # Practice only 'ser' with all tenses
   %(prog)s --dutch                   # Show Dutch translation instead of Spanish verb
@@ -563,9 +585,10 @@ Examples:
             'futuro',
             'progresivo',
             'imperativo',
+            'imperativo-negativo',
         ],
         default='random',
-        help='Select tense mode: random (default), present, perfecto, indefinido, imperfecto, futuro, progresivo, or imperativo (tú/vosotros)'
+        help='Select tense mode: random (default), present, perfecto, indefinido, imperfecto, futuro, progresivo, imperativo, or imperativo-negativo (tú/usted/vosotros/ustedes)'
     )
     
     parser.add_argument(
@@ -636,23 +659,22 @@ def run_quiz(
     if error_stats is None:
         error_stats = load_error_stats(error_stats_path)
 
-    has_imperativo_data = any(
-        isinstance(v.get("imperativo-afirmativo"), dict)
-        and v["imperativo-afirmativo"].get("tu")
-        and v["imperativo-afirmativo"].get("vosotros")
-        for v in verb_list
-    )
-
-    if tense_mode == "imperativo" and not has_imperativo_data:
+    required_imperative = {
+        "imperativo": "imperativo-afirmativo",
+        "imperativo-negativo": "imperativo-negativo",
+    }.get(tense_mode)
+    if required_imperative and not any(
+        has_imperative(verb, required_imperative) for verb in verb_list
+    ):
         print(
-            "Error: No verbs in the practice set have imperativo-afirmativo "
-            "(tú and vosotros). Update Verbos.json or pick another tense."
+            f"Error: No verbs in the practice set have {required_imperative} "
+            "(tú, usted, vosotros, and ustedes). Update Verbos.json or pick another tense."
         )
         sys.exit(1)
 
     if tense_mode == 'random':
         def get_tense():
-            return pick_random_tense(has_imperativo_data)
+            return pick_random_tense(verb_list)
     elif tense_mode == 'present':
         def get_tense():
             return "presente"
@@ -674,6 +696,9 @@ def run_quiz(
     elif tense_mode == 'imperativo':
         def get_tense():
             return "imperativo-afirmativo"
+    elif tense_mode == 'imperativo-negativo':
+        def get_tense():
+            return "imperativo-negativo"
 
     total_questions = 0
     correct_answers = 0
@@ -692,15 +717,13 @@ def run_quiz(
             verb_name = verb['verbo']
             tense = get_tense()
 
-            if tense == "imperativo-afirmativo":
-                imper = verb.get("imperativo-afirmativo")
-                if not imper or not isinstance(imper, dict):
+            if tense in IMPERATIVE_TENSES:
+                imper = verb.get(tense)
+                if not has_imperative(verb, tense):
                     continue
-                slot = random.choice(["tu", "vosotros"])
-                person_label = "tú" if slot == "tu" else "vosotros"
+                slot = random.choice(IMPERATIVO_SLOTS)
+                person_label = slot
                 correct_answer = imper.get(slot)
-                if not correct_answer:
-                    continue
             else:
                 person_index, person_label = get_random_person()
                 forms = verb.get(tense)
@@ -780,7 +803,9 @@ def main():
                 print("Please check the spelling and try again.")
                 sys.exit(1)
             print(f"Practicing verb: {specific_verb['verbo']} ({specific_verb.get('dutch', 'N/A')})")
-            print("Using all tenses; imperativo afirmativo only asks tú and vosotros.")
+            print(
+                "Using all tenses; both imperatives ask tú, usted, vosotros, and ustedes."
+            )
         else:
             tense_display = {
                 'random': (
@@ -793,7 +818,8 @@ def main():
                 'imperfecto': 'Pretérito Imperfecto',
                 'futuro': 'Futuro Simple',
                 'progresivo': 'Presente Progresivo',
-                'imperativo': 'Imperativo afirmativo (tú / vosotros)',
+                'imperativo': 'Imperativo afirmativo (tú / usted / vosotros / ustedes)',
+                'imperativo-negativo': 'Imperativo negativo (tú / usted / vosotros / ustedes)',
             }
             print(f"Tense mode: {tense_display[args.tense]}")
         

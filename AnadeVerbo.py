@@ -31,9 +31,22 @@ ESTAR_PRESENT = ["estoy", "estás", "está", "estamos", "estáis", "están"]
 REFLEXIVE_PRONOUNS = ["me", "te", "se", "nos", "os", "se"]
 
 IMPERATIVO_AFIRMATIVO_SECTION_ID = "imperativo-afirmativo"
-# Labels in the affirmative-imperative table (non-reflexive vs reflexive)
-TÚ_LABELS = frozenset({"(tú)", "(te)"})
-VOSOTROS_LABELS = frozenset({"(vosotros/-as)", "(os)"})
+IMPERATIVO_NEGATIVO_SECTION_ID = "imperativo-negativo"
+# Neither imperative stores yo or nosotros. Reflexive rows label usted and
+# ustedes the same ("(se)" / "no se"), so the title distinguishes them.
+SLOT_BY_TITLE = {
+    "2e persoon enkelvoud": "tú",
+    "3e persoon enkelvoud": "usted",
+    "2e persoon meervoud": "vosotros",
+    "3e persoon meervoud": "ustedes",
+}
+IMPERATIVO_KEYS = ("tú", "usted", "vosotros", "ustedes")
+REFLEXIVE_NEGATIVO_PREFIX = {
+    "tú": "no te",
+    "usted": "no se",
+    "vosotros": "no os",
+    "ustedes": "no se",
+}
 
 # Ensure stdout uses UTF-8 encoding (Python 3.7+)
 if hasattr(sys.stdout, 'reconfigure'):
@@ -298,8 +311,80 @@ def build_presente_progresivo(gerundio, reflexive):
     return [f"{estar} {gerundio}" for estar in ESTAR_PRESENT]
 
 
-def fetch_imperativo_from_site(verb):
-    """Query esfacil.eu for imperativo afirmativo (tú, vosotros). Returns dict or None."""
+def conjugation_form(spans):
+    """Pick one conjugation. When the site lists a spelling variant, keep the accented one."""
+    if len(spans) == 1:
+        return spans[0].get_text(strip=True)
+    corrected = [
+        span
+        for span in spans
+        if 'conjugation-2' in (span.get('class') or [])
+    ]
+    chosen = corrected[-1] if corrected else spans[0]
+    return chosen.get_text(strip=True)
+
+
+def negativo_phrase(label, form):
+    """Join the site's negation (and reflexive pronoun, when present) to the verb."""
+    label = ' '.join(label.split())
+    if label.startswith('no '):
+        return f'{label} {form}'
+    return f'no {form}'
+
+
+def parse_imperativo_table(html, section_id, negative):
+    soup = BeautifulSoup(html, 'html.parser')
+    section = soup.find('h3', id=section_id)
+    if not section:
+        return None
+
+    table = section.find_next('table')
+    if not table:
+        return None
+
+    forms = {}
+
+    for row in table.find_all('tr'):
+        th = row.find('th')
+        td = row.find('td')
+        if not th or not td:
+            continue
+
+        pronoun_span = th.find('span', class_='pronoun')
+        title = pronoun_span.get('title', '') if pronoun_span else ''
+        slot = SLOT_BY_TITLE.get(title)
+        if not slot:
+            continue
+
+        conjugation_spans = td.find_all(
+            'span', class_=lambda x: x and x.startswith('conjugation-')
+        )
+        if not conjugation_spans:
+            continue
+        form = conjugation_form(conjugation_spans)
+        if not form:
+            continue
+        if negative:
+            label = pronoun_span.get_text(strip=True) if pronoun_span else ''
+            form = negativo_phrase(label, form)
+        forms[slot] = form
+
+    if all(key in forms for key in IMPERATIVO_KEYS):
+        return {key: forms[key] for key in IMPERATIVO_KEYS}
+    return None
+
+
+def parse_imperativo_afirmativo(html):
+    """Parse imperativo afirmativo (tú, usted, vosotros, ustedes) from conjugation HTML."""
+    return parse_imperativo_table(html, IMPERATIVO_AFIRMATIVO_SECTION_ID, negative=False)
+
+
+def parse_imperativo_negativo(html):
+    """Parse imperativo negativo. Forms include 'no' and, for reflexives, the pronoun."""
+    return parse_imperativo_table(html, IMPERATIVO_NEGATIVO_SECTION_ID, negative=True)
+
+
+def fetch_imperativo_page(verb):
     params = {"verb": verb, "option": "com_verb", "task": "conjugate"}
     for verify in (True, False):
         try:
@@ -309,60 +394,50 @@ def fetch_imperativo_from_site(verb):
             continue
         except requests.RequestException:
             continue
-
-        forms = parse_imperativo_afirmativo(resp.text)
-        if forms:
-            return forms
+        return resp.text
     return None
 
 
-def parse_imperativo_afirmativo(html):
-    """Parse imperativo afirmativo (tú and vosotros only) from conjugation page HTML."""
-    soup = BeautifulSoup(html, 'html.parser')
-    section = soup.find('h3', id=IMPERATIVO_AFIRMATIVO_SECTION_ID)
-    if not section:
+def fetch_imperativo_from_site(verb):
+    """Query esfacil.eu for both imperatives. Returns dict or None."""
+    html = fetch_imperativo_page(verb)
+    if not html:
         return None
-
-    table = section.find_next('table')
-    if not table:
-        return None
-
-    tu_form = None
-    vosotros_form = None
-
-    for row in table.find_all('tr'):
-        th = row.find('th')
-        td = row.find('td')
-        if not th or not td:
-            continue
-
-        pronoun_span = th.find('span', class_='pronoun')
-        if pronoun_span:
-            label = pronoun_span.get_text(strip=True)
-        else:
-            label = th.get_text(strip=True)
-
-        conjugation_spans = td.find_all(
-            'span', class_=lambda x: x and x.startswith('conjugation-')
-        )
-        if not conjugation_spans:
-            continue
-        if len(conjugation_spans) == 1:
-            form = conjugation_spans[0].get_text(strip=True)
-        else:
-            form = td.get_text(' ', strip=True)
-
-        if not form:
-            continue
-
-        if label in TÚ_LABELS:
-            tu_form = form
-        elif label in VOSOTROS_LABELS:
-            vosotros_form = form
-
-    if tu_form and vosotros_form:
-        return {'tu': tu_form, 'vosotros': vosotros_form}
+    afirmativo = parse_imperativo_afirmativo(html)
+    negativo = parse_imperativo_negativo(html)
+    if afirmativo and negativo:
+        return {
+            'imperativo-afirmativo': afirmativo,
+            'imperativo-negativo': negativo,
+        }
     return None
+
+
+def fix_negativo_orthography(forms):
+    """esfacil drops the tilde on some -ar vosotros forms (crieis for criéis)."""
+    tu = forms['tú'].split()[-1]
+    words = forms['vosotros'].split()
+    vos = words[-1]
+    if tu.endswith('es') and any(ch in tu for ch in 'áéíóú') and vos.endswith('eis'):
+        words[-1] = vos[:-3] + 'éis'
+        forms = dict(forms)
+        forms['vosotros'] = ' '.join(words)
+    return forms
+
+
+def reconcile_reflexive_negativo(reflexive_forms, base_forms):
+    """
+    Some reflexive pages regularize a stem-changing verb (reñirse → reñas).
+    When the usted stem disagrees with the base verb, rebuild from the base verb.
+    """
+    reflexive_usted = reflexive_forms['usted'].split()[-1]
+    base_usted = base_forms['usted'].split()[-1]
+    if remove_accents(reflexive_usted) == remove_accents(base_usted):
+        return reflexive_forms
+    return {
+        slot: f"{REFLEXIVE_NEGATIVO_PREFIX[slot]} {base_forms[slot].split()[-1]}"
+        for slot in IMPERATIVO_KEYS
+    }
 
 
 def imperativo_fetch_candidates(infinitive):
@@ -386,17 +461,44 @@ def imperativo_fetch_candidates(infinitive):
     return candidates
 
 
-def fetch_imperativo_afirmativo(infinitive):
-    """Return {'tu': ..., 'vosotros': ...} or None."""
+def with_reflexive_pronouns(base_negativo):
+    return {
+        slot: f"{REFLEXIVE_NEGATIVO_PREFIX[slot]} {base_negativo[slot].split()[-1]}"
+        for slot in IMPERATIVO_KEYS
+    }
+
+
+def fetch_imperativos(infinitive):
+    """Return both imperative dicts, or (None, None)."""
     seen = set()
+    found = None
+    chosen = None
     for candidate in imperativo_fetch_candidates(infinitive):
         if candidate in seen:
             continue
         seen.add(candidate)
         forms = fetch_imperativo_from_site(candidate)
         if forms:
-            return forms
-    return None
+            found = forms
+            chosen = candidate
+            break
+    if not found:
+        return None, None
+
+    if is_reflexive(infinitive):
+        base = strip_reflexive_suffix(infinitive)
+        base_forms = found if chosen == base else fetch_imperativo_from_site(base)
+        if base_forms:
+            base_negativo = base_forms['imperativo-negativo']
+            if chosen == infinitive:
+                found['imperativo-negativo'] = reconcile_reflexive_negativo(
+                    found['imperativo-negativo'],
+                    base_negativo,
+                )
+            else:
+                found['imperativo-negativo'] = with_reflexive_pronouns(base_negativo)
+    found['imperativo-negativo'] = fix_negativo_orthography(found['imperativo-negativo'])
+    return found['imperativo-afirmativo'], found['imperativo-negativo']
 
 
 def check_verb_exists(verb_data, verb):
@@ -519,10 +621,10 @@ def main():
         
         conjugations_data[json_key] = processed_conjugations
     
-    print("  - Getting imperativo-afirmativo...")
-    imperativo_afirmativo = fetch_imperativo_afirmativo(verb)
-    if not imperativo_afirmativo:
-        print("Error: Could not get imperativo afirmativo. Aborting.")
+    print("  - Getting imperativo-afirmativo and imperativo-negativo...")
+    imperativo_afirmativo, imperativo_negativo = fetch_imperativos(verb)
+    if not imperativo_afirmativo or not imperativo_negativo:
+        print("Error: Could not get imperativo afirmativo/negativo. Aborting.")
         sys.exit(1)
 
     # Create the new verb entry
@@ -535,6 +637,7 @@ def main():
         "futuro-simple": conjugations_data["futuro-simple"],
         "presente-progresivo": presente_progresivo,
         "imperativo-afirmativo": imperativo_afirmativo,
+        "imperativo-negativo": imperativo_negativo,
         "dutch": dutch_translation
     }
     

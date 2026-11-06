@@ -25,7 +25,7 @@ het datamodel). Gebruik géén apart kopie-bestand — lees/filter rechtstreeks 
 automatisch beschikbaar zijn.
 
 Niet elk entry heeft elk veld (oudere entries missen bv. `futuro-simple` of
-`imperativo-afirmativo`) — selecteer per werkwoord alleen tijden die voor dat
+`imperativo-negativo`) — selecteer per werkwoord alleen tijden die voor dat
 specifieke entry ook echt aanwezig zijn.
 
 Het veld `verbo` kan een gebruiks-hint tussen aanhalingstekens bevatten (bv.
@@ -44,7 +44,7 @@ with open("Verbos.json", encoding="utf-8") as f:
 
 TENSES = ["presente", "preterito-perfecto", "preterito-indefinido",
           "preterito-imperfecto", "futuro-simple", "presente-progresivo",
-          "imperativo-afirmativo"]
+          "imperativo-afirmativo", "imperativo-negativo"]
 
 FOCUS = None   # bv. "preterito-imperfecto", of None voor random mix
 N = 30
@@ -83,14 +83,17 @@ telkens opnieuw het hele bestand inlezen.
 | `preterito-imperfecto` | pretérito imperfecto | toen ik klein was, vroeger, elke zomer (in het verleden), terwijl | alle 6 |
 | `futuro-simple` | futuro simple | morgen, volgende week, binnenkort, ooit (toekomst) | alle 6 |
 | `presente-progresivo` | presente progresivo | nu net, op dit moment terwijl het gebeurt | alle 6 |
-| `imperativo-afirmativo` | imperativo afirmativo | een bevel/verzoek aan iemand ("Praat!", "Eet dat!") | **alleen** `tu` en `vosotros` |
+| `imperativo-afirmativo` | imperativo afirmativo | een bevel/verzoek aan iemand ("Praat!", "Eet dat!") | `tú`, `usted`, `vosotros`, `ustedes` |
+| `imperativo-negativo` | imperativo negativo | een verbod ("Praat niet!", "Eet dat niet!") | `tú`, `usted`, `vosotros`, `ustedes` |
 
 Personen-volgorde (zoals in `Verbos.json`): yo, tú, él/ella/usted, nosotros,
 vosotros, ellos/ellas/ustedes.
 
-Let op `imperativo-afirmativo`: dat is een dict met enkel de keys `tu` en
-`vosotros` — kies bij die tijd alleen een van die twee "personen" en formuleer
-de Nederlandse zin als een bevel/verzoek (aan één persoon, of aan een groep).
+Let op `imperativo-afirmativo` en `imperativo-negativo`: beide zijn dicts met
+de keys `tú`, `usted`, `vosotros` en `ustedes` — kies bij die tijd alleen een
+van die vier personen. Formuleer de Nederlandse zin als een bevel of een verbod
+(aan één persoon, of aan een groep). Het negatieve antwoord bevat `no`
+(`no hables`, en bij een wederkerend werkwoord `no te laves`).
 
 ## Sessie starten
 
@@ -99,8 +102,10 @@ Lees de argumenten die de gebruiker meegeeft bij het aanroepen:
 - **Aantal**: een los getal (bv. `/spaanse-werkwoorden 15` of "doe er 10") →
   gebruik dat als `N`. Standaard: **30**.
 - **Tijd-focus**: herken Spaanse/Nederlandse benamingen van een tijd (presente,
-  perfecto, indefinido, imperfecto, futuro, progresivo, imperativo — ook
-  informele varianten) en map ze naar het juiste JSON-veld voor `FOCUS`.
+  perfecto, indefinido, imperfecto, futuro, progresivo, imperativo afirmativo,
+  imperativo negativo — ook informele varianten) en map ze naar het juiste
+  JSON-veld voor `FOCUS`. "Imperativo" zonder nadere aanduiding is het
+  bevestigende imperativo.
   Standaard (geen tijd genoemd): **random mix**, ongeveer gelijk verdeeld over
   alle tijden die voor elk gesampled werkwoord beschikbaar zijn.
 - Als iets onduidelijk is, maak een redelijke keuze (standaardwaarden) in
