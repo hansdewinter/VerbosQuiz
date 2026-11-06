@@ -125,6 +125,18 @@ Na het antwoord van de gebruiker:
   ongevoelig** (zelfde filosofie als `strip_accents`/`normalize` in
   `VerbosQuiz.py`/`PalabrasQuiz.py` — ontbrekende accenten zijn een kleine fout,
   geen complete fout).
+- Gebruikt de gebruiker een **ander Spaans werkwoord dan het gesampelde**, maar
+  is dat in deze context een geldig synoniem (natuurlijke, correcte betekenis)
+  én correct vervoegd in de juiste tijd/persoon (naar je eigen kennis van het
+  Spaans, want dat werkwoord staat niet in de gesampelde data)? Tel dit als
+  **✅ Perfect!** — het doel is de juiste tijd/vervoeging afleiden uit de
+  context, niet exact het gesampelde werkwoord raden. Vermeld er wel een korte
+  💡-tip bij met het oorspronkelijk gedrilde werkwoord en diezelfde vervoeging,
+  zodat de gebruiker die vorm ook meekrijgt (bv. "💡 Ook mogelijk met het
+  werkwoord dat we drilden: *picabas* (van *picar*)."). Is het vervangende
+  werkwoord qua betekenis duidelijk anders of fout in deze context (geen
+  synoniem), behandel het dan als een gewone fout (zie ❌ hieronder) en leg uit
+  wat het verschil in betekenis is.
 - ✅ **Perfect!** bij een volledig juiste zin: korte bevestiging.
 - 🟡 **Bijna!** bij kleine fouten (accent, kleine tikfout, verkeerd voornaamwoord):
   toon fout doorgestreept → correctie, geef de volledige juiste zin, en één

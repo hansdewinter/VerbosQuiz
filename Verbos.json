@@ -1,5 +1,117 @@
 [
     {
+        "verbo": "seducir",
+        "presente": [
+            "seduzco",
+            "seduces",
+            "seduce",
+            "seducimos",
+            "seducís",
+            "seducen"
+        ],
+        "preterito-perfecto": [
+            "he seducido",
+            "has seducido",
+            "ha seducido",
+            "hemos seducido",
+            "habéis seducido",
+            "han seducido"
+        ],
+        "preterito-indefinido": [
+            "seduje",
+            "sedujiste",
+            "sedujo",
+            "sedujimos",
+            "sedujisteis",
+            "sedujeron"
+        ],
+        "preterito-imperfecto": [
+            "seducía",
+            "seducías",
+            "seducía",
+            "seducíamos",
+            "seducíais",
+            "seducían"
+        ],
+        "futuro-simple": [
+            "seduciré",
+            "seducirás",
+            "seducirá",
+            "seduciremos",
+            "seduciréis",
+            "seducirán"
+        ],
+        "presente-progresivo": [
+            "estoy seduciendo",
+            "estás seduciendo",
+            "está seduciendo",
+            "estamos seduciendo",
+            "estáis seduciendo",
+            "están seduciendo"
+        ],
+        "imperativo-afirmativo": {
+            "tu": "seduce",
+            "vosotros": "seducid"
+        },
+        "dutch": "verleiden"
+    },
+    {
+        "verbo": "asombrar",
+        "presente": [
+            "asombro",
+            "asombras",
+            "asombra",
+            "asombramos",
+            "asombráis",
+            "asombran"
+        ],
+        "preterito-perfecto": [
+            "he asombrado",
+            "has asombrado",
+            "ha asombrado",
+            "hemos asombrado",
+            "habéis asombrado",
+            "han asombrado"
+        ],
+        "preterito-indefinido": [
+            "asombré",
+            "asombraste",
+            "asombró",
+            "asombramos",
+            "asombrasteis",
+            "asombraron"
+        ],
+        "preterito-imperfecto": [
+            "asombraba",
+            "asombrabas",
+            "asombraba",
+            "asombrábamos",
+            "asombrabais",
+            "asombraban"
+        ],
+        "futuro-simple": [
+            "asombraré",
+            "asombrarás",
+            "asombrará",
+            "asombraremos",
+            "asombraréis",
+            "asombrarán"
+        ],
+        "presente-progresivo": [
+            "estoy asombrando",
+            "estás asombrando",
+            "está asombrando",
+            "estamos asombrando",
+            "estáis asombrando",
+            "están asombrando"
+        ],
+        "imperativo-afirmativo": {
+            "tu": "asombra",
+            "vosotros": "asombrad"
+        },
+        "dutch": "verbazen"
+    },
+    {
         "verbo": "consolidar",
         "presente": [
             "consolido",
