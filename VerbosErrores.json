@@ -1,4 +1,13 @@
 {
   "version": 1,
-  "verbs": {}
+  "verbs": {
+    "resecar": {
+      "errors": 1,
+      "hints": 0
+    },
+    "interactuar": {
+      "errors": 1,
+      "hints": 0
+    }
+  }
 }

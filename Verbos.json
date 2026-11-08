@@ -1,5 +1,133 @@
 [
     {
+        "verbo": "persuadir",
+        "presente": [
+            "persuado",
+            "persuades",
+            "persuade",
+            "persuadimos",
+            "persuadís",
+            "persuaden"
+        ],
+        "preterito-perfecto": [
+            "he persuadido",
+            "has persuadido",
+            "ha persuadido",
+            "hemos persuadido",
+            "habéis persuadido",
+            "han persuadido"
+        ],
+        "preterito-indefinido": [
+            "persuadí",
+            "persuadiste",
+            "persuadió",
+            "persuadimos",
+            "persuadisteis",
+            "persuadieron"
+        ],
+        "preterito-imperfecto": [
+            "persuadía",
+            "persuadías",
+            "persuadía",
+            "persuadíamos",
+            "persuadíais",
+            "persuadían"
+        ],
+        "futuro-simple": [
+            "persuadiré",
+            "persuadirás",
+            "persuadirá",
+            "persuadiremos",
+            "persuadiréis",
+            "persuadirán"
+        ],
+        "presente-progresivo": [
+            "estoy persuadiendo",
+            "estás persuadiendo",
+            "está persuadiendo",
+            "estamos persuadiendo",
+            "estáis persuadiendo",
+            "están persuadiendo"
+        ],
+        "imperativo-afirmativo": {
+            "tú": "persuade",
+            "usted": "persuada",
+            "vosotros": "persuadid",
+            "ustedes": "persuadan"
+        },
+        "imperativo-negativo": {
+            "tú": "no persuadas",
+            "usted": "no persuada",
+            "vosotros": "no persuadáis",
+            "ustedes": "no persuadan"
+        },
+        "dutch": "overtuigen (via emoties) - synoniem van convencer"
+    },
+    {
+        "verbo": "convencer",
+        "presente": [
+            "convenzo",
+            "convences",
+            "convence",
+            "convencemos",
+            "convencéis",
+            "convencen"
+        ],
+        "preterito-perfecto": [
+            "he convencido",
+            "has convencido",
+            "ha convencido",
+            "hemos convencido",
+            "habéis convencido",
+            "han convencido"
+        ],
+        "preterito-indefinido": [
+            "convencí",
+            "convenciste",
+            "convenció",
+            "convencimos",
+            "convencisteis",
+            "convencieron"
+        ],
+        "preterito-imperfecto": [
+            "convencía",
+            "convencías",
+            "convencía",
+            "convencíamos",
+            "convencíais",
+            "convencían"
+        ],
+        "futuro-simple": [
+            "convenceré",
+            "convencerás",
+            "convencerá",
+            "convenceremos",
+            "convenceréis",
+            "convencerán"
+        ],
+        "presente-progresivo": [
+            "estoy convenciendo",
+            "estás convenciendo",
+            "está convenciendo",
+            "estamos convenciendo",
+            "estáis convenciendo",
+            "están convenciendo"
+        ],
+        "imperativo-afirmativo": {
+            "tú": "convence",
+            "usted": "convenza",
+            "vosotros": "convenced",
+            "ustedes": "convenzan"
+        },
+        "imperativo-negativo": {
+            "tú": "no convenzas",
+            "usted": "no convenza",
+            "vosotros": "no convenzáis",
+            "ustedes": "no convenzan"
+        },
+        "dutch": "overtuigen (via argumenten) - synoniem van persuadir"
+    },
+    {
         "verbo": "seducir",
         "presente": [
             "seduzco",
