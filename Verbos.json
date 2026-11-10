@@ -9028,12 +9028,12 @@
             "se cubren"
         ],
         "preterito-perfecto": [
-            "me he cubrido",
-            "te has cubrido",
-            "se ha cubrido",
-            "nos hemos cubrido",
-            "os habéis cubrido",
-            "se han cubrido"
+            "me he cubierto",
+            "te has cubierto",
+            "se ha cubierto",
+            "nos hemos cubierto",
+            "os habéis cubierto",
+            "se han cubierto"
         ],
         "preterito-indefinido": [
             "me cubrí",
@@ -11972,12 +11972,12 @@
             "redescubren"
         ],
         "preterito-perfecto": [
-            "he redescubrido",
-            "has redescubrido",
-            "ha redescubrido",
-            "hemos redescubrido",
-            "habéis redescubrido",
-            "han redescubrido"
+            "he redescubierto",
+            "has redescubierto",
+            "ha redescubierto",
+            "hemos redescubierto",
+            "habéis redescubierto",
+            "han redescubierto"
         ],
         "preterito-indefinido": [
             "redescubrí",
@@ -15202,14 +15202,6 @@
             "estaremos",
             "estaréis",
             "estarán"
-        ],
-        "presente-progresivo": [
-            "estoy estando",
-            "estás estando",
-            "está estando",
-            "estamos estando",
-            "estáis estando",
-            "están estando"
         ],
         "imperativo-afirmativo": {
             "tú": "está",
