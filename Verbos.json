@@ -1,5 +1,261 @@
 [
     {
+        "verbo": "mojarse",
+        "presente": [
+            "me mojo",
+            "te mojas",
+            "se moja",
+            "nos mojamos",
+            "os mojáis",
+            "se mojan"
+        ],
+        "preterito-perfecto": [
+            "me he mojado",
+            "te has mojado",
+            "se ha mojado",
+            "nos hemos mojado",
+            "os habéis mojado",
+            "se han mojado"
+        ],
+        "preterito-indefinido": [
+            "me mojé",
+            "te mojaste",
+            "se mojó",
+            "nos mojamos",
+            "os mojasteis",
+            "se mojaron"
+        ],
+        "preterito-imperfecto": [
+            "me mojaba",
+            "te mojabas",
+            "se mojaba",
+            "nos mojábamos",
+            "os mojabais",
+            "se mojaban"
+        ],
+        "futuro-simple": [
+            "me mojaré",
+            "te mojarás",
+            "se mojará",
+            "nos mojaremos",
+            "os mojaréis",
+            "se mojarán"
+        ],
+        "presente-progresivo": [
+            "me estoy mojando",
+            "te estás mojando",
+            "se está mojando",
+            "nos estamos mojando",
+            "os estáis mojando",
+            "se están mojando"
+        ],
+        "imperativo-afirmativo": {
+            "tú": "mójate",
+            "usted": "mójese",
+            "vosotros": "mojaos",
+            "ustedes": "mójense"
+        },
+        "imperativo-negativo": {
+            "tú": "no te mojes",
+            "usted": "no se moje",
+            "vosotros": "no os mojéis",
+            "ustedes": "no se mojen"
+        },
+        "dutch": "zich nat maken, nat worden"
+    },
+    {
+        "verbo": "cumplir",
+        "presente": [
+            "cumplo",
+            "cumples",
+            "cumple",
+            "cumplimos",
+            "cumplís",
+            "cumplen"
+        ],
+        "preterito-perfecto": [
+            "he cumplido",
+            "has cumplido",
+            "ha cumplido",
+            "hemos cumplido",
+            "habéis cumplido",
+            "han cumplido"
+        ],
+        "preterito-indefinido": [
+            "cumplí",
+            "cumpliste",
+            "cumplió",
+            "cumplimos",
+            "cumplisteis",
+            "cumplieron"
+        ],
+        "preterito-imperfecto": [
+            "cumplía",
+            "cumplías",
+            "cumplía",
+            "cumplíamos",
+            "cumplíais",
+            "cumplían"
+        ],
+        "futuro-simple": [
+            "cumpliré",
+            "cumplirás",
+            "cumplirá",
+            "cumpliremos",
+            "cumpliréis",
+            "cumplirán"
+        ],
+        "presente-progresivo": [
+            "estoy cumpliendo",
+            "estás cumpliendo",
+            "está cumpliendo",
+            "estamos cumpliendo",
+            "estáis cumpliendo",
+            "están cumpliendo"
+        ],
+        "imperativo-afirmativo": {
+            "tú": "cumple",
+            "usted": "cumpla",
+            "vosotros": "cumplid",
+            "ustedes": "cumplan"
+        },
+        "imperativo-negativo": {
+            "tú": "no cumplas",
+            "usted": "no cumpla",
+            "vosotros": "no cumpláis",
+            "ustedes": "no cumplan"
+        },
+        "dutch": "nakomen, voldoen aan, volbrengen"
+    },
+    {
+        "verbo": "engancharse",
+        "presente": [
+            "me engancho",
+            "te enganchas",
+            "se engancha",
+            "nos enganchamos",
+            "os engancháis",
+            "se enganchan"
+        ],
+        "preterito-perfecto": [
+            "me he enganchado",
+            "te has enganchado",
+            "se ha enganchado",
+            "nos hemos enganchado",
+            "os habéis enganchado",
+            "se han enganchado"
+        ],
+        "preterito-indefinido": [
+            "me enganché",
+            "te enganchaste",
+            "se enganchó",
+            "nos enganchamos",
+            "os enganchasteis",
+            "se engancharon"
+        ],
+        "preterito-imperfecto": [
+            "me enganchaba",
+            "te enganchabas",
+            "se enganchaba",
+            "nos enganchábamos",
+            "os enganchabais",
+            "se enganchaban"
+        ],
+        "futuro-simple": [
+            "me engancharé",
+            "te engancharás",
+            "se enganchará",
+            "nos engancharemos",
+            "os engancharéis",
+            "se engancharán"
+        ],
+        "presente-progresivo": [
+            "me estoy enganchando",
+            "te estás enganchando",
+            "se está enganchando",
+            "nos estamos enganchando",
+            "os estáis enganchando",
+            "se están enganchando"
+        ],
+        "imperativo-afirmativo": {
+            "tú": "engánchate",
+            "usted": "engánchese",
+            "vosotros": "enganchaos",
+            "ustedes": "engánchense"
+        },
+        "imperativo-negativo": {
+            "tú": "no te enganches",
+            "usted": "no se enganche",
+            "vosotros": "no os enganchéis",
+            "ustedes": "no se enganchen"
+        },
+        "dutch": "verslaafd raken, geboeid of gepassioneerd raken, ergens aan blijven haken"
+    },
+    {
+        "verbo": "abrocharse",
+        "presente": [
+            "me abrocho",
+            "te abrochas",
+            "se abrocha",
+            "nos abrochamos",
+            "os abrocháis",
+            "se abrochan"
+        ],
+        "preterito-perfecto": [
+            "me he abrochado",
+            "te has abrochado",
+            "se ha abrochado",
+            "nos hemos abrochado",
+            "os habéis abrochado",
+            "se han abrochado"
+        ],
+        "preterito-indefinido": [
+            "me abroché",
+            "te abrochaste",
+            "se abrochó",
+            "nos abrochamos",
+            "os abrochasteis",
+            "se abrocharon"
+        ],
+        "preterito-imperfecto": [
+            "me abrochaba",
+            "te abrochabas",
+            "se abrochaba",
+            "nos abrochábamos",
+            "os abrochabais",
+            "se abrochaban"
+        ],
+        "futuro-simple": [
+            "me abrocharé",
+            "te abrocharás",
+            "se abrochará",
+            "nos abrocharemos",
+            "os abrocharéis",
+            "se abrocharán"
+        ],
+        "presente-progresivo": [
+            "me estoy abrochando",
+            "te estás abrochando",
+            "se está abrochando",
+            "nos estamos abrochando",
+            "os estáis abrochando",
+            "se están abrochando"
+        ],
+        "imperativo-afirmativo": {
+            "tú": "abróchate",
+            "usted": "abróchese",
+            "vosotros": "abrochaos",
+            "ustedes": "abróchense"
+        },
+        "imperativo-negativo": {
+            "tú": "no te abroches",
+            "usted": "no se abroche",
+            "vosotros": "no os abrochéis",
+            "ustedes": "no se abrochen"
+        },
+        "dutch": "zich vastmaken"
+    },
+    {
         "verbo": "persuadir",
         "presente": [
             "persuado",
