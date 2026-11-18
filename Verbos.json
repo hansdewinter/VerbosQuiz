@@ -1,5 +1,133 @@
 [
     {
+        "verbo": "informar",
+        "presente": [
+            "informo",
+            "informas",
+            "informa",
+            "informamos",
+            "informáis",
+            "informan"
+        ],
+        "preterito-perfecto": [
+            "he informado",
+            "has informado",
+            "ha informado",
+            "hemos informado",
+            "habéis informado",
+            "han informado"
+        ],
+        "preterito-indefinido": [
+            "informé",
+            "informaste",
+            "informó",
+            "informamos",
+            "informasteis",
+            "informaron"
+        ],
+        "preterito-imperfecto": [
+            "informaba",
+            "informabas",
+            "informaba",
+            "informábamos",
+            "informabais",
+            "informaban"
+        ],
+        "futuro-simple": [
+            "informaré",
+            "informarás",
+            "informará",
+            "informaremos",
+            "informaréis",
+            "informarán"
+        ],
+        "presente-progresivo": [
+            "estoy informando",
+            "estás informando",
+            "está informando",
+            "estamos informando",
+            "estáis informando",
+            "están informando"
+        ],
+        "imperativo-afirmativo": {
+            "tú": "informa",
+            "usted": "informe",
+            "vosotros": "informad",
+            "ustedes": "informen"
+        },
+        "imperativo-negativo": {
+            "tú": "no informes",
+            "usted": "no informe",
+            "vosotros": "no informéis",
+            "ustedes": "no informen"
+        },
+        "dutch": "informeren"
+    },
+    {
+        "verbo": "promocionar",
+        "presente": [
+            "promociono",
+            "promocionas",
+            "promociona",
+            "promocionamos",
+            "promocionáis",
+            "promocionan"
+        ],
+        "preterito-perfecto": [
+            "he promocionado",
+            "has promocionado",
+            "ha promocionado",
+            "hemos promocionado",
+            "habéis promocionado",
+            "han promocionado"
+        ],
+        "preterito-indefinido": [
+            "promocioné",
+            "promocionaste",
+            "promocionó",
+            "promocionamos",
+            "promocionasteis",
+            "promocionaron"
+        ],
+        "preterito-imperfecto": [
+            "promocionaba",
+            "promocionabas",
+            "promocionaba",
+            "promocionábamos",
+            "promocionabais",
+            "promocionaban"
+        ],
+        "futuro-simple": [
+            "promocionaré",
+            "promocionarás",
+            "promocionará",
+            "promocionaremos",
+            "promocionaréis",
+            "promocionarán"
+        ],
+        "presente-progresivo": [
+            "estoy promocionando",
+            "estás promocionando",
+            "está promocionando",
+            "estamos promocionando",
+            "estáis promocionando",
+            "están promocionando"
+        ],
+        "imperativo-afirmativo": {
+            "tú": "promociona",
+            "usted": "promocione",
+            "vosotros": "promocionad",
+            "ustedes": "promocionen"
+        },
+        "imperativo-negativo": {
+            "tú": "no promociones",
+            "usted": "no promocione",
+            "vosotros": "no promocionéis",
+            "ustedes": "no promocionen"
+        },
+        "dutch": "promoten"
+    },
+    {
         "verbo": "mojarse",
         "presente": [
             "me mojo",
@@ -7866,66 +7994,66 @@
         "dutch": "ergens op klimmen, ergens opstappen"
     },
     {
-        "verbo": "acojer",
+        "verbo": "acoger",
         "presente": [
             "acojo",
-            "acojes",
-            "acoje",
-            "acojemos",
-            "acojéis",
-            "acojen"
+            "acoges",
+            "acoge",
+            "acogemos",
+            "acogéis",
+            "acogen"
         ],
         "preterito-perfecto": [
-            "he acojido",
-            "has acojido",
-            "ha acojido",
-            "hemos acojido",
-            "habéis acojido",
-            "han acojido"
+            "he acogido",
+            "has acogido",
+            "ha acogido",
+            "hemos acogido",
+            "habéis acogido",
+            "han acogido"
         ],
         "preterito-indefinido": [
-            "acojí",
-            "acojiste",
-            "acojió",
-            "acojimos",
-            "acojisteis",
-            "acojieron"
+            "acogí",
+            "acogiste",
+            "acogió",
+            "acogimos",
+            "acogisteis",
+            "acogieron"
         ],
         "preterito-imperfecto": [
-            "acojía",
-            "acojías",
-            "acojía",
-            "acojíamos",
-            "acojíais",
-            "acojían"
+            "acogía",
+            "acogías",
+            "acogía",
+            "acogíamos",
+            "acogíais",
+            "acogían"
         ],
         "futuro-simple": [
-            "acojeré",
-            "acojerás",
-            "acojerá",
-            "acojeremos",
-            "acojeréis",
-            "acojerán"
+            "acogeré",
+            "acogerás",
+            "acogerá",
+            "acogeremos",
+            "acogeréis",
+            "acogerán"
         ],
         "presente-progresivo": [
-            "estoy acojiendo",
-            "estás acojiendo",
-            "está acojiendo",
-            "estamos acojiendo",
-            "estáis acojiendo",
-            "están acojiendo"
+            "estoy acogiendo",
+            "estás acogiendo",
+            "está acogiendo",
+            "estamos acogiendo",
+            "estáis acogiendo",
+            "están acogiendo"
         ],
         "imperativo-afirmativo": {
-            "tú": "acoje",
-            "usted": "acoja",
-            "vosotros": "acojed",
-            "ustedes": "acojan"
+            "tú": "acoge",
+            "usted": "acoga",
+            "vosotros": "acoged",
+            "ustedes": "acogan"
         },
         "imperativo-negativo": {
-            "tú": "no acojas",
-            "usted": "no acoja",
-            "vosotros": "no acojáis",
-            "ustedes": "no acojan"
+            "tú": "no acogas",
+            "usted": "no acoga",
+            "vosotros": "no acogáis",
+            "ustedes": "no acogan"
         },
         "dutch": "iemand onderdak geven, onthalen, opnemen"
     },
@@ -9852,12 +9980,12 @@
     {
         "verbo": "enfriarse",
         "presente": [
-            "me enfrio",
-            "te enfrias",
-            "se enfria",
+            "me enfrío",
+            "te enfrías",
+            "se enfría",
             "nos enfriamos",
             "os enfriáis",
-            "se enfrian"
+            "se enfrían"
         ],
         "preterito-perfecto": [
             "me he enfriado",
