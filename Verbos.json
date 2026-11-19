@@ -1,5 +1,69 @@
 [
     {
+        "verbo": "influir",
+        "presente": [
+            "influyo",
+            "influyes",
+            "influye",
+            "influimos",
+            "influís",
+            "influyen"
+        ],
+        "preterito-perfecto": [
+            "he influido",
+            "has influido",
+            "ha influido",
+            "hemos influido",
+            "habéis influido",
+            "han influido"
+        ],
+        "preterito-indefinido": [
+            "influí",
+            "influiste",
+            "influyó",
+            "influimos",
+            "influisteis",
+            "influyeron"
+        ],
+        "preterito-imperfecto": [
+            "influía",
+            "influías",
+            "influía",
+            "influíamos",
+            "influíais",
+            "influían"
+        ],
+        "futuro-simple": [
+            "influiré",
+            "influirás",
+            "influirá",
+            "influiremos",
+            "influiréis",
+            "influirán"
+        ],
+        "presente-progresivo": [
+            "estoy influyendo",
+            "estás influyendo",
+            "está influyendo",
+            "estamos influyendo",
+            "estáis influyendo",
+            "están influyendo"
+        ],
+        "imperativo-afirmativo": {
+            "tú": "influye",
+            "usted": "influya",
+            "vosotros": "influid",
+            "ustedes": "influyan"
+        },
+        "imperativo-negativo": {
+            "tú": "no influyas",
+            "usted": "no influya",
+            "vosotros": "no influyáis",
+            "ustedes": "no influyan"
+        },
+        "dutch": "beïnvloeden"
+    },
+    {
         "verbo": "informar",
         "presente": [
             "informo",
@@ -20850,7 +20914,7 @@
         "dutch": "dragen, bevatten, naar ergens wegbrengen of meenemen"
     },
     {
-        "verbo": "disfrutar",
+        "verbo": "disfrutar \"de\"",
         "presente": [
             "disfruto",
             "disfrutas",
