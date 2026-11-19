@@ -1,39 +1,7 @@
 {
   "version": 1,
   "verbs": {
-    "prever": {
-      "errors": 1,
-      "hints": 0
-    },
-    "usar": {
-      "errors": 1,
-      "hints": 0
-    },
-    "reconstruir": {
-      "errors": 2,
-      "hints": 0
-    },
     "resfriarse": {
-      "errors": 1,
-      "hints": 0
-    },
-    "coger": {
-      "errors": 1,
-      "hints": 0
-    },
-    "asentir": {
-      "errors": 0,
-      "hints": 1
-    },
-    "disfrutar": {
-      "errors": 1,
-      "hints": 0
-    },
-    "pedir": {
-      "errors": 1,
-      "hints": 0
-    },
-    "soltar": {
       "errors": 1,
       "hints": 0
     },
@@ -42,11 +10,27 @@
       "hints": 0
     },
     "sostener": {
-      "errors": 0,
+      "errors": 1,
       "hints": 2
     },
-    "separar": {
-      "errors": 2,
+    "reconstruir": {
+      "errors": 1,
+      "hints": 0
+    },
+    "mascar": {
+      "errors": 1,
+      "hints": 0
+    },
+    "alegrarse": {
+      "errors": 0,
+      "hints": 1
+    },
+    "extender": {
+      "errors": 1,
+      "hints": 0
+    },
+    "abrir": {
+      "errors": 1,
       "hints": 0
     }
   }

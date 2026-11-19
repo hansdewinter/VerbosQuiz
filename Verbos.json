@@ -1,5 +1,453 @@
 [
     {
+        "verbo": "marcharse",
+        "presente": [
+            "me marcho",
+            "te marchas",
+            "se marcha",
+            "nos marchamos",
+            "os marcháis",
+            "se marchan"
+        ],
+        "preterito-perfecto": [
+            "me he marchado",
+            "te has marchado",
+            "se ha marchado",
+            "nos hemos marchado",
+            "os habéis marchado",
+            "se han marchado"
+        ],
+        "preterito-indefinido": [
+            "me marché",
+            "te marchaste",
+            "se marchó",
+            "nos marchamos",
+            "os marchasteis",
+            "se marcharon"
+        ],
+        "preterito-imperfecto": [
+            "me marchaba",
+            "te marchabas",
+            "se marchaba",
+            "nos marchábamos",
+            "os marchabais",
+            "se marchaban"
+        ],
+        "futuro-simple": [
+            "me marcharé",
+            "te marcharás",
+            "se marchará",
+            "nos marcharemos",
+            "os marcharéis",
+            "se marcharán"
+        ],
+        "presente-progresivo": [
+            "me estoy marchando",
+            "te estás marchando",
+            "se está marchando",
+            "nos estamos marchando",
+            "os estáis marchando",
+            "se están marchando"
+        ],
+        "imperativo-afirmativo": {
+            "tú": "márchate",
+            "usted": "márchese",
+            "vosotros": "marchaos",
+            "ustedes": "márchense"
+        },
+        "imperativo-negativo": {
+            "tú": "no te marches",
+            "usted": "no se marche",
+            "vosotros": "no os marchéis",
+            "ustedes": "no se marchen"
+        },
+        "dutch": "vertrekken, weggaan, ervandoor gaan (synoniem van irse)"
+    },
+    {
+        "verbo": "echarse",
+        "presente": [
+            "me echo",
+            "te echas",
+            "se echa",
+            "nos echamos",
+            "os echáis",
+            "se echan"
+        ],
+        "preterito-perfecto": [
+            "me he echado",
+            "te has echado",
+            "se ha echado",
+            "nos hemos echado",
+            "os habéis echado",
+            "se han echado"
+        ],
+        "preterito-indefinido": [
+            "me eché",
+            "te echaste",
+            "se echó",
+            "nos echamos",
+            "os echasteis",
+            "se echaron"
+        ],
+        "preterito-imperfecto": [
+            "me echaba",
+            "te echabas",
+            "se echaba",
+            "nos echábamos",
+            "os echabais",
+            "se echaban"
+        ],
+        "futuro-simple": [
+            "me echaré",
+            "te echarás",
+            "se echará",
+            "nos echaremos",
+            "os echaréis",
+            "se echarán"
+        ],
+        "presente-progresivo": [
+            "me estoy echando",
+            "te estás echando",
+            "se está echando",
+            "nos estamos echando",
+            "os estáis echando",
+            "se están echando"
+        ],
+        "imperativo-afirmativo": {
+            "tú": "échate",
+            "usted": "échese",
+            "vosotros": "echaos",
+            "ustedes": "échense"
+        },
+        "imperativo-negativo": {
+            "tú": "no te eches",
+            "usted": "no se eche",
+            "vosotros": "no os echéis",
+            "ustedes": "no se echen"
+        },
+        "dutch": "gaan liggen, zich neerleggen, zich ergens op werpen"
+    },
+    {
+        "verbo": "desengancharse",
+        "presente": [
+            "me desengancho",
+            "te desenganchas",
+            "se desengancha",
+            "nos desenganchamos",
+            "os desengancháis",
+            "se desenganchan"
+        ],
+        "preterito-perfecto": [
+            "me he desenganchado",
+            "te has desenganchado",
+            "se ha desenganchado",
+            "nos hemos desenganchado",
+            "os habéis desenganchado",
+            "se han desenganchado"
+        ],
+        "preterito-indefinido": [
+            "me desenganché",
+            "te desenganchaste",
+            "se desenganchó",
+            "nos desenganchamos",
+            "os desenganchasteis",
+            "se desengancharon"
+        ],
+        "preterito-imperfecto": [
+            "me desenganchaba",
+            "te desenganchabas",
+            "se desenganchaba",
+            "nos desenganchábamos",
+            "os desenganchabais",
+            "se desenganchaban"
+        ],
+        "futuro-simple": [
+            "me desengancharé",
+            "te desengancharás",
+            "se desenganchará",
+            "nos desengancharemos",
+            "os desengancharéis",
+            "se desengancharán"
+        ],
+        "presente-progresivo": [
+            "me estoy desenganchando",
+            "te estás desenganchando",
+            "se está desenganchando",
+            "nos estamos desenganchando",
+            "os estáis desenganchando",
+            "se están desenganchando"
+        ],
+        "imperativo-afirmativo": {
+            "tú": "desengánchate",
+            "usted": "desengánchese",
+            "vosotros": "desenganchaos",
+            "ustedes": "desengánchense"
+        },
+        "imperativo-negativo": {
+            "tú": "no te desenganches",
+            "usted": "no se desenganche",
+            "vosotros": "no os desenganchéis",
+            "ustedes": "no se desenganchen"
+        },
+        "dutch": "zich losmaken van, loskomen van, afkicken van"
+    },
+    {
+        "verbo": "mancharse",
+        "presente": [
+            "me mancho",
+            "te manchas",
+            "se mancha",
+            "nos manchamos",
+            "os mancháis",
+            "se manchan"
+        ],
+        "preterito-perfecto": [
+            "me he manchado",
+            "te has manchado",
+            "se ha manchado",
+            "nos hemos manchado",
+            "os habéis manchado",
+            "se han manchado"
+        ],
+        "preterito-indefinido": [
+            "me manché",
+            "te manchaste",
+            "se manchó",
+            "nos manchamos",
+            "os manchasteis",
+            "se mancharon"
+        ],
+        "preterito-imperfecto": [
+            "me manchaba",
+            "te manchabas",
+            "se manchaba",
+            "nos manchábamos",
+            "os manchabais",
+            "se manchaban"
+        ],
+        "futuro-simple": [
+            "me mancharé",
+            "te mancharás",
+            "se manchará",
+            "nos mancharemos",
+            "os mancharéis",
+            "se mancharán"
+        ],
+        "presente-progresivo": [
+            "me estoy manchando",
+            "te estás manchando",
+            "se está manchando",
+            "nos estamos manchando",
+            "os estáis manchando",
+            "se están manchando"
+        ],
+        "imperativo-afirmativo": {
+            "tú": "mánchate",
+            "usted": "mánchese",
+            "vosotros": "manchaos",
+            "ustedes": "mánchense"
+        },
+        "imperativo-negativo": {
+            "tú": "no te manches",
+            "usted": "no se manche",
+            "vosotros": "no os manchéis",
+            "ustedes": "no se manchen"
+        },
+        "dutch": "zelf vuil worden, vlekken krijgen"
+    },
+    {
+        "verbo": "escucharse",
+        "presente": [
+            "me escucho",
+            "te escuchas",
+            "se escucha",
+            "nos escuchamos",
+            "os escucháis",
+            "se escuchan"
+        ],
+        "preterito-perfecto": [
+            "me he escuchado",
+            "te has escuchado",
+            "se ha escuchado",
+            "nos hemos escuchado",
+            "os habéis escuchado",
+            "se han escuchado"
+        ],
+        "preterito-indefinido": [
+            "me escuché",
+            "te escuchaste",
+            "se escuchó",
+            "nos escuchamos",
+            "os escuchasteis",
+            "se escucharon"
+        ],
+        "preterito-imperfecto": [
+            "me escuchaba",
+            "te escuchabas",
+            "se escuchaba",
+            "nos escuchábamos",
+            "os escuchabais",
+            "se escuchaban"
+        ],
+        "futuro-simple": [
+            "me escucharé",
+            "te escucharás",
+            "se escuchará",
+            "nos escucharemos",
+            "os escucharéis",
+            "se escucharán"
+        ],
+        "presente-progresivo": [
+            "me estoy escuchando",
+            "te estás escuchando",
+            "se está escuchando",
+            "nos estamos escuchando",
+            "os estáis escuchando",
+            "se están escuchando"
+        ],
+        "imperativo-afirmativo": {
+            "tú": "escúchate",
+            "usted": "escúchese",
+            "vosotros": "escuchaos",
+            "ustedes": "escúchense"
+        },
+        "imperativo-negativo": {
+            "tú": "no te escuches",
+            "usted": "no se escuche",
+            "vosotros": "no os escuchéis",
+            "ustedes": "no se escuchen"
+        },
+        "dutch": "naar elkaar luisteren, naar zichzelf luisteren/horen"
+    },
+    {
+        "verbo": "aprovecharse",
+        "presente": [
+            "me aprovecho",
+            "te aprovechas",
+            "se aprovecha",
+            "nos aprovechamos",
+            "os aprovecháis",
+            "se aprovechan"
+        ],
+        "preterito-perfecto": [
+            "me he aprovechado",
+            "te has aprovechado",
+            "se ha aprovechado",
+            "nos hemos aprovechado",
+            "os habéis aprovechado",
+            "se han aprovechado"
+        ],
+        "preterito-indefinido": [
+            "me aproveché",
+            "te aprovechaste",
+            "se aprovechó",
+            "nos aprovechamos",
+            "os aprovechasteis",
+            "se aprovecharon"
+        ],
+        "preterito-imperfecto": [
+            "me aprovechaba",
+            "te aprovechabas",
+            "se aprovechaba",
+            "nos aprovechábamos",
+            "os aprovechabais",
+            "se aprovechaban"
+        ],
+        "futuro-simple": [
+            "me aprovecharé",
+            "te aprovecharás",
+            "se aprovechará",
+            "nos aprovecharemos",
+            "os aprovecharéis",
+            "se aprovecharán"
+        ],
+        "presente-progresivo": [
+            "me estoy aprovechando",
+            "te estás aprovechando",
+            "se está aprovechando",
+            "nos estamos aprovechando",
+            "os estáis aprovechando",
+            "se están aprovechando"
+        ],
+        "imperativo-afirmativo": {
+            "tú": "aprovéchate",
+            "usted": "aprovéchese",
+            "vosotros": "aprovechaos",
+            "ustedes": "aprovéchense"
+        },
+        "imperativo-negativo": {
+            "tú": "no te aproveches",
+            "usted": "no se aproveche",
+            "vosotros": "no os aprovechéis",
+            "ustedes": "no se aprovechen"
+        },
+        "dutch": "misbruik maken van, profiteren van"
+    },
+    {
+        "verbo": "desabrocharse",
+        "presente": [
+            "me desabrocho",
+            "te desabrochas",
+            "se desabrocha",
+            "nos desabrochamos",
+            "os desabrocháis",
+            "se desabrochan"
+        ],
+        "preterito-perfecto": [
+            "me he desabrochado",
+            "te has desabrochado",
+            "se ha desabrochado",
+            "nos hemos desabrochado",
+            "os habéis desabrochado",
+            "se han desabrochado"
+        ],
+        "preterito-indefinido": [
+            "me desabroché",
+            "te desabrochaste",
+            "se desabrochó",
+            "nos desabrochamos",
+            "os desabrochasteis",
+            "se desabrocharon"
+        ],
+        "preterito-imperfecto": [
+            "me desabrochaba",
+            "te desabrochabas",
+            "se desabrochaba",
+            "nos desabrochábamos",
+            "os desabrochabais",
+            "se desabrochaban"
+        ],
+        "futuro-simple": [
+            "me desabrocharé",
+            "te desabrocharás",
+            "se desabrochará",
+            "nos desabrocharemos",
+            "os desabrocharéis",
+            "se desabrocharán"
+        ],
+        "presente-progresivo": [
+            "me estoy desabrochando",
+            "te estás desabrochando",
+            "se está desabrochando",
+            "nos estamos desabrochando",
+            "os estáis desabrochando",
+            "se están desabrochando"
+        ],
+        "imperativo-afirmativo": {
+            "tú": "desabróchate",
+            "usted": "desabróchese",
+            "vosotros": "desabrochaos",
+            "ustedes": "desabróchense"
+        },
+        "imperativo-negativo": {
+            "tú": "no te desabroches",
+            "usted": "no se desabroche",
+            "vosotros": "no os desabrochéis",
+            "ustedes": "no se desabrochen"
+        },
+        "dutch": "iets losmaken, losknopen of openmaken (bij jezelf)"
+    },
+    {
         "verbo": "influir",
         "presente": [
             "influyo",
@@ -3901,7 +4349,7 @@
             "vosotros": "no os juntéis",
             "ustedes": "no se junten"
         },
-        "dutch": "samenkomen, bij elkaar komen, afspreken"
+        "dutch": "samenkomen, bij elkaar komen zonder specified doel (informeler synoniem van reunirse)"
     },
     {
         "verbo": "sostener",
@@ -23919,7 +24367,7 @@
             "vosotros": "no os reunáis",
             "ustedes": "no se reúnan"
         },
-        "dutch": "bijeenkomen, samenkomen, vergaderen"
+        "dutch": "bijeenkomen met een doel, vergaderen (formeler synoniem van juntarse)"
     },
     {
         "verbo": "participar",
