@@ -1,5 +1,197 @@
 [
     {
+        "verbo": "meter",
+        "presente": [
+            "meto",
+            "metes",
+            "mete",
+            "metemos",
+            "metéis",
+            "meten"
+        ],
+        "preterito-perfecto": [
+            "he metido",
+            "has metido",
+            "ha metido",
+            "hemos metido",
+            "habéis metido",
+            "han metido"
+        ],
+        "preterito-indefinido": [
+            "metí",
+            "metiste",
+            "metió",
+            "metimos",
+            "metisteis",
+            "metieron"
+        ],
+        "preterito-imperfecto": [
+            "metía",
+            "metías",
+            "metía",
+            "metíamos",
+            "metíais",
+            "metían"
+        ],
+        "futuro-simple": [
+            "meteré",
+            "meterás",
+            "meterá",
+            "meteremos",
+            "meteréis",
+            "meterán"
+        ],
+        "presente-progresivo": [
+            "estoy metiendo",
+            "estás metiendo",
+            "está metiendo",
+            "estamos metiendo",
+            "estáis metiendo",
+            "están metiendo"
+        ],
+        "imperativo-afirmativo": {
+            "tú": "mete",
+            "usted": "meta",
+            "vosotros": "meted",
+            "ustedes": "metan"
+        },
+        "imperativo-negativo": {
+            "tú": "no metas",
+            "usted": "no meta",
+            "vosotros": "no metáis",
+            "ustedes": "no metan"
+        },
+        "dutch": "insteken, instoppen (vergelijkend maar verschillend van \"poner\")"
+    },
+    {
+        "verbo": "reutilizar",
+        "presente": [
+            "reutilizo",
+            "reutilizas",
+            "reutiliza",
+            "reutilizamos",
+            "reutilizáis",
+            "reutilizan"
+        ],
+        "preterito-perfecto": [
+            "he reutilizado",
+            "has reutilizado",
+            "ha reutilizado",
+            "hemos reutilizado",
+            "habéis reutilizado",
+            "han reutilizado"
+        ],
+        "preterito-indefinido": [
+            "reutilicé",
+            "reutilizaste",
+            "reutilizó",
+            "reutilizamos",
+            "reutilizasteis",
+            "reutilizaron"
+        ],
+        "preterito-imperfecto": [
+            "reutilizaba",
+            "reutilizabas",
+            "reutilizaba",
+            "reutilizábamos",
+            "reutilizabais",
+            "reutilizaban"
+        ],
+        "futuro-simple": [
+            "reutilizaré",
+            "reutilizarás",
+            "reutilizará",
+            "reutilizaremos",
+            "reutilizaréis",
+            "reutilizarán"
+        ],
+        "presente-progresivo": [
+            "estoy reutilizando",
+            "estás reutilizando",
+            "está reutilizando",
+            "estamos reutilizando",
+            "estáis reutilizando",
+            "están reutilizando"
+        ],
+        "imperativo-afirmativo": {
+            "tú": "reutiliza",
+            "usted": "reutilice",
+            "vosotros": "reutilizad",
+            "ustedes": "reutilicen"
+        },
+        "imperativo-negativo": {
+            "tú": "no reutilices",
+            "usted": "no reutilice",
+            "vosotros": "no reutilicéis",
+            "ustedes": "no reutilicen"
+        },
+        "dutch": "hergebruiken"
+    },
+    {
+        "verbo": "tirar",
+        "presente": [
+            "tiro",
+            "tiras",
+            "tira",
+            "tiramos",
+            "tiráis",
+            "tiran"
+        ],
+        "preterito-perfecto": [
+            "he tirado",
+            "has tirado",
+            "ha tirado",
+            "hemos tirado",
+            "habéis tirado",
+            "han tirado"
+        ],
+        "preterito-indefinido": [
+            "tiré",
+            "tiraste",
+            "tiró",
+            "tiramos",
+            "tirasteis",
+            "tiraron"
+        ],
+        "preterito-imperfecto": [
+            "tiraba",
+            "tirabas",
+            "tiraba",
+            "tirábamos",
+            "tirabais",
+            "tiraban"
+        ],
+        "futuro-simple": [
+            "tiraré",
+            "tirarás",
+            "tirará",
+            "tiraremos",
+            "tiraréis",
+            "tirarán"
+        ],
+        "presente-progresivo": [
+            "estoy tirando",
+            "estás tirando",
+            "está tirando",
+            "estamos tirando",
+            "estáis tirando",
+            "están tirando"
+        ],
+        "imperativo-afirmativo": {
+            "tú": "tira",
+            "usted": "tire",
+            "vosotros": "tirad",
+            "ustedes": "tiren"
+        },
+        "imperativo-negativo": {
+            "tú": "no tires",
+            "usted": "no tire",
+            "vosotros": "no tiréis",
+            "ustedes": "no tiren"
+        },
+        "dutch": "weggooien, trekken, schieten, gooien"
+    },
+    {
         "verbo": "marcharse",
         "presente": [
             "me marcho",
@@ -20015,7 +20207,7 @@
             "vosotros": "no pongáis",
             "ustedes": "no pongan"
         },
-        "dutch": "zetten, leggen, plaatsen, aandoen, opdienen"
+        "dutch": "zetten, leggen, plaatsen, aandoen, opdienen (lijkend op \"meter\")"
     },
     {
         "verbo": "venir",
