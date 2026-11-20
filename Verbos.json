@@ -3058,10 +3058,10 @@
             "se están peleando"
         ],
         "imperativo-afirmativo": {
-            "tú": "peleate",
-            "usted": "peleese",
+            "tú": "peléate",
+            "usted": "peléese",
             "vosotros": "peleaos",
-            "ustedes": "peleense"
+            "ustedes": "peléense"
         },
         "imperativo-negativo": {
             "tú": "no te pelees",
@@ -7539,9 +7539,9 @@
         ],
         "imperativo-afirmativo": {
             "tú": "dirígete",
-            "usted": "dirija",
+            "usted": "diríjase",
             "vosotros": "dirigíos",
-            "ustedes": "dirijan"
+            "ustedes": "diríjanse"
         },
         "imperativo-negativo": {
             "tú": "no te dirijas",
@@ -16076,7 +16076,7 @@
         "preterito-perfecto": [
             "me he estrenado",
             "te has estrenado",
-            "nos ha estrenado",
+            "se ha estrenado",
             "nos hemos estrenado",
             "os habéis estrenado",
             "se han estrenado"
@@ -35122,10 +35122,10 @@
             "se están bloqueando"
         ],
         "imperativo-afirmativo": {
-            "tú": "bloqueate",
-            "usted": "bloqueese",
+            "tú": "bloquéate",
+            "usted": "bloquéese",
             "vosotros": "bloqueaos",
-            "ustedes": "bloqueense"
+            "ustedes": "bloquéense"
         },
         "imperativo-negativo": {
             "tú": "no te bloquees",
