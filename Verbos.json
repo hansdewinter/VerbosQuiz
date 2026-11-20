@@ -2866,10 +2866,10 @@
             "se están resfriando"
         ],
         "imperativo-afirmativo": {
-            "tú": "resfríate",
-            "usted": "resfríese",
-            "vosotros": "resfriaos",
-            "ustedes": "resfríense"
+            "tú": null,
+            "usted": null,
+            "vosotros": null,
+            "ustedes": null
         },
         "imperativo-negativo": {
             "tú": "no te resfríes",
@@ -3586,64 +3586,64 @@
     {
         "verbo": "equivaler",
         "presente": [
-            "equivalgo",
-            "equivales",
+            null,
+            null,
             "equivale",
-            "equivalemos",
-            "equivaléis",
+            null,
+            null,
             "equivalen"
         ],
         "preterito-perfecto": [
-            "he equivalido",
-            "has equivalido",
+            null,
+            null,
             "ha equivalido",
-            "hemos equivalido",
-            "habéis equivalido",
+            null,
+            null,
             "han equivalido"
         ],
         "preterito-indefinido": [
-            "equivalí",
-            "equivaliste",
+            null,
+            null,
             "equivalió",
-            "equivalimos",
-            "equivalisteis",
+            null,
+            null,
             "equivalieron"
         ],
         "preterito-imperfecto": [
+            null,
+            null,
             "equivalía",
-            "equivalías",
-            "equivalía",
-            "equivalíamos",
-            "equivalíais",
+            null,
+            null,
             "equivalían"
         ],
         "futuro-simple": [
-            "equivaldré",
-            "equivaldrás",
+            null,
+            null,
             "equivaldrá",
-            "equivaldremos",
-            "equivaldréis",
+            null,
+            null,
             "equivaldrán"
         ],
         "presente-progresivo": [
-            "estoy equivaliendo",
-            "estás equivaliendo",
+            null,
+            null,
             "está equivaliendo",
-            "estamos equivaliendo",
-            "estáis equivaliendo",
+            null,
+            null,
             "están equivaliendo"
         ],
         "imperativo-afirmativo": {
-            "tú": "equivale",
-            "usted": "equivalga",
-            "vosotros": "equivaled",
-            "ustedes": "equivalgan"
+            "tú": null,
+            "usted": null,
+            "vosotros": null,
+            "ustedes": null
         },
         "imperativo-negativo": {
-            "tú": "no equivalgas",
-            "usted": "no equivalga",
-            "vosotros": "no equivalgáis",
-            "ustedes": "no equivalgan"
+            "tú": null,
+            "usted": null,
+            "vosotros": null,
+            "ustedes": null
         },
         "dutch": "gelijkstaan aan, overeenkomen met, equivalent zijn aan"
     },
@@ -4418,62 +4418,62 @@
     {
         "verbo": "mensajearse",
         "presente": [
-            "me mensajeo",
-            "te mensajeas",
-            "se mensajea",
+            null,
+            null,
+            null,
             "nos mensajeamos",
             "os mensajeáis",
             "se mensajean"
         ],
         "preterito-perfecto": [
-            "me he mensajeado",
-            "te has mensajeado",
-            "se ha mensajeado",
+            null,
+            null,
+            null,
             "nos hemos mensajeado",
             "os habéis mensajeado",
             "se han mensajeado"
         ],
         "preterito-indefinido": [
-            "me mensajeé",
-            "te mensajeaste",
-            "se mensajeó",
+            null,
+            null,
+            null,
             "nos mensajeamos",
             "os mensajeasteis",
             "se mensajearon"
         ],
         "preterito-imperfecto": [
-            "me mensajeaba",
-            "te mensajeabas",
-            "se mensajeaba",
+            null,
+            null,
+            null,
             "nos mensajeábamos",
             "os mensajeabais",
             "se mensajeaban"
         ],
         "futuro-simple": [
-            "me mensajearé",
-            "te mensajearás",
-            "se mensajeará",
+            null,
+            null,
+            null,
             "nos mensajearemos",
             "os mensajearéis",
             "se mensajearán"
         ],
         "presente-progresivo": [
-            "me estoy mensajeando",
-            "te estás mensajeando",
-            "se está mensajeando",
+            null,
+            null,
+            null,
             "nos estamos mensajeando",
             "os estáis mensajeando",
             "se están mensajeando"
         ],
         "imperativo-afirmativo": {
-            "tú": "mensajeate",
-            "usted": "mensajeese",
+            "tú": null,
+            "usted": null,
             "vosotros": "mensajeaos",
-            "ustedes": "mensajeense"
+            "ustedes": "mensajéense"
         },
         "imperativo-negativo": {
-            "tú": "no te mensajees",
-            "usted": "no se mensajee",
+            "tú": null,
+            "usted": null,
             "vosotros": "no os mensajeéis",
             "ustedes": "no se mensajeen"
         },
@@ -5058,64 +5058,64 @@
     {
         "verbo": "vencer",
         "presente": [
-            "venzo",
-            "vences",
+            null,
+            null,
             "vence",
-            "vencemos",
-            "vencéis",
+            null,
+            null,
             "vencen"
         ],
         "preterito-perfecto": [
-            "he vencido",
-            "has vencido",
+            null,
+            null,
             "ha vencido",
-            "hemos vencido",
-            "habéis vencido",
+            null,
+            null,
             "han vencido"
         ],
         "preterito-indefinido": [
-            "vencí",
-            "venciste",
+            null,
+            null,
             "venció",
-            "vencimos",
-            "vencisteis",
+            null,
+            null,
             "vencieron"
         ],
         "preterito-imperfecto": [
+            null,
+            null,
             "vencía",
-            "vencías",
-            "vencía",
-            "vencíamos",
-            "vencíais",
+            null,
+            null,
             "vencían"
         ],
         "futuro-simple": [
-            "venceré",
-            "vencerás",
+            null,
+            null,
             "vencerá",
-            "venceremos",
-            "venceréis",
+            null,
+            null,
             "vencerán"
         ],
         "presente-progresivo": [
-            "estoy venciendo",
-            "estás venciendo",
+            null,
+            null,
             "está venciendo",
-            "estamos venciendo",
-            "estáis venciendo",
+            null,
+            null,
             "están venciendo"
         ],
         "imperativo-afirmativo": {
-            "tú": "vence",
-            "usted": "venza",
-            "vosotros": "venced",
-            "ustedes": "venzan"
+            "tú": null,
+            "usted": null,
+            "vosotros": null,
+            "ustedes": null
         },
         "imperativo-negativo": {
-            "tú": "no venzas",
-            "usted": "no venza",
-            "vosotros": "no venzáis",
-            "ustedes": "no venzan"
+            "tú": null,
+            "usted": null,
+            "vosotros": null,
+            "ustedes": null
         },
         "dutch": "vervallen"
     },
@@ -5762,58 +5762,64 @@
     {
         "verbo": "poderse \"hacer algo (infinitivo)\"",
         "presente": [
-            "me puedo",
-            "te puedes",
+            null,
+            null,
             "se puede",
-            "nos podemos",
-            "os podéis",
+            null,
+            null,
             "se pueden"
         ],
         "preterito-perfecto": [
-            "me he podido",
-            "te has podido",
+            null,
+            null,
             "se ha podido",
-            "nos hemos podido",
-            "os habéis podido",
+            null,
+            null,
             "se han podido"
         ],
         "preterito-indefinido": [
-            "me pude",
-            "te pudiste",
+            null,
+            null,
             "se pudo",
-            "nos pudimos",
-            "os pudisteis",
+            null,
+            null,
             "se pudieron"
         ],
         "preterito-imperfecto": [
-            "me podía",
-            "te podías",
+            null,
+            null,
             "se podía",
-            "nos podíamos",
-            "os podíais",
+            null,
+            null,
             "se podían"
         ],
         "futuro-simple": [
-            "me podré",
-            "te podrás",
+            null,
+            null,
             "se podrá",
-            "nos podremos",
-            "os podréis",
+            null,
+            null,
             "se podrán"
         ],
         "presente-progresivo": [
-            "me estoy pudiendo",
-            "te estás pudiendo",
-            "se está pudiendo",
-            "nos estamos pudiendo",
-            "os estáis pudiendo",
-            "se están pudiendo"
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ],
+        "imperativo-afirmativo": {
+            "tú": null,
+            "usted": null,
+            "vosotros": null,
+            "ustedes": null
+        },
         "imperativo-negativo": {
-            "tú": "no te puedas",
-            "usted": "no se pueda",
-            "vosotros": "no os podáis",
-            "ustedes": "no se puedan"
+            "tú": null,
+            "usted": null,
+            "vosotros": null,
+            "ustedes": null
         },
         "dutch": "in staat zijn om (iets te doen)"
     },
@@ -6284,12 +6290,12 @@
             "han solido"
         ],
         "preterito-indefinido": [
-            "solí",
-            "soliste",
-            "solió",
-            "solimos",
-            "solisteis",
-            "solieron"
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ],
         "preterito-imperfecto": [
             "solía",
@@ -6300,32 +6306,32 @@
             "solían"
         ],
         "futuro-simple": [
-            "soleré",
-            "solerás",
-            "solerá",
-            "soleremos",
-            "soleréis",
-            "solerán"
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ],
         "presente-progresivo": [
-            "estoy soliendo",
-            "estás soliendo",
-            "está soliendo",
-            "estamos soliendo",
-            "estáis soliendo",
-            "están soliendo"
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ],
         "imperativo-afirmativo": {
-            "tú": "suele",
-            "usted": "suela",
-            "vosotros": "soled",
-            "ustedes": "suelan"
+            "tú": null,
+            "usted": null,
+            "vosotros": null,
+            "ustedes": null
         },
         "imperativo-negativo": {
-            "tú": "no suelas",
-            "usted": "no suela",
-            "vosotros": "no soláis",
-            "ustedes": "no suelan"
+            "tú": null,
+            "usted": null,
+            "vosotros": null,
+            "ustedes": null
         },
         "dutch": "hulpwerkwoord om \"gewoon zijn te\" of \"plegen te\" te omschrijven. Steeds gevolgd door infinitief"
     },
@@ -7290,66 +7296,66 @@
         "dutch": "ontroerd raken"
     },
     {
-        "verbo": "enfedarse",
+        "verbo": "enfadarse",
         "presente": [
-            "me enfedo",
-            "te enfedas",
-            "se enfeda",
-            "nos enfedamos",
-            "os enfedáis",
-            "se enfedan"
+            "me enfado",
+            "te enfadas",
+            "se enfada",
+            "nos enfadamos",
+            "os enfadáis",
+            "se enfadan"
         ],
         "preterito-perfecto": [
-            "me he enfedado",
-            "te has enfedado",
-            "se ha enfedado",
-            "nos hemos enfedado",
-            "os habéis enfedado",
-            "se han enfedado"
+            "me he enfadado",
+            "te has enfadado",
+            "se ha enfadado",
+            "nos hemos enfadado",
+            "os habéis enfadado",
+            "se han enfadado"
         ],
         "preterito-indefinido": [
-            "me enfedé",
-            "te enfedaste",
-            "se enfedó",
-            "nos enfedamos",
-            "os enfedasteis",
-            "se enfedaron"
+            "me enfadé",
+            "te enfadaste",
+            "se enfadó",
+            "nos enfadamos",
+            "os enfadasteis",
+            "se enfadaron"
         ],
         "preterito-imperfecto": [
-            "me enfedaba",
-            "te enfedabas",
-            "se enfedaba",
-            "nos enfedábamos",
-            "os enfedabais",
-            "se enfedaban"
+            "me enfadaba",
+            "te enfadabas",
+            "se enfadaba",
+            "nos enfadábamos",
+            "os enfadabais",
+            "se enfadaban"
         ],
         "futuro-simple": [
-            "me enfedaré",
-            "te enfedarás",
-            "se enfedará",
-            "nos enfedaremos",
-            "os enfedaréis",
-            "se enfedarán"
+            "me enfadaré",
+            "te enfadarás",
+            "se enfadará",
+            "nos enfadaremos",
+            "os enfadaréis",
+            "se enfadarán"
         ],
         "presente-progresivo": [
-            "me estoy enfedando",
-            "te estás enfedando",
-            "se está enfedando",
-            "nos estamos enfedando",
-            "os estáis enfedando",
-            "se están enfedando"
+            "me estoy enfadando",
+            "te estás enfadando",
+            "se está enfadando",
+            "nos estamos enfadando",
+            "os estáis enfadando",
+            "se están enfadando"
         ],
         "imperativo-afirmativo": {
-            "tú": "enfédate",
-            "usted": "enfédese",
-            "vosotros": "enfedaos",
-            "ustedes": "enfédense"
+            "tú": "enfádate",
+            "usted": "enfádese",
+            "vosotros": "enfadaos",
+            "ustedes": "enfádense"
         },
         "imperativo-negativo": {
-            "tú": "no te enfedes",
-            "usted": "no se enfede",
-            "vosotros": "no os enfedéis",
-            "ustedes": "no se enfeden"
+            "tú": "no te enfades",
+            "usted": "no se enfade",
+            "vosotros": "no os enfadéis",
+            "ustedes": "no se enfaden"
         },
         "dutch": "boos worden"
     },
@@ -8122,59 +8128,59 @@
         "dutch": "worden (verandering van toestand of identiteit)"
     },
     {
-        "verbo": "reestablecer",
+        "verbo": "restablecer",
         "presente": [
             "reestablezco",
-            "reestableces",
-            "reestablece",
-            "reestablecemos",
-            "reestablecéis",
-            "reestablecen"
+            "restableces",
+            "restablece",
+            "restablecemos",
+            "restablecéis",
+            "restablecen"
         ],
         "preterito-perfecto": [
-            "he reestablecido",
-            "has reestablecido",
-            "ha reestablecido",
-            "hemos reestablecido",
-            "habéis reestablecido",
-            "han reestablecido"
+            "he restablecido",
+            "has restablecido",
+            "ha restablecido",
+            "hemos restablecido",
+            "habéis restablecido",
+            "han restablecido"
         ],
         "preterito-indefinido": [
-            "reestablecí",
-            "reestableciste",
-            "reestableció",
-            "reestablecimos",
-            "reestablecisteis",
-            "reestablecieron"
+            "restablecí",
+            "restableciste",
+            "restableció",
+            "restablecimos",
+            "restablecisteis",
+            "restablecieron"
         ],
         "preterito-imperfecto": [
-            "reestablecía",
-            "reestablecías",
-            "reestablecía",
-            "reestablecíamos",
-            "reestablecíais",
-            "reestablecían"
+            "restablecía",
+            "restablecías",
+            "restablecía",
+            "restablecíamos",
+            "restablecíais",
+            "restablecían"
         ],
         "futuro-simple": [
-            "reestableceré",
-            "reestablecerás",
-            "reestablecerá",
-            "reestableceremos",
-            "reestableceréis",
-            "reestablecerán"
+            "restableceré",
+            "restablecerás",
+            "restablecerá",
+            "restableceremos",
+            "restableceréis",
+            "restablecerán"
         ],
         "presente-progresivo": [
-            "estoy reestableciendo",
-            "estás reestableciendo",
-            "está reestableciendo",
-            "estamos reestableciendo",
-            "estáis reestableciendo",
-            "están reestableciendo"
+            "estoy restableciendo",
+            "estás restableciendo",
+            "está restableciendo",
+            "estamos restableciendo",
+            "estáis restableciendo",
+            "están restableciendo"
         ],
         "imperativo-afirmativo": {
-            "tú": "reestablece",
+            "tú": "restablece",
             "usted": "reestablezca",
-            "vosotros": "reestableced",
+            "vosotros": "restableced",
             "ustedes": "reestablezcan"
         },
         "imperativo-negativo": {
@@ -10028,10 +10034,10 @@
             "están envejeciendo"
         ],
         "imperativo-afirmativo": {
-            "tú": "envejece",
-            "usted": "envejezca",
-            "vosotros": "envejeced",
-            "ustedes": "envejezcan"
+            "tú": null,
+            "usted": null,
+            "vosotros": null,
+            "ustedes": null
         },
         "imperativo-negativo": {
             "tú": "no envejezcas",
@@ -10940,64 +10946,64 @@
     {
         "verbo": "durar",
         "presente": [
-            "duro",
-            "duras",
+            null,
+            null,
             "dura",
-            "duramos",
-            "duráis",
+            null,
+            null,
             "duran"
         ],
         "preterito-perfecto": [
-            "he durado",
-            "has durado",
+            null,
+            null,
             "ha durado",
-            "hemos durado",
-            "habéis durado",
+            null,
+            null,
             "han durado"
         ],
         "preterito-indefinido": [
-            "duré",
-            "duraste",
+            null,
+            null,
             "duró",
-            "duramos",
-            "durasteis",
+            null,
+            null,
             "duraron"
         ],
         "preterito-imperfecto": [
+            null,
+            null,
             "duraba",
-            "durabas",
-            "duraba",
-            "durábamos",
-            "durabais",
+            null,
+            null,
             "duraban"
         ],
         "futuro-simple": [
-            "duraré",
-            "durarás",
+            null,
+            null,
             "durará",
-            "duraremos",
-            "duraréis",
+            null,
+            null,
             "durarán"
         ],
         "presente-progresivo": [
-            "estoy durando",
-            "estás durando",
+            null,
+            null,
             "está durando",
-            "estamos durando",
-            "estáis durando",
+            null,
+            null,
             "están durando"
         ],
         "imperativo-afirmativo": {
-            "tú": "dura",
-            "usted": "dure",
-            "vosotros": "durad",
-            "ustedes": "duren"
+            "tú": null,
+            "usted": null,
+            "vosotros": null,
+            "ustedes": null
         },
         "imperativo-negativo": {
-            "tú": "no dures",
-            "usted": "no dure",
-            "vosotros": "no duréis",
-            "ustedes": "no duren"
+            "tú": null,
+            "usted": null,
+            "vosotros": null,
+            "ustedes": null
         },
         "dutch": "duren"
     },
@@ -12460,10 +12466,10 @@
             "se están suicidando"
         ],
         "imperativo-afirmativo": {
-            "tú": "suicídate",
-            "usted": "suicídese",
-            "vosotros": "suicidaos",
-            "ustedes": "suicídense"
+            "tú": null,
+            "usted": null,
+            "vosotros": null,
+            "ustedes": null
         },
         "imperativo-negativo": {
             "tú": "no te suicides",
@@ -14522,66 +14528,66 @@
         "dutch": "duwen"
     },
     {
-        "verbo": "adalantar",
+        "verbo": "adelantar",
         "presente": [
-            "adalanto",
-            "adalantas",
-            "adalanta",
-            "adalantamos",
-            "adalantáis",
-            "adalantan"
+            "adelanto",
+            "adelantas",
+            "adelanta",
+            "adelantamos",
+            "adelantáis",
+            "adelantan"
         ],
         "preterito-perfecto": [
-            "he adalantado",
-            "has adalantado",
-            "ha adalantado",
-            "hemos adalantado",
-            "habéis adalantado",
-            "han adalantado"
+            "he adelantado",
+            "has adelantado",
+            "ha adelantado",
+            "hemos adelantado",
+            "habéis adelantado",
+            "han adelantado"
         ],
         "preterito-indefinido": [
-            "adalanté",
-            "adalantaste",
-            "adalantó",
-            "adalantamos",
-            "adalantasteis",
-            "adalantaron"
+            "adelanté",
+            "adelantaste",
+            "adelantó",
+            "adelantamos",
+            "adelantasteis",
+            "adelantaron"
         ],
         "preterito-imperfecto": [
-            "adalantaba",
-            "adalantabas",
-            "adalantaba",
-            "adalantábamos",
-            "adalantabais",
-            "adalantaban"
+            "adelantaba",
+            "adelantabas",
+            "adelantaba",
+            "adelantábamos",
+            "adelantabais",
+            "adelantaban"
         ],
         "futuro-simple": [
-            "adalantaré",
-            "adalantarás",
-            "adalantará",
-            "adalantaremos",
-            "adalantaréis",
-            "adalantarán"
+            "adelantaré",
+            "adelantarás",
+            "adelantará",
+            "adelantaremos",
+            "adelantaréis",
+            "adelantarán"
         ],
         "presente-progresivo": [
-            "estoy adalantando",
-            "estás adalantando",
-            "está adalantando",
-            "estamos adalantando",
-            "estáis adalantando",
-            "están adalantando"
+            "estoy adelantando",
+            "estás adelantando",
+            "está adelantando",
+            "estamos adelantando",
+            "estáis adelantando",
+            "están adelantando"
         ],
         "imperativo-afirmativo": {
-            "tú": "adalanta",
-            "usted": "adalante",
-            "vosotros": "adalantad",
-            "ustedes": "adalanten"
+            "tú": "adelanta",
+            "usted": "adelante",
+            "vosotros": "adelantad",
+            "ustedes": "adelanten"
         },
         "imperativo-negativo": {
-            "tú": "no adalantes",
-            "usted": "no adalante",
-            "vosotros": "no adalantéis",
-            "ustedes": "no adalanten"
+            "tú": "no adelantes",
+            "usted": "no adelante",
+            "vosotros": "no adelantéis",
+            "ustedes": "no adelanten"
         },
         "dutch": "inhalen, vervroegen"
     },
@@ -16291,6 +16297,14 @@
             "estaréis",
             "estarán"
         ],
+        "presente-progresivo": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
         "imperativo-afirmativo": {
             "tú": "está",
             "usted": "esté",
@@ -17124,16 +17138,16 @@
             "están necesitando"
         ],
         "imperativo-afirmativo": {
-            "tú": "necesita",
-            "usted": "necesite",
-            "vosotros": "necesitad",
-            "ustedes": "necesiten"
+            "tú": null,
+            "usted": null,
+            "vosotros": null,
+            "ustedes": null
         },
         "imperativo-negativo": {
-            "tú": "no necesites",
-            "usted": "no necesite",
-            "vosotros": "no necesitéis",
-            "ustedes": "no necesiten"
+            "tú": null,
+            "usted": null,
+            "vosotros": null,
+            "ustedes": null
         },
         "dutch": "nodig hebben"
     },
@@ -18012,24 +18026,24 @@
             "podrán"
         ],
         "presente-progresivo": [
-            "estoy pudiendo",
-            "estás pudiendo",
-            "está pudiendo",
-            "estamos pudiendo",
-            "estáis pudiendo",
-            "están pudiendo"
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ],
         "imperativo-afirmativo": {
-            "tú": "puede",
-            "usted": "pueda",
-            "vosotros": "poded",
-            "ustedes": "puedan"
+            "tú": null,
+            "usted": null,
+            "vosotros": null,
+            "ustedes": null
         },
         "imperativo-negativo": {
-            "tú": "no puedas",
-            "usted": "no pueda",
-            "vosotros": "no podáis",
-            "ustedes": "no puedan"
+            "tú": null,
+            "usted": null,
+            "vosotros": null,
+            "ustedes": null
         },
         "dutch": "kunnen, mogen"
     },
@@ -18076,12 +18090,12 @@
             "sabrán"
         ],
         "presente-progresivo": [
-            "estoy sabiendo",
-            "estás sabiendo",
-            "está sabiendo",
-            "estamos sabiendo",
-            "estáis sabiendo",
-            "están sabiendo"
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ],
         "imperativo-afirmativo": {
             "tú": "sabe",
@@ -18716,12 +18730,12 @@
             "conocerán"
         ],
         "presente-progresivo": [
-            "estoy conociendo",
-            "estás conociendo",
-            "está conociendo",
-            "estamos conociendo",
-            "estáis conociendo",
-            "están conociendo"
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ],
         "imperativo-afirmativo": {
             "tú": "conoce",
@@ -19996,24 +20010,24 @@
             "existirán"
         ],
         "presente-progresivo": [
-            "estoy existiendo",
-            "estás existiendo",
-            "está existiendo",
-            "estamos existiendo",
-            "estáis existiendo",
-            "están existiendo"
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ],
         "imperativo-afirmativo": {
-            "tú": "existe",
-            "usted": "exista",
-            "vosotros": "existid",
-            "ustedes": "existan"
+            "tú": null,
+            "usted": null,
+            "vosotros": null,
+            "ustedes": null
         },
         "imperativo-negativo": {
-            "tú": "no existas",
-            "usted": "no exista",
-            "vosotros": "no existáis",
-            "ustedes": "no existan"
+            "tú": null,
+            "usted": null,
+            "vosotros": null,
+            "ustedes": null
         },
         "dutch": "bestaan"
     },
@@ -20764,24 +20778,24 @@
             "deberán"
         ],
         "presente-progresivo": [
-            "estoy debiendo",
-            "estás debiendo",
-            "está debiendo",
-            "estamos debiendo",
-            "estáis debiendo",
-            "están debiendo"
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ],
         "imperativo-afirmativo": {
-            "tú": "debe",
-            "usted": "deba",
-            "vosotros": "debed",
-            "ustedes": "deban"
+            "tú": null,
+            "usted": null,
+            "vosotros": null,
+            "ustedes": null
         },
         "imperativo-negativo": {
-            "tú": "no debas",
-            "usted": "no deba",
-            "vosotros": "no debáis",
-            "ustedes": "no deban"
+            "tú": null,
+            "usted": null,
+            "vosotros": null,
+            "ustedes": null
         },
         "dutch": "moeten, verschuldigd zijn, moeten betalen"
     },
@@ -20852,64 +20866,64 @@
     {
         "verbo": "contener",
         "presente": [
-            "contengo",
-            "contienes",
+            null,
+            null,
             "contiene",
-            "contenemos",
-            "contenéis",
+            null,
+            null,
             "contienen"
         ],
         "preterito-perfecto": [
-            "he contenido",
-            "has contenido",
+            null,
+            null,
             "ha contenido",
-            "hemos contenido",
-            "habéis contenido",
+            null,
+            null,
             "han contenido"
         ],
         "preterito-indefinido": [
-            "contuve",
-            "contuviste",
+            null,
+            null,
             "contuvo",
-            "contuvimos",
-            "contuvisteis",
+            null,
+            null,
             "contuvieron"
         ],
         "preterito-imperfecto": [
+            null,
+            null,
             "contenía",
-            "contenías",
-            "contenía",
-            "conteníamos",
-            "conteníais",
+            null,
+            null,
             "contenían"
         ],
         "futuro-simple": [
-            "contendré",
-            "contendrás",
+            null,
+            null,
             "contendrá",
-            "contendremos",
-            "contendréis",
+            null,
+            null,
             "contendrán"
         ],
         "presente-progresivo": [
-            "estoy conteniendo",
-            "estás conteniendo",
+            null,
+            null,
             "está conteniendo",
-            "estamos conteniendo",
-            "estáis conteniendo",
+            null,
+            null,
             "están conteniendo"
         ],
         "imperativo-afirmativo": {
-            "tú": "contén",
-            "usted": "contenga",
-            "vosotros": "contened",
-            "ustedes": "contengan"
+            "tú": null,
+            "usted": null,
+            "vosotros": null,
+            "ustedes": null
         },
         "imperativo-negativo": {
-            "tú": "no contengas",
-            "usted": "no contenga",
-            "vosotros": "no contengáis",
-            "ustedes": "no contengan"
+            "tú": null,
+            "usted": null,
+            "vosotros": null,
+            "ustedes": null
         },
         "dutch": "bevatten (fysieke of chemische inhoud)"
     },
@@ -22108,24 +22122,24 @@
             "preferirán"
         ],
         "presente-progresivo": [
-            "estoy prefiriendo",
-            "estás prefiriendo",
-            "está prefiriendo",
-            "estamos prefiriendo",
-            "estáis prefiriendo",
-            "están prefiriendo"
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ],
         "imperativo-afirmativo": {
-            "tú": "prefiere",
-            "usted": "prefiera",
-            "vosotros": "preferid",
-            "ustedes": "prefieran"
+            "tú": null,
+            "usted": null,
+            "vosotros": null,
+            "ustedes": null
         },
         "imperativo-negativo": {
-            "tú": "no prefieras",
-            "usted": "no prefiera",
-            "vosotros": "no prefiráis",
-            "ustedes": "no prefieran"
+            "tú": null,
+            "usted": null,
+            "vosotros": null,
+            "ustedes": null
         },
         "dutch": "verkiezen, liever hebben, prefereren"
     },
@@ -23260,24 +23274,24 @@
             "parecerán"
         ],
         "presente-progresivo": [
-            "estoy pareciendo",
-            "estás pareciendo",
-            "está pareciendo",
-            "estamos pareciendo",
-            "estáis pareciendo",
-            "están pareciendo"
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ],
         "imperativo-afirmativo": {
-            "tú": "parece",
-            "usted": "parezca",
-            "vosotros": "pareced",
-            "ustedes": "parezcan"
+            "tú": null,
+            "usted": null,
+            "vosotros": null,
+            "ustedes": null
         },
         "imperativo-negativo": {
-            "tú": "no parezcas",
-            "usted": "no parezca",
-            "vosotros": "no parezcáis",
-            "ustedes": "no parezcan"
+            "tú": null,
+            "usted": null,
+            "vosotros": null,
+            "ustedes": null
         },
         "dutch": "lijken, schijnen (subjectieve indruk of mening)"
     },
@@ -23708,12 +23722,12 @@
             "odiarán"
         ],
         "presente-progresivo": [
-            "estoy odiando",
-            "estás odiando",
-            "está odiando",
-            "estamos odiando",
-            "estáis odiando",
-            "están odiando"
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ],
         "imperativo-afirmativo": {
             "tú": "odia",
@@ -23988,64 +24002,64 @@
     {
         "verbo": "ocurrir",
         "presente": [
-            "ocurro",
-            "ocurres",
+            null,
+            null,
             "ocurre",
-            "ocurrimos",
-            "ocurrís",
+            null,
+            null,
             "ocurren"
         ],
         "preterito-perfecto": [
-            "he ocurrido",
-            "has ocurrido",
+            null,
+            null,
             "ha ocurrido",
-            "hemos ocurrido",
-            "habéis ocurrido",
+            null,
+            null,
             "han ocurrido"
         ],
         "preterito-indefinido": [
-            "ocurrí",
-            "ocurriste",
+            null,
+            null,
             "ocurrió",
-            "ocurrimos",
-            "ocurristeis",
+            null,
+            null,
             "ocurrieron"
         ],
         "preterito-imperfecto": [
+            null,
+            null,
             "ocurría",
-            "ocurrías",
-            "ocurría",
-            "ocurríamos",
-            "ocurríais",
+            null,
+            null,
             "ocurrían"
         ],
         "futuro-simple": [
-            "ocurriré",
-            "ocurrirás",
+            null,
+            null,
             "ocurrirá",
-            "ocurriremos",
-            "ocurriréis",
+            null,
+            null,
             "ocurrirán"
         ],
         "presente-progresivo": [
-            "estoy ocurriendo",
-            "estás ocurriendo",
+            null,
+            null,
             "está ocurriendo",
-            "estamos ocurriendo",
-            "estáis ocurriendo",
+            null,
+            null,
             "están ocurriendo"
         ],
         "imperativo-afirmativo": {
-            "tú": "ocurre",
-            "usted": "ocurra",
-            "vosotros": "ocurrid",
-            "ustedes": "ocurran"
+            "tú": null,
+            "usted": null,
+            "vosotros": null,
+            "ustedes": null
         },
         "imperativo-negativo": {
-            "tú": "no ocurras",
-            "usted": "no ocurra",
-            "vosotros": "no ocurráis",
-            "ustedes": "no ocurran"
+            "tú": null,
+            "usted": null,
+            "vosotros": null,
+            "ustedes": null
         },
         "dutch": "gebeuren, plaatsvinden"
     },
@@ -27572,64 +27586,64 @@
     {
         "verbo": "consistir",
         "presente": [
-            "consisto",
-            "consistes",
+            null,
+            null,
             "consiste",
-            "consistimos",
-            "consistís",
+            null,
+            null,
             "consisten"
         ],
         "preterito-perfecto": [
-            "he consistido",
-            "has consistido",
+            null,
+            null,
             "ha consistido",
-            "hemos consistido",
-            "habéis consistido",
+            null,
+            null,
             "han consistido"
         ],
         "preterito-indefinido": [
-            "consistí",
-            "consististe",
+            null,
+            null,
             "consistió",
-            "consistimos",
-            "consististeis",
+            null,
+            null,
             "consistieron"
         ],
         "preterito-imperfecto": [
+            null,
+            null,
             "consistía",
-            "consistías",
-            "consistía",
-            "consistíamos",
-            "consistíais",
+            null,
+            null,
             "consistían"
         ],
         "futuro-simple": [
-            "consistiré",
-            "consistirás",
+            null,
+            null,
             "consistirá",
-            "consistiremos",
-            "consistiréis",
+            null,
+            null,
             "consistirán"
         ],
         "presente-progresivo": [
-            "estoy consistiendo",
-            "estás consistiendo",
-            "está consistiendo",
-            "estamos consistiendo",
-            "estáis consistiendo",
-            "están consistiendo"
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ],
         "imperativo-afirmativo": {
-            "tú": "consiste",
-            "usted": "consista",
-            "vosotros": "consistid",
-            "ustedes": "consistan"
+            "tú": null,
+            "usted": null,
+            "vosotros": null,
+            "ustedes": null
         },
         "imperativo-negativo": {
-            "tú": "no consistas",
-            "usted": "no consista",
-            "vosotros": "no consistáis",
-            "ustedes": "no consistan"
+            "tú": null,
+            "usted": null,
+            "vosotros": null,
+            "ustedes": null
         },
         "dutch": "bestaan uit"
     },
@@ -30300,24 +30314,24 @@
             "dependerán"
         ],
         "presente-progresivo": [
-            "estoy dependiendo",
-            "estás dependiendo",
-            "está dependiendo",
-            "estamos dependiendo",
-            "estáis dependiendo",
-            "están dependiendo"
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ],
         "imperativo-afirmativo": {
-            "tú": "depende",
-            "usted": "dependa",
-            "vosotros": "depended",
-            "ustedes": "dependan"
+            "tú": null,
+            "usted": null,
+            "vosotros": null,
+            "ustedes": null
         },
         "imperativo-negativo": {
-            "tú": "no dependas",
-            "usted": "no dependa",
-            "vosotros": "no dependáis",
-            "ustedes": "no dependan"
+            "tú": null,
+            "usted": null,
+            "vosotros": null,
+            "ustedes": null
         },
         "dutch": "afhangen van"
     },
@@ -30812,24 +30826,24 @@
             "valdrán"
         ],
         "presente-progresivo": [
-            "estoy valiendo",
-            "estás valiendo",
-            "está valiendo",
-            "estamos valiendo",
-            "estáis valiendo",
-            "están valiendo"
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ],
         "imperativo-afirmativo": {
-            "tú": "vale",
-            "usted": "valga",
-            "vosotros": "valed",
-            "ustedes": "valgan"
+            "tú": null,
+            "usted": null,
+            "vosotros": null,
+            "ustedes": null
         },
         "imperativo-negativo": {
-            "tú": "no valgas",
-            "usted": "no valga",
-            "vosotros": "no valgáis",
-            "ustedes": "no valgan"
+            "tú": null,
+            "usted": null,
+            "vosotros": null,
+            "ustedes": null
         },
         "dutch": "waard zijn"
     },
@@ -31516,24 +31530,24 @@
             "cabrán"
         ],
         "presente-progresivo": [
-            "estoy cabiendo",
-            "estás cabiendo",
-            "está cabiendo",
-            "estamos cabiendo",
-            "estáis cabiendo",
-            "están cabiendo"
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ],
         "imperativo-afirmativo": {
-            "tú": "cabe",
-            "usted": "quepa",
-            "vosotros": "cabed",
-            "ustedes": "quepan"
+            "tú": null,
+            "usted": null,
+            "vosotros": null,
+            "ustedes": null
         },
         "imperativo-negativo": {
-            "tú": "no quepas",
-            "usted": "no quepa",
-            "vosotros": "no quepáis",
-            "ustedes": "no quepan"
+            "tú": null,
+            "usted": null,
+            "vosotros": null,
+            "ustedes": null
         },
         "dutch": "in iets passen"
     },
@@ -31988,64 +32002,64 @@
     {
         "verbo": "doler",
         "presente": [
-            "duelo",
-            "dueles",
+            null,
+            null,
             "duele",
-            "dolemos",
-            "doléis",
+            null,
+            null,
             "duelen"
         ],
         "preterito-perfecto": [
-            "he dolido",
-            "has dolido",
+            null,
+            null,
             "ha dolido",
-            "hemos dolido",
-            "habéis dolido",
+            null,
+            null,
             "han dolido"
         ],
         "preterito-indefinido": [
-            "dolí",
-            "doliste",
+            null,
+            null,
             "dolió",
-            "dolimos",
-            "dolisteis",
+            null,
+            null,
             "dolieron"
         ],
         "preterito-imperfecto": [
+            null,
+            null,
             "dolía",
-            "dolías",
-            "dolía",
-            "dolíamos",
-            "dolíais",
+            null,
+            null,
             "dolían"
         ],
         "futuro-simple": [
-            "doleré",
-            "dolerás",
+            null,
+            null,
             "dolerá",
-            "doleremos",
-            "doleréis",
+            null,
+            null,
             "dolerán"
         ],
         "presente-progresivo": [
-            "estoy doliendo",
-            "estás doliendo",
+            null,
+            null,
             "está doliendo",
-            "estamos doliendo",
-            "estáis doliendo",
+            null,
+            null,
             "están doliendo"
         ],
         "imperativo-afirmativo": {
-            "tú": "duele",
-            "usted": "duela",
-            "vosotros": "doled",
-            "ustedes": "duelan"
+            "tú": null,
+            "usted": null,
+            "vosotros": null,
+            "ustedes": null
         },
         "imperativo-negativo": {
-            "tú": "no duelas",
-            "usted": "no duela",
-            "vosotros": "no doláis",
-            "ustedes": "no duelan"
+            "tú": null,
+            "usted": null,
+            "vosotros": null,
+            "ustedes": null
         },
         "dutch": "pijn doen"
     },
@@ -32164,10 +32178,10 @@
             "están muriendo"
         ],
         "imperativo-afirmativo": {
-            "tú": "muere",
-            "usted": "muera",
-            "vosotros": "morid",
-            "ustedes": "mueran"
+            "tú": null,
+            "usted": null,
+            "vosotros": null,
+            "ustedes": null
         },
         "imperativo-negativo": {
             "tú": "no mueras",
@@ -32220,24 +32234,24 @@
             "se parecerán"
         ],
         "presente-progresivo": [
-            "me estoy pareciendo",
-            "te estás pareciendo",
-            "se está pareciendo",
-            "nos estamos pareciendo",
-            "os estáis pareciendo",
-            "se están pareciendo"
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ],
         "imperativo-afirmativo": {
-            "tú": "parécete",
-            "usted": "parézcase",
-            "vosotros": "pareceos",
-            "ustedes": "parézcanse"
+            "tú": null,
+            "usted": null,
+            "vosotros": null,
+            "ustedes": null
         },
         "imperativo-negativo": {
-            "tú": "no te parezcas",
-            "usted": "no se parezca",
-            "vosotros": "no os parezcáis",
-            "ustedes": "no se parezcan"
+            "tú": null,
+            "usted": null,
+            "vosotros": null,
+            "ustedes": null
         },
         "dutch": "lijken op iemand of iets"
     },
@@ -32284,24 +32298,24 @@
             "merecerán"
         ],
         "presente-progresivo": [
-            "estoy mereciendo",
-            "estás mereciendo",
-            "está mereciendo",
-            "estamos mereciendo",
-            "estáis mereciendo",
-            "están mereciendo"
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ],
         "imperativo-afirmativo": {
-            "tú": "merece",
-            "usted": "merezca",
-            "vosotros": "mereced",
-            "ustedes": "merezcan"
+            "tú": null,
+            "usted": null,
+            "vosotros": null,
+            "ustedes": null
         },
         "imperativo-negativo": {
-            "tú": "no merezcas",
-            "usted": "no merezca",
-            "vosotros": "no merezcáis",
-            "ustedes": "no merezcan"
+            "tú": null,
+            "usted": null,
+            "vosotros": null,
+            "ustedes": null
         },
         "dutch": "verdienen (iets waard zijn)"
     },
@@ -33460,62 +33474,62 @@
     {
         "verbo": "abrazarse",
         "presente": [
-            "me abrazo",
-            "te abrazas",
-            "se abraza",
+            null,
+            null,
+            null,
             "nos abrazamos",
             "os abrazáis",
             "se abrazan"
         ],
         "preterito-perfecto": [
-            "me he abrazado",
-            "te has abrazado",
-            "se ha abrazado",
+            null,
+            null,
+            null,
             "nos hemos abrazado",
             "os habéis abrazado",
             "se han abrazado"
         ],
         "preterito-indefinido": [
-            "me abracé",
-            "te abrazaste",
-            "se abrazó",
+            null,
+            null,
+            null,
             "nos abrazamos",
             "os abrazasteis",
             "se abrazaron"
         ],
         "preterito-imperfecto": [
-            "me abrazaba",
-            "te abrazabas",
-            "se abrazaba",
+            null,
+            null,
+            null,
             "nos abrazábamos",
             "os abrazabais",
             "se abrazaban"
         ],
         "futuro-simple": [
-            "me abrazaré",
-            "te abrazarás",
-            "se abrazará",
+            null,
+            null,
+            null,
             "nos abrazaremos",
             "os abrazaréis",
             "se abrazarán"
         ],
         "presente-progresivo": [
-            "me estoy abrazando",
-            "te estás abrazando",
-            "se está abrazando",
+            null,
+            null,
+            null,
             "nos estamos abrazando",
             "os estáis abrazando",
             "se están abrazando"
         ],
         "imperativo-afirmativo": {
-            "tú": "abrázate",
-            "usted": "abrácese",
+            "tú": null,
+            "usted": null,
             "vosotros": "abrazaos",
             "ustedes": "abrácense"
         },
         "imperativo-negativo": {
-            "tú": "no te abraces",
-            "usted": "no se abrace",
+            "tú": null,
+            "usted": null,
             "vosotros": "no os abracéis",
             "ustedes": "no se abracen"
         },
@@ -33908,64 +33922,64 @@
     {
         "verbo": "helar",
         "presente": [
-            "hielo",
-            "hielas",
+            null,
+            null,
             "hiela",
-            "helamos",
-            "heláis",
+            null,
+            null,
             "hielan"
         ],
         "preterito-perfecto": [
-            "he helado",
-            "has helado",
+            null,
+            null,
             "ha helado",
-            "hemos helado",
-            "habéis helado",
+            null,
+            null,
             "han helado"
         ],
         "preterito-indefinido": [
-            "helé",
-            "helaste",
+            null,
+            null,
             "heló",
-            "helamos",
-            "helasteis",
+            null,
+            null,
             "helaron"
         ],
         "preterito-imperfecto": [
+            null,
+            null,
             "helaba",
-            "helabas",
-            "helaba",
-            "helábamos",
-            "helabais",
+            null,
+            null,
             "helaban"
         ],
         "futuro-simple": [
-            "helaré",
-            "helarás",
+            null,
+            null,
             "helará",
-            "helaremos",
-            "helaréis",
+            null,
+            null,
             "helarán"
         ],
         "presente-progresivo": [
-            "estoy helando",
-            "estás helando",
+            null,
+            null,
             "está helando",
-            "estamos helando",
-            "estáis helando",
+            null,
+            null,
             "están helando"
         ],
         "imperativo-afirmativo": {
-            "tú": "hiela",
-            "usted": "hiele",
-            "vosotros": "helad",
-            "ustedes": "hielen"
+            "tú": null,
+            "usted": null,
+            "vosotros": null,
+            "ustedes": null
         },
         "imperativo-negativo": {
-            "tú": "no hieles",
-            "usted": "no hiele",
-            "vosotros": "no heléis",
-            "ustedes": "no hielen"
+            "tú": null,
+            "usted": null,
+            "vosotros": null,
+            "ustedes": null
         },
         "dutch": "bevriezen"
     },
@@ -34676,62 +34690,62 @@
     {
         "verbo": "reñirse",
         "presente": [
-            "me riño",
-            "te riñes",
-            "se riñe",
+            null,
+            null,
+            null,
             "nos reñimos",
             "os reñís",
             "se riñen"
         ],
         "preterito-perfecto": [
-            "me he reñido",
-            "te has reñido",
-            "se ha reñido",
+            null,
+            null,
+            null,
             "nos hemos reñido",
             "os habéis reñido",
             "se han reñido"
         ],
         "preterito-indefinido": [
-            "me reñí",
-            "te reñiste",
-            "se riñó",
+            null,
+            null,
+            null,
             "nos reñimos",
             "os reñisteis",
             "se riñeron"
         ],
         "preterito-imperfecto": [
-            "me reñía",
-            "te reñías",
-            "se reñía",
+            null,
+            null,
+            null,
             "nos reñíamos",
             "os reñíais",
             "se reñían"
         ],
         "futuro-simple": [
-            "me reñiré",
-            "te reñirás",
-            "se reñirá",
+            null,
+            null,
+            null,
             "nos reñiremos",
             "os reñiréis",
             "se reñirán"
         ],
         "presente-progresivo": [
-            "me estoy riñendo",
-            "te estás riñendo",
-            "se está riñendo",
+            null,
+            null,
+            null,
             "nos estamos riñendo",
             "os estáis riñendo",
             "se están riñendo"
         ],
         "imperativo-afirmativo": {
-            "tú": "ríñete",
-            "usted": "ríñase",
+            "tú": null,
+            "usted": null,
             "vosotros": "reñíos",
             "ustedes": "ríñanse"
         },
         "imperativo-negativo": {
-            "tú": "no te riñas",
-            "usted": "no se riña",
+            "tú": null,
+            "usted": null,
             "vosotros": "no os riñáis",
             "ustedes": "no se riñan"
         },
@@ -34788,16 +34802,16 @@
             "están proviniendo"
         ],
         "imperativo-afirmativo": {
-            "tú": "provén",
-            "usted": "provenga",
-            "vosotros": "provenid",
-            "ustedes": "provengan"
+            "tú": null,
+            "usted": null,
+            "vosotros": null,
+            "ustedes": null
         },
         "imperativo-negativo": {
-            "tú": "no provengas",
-            "usted": "no provenga",
-            "vosotros": "no provengáis",
-            "ustedes": "no provengan"
+            "tú": null,
+            "usted": null,
+            "vosotros": null,
+            "ustedes": null
         },
         "dutch": "komen uit, voortkomen uit"
     },
@@ -36532,64 +36546,64 @@
     {
         "verbo": "celebrarse",
         "presente": [
-            "me celebro",
-            "te celebras",
+            null,
+            null,
             "se celebra",
-            "nos celebramos",
-            "os celebráis",
+            null,
+            null,
             "se celebran"
         ],
         "preterito-perfecto": [
-            "me he celebrado",
-            "te has celebrado",
+            null,
+            null,
             "se ha celebrado",
-            "nos hemos celebrado",
-            "os habéis celebrado",
+            null,
+            null,
             "se han celebrado"
         ],
         "preterito-indefinido": [
-            "me celebré",
-            "te celebraste",
+            null,
+            null,
             "se celebró",
-            "nos celebramos",
-            "os celebrasteis",
+            null,
+            null,
             "se celebraron"
         ],
         "preterito-imperfecto": [
-            "me celebraba",
-            "te celebrabas",
+            null,
+            null,
             "se celebraba",
-            "nos celebrábamos",
-            "os celebrabais",
+            null,
+            null,
             "se celebraban"
         ],
         "futuro-simple": [
-            "me celebraré",
-            "te celebrarás",
+            null,
+            null,
             "se celebrará",
-            "nos celebraremos",
-            "os celebraréis",
+            null,
+            null,
             "se celebrarán"
         ],
         "presente-progresivo": [
-            "me estoy celebrando",
-            "te estás celebrando",
+            null,
+            null,
             "se está celebrando",
-            "nos estamos celebrando",
-            "os estáis celebrando",
+            null,
+            null,
             "se están celebrando"
         ],
         "imperativo-afirmativo": {
-            "tú": "celébrate",
-            "usted": "celébrese",
-            "vosotros": "celebraos",
-            "ustedes": "celébrense"
+            "tú": null,
+            "usted": null,
+            "vosotros": null,
+            "ustedes": null
         },
         "imperativo-negativo": {
-            "tú": "no te celebres",
-            "usted": "no se celebre",
-            "vosotros": "no os celebréis",
-            "ustedes": "no se celebren"
+            "tú": null,
+            "usted": null,
+            "vosotros": null,
+            "ustedes": null
         },
         "dutch": "gehouden worden, plaatsvinden, gevierd worden"
     },
@@ -36660,64 +36674,64 @@
     {
         "verbo": "filmarse",
         "presente": [
-            "me filmo",
-            "te filmas",
+            null,
+            null,
             "se filma",
-            "nos filmamos",
-            "os filmáis",
+            null,
+            null,
             "se filman"
         ],
         "preterito-perfecto": [
-            "me he filmado",
-            "te has filmado",
+            null,
+            null,
             "se ha filmado",
-            "nos hemos filmado",
-            "os habéis filmado",
+            null,
+            null,
             "se han filmado"
         ],
         "preterito-indefinido": [
-            "me filmé",
-            "te filmaste",
+            null,
+            null,
             "se filmó",
-            "nos filmamos",
-            "os filmasteis",
+            null,
+            null,
             "se filmaron"
         ],
         "preterito-imperfecto": [
-            "me filmaba",
-            "te filmabas",
+            null,
+            null,
             "se filmaba",
-            "nos filmábamos",
-            "os filmabais",
+            null,
+            null,
             "se filmaban"
         ],
         "futuro-simple": [
-            "me filmaré",
-            "te filmarás",
+            null,
+            null,
             "se filmará",
-            "nos filmaremos",
-            "os filmaréis",
+            null,
+            null,
             "se filmarán"
         ],
         "presente-progresivo": [
-            "me estoy filmando",
-            "te estás filmando",
+            null,
+            null,
             "se está filmando",
-            "nos estamos filmando",
-            "os estáis filmando",
+            null,
+            null,
             "se están filmando"
         ],
         "imperativo-afirmativo": {
-            "tú": "fílmate",
-            "usted": "fílmese",
-            "vosotros": "filmaos",
-            "ustedes": "fílmense"
+            "tú": null,
+            "usted": null,
+            "vosotros": null,
+            "ustedes": null
         },
         "imperativo-negativo": {
-            "tú": "no te filmes",
-            "usted": "no se filme",
-            "vosotros": "no os filméis",
-            "ustedes": "no se filmen"
+            "tú": null,
+            "usted": null,
+            "vosotros": null,
+            "ustedes": null
         },
         "dutch": "gefilmd worden"
     },

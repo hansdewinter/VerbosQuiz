@@ -140,6 +140,8 @@ def populate_sheet(ws: Worksheet, verb_entry: dict) -> None:
         for key, col in tenses:
             forms = verb_entry.get(key, [])
             value = forms[row_idx] if row_idx < len(forms) else ""
+            if key in verb_entry and value is None:
+                value = "—"  # null = form not used in practice
             ws.cell(row=excel_row, column=col, value=value)
 
     # rows: 2=yo, 3=tú, 4=él/ella/usted, 5=nosotros, 6=vosotros, 7=ellos/ellas/ustedes
@@ -147,10 +149,9 @@ def populate_sheet(ws: Worksheet, verb_entry: dict) -> None:
         imperativo = verb_entry.get(key)
         if not isinstance(imperativo, dict):
             continue
-        ws.cell(row=3, column=column, value=imperativo.get("tú", ""))
-        ws.cell(row=4, column=column, value=imperativo.get("usted", ""))
-        ws.cell(row=6, column=column, value=imperativo.get("vosotros", ""))
-        ws.cell(row=7, column=column, value=imperativo.get("ustedes", ""))
+        for row, slot in ((3, "tú"), (4, "usted"), (6, "vosotros"), (7, "ustedes")):
+            value = imperativo.get(slot, "")
+            ws.cell(row=row, column=column, value="—" if value is None else value)
 
     widths = {"A": 18, "B": 18, "C": 22, "D": 22, "E": 22, "F": 22, "G": 22, "H": 26, "I": 28}
     for col, width in widths.items():
@@ -354,9 +355,12 @@ def get_random_person():
 
 
 def has_imperative(verb: dict, tense: str) -> bool:
-    """True when this verb has all four stored imperative persons."""
+    """True when this verb has at least one usable imperative person.
+
+    A slot set to null in Verbos.json marks a form that is not used in practice.
+    """
     forms = verb.get(tense)
-    return isinstance(forms, dict) and all(forms.get(slot) for slot in IMPERATIVO_SLOTS)
+    return isinstance(forms, dict) and any(forms.get(slot) for slot in IMPERATIVO_SLOTS)
 
 
 def pick_random_tense(verb_list) -> str:
@@ -668,7 +672,7 @@ def run_quiz(
     ):
         print(
             f"Error: No verbs in the practice set have {required_imperative} "
-            "(tú, usted, vosotros, and ustedes). Update Verbos.json or pick another tense."
+            "forms. Update Verbos.json or pick another tense."
         )
         sys.exit(1)
 
@@ -721,7 +725,9 @@ def run_quiz(
                 imper = verb.get(tense)
                 if not has_imperative(verb, tense):
                     continue
-                slot = random.choice(IMPERATIVO_SLOTS)
+                slot = random.choice(
+                    [s for s in IMPERATIVO_SLOTS if imper.get(s)]
+                )
                 person_label = slot
                 correct_answer = imper.get(slot)
             else:
@@ -730,6 +736,8 @@ def run_quiz(
                 if not forms or not isinstance(forms, list) or person_index >= len(forms):
                     continue
                 correct_answer = forms[person_index]
+                if not correct_answer:
+                    continue  # null = form not used in practice
 
             try:
                 is_correct, used_hint = ask_question(

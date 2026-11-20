@@ -122,6 +122,30 @@ def fetch_imperfecto(infinitive: str) -> Optional[List[str]]:
     return None
 
 
+def is_all_null(value) -> bool:
+    """True for a list/dict whose forms are all null (tense not used in practice)."""
+    if isinstance(value, list):
+        return bool(value) and all(v is None for v in value)
+    if isinstance(value, dict):
+        return bool(value) and all(v is None for v in value.values())
+    return False
+
+
+def keep_nulls(existing, new):
+    """Return `new`, but keep every form that is null in `existing` as null.
+
+    A null in Verbos.json marks a form that is deliberately unused, so a
+    backfill pass must never replace it with a scraped form.
+    """
+    if isinstance(existing, list) and isinstance(new, list):
+        return [None if i < len(existing) and existing[i] is None else form
+                for i, form in enumerate(new)]
+    if isinstance(existing, dict) and isinstance(new, dict):
+        return {k: (None if k in existing and existing[k] is None else v)
+                for k, v in new.items()}
+    return new
+
+
 def process_verbs(data: Iterable[dict]) -> List[dict]:
     def ordered_entry(entry: dict, imperfecto: List[str]) -> dict:
         """
@@ -149,6 +173,11 @@ def process_verbs(data: Iterable[dict]) -> List[dict]:
         if not infinitive:
             raise RuntimeError(f"Unable to extract infinitive from verbo: {verbo}")
 
+        existing = entry.get("preterito-imperfecto")
+        if is_all_null(existing):
+            enriched.append(ordered_entry(entry, existing))
+            continue
+
         forms = fetch_imperfecto(infinitive)
         if not forms or len(forms) != 6:
             raise RuntimeError(
@@ -158,7 +187,7 @@ def process_verbs(data: Iterable[dict]) -> List[dict]:
         if is_reflexive(infinitive):
             forms = build_reflexive_forms(forms)
 
-        enriched.append(ordered_entry(entry, forms))
+        enriched.append(ordered_entry(entry, keep_nulls(existing, forms)))
     return enriched
 
 

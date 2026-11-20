@@ -65,6 +65,13 @@ the pool, just add the verb to `Verbos.json` (via `AnadeVerbo.py`, see below)
   passes (e.g. `futuro-simple` or `imperativo-afirmativo` may be absent). Scripts
   that consume `Verbos.json` must tolerate missing keys instead of assuming the
   full schema.
+- A `null` value marks a form that is deliberately left out because it is not
+  used in practice (e.g. 1st/2nd person of `ocurrir`, singular forms of
+  reciprocal verbs like `abrazarse`). Consumers must skip them rather than quiz
+  on them, and backfill scripts must not overwrite them. A tense that is not
+  used at all for a verb (e.g. `soler` in futuro, the progresivo of stative
+  verbs, imperatives of `poder`) is kept with every form set to `null`; this
+  differs from a missing key, which means the tense was never enriched.
 
 ## Data-enrichment scripts
 

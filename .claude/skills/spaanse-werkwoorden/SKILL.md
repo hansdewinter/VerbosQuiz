@@ -28,6 +28,11 @@ Niet elk entry heeft elk veld (oudere entries missen bv. `futuro-simple` of
 `imperativo-negativo`) — selecteer per werkwoord alleen tijden die voor dat
 specifieke entry ook echt aanwezig zijn.
 
+Een vorm met waarde `null` (in een lijst of als imperativo-slot) wordt in de
+praktijk niet gebruikt (bv. `yo ocurro`, `me abrazo` als "elkaar", `soler` in de
+futuro). Vraag zulke vormen nooit; een tijd die volledig `null` is, telt als
+afwezig.
+
 Het veld `verbo` kan een gebruiks-hint tussen aanhalingstekens bevatten (bv.
 `agradecer "algo / a alguien"`) — gebruik alleen het deel vóór de aanhalingstekens
 als infinitief.

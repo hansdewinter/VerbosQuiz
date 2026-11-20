@@ -1,37 +1,4 @@
 {
   "version": 1,
-  "verbs": {
-    "resfriarse": {
-      "errors": 1,
-      "hints": 0
-    },
-    "equivaler": {
-      "errors": 2,
-      "hints": 0
-    },
-    "sostener": {
-      "errors": 1,
-      "hints": 2
-    },
-    "reconstruir": {
-      "errors": 1,
-      "hints": 0
-    },
-    "mascar": {
-      "errors": 1,
-      "hints": 0
-    },
-    "alegrarse": {
-      "errors": 0,
-      "hints": 1
-    },
-    "extender": {
-      "errors": 1,
-      "hints": 0
-    },
-    "abrir": {
-      "errors": 1,
-      "hints": 0
-    }
-  }
+  "verbs": {}
 }
