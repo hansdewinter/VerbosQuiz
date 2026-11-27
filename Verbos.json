@@ -1,5 +1,1093 @@
 [
     {
+        "verbo": "localizar",
+        "presente": [
+            "localizo",
+            "localizas",
+            "localiza",
+            "localizamos",
+            "localizáis",
+            "localizan"
+        ],
+        "preterito-perfecto": [
+            "he localizado",
+            "has localizado",
+            "ha localizado",
+            "hemos localizado",
+            "habéis localizado",
+            "han localizado"
+        ],
+        "preterito-indefinido": [
+            "localicé",
+            "localizaste",
+            "localizó",
+            "localizamos",
+            "localizasteis",
+            "localizaron"
+        ],
+        "preterito-imperfecto": [
+            "localizaba",
+            "localizabas",
+            "localizaba",
+            "localizábamos",
+            "localizabais",
+            "localizaban"
+        ],
+        "futuro-simple": [
+            "localizaré",
+            "localizarás",
+            "localizará",
+            "localizaremos",
+            "localizaréis",
+            "localizarán"
+        ],
+        "presente-progresivo": [
+            "estoy localizando",
+            "estás localizando",
+            "está localizando",
+            "estamos localizando",
+            "estáis localizando",
+            "están localizando"
+        ],
+        "imperativo-afirmativo": {
+            "tú": "localiza",
+            "usted": "localice",
+            "vosotros": "localizad",
+            "ustedes": "localicen"
+        },
+        "imperativo-negativo": {
+            "tú": "no localices",
+            "usted": "no localice",
+            "vosotros": "no localicéis",
+            "ustedes": "no localicen"
+        },
+        "dutch": "lokaliseren, opsporen"
+    },
+    {
+        "verbo": "interrumpir",
+        "presente": [
+            "interrumpo",
+            "interrumpes",
+            "interrumpe",
+            "interrumpimos",
+            "interrumpís",
+            "interrumpen"
+        ],
+        "preterito-perfecto": [
+            "he interrumpido",
+            "has interrumpido",
+            "ha interrumpido",
+            "hemos interrumpido",
+            "habéis interrumpido",
+            "han interrumpido"
+        ],
+        "preterito-indefinido": [
+            "interrumpí",
+            "interrumpiste",
+            "interrumpió",
+            "interrumpimos",
+            "interrumpisteis",
+            "interrumpieron"
+        ],
+        "preterito-imperfecto": [
+            "interrumpía",
+            "interrumpías",
+            "interrumpía",
+            "interrumpíamos",
+            "interrumpíais",
+            "interrumpían"
+        ],
+        "futuro-simple": [
+            "interrumpiré",
+            "interrumpirás",
+            "interrumpirá",
+            "interrumpiremos",
+            "interrumpiréis",
+            "interrumpirán"
+        ],
+        "presente-progresivo": [
+            "estoy interrumpiendo",
+            "estás interrumpiendo",
+            "está interrumpiendo",
+            "estamos interrumpiendo",
+            "estáis interrumpiendo",
+            "están interrumpiendo"
+        ],
+        "imperativo-afirmativo": {
+            "tú": "interrumpe",
+            "usted": "interrumpa",
+            "vosotros": "interrumpid",
+            "ustedes": "interrumpan"
+        },
+        "imperativo-negativo": {
+            "tú": "no interrumpas",
+            "usted": "no interrumpa",
+            "vosotros": "no interrumpáis",
+            "ustedes": "no interrumpan"
+        },
+        "dutch": "onderbreken"
+    },
+    {
+        "verbo": "finalizar",
+        "presente": [
+            "finalizo",
+            "finalizas",
+            "finaliza",
+            "finalizamos",
+            "finalizáis",
+            "finalizan"
+        ],
+        "preterito-perfecto": [
+            "he finalizado",
+            "has finalizado",
+            "ha finalizado",
+            "hemos finalizado",
+            "habéis finalizado",
+            "han finalizado"
+        ],
+        "preterito-indefinido": [
+            "finalicé",
+            "finalizaste",
+            "finalizó",
+            "finalizamos",
+            "finalizasteis",
+            "finalizaron"
+        ],
+        "preterito-imperfecto": [
+            "finalizaba",
+            "finalizabas",
+            "finalizaba",
+            "finalizábamos",
+            "finalizabais",
+            "finalizaban"
+        ],
+        "futuro-simple": [
+            "finalizaré",
+            "finalizarás",
+            "finalizará",
+            "finalizaremos",
+            "finalizaréis",
+            "finalizarán"
+        ],
+        "presente-progresivo": [
+            "estoy finalizando",
+            "estás finalizando",
+            "está finalizando",
+            "estamos finalizando",
+            "estáis finalizando",
+            "están finalizando"
+        ],
+        "imperativo-afirmativo": {
+            "tú": "finaliza",
+            "usted": "finalice",
+            "vosotros": "finalizad",
+            "ustedes": "finalicen"
+        },
+        "imperativo-negativo": {
+            "tú": "no finalices",
+            "usted": "no finalice",
+            "vosotros": "no finalicéis",
+            "ustedes": "no finalicen"
+        },
+        "dutch": "afronden, beëindigen (synonimen van terminar maar formeler)"
+    },
+    {
+        "verbo": "coordinar",
+        "presente": [
+            "coordino",
+            "coordinas",
+            "coordina",
+            "coordinamos",
+            "coordináis",
+            "coordinan"
+        ],
+        "preterito-perfecto": [
+            "he coordinado",
+            "has coordinado",
+            "ha coordinado",
+            "hemos coordinado",
+            "habéis coordinado",
+            "han coordinado"
+        ],
+        "preterito-indefinido": [
+            "coordiné",
+            "coordinaste",
+            "coordinó",
+            "coordinamos",
+            "coordinasteis",
+            "coordinaron"
+        ],
+        "preterito-imperfecto": [
+            "coordinaba",
+            "coordinabas",
+            "coordinaba",
+            "coordinábamos",
+            "coordinabais",
+            "coordinaban"
+        ],
+        "futuro-simple": [
+            "coordinaré",
+            "coordinarás",
+            "coordinará",
+            "coordinaremos",
+            "coordinaréis",
+            "coordinarán"
+        ],
+        "presente-progresivo": [
+            "estoy coordinando",
+            "estás coordinando",
+            "está coordinando",
+            "estamos coordinando",
+            "estáis coordinando",
+            "están coordinando"
+        ],
+        "imperativo-afirmativo": {
+            "tú": "coordina",
+            "usted": "coordine",
+            "vosotros": "coordinad",
+            "ustedes": "coordinen"
+        },
+        "imperativo-negativo": {
+            "tú": "no coordines",
+            "usted": "no coordine",
+            "vosotros": "no coordinéis",
+            "ustedes": "no coordinen"
+        },
+        "dutch": "coördineren"
+    },
+    {
+        "verbo": "independizarse",
+        "presente": [
+            "me independizo",
+            "te independizas",
+            "se independiza",
+            "nos independizamos",
+            "os independizáis",
+            "se independizan"
+        ],
+        "preterito-perfecto": [
+            "me he independizado",
+            "te has independizado",
+            "se ha independizado",
+            "nos hemos independizado",
+            "os habéis independizado",
+            "se han independizado"
+        ],
+        "preterito-indefinido": [
+            "me independicé",
+            "te independizaste",
+            "se independizó",
+            "nos independizamos",
+            "os independizasteis",
+            "se independizaron"
+        ],
+        "preterito-imperfecto": [
+            "me independizaba",
+            "te independizabas",
+            "se independizaba",
+            "nos independizábamos",
+            "os independizabais",
+            "se independizaban"
+        ],
+        "futuro-simple": [
+            "me independizaré",
+            "te independizarás",
+            "se independizará",
+            "nos independizaremos",
+            "os independizaréis",
+            "se independizarán"
+        ],
+        "presente-progresivo": [
+            "me estoy independizando",
+            "te estás independizando",
+            "se está independizando",
+            "nos estamos independizando",
+            "os estáis independizando",
+            "se están independizando"
+        ],
+        "imperativo-afirmativo": {
+            "tú": "independízate",
+            "usted": "independícese",
+            "vosotros": "independizaos",
+            "ustedes": "independícense"
+        },
+        "imperativo-negativo": {
+            "tú": "no te independices",
+            "usted": "no se independice",
+            "vosotros": "no os independicéis",
+            "ustedes": "no se independicen"
+        },
+        "dutch": "zelfstandig worden"
+    },
+    {
+        "verbo": "notar",
+        "presente": [
+            "noto",
+            "notas",
+            "nota",
+            "notamos",
+            "notáis",
+            "notan"
+        ],
+        "preterito-perfecto": [
+            "he notado",
+            "has notado",
+            "ha notado",
+            "hemos notado",
+            "habéis notado",
+            "han notado"
+        ],
+        "preterito-indefinido": [
+            "noté",
+            "notaste",
+            "notó",
+            "notamos",
+            "notasteis",
+            "notaron"
+        ],
+        "preterito-imperfecto": [
+            "notaba",
+            "notabas",
+            "notaba",
+            "notábamos",
+            "notabais",
+            "notaban"
+        ],
+        "futuro-simple": [
+            "notaré",
+            "notarás",
+            "notará",
+            "notaremos",
+            "notaréis",
+            "notarán"
+        ],
+        "presente-progresivo": [
+            "estoy notando",
+            "estás notando",
+            "está notando",
+            "estamos notando",
+            "estáis notando",
+            "están notando"
+        ],
+        "imperativo-afirmativo": {
+            "tú": "nota",
+            "usted": "note",
+            "vosotros": "notad",
+            "ustedes": "noten"
+        },
+        "imperativo-negativo": {
+            "tú": "no notes",
+            "usted": "no note",
+            "vosotros": "no notéis",
+            "ustedes": "no noten"
+        },
+        "dutch": "opmerken"
+    },
+    {
+        "verbo": "progresar",
+        "presente": [
+            "progreso",
+            "progresas",
+            "progresa",
+            "progresamos",
+            "progresáis",
+            "progresan"
+        ],
+        "preterito-perfecto": [
+            "he progresado",
+            "has progresado",
+            "ha progresado",
+            "hemos progresado",
+            "habéis progresado",
+            "han progresado"
+        ],
+        "preterito-indefinido": [
+            "progresé",
+            "progresaste",
+            "progresó",
+            "progresamos",
+            "progresasteis",
+            "progresaron"
+        ],
+        "preterito-imperfecto": [
+            "progresaba",
+            "progresabas",
+            "progresaba",
+            "progresábamos",
+            "progresabais",
+            "progresaban"
+        ],
+        "futuro-simple": [
+            "progresaré",
+            "progresarás",
+            "progresará",
+            "progresaremos",
+            "progresaréis",
+            "progresarán"
+        ],
+        "presente-progresivo": [
+            "estoy progresando",
+            "estás progresando",
+            "está progresando",
+            "estamos progresando",
+            "estáis progresando",
+            "están progresando"
+        ],
+        "imperativo-afirmativo": {
+            "tú": "progresa",
+            "usted": "progrese",
+            "vosotros": "progresad",
+            "ustedes": "progresen"
+        },
+        "imperativo-negativo": {
+            "tú": "no progreses",
+            "usted": "no progrese",
+            "vosotros": "no progreséis",
+            "ustedes": "no progresen"
+        },
+        "dutch": "vooruitgang boeken"
+    },
+    {
+        "verbo": "residir",
+        "presente": [
+            "resido",
+            "resides",
+            "reside",
+            "residimos",
+            "residís",
+            "residen"
+        ],
+        "preterito-perfecto": [
+            "he residido",
+            "has residido",
+            "ha residido",
+            "hemos residido",
+            "habéis residido",
+            "han residido"
+        ],
+        "preterito-indefinido": [
+            "residí",
+            "residiste",
+            "residió",
+            "residimos",
+            "residisteis",
+            "residieron"
+        ],
+        "preterito-imperfecto": [
+            "residía",
+            "residías",
+            "residía",
+            "residíamos",
+            "residíais",
+            "residían"
+        ],
+        "futuro-simple": [
+            "residiré",
+            "residirás",
+            "residirá",
+            "residiremos",
+            "residiréis",
+            "residirán"
+        ],
+        "presente-progresivo": [
+            "estoy residiendo",
+            "estás residiendo",
+            "está residiendo",
+            "estamos residiendo",
+            "estáis residiendo",
+            "están residiendo"
+        ],
+        "imperativo-afirmativo": {
+            "tú": "reside",
+            "usted": "resida",
+            "vosotros": "residid",
+            "ustedes": "residan"
+        },
+        "imperativo-negativo": {
+            "tú": "no residas",
+            "usted": "no resida",
+            "vosotros": "no residáis",
+            "ustedes": "no residan"
+        },
+        "dutch": "wonen, verblijven"
+    },
+    {
+        "verbo": "licenciarse",
+        "presente": [
+            "me licencio",
+            "te licencias",
+            "se licencia",
+            "nos licenciamos",
+            "os licenciáis",
+            "se licencian"
+        ],
+        "preterito-perfecto": [
+            "me he licenciado",
+            "te has licenciado",
+            "se ha licenciado",
+            "nos hemos licenciado",
+            "os habéis licenciado",
+            "se han licenciado"
+        ],
+        "preterito-indefinido": [
+            "me licencié",
+            "te licenciaste",
+            "se licenció",
+            "nos licenciamos",
+            "os licenciasteis",
+            "se licenciaron"
+        ],
+        "preterito-imperfecto": [
+            "me licenciaba",
+            "te licenciabas",
+            "se licenciaba",
+            "nos licenciábamos",
+            "os licenciabais",
+            "se licenciaban"
+        ],
+        "futuro-simple": [
+            "me licenciaré",
+            "te licenciarás",
+            "se licenciará",
+            "nos licenciaremos",
+            "os licenciaréis",
+            "se licenciarán"
+        ],
+        "presente-progresivo": [
+            "me estoy licenciando",
+            "te estás licenciando",
+            "se está licenciando",
+            "nos estamos licenciando",
+            "os estáis licenciando",
+            "se están licenciando"
+        ],
+        "imperativo-afirmativo": {
+            "tú": "licencíate",
+            "usted": "licencíese",
+            "vosotros": "licenciaos",
+            "ustedes": "licencíense"
+        },
+        "imperativo-negativo": {
+            "tú": "no te licencies",
+            "usted": "no se licencie",
+            "vosotros": "no os licenciéis",
+            "ustedes": "no se licencien"
+        },
+        "dutch": "afstuderen"
+    },
+    {
+        "verbo": "solicitar",
+        "presente": [
+            "solicito",
+            "solicitas",
+            "solicita",
+            "solicitamos",
+            "solicitáis",
+            "solicitan"
+        ],
+        "preterito-perfecto": [
+            "he solicitado",
+            "has solicitado",
+            "ha solicitado",
+            "hemos solicitado",
+            "habéis solicitado",
+            "han solicitado"
+        ],
+        "preterito-indefinido": [
+            "solicité",
+            "solicitaste",
+            "solicitó",
+            "solicitamos",
+            "solicitasteis",
+            "solicitaron"
+        ],
+        "preterito-imperfecto": [
+            "solicitaba",
+            "solicitabas",
+            "solicitaba",
+            "solicitábamos",
+            "solicitabais",
+            "solicitaban"
+        ],
+        "futuro-simple": [
+            "solicitaré",
+            "solicitarás",
+            "solicitará",
+            "solicitaremos",
+            "solicitaréis",
+            "solicitarán"
+        ],
+        "presente-progresivo": [
+            "estoy solicitando",
+            "estás solicitando",
+            "está solicitando",
+            "estamos solicitando",
+            "estáis solicitando",
+            "están solicitando"
+        ],
+        "imperativo-afirmativo": {
+            "tú": "solicita",
+            "usted": "solicite",
+            "vosotros": "solicitad",
+            "ustedes": "soliciten"
+        },
+        "imperativo-negativo": {
+            "tú": "no solicites",
+            "usted": "no solicite",
+            "vosotros": "no solicitéis",
+            "ustedes": "no soliciten"
+        },
+        "dutch": "aanvragen, soliciteren"
+    },
+    {
+        "verbo": "duplicar",
+        "presente": [
+            "duplico",
+            "duplicas",
+            "duplica",
+            "duplicamos",
+            "duplicáis",
+            "duplican"
+        ],
+        "preterito-perfecto": [
+            "he duplicado",
+            "has duplicado",
+            "ha duplicado",
+            "hemos duplicado",
+            "habéis duplicado",
+            "han duplicado"
+        ],
+        "preterito-indefinido": [
+            "dupliqué",
+            "duplicaste",
+            "duplicó",
+            "duplicamos",
+            "duplicasteis",
+            "duplicaron"
+        ],
+        "preterito-imperfecto": [
+            "duplicaba",
+            "duplicabas",
+            "duplicaba",
+            "duplicábamos",
+            "duplicabais",
+            "duplicaban"
+        ],
+        "futuro-simple": [
+            "duplicaré",
+            "duplicarás",
+            "duplicará",
+            "duplicaremos",
+            "duplicaréis",
+            "duplicarán"
+        ],
+        "presente-progresivo": [
+            "estoy duplicando",
+            "estás duplicando",
+            "está duplicando",
+            "estamos duplicando",
+            "estáis duplicando",
+            "están duplicando"
+        ],
+        "imperativo-afirmativo": {
+            "tú": "duplica",
+            "usted": "duplique",
+            "vosotros": "duplicad",
+            "ustedes": "dupliquen"
+        },
+        "imperativo-negativo": {
+            "tú": "no dupliques",
+            "usted": "no duplique",
+            "vosotros": "no dupliquéis",
+            "ustedes": "no dupliquen"
+        },
+        "dutch": "verdubbelen"
+    },
+    {
+        "verbo": "representar",
+        "presente": [
+            "represento",
+            "representas",
+            "representa",
+            "representamos",
+            "representáis",
+            "representan"
+        ],
+        "preterito-perfecto": [
+            "he representado",
+            "has representado",
+            "ha representado",
+            "hemos representado",
+            "habéis representado",
+            "han representado"
+        ],
+        "preterito-indefinido": [
+            "representé",
+            "representaste",
+            "representó",
+            "representamos",
+            "representasteis",
+            "representaron"
+        ],
+        "preterito-imperfecto": [
+            "representaba",
+            "representabas",
+            "representaba",
+            "representábamos",
+            "representabais",
+            "representaban"
+        ],
+        "futuro-simple": [
+            "representaré",
+            "representarás",
+            "representará",
+            "representaremos",
+            "representaréis",
+            "representarán"
+        ],
+        "presente-progresivo": [
+            "estoy representando",
+            "estás representando",
+            "está representando",
+            "estamos representando",
+            "estáis representando",
+            "están representando"
+        ],
+        "imperativo-afirmativo": {
+            "tú": "representa",
+            "usted": "represente",
+            "vosotros": "representad",
+            "ustedes": "representen"
+        },
+        "imperativo-negativo": {
+            "tú": "no representes",
+            "usted": "no represente",
+            "vosotros": "no representéis",
+            "ustedes": "no representen"
+        },
+        "dutch": "vertegenwoordigen"
+    },
+    {
+        "verbo": "mediar",
+        "presente": [
+            "medio",
+            "medias",
+            "media",
+            "mediamos",
+            "mediáis",
+            "median"
+        ],
+        "preterito-perfecto": [
+            "he mediado",
+            "has mediado",
+            "ha mediado",
+            "hemos mediado",
+            "habéis mediado",
+            "han mediado"
+        ],
+        "preterito-indefinido": [
+            "medié",
+            "mediaste",
+            "medió",
+            "mediamos",
+            "mediasteis",
+            "mediaron"
+        ],
+        "preterito-imperfecto": [
+            "mediaba",
+            "mediabas",
+            "mediaba",
+            "mediábamos",
+            "mediabais",
+            "mediaban"
+        ],
+        "futuro-simple": [
+            "mediaré",
+            "mediarás",
+            "mediará",
+            "mediaremos",
+            "mediaréis",
+            "mediarán"
+        ],
+        "presente-progresivo": [
+            "estoy mediando",
+            "estás mediando",
+            "está mediando",
+            "estamos mediando",
+            "estáis mediando",
+            "están mediando"
+        ],
+        "imperativo-afirmativo": {
+            "tú": "media",
+            "usted": "medie",
+            "vosotros": "mediad",
+            "ustedes": "medien"
+        },
+        "imperativo-negativo": {
+            "tú": "no medies",
+            "usted": "no medie",
+            "vosotros": "no mediéis",
+            "ustedes": "no medien"
+        },
+        "dutch": "bemiddelen"
+    },
+    {
+        "verbo": "reciclarse",
+        "presente": [
+            "me reciclo",
+            "te reciclas",
+            "se recicla",
+            "nos reciclamos",
+            "os recicláis",
+            "se reciclan"
+        ],
+        "preterito-perfecto": [
+            "me he reciclado",
+            "te has reciclado",
+            "se ha reciclado",
+            "nos hemos reciclado",
+            "os habéis reciclado",
+            "se han reciclado"
+        ],
+        "preterito-indefinido": [
+            "me reciclé",
+            "te reciclaste",
+            "se recicló",
+            "nos reciclamos",
+            "os reciclasteis",
+            "se reciclaron"
+        ],
+        "preterito-imperfecto": [
+            "me reciclaba",
+            "te reciclabas",
+            "se reciclaba",
+            "nos reciclábamos",
+            "os reciclabais",
+            "se reciclaban"
+        ],
+        "futuro-simple": [
+            "me reciclaré",
+            "te reciclarás",
+            "se reciclará",
+            "nos reciclaremos",
+            "os reciclaréis",
+            "se reciclarán"
+        ],
+        "presente-progresivo": [
+            "me estoy reciclando",
+            "te estás reciclando",
+            "se está reciclando",
+            "nos estamos reciclando",
+            "os estáis reciclando",
+            "se están reciclando"
+        ],
+        "imperativo-afirmativo": {
+            "tú": "recíclate",
+            "usted": "recíclese",
+            "vosotros": "reciclaos",
+            "ustedes": "recíclense"
+        },
+        "imperativo-negativo": {
+            "tú": "no te recicles",
+            "usted": "no se recicle",
+            "vosotros": "no os recicléis",
+            "ustedes": "no se reciclen"
+        },
+        "dutch": "zich bijscholen/omscholen"
+    },
+    {
+        "verbo": "realizar",
+        "presente": [
+            "realizo",
+            "realizas",
+            "realiza",
+            "realizamos",
+            "realizáis",
+            "realizan"
+        ],
+        "preterito-perfecto": [
+            "he realizado",
+            "has realizado",
+            "ha realizado",
+            "hemos realizado",
+            "habéis realizado",
+            "han realizado"
+        ],
+        "preterito-indefinido": [
+            "realicé",
+            "realizaste",
+            "realizó",
+            "realizamos",
+            "realizasteis",
+            "realizaron"
+        ],
+        "preterito-imperfecto": [
+            "realizaba",
+            "realizabas",
+            "realizaba",
+            "realizábamos",
+            "realizabais",
+            "realizaban"
+        ],
+        "futuro-simple": [
+            "realizaré",
+            "realizarás",
+            "realizará",
+            "realizaremos",
+            "realizaréis",
+            "realizarán"
+        ],
+        "presente-progresivo": [
+            "estoy realizando",
+            "estás realizando",
+            "está realizando",
+            "estamos realizando",
+            "estáis realizando",
+            "están realizando"
+        ],
+        "imperativo-afirmativo": {
+            "tú": "realiza",
+            "usted": "realice",
+            "vosotros": "realizad",
+            "ustedes": "realicen"
+        },
+        "imperativo-negativo": {
+            "tú": "no realices",
+            "usted": "no realice",
+            "vosotros": "no realicéis",
+            "ustedes": "no realicen"
+        },
+        "dutch": "uitvoeren, realiseren"
+    },
+    {
+        "verbo": "desintoxicarse",
+        "presente": [
+            "me desintoxico",
+            "te desintoxicas",
+            "se desintoxica",
+            "nos desintoxicamos",
+            "os desintoxicáis",
+            "se desintoxican"
+        ],
+        "preterito-perfecto": [
+            "me he desintoxicado",
+            "te has desintoxicado",
+            "se ha desintoxicado",
+            "nos hemos desintoxicado",
+            "os habéis desintoxicado",
+            "se han desintoxicado"
+        ],
+        "preterito-indefinido": [
+            "me desintoxiqué",
+            "te desintoxicaste",
+            "se desintoxicó",
+            "nos desintoxicamos",
+            "os desintoxicasteis",
+            "se desintoxicaron"
+        ],
+        "preterito-imperfecto": [
+            "me desintoxicaba",
+            "te desintoxicabas",
+            "se desintoxicaba",
+            "nos desintoxicábamos",
+            "os desintoxicabais",
+            "se desintoxicaban"
+        ],
+        "futuro-simple": [
+            "me desintoxicaré",
+            "te desintoxicarás",
+            "se desintoxicará",
+            "nos desintoxicaremos",
+            "os desintoxicaréis",
+            "se desintoxicarán"
+        ],
+        "presente-progresivo": [
+            "me estoy desintoxicando",
+            "te estás desintoxicando",
+            "se está desintoxicando",
+            "nos estamos desintoxicando",
+            "os estáis desintoxicando",
+            "se están desintoxicando"
+        ],
+        "imperativo-afirmativo": {
+            "tú": "desintoxícate",
+            "usted": "desintoxíquese",
+            "vosotros": "desintoxicaos",
+            "ustedes": "desintoxíquense"
+        },
+        "imperativo-negativo": {
+            "tú": "no te desintoxiques",
+            "usted": "no se desintoxique",
+            "vosotros": "no os desintoxiquéis",
+            "ustedes": "no se desintoxiquen"
+        },
+        "dutch": "ontgiften"
+    },
+    {
+        "verbo": "donar",
+        "presente": [
+            "dono",
+            "donas",
+            "dona",
+            "donamos",
+            "donáis",
+            "donan"
+        ],
+        "preterito-perfecto": [
+            "he donado",
+            "has donado",
+            "ha donado",
+            "hemos donado",
+            "habéis donado",
+            "han donado"
+        ],
+        "preterito-indefinido": [
+            "doné",
+            "donaste",
+            "donó",
+            "donamos",
+            "donasteis",
+            "donaron"
+        ],
+        "preterito-imperfecto": [
+            "donaba",
+            "donabas",
+            "donaba",
+            "donábamos",
+            "donabais",
+            "donaban"
+        ],
+        "futuro-simple": [
+            "donaré",
+            "donarás",
+            "donará",
+            "donaremos",
+            "donaréis",
+            "donarán"
+        ],
+        "presente-progresivo": [
+            "estoy donando",
+            "estás donando",
+            "está donando",
+            "estamos donando",
+            "estáis donando",
+            "están donando"
+        ],
+        "imperativo-afirmativo": {
+            "tú": "dona",
+            "usted": "done",
+            "vosotros": "donad",
+            "ustedes": "donen"
+        },
+        "imperativo-negativo": {
+            "tú": "no dones",
+            "usted": "no done",
+            "vosotros": "no donéis",
+            "ustedes": "no donen"
+        },
+        "dutch": "doneren"
+    },
+    {
         "verbo": "meter",
         "presente": [
             "meto",
@@ -26109,7 +27197,7 @@
             "vosotros": "no terminéis",
             "ustedes": "no terminen"
         },
-        "dutch": "beëindigen, afsluiten, voltooien (bewust afsluiten)"
+        "dutch": "beëindigen, afsluiten, voltooien (bewust afsluiten, synonimen van finalizar maar gebruikelijker)"
     },
     {
         "verbo": "aceptar",
